@@ -1,6 +1,6 @@
 # Issue 01 Script Draft
 
-> Script draft for the first 8 pages of the approved Meridian Prime hype-comic route.
+> Script draft for Pages 1-13 of the approved Meridian Prime hype-comic route.
 
 **Sandbox Status:** DRAFT FOR REVIEW
 
@@ -587,9 +587,335 @@ Saw that.
 
 ---
 
-## Review Notes for Pages 1-8
+# PAGE 9
 
-### What This Draft Is Testing
+**Page Role:** Interior Page 7
+
+**Adaptation Label:** Canon Reference / visual compression
+
+**Panel Count:** 3 panels
+
+**Page Purpose:** Turn suspicion into motion. Red Umbrielor and the MITE II Mod train leave the NCI yard. The trap works because Tenet does the job correctly.
+
+## Panel 1
+
+**Visual:** Exterior, low angle near the couplings. Heavy cables tense. Ice shakes loose from a hitch assembly. A crew hand gives a final signal in the cold. The Mod train waits behind Red Umbrielor like a string of ugly little buildings convinced they can survive weather.
+
+**SFX:**
+
+KLANG. KNNNK.
+
+**Crew Radio, jagged balloon:**
+
+MITE II couplings green.
+
+## Panel 2
+
+**Visual:** Wide shot. Red Umbrielor begins pulling out of the NCI staging yard. Yard lights smear across frost and exhaust. Lindy stands back near dispatch activity, smaller now, still watching. Tenet is visible through the cab glass, already working.
+
+**Dispatch Radio:**
+
+NCI MITE II, yard control shows you outbound.
+
+**Tenet Radio:**
+
+MITE II outbound.
+
+**Tenet Radio:**
+
+Red Umbrielor has the train.
+
+## Panel 3
+
+**Visual:** Full-width cinematic panel. Red Umbrielor and the Mod train roll away from the yard into a cold route dawn. The official world remains behind them in lights and paperwork. Ahead: dark terrain, black horizon, and the beginning of the proposed extension corridor.
+
+**Caption:**
+
+A clean packet could still move a dirty job.
+
+**Caption:**
+
+That was the problem with honest work.
+
+**Reveal Control:** No hidden formation yet. The page should make the departure feel like commitment, not adventure tourism.
+
+---
+
+# PAGE 10
+
+**Page Role:** Interior Page 8
+
+**Adaptation Label:** Canon Reference / Adaptation Choice
+
+**Panel Count:** 6 panels
+
+**Page Purpose:** Show the Mod train as a moving industrial survival body. Establish that MITE II is real work before field wrongness arrives.
+
+## Panel 1
+
+**Visual:** The fuel bladder module flexes slightly with movement. Frosted straps, patched insulation, hazard markings, handwritten crew labels.
+
+**Caption:**
+
+Fuel first.
+
+**Small Stencil Text:**
+
+MITE II / FUEL SUPPORT / DO NOT ARGUE WITH STRAPS
+
+## Panel 2
+
+**Visual:** Comms module interior. Screens glow dimly. Old and new systems share space uneasily. A paper checklist is taped beside a clean digital display.
+
+**Caption:**
+
+Signal second.
+
+**Radio Texture:**
+
+...route lease packet synced... GOS precheck pending...
+
+## Panel 3
+
+**Visual:** Mechanic storage. Tools locked into racks. Spare couplers, patched hose, emergency heat wrap, grease pencil notes. One drawer has a hand-lettered warning: `NO, THE OTHER WRENCH`.
+
+**Caption:**
+
+Repair always.
+
+**SFX:**
+
+rattle-rattle
+
+## Panel 4
+
+**Visual:** GPR / survey prep area. A screen shows clean route geometry over terrain that looks less clean through an exterior feed. A gloved hand calibrates equipment.
+
+**Caption:**
+
+The packet called it survey and proofing.
+
+## Panel 5
+
+**Visual:** Berthing / kitchen detail. Mugs, thermal bags, a bunk strap, a bad joke written on a cabinet, steam from a kettle. Proof that people live inside these machines, not just operate them.
+
+**Caption:**
+
+The crew called it being stuck together with better snacks than odds.
+
+## Panel 6
+
+**Visual:** Tenet in command rhythm inside Red Umbrielor. Packet clipped nearby. Route display open. He is not panicking, not grandstanding. He is gathering contradictions.
+
+**Tenet Radio:**
+
+Run first-mile checks again after the yard line drops.
+
+**Tenet Radio:**
+
+If something squeals, lies, or develops religion, I want it logged.
+
+**Reveal Control:** Establish procedure, crew life, and system complexity. Do not explain conspiracy.
+
+---
+
+# PAGE 11
+
+**Page Role:** Interior Page 9
+
+**Adaptation Label:** Canon Reference
+
+**Panel Count:** 4 panels
+
+**Page Purpose:** Introduce Rudy Calder as machine truth. If Rudy is worried, the equipment load is wrong.
+
+## Panel 1
+
+**Visual:** Mechanic module hatch or internal service crawl. Rudy Calder leans half into frame with a diagnostic slate, heavy work layers, grease on gloves, and the look of a man listening to machinery the way other people listen to confessions.
+
+**Rudy Radio:**
+
+That defrost still pretending it has a union?
+
+## Panel 2
+
+**Visual:** Cab interior. Tenet works controls while the turkey roaster rattles in the background.
+
+**Tenet Radio:**
+
+Defrost's resting.
+
+**Rudy Radio:**
+
+That defrost isn't broken. It's protesting management.
+
+## Panel 3
+
+**Visual:** Rudy checks coupling telemetry or a physical vibration readout. His smile fades just enough to matter. Behind him, a redundant coupler line sits too clean, too newly installed, too ready.
+
+**Rudy Dialogue, quieter:**
+
+Who blessed the reefer support twice?
+
+**Tenet Radio:**
+
+Lindy says she added one before they realized they wanted it.
+
+## Panel 4
+
+**Visual:** Close on Rudy's hand touching a coupling housing. He can feel the load through the metal. The Mod train stretches behind him through a narrow service-view slit.
+
+**Rudy Dialogue:**
+
+Good. Then she's smarter than the packet.
+
+**Rudy Dialogue:**
+
+Still don't like a little survey hauling backup like it expects to feed teeth.
+
+**Lettering Note:** Rudy's humor should stay warm and fatalist. The last line should feel practical, not spooky.
+
+**Reveal Control:** Rudy may identify over-prepared equipment. Do not let him name conspiracy or hidden formation.
+
+---
+
+# PAGE 12
+
+**Page Role:** Interior Page 10
+
+**Adaptation Label:** Canon Reference
+
+**Panel Count:** 4 panels
+
+**Page Purpose:** Introduce Kavo "Forest" Rill as terrain truth. If Forest is worried, the route is wrong.
+
+## Panel 1
+
+**Visual:** Route observation station or exterior feed bay. Kavo "Forest" Rill leans against a module wall with relaxed menace, watching terrain through screens and partial viewport glare. He is Velocisapien / Velociraptoroid: humanoid saurian body plan, universal tail, four-fingered clawed hands, expressive face, sparse red proto-quill mohawk, black-frame shades or route goggles, light harness, subtle checker trim, pressure-route badges, claw-wraps.
+
+**Caption:**
+
+Kavo Rill watched terrain like it owed him money and might try running.
+
+## Panel 2
+
+**Visual:** Close on Forest's clawed hand adjusting a GPR overlay or route display. The official route line is neat. His posture says he does not trust neat.
+
+**Forest Dialogue:**
+
+If the route was honest, they wouldn't need me this early.
+
+## Panel 3
+
+**Visual:** Tenet on a small screen or reflected in Forest's goggles. We see Tenet's face as he processes the comment.
+
+**Tenet Radio:**
+
+You seeing bad terrain?
+
+**Forest Dialogue:**
+
+No.
+
+**Forest Dialogue:**
+
+That's the annoying part.
+
+## Panel 4
+
+**Visual:** Exterior feed of the proposed extension corridor: not dramatic yet, just too quiet, too clean, too under-described. Black route markers or early flags in the distance. The land sits like it is holding its breath.
+
+**Forest Dialogue, off-panel:**
+
+Terrain talks before it bites.
+
+**Forest Dialogue, off-panel:**
+
+This stretch is waiting for somebody else to speak first.
+
+**Reveal Control:** Forest may imply route wrongness. Do not reveal the formation or growth rollers yet.
+
+---
+
+# PAGE 13
+
+**Page Role:** Interior Page 11
+
+**Adaptation Label:** Canon Reference plus Candidate Canon visual motif
+
+**Panel Count:** 5 panels
+
+**Page Purpose:** Introduce Ildi Vey as signal truth and deliver the first field-level contradiction: the ghost handshake. The paper lied first, then the route answered.
+
+## Panel 1
+
+**Visual:** Module-attached systems station. Ildi Vey sits or braces among cables, old-route monitors, heat readouts, coupling strain charts, and comms equipment. She is Antisapien / Absconditian: blue-skinned, black irises, magenta pupils, teal tapetum lucidum, signal-band aesthetic, exposed-wire punk practicality. Her weirdness should read as technical, not mystical.
+
+**SFX:**
+
+tik-tik-tik... kshh
+
+## Panel 2
+
+**Visual:** Close on Ildi's eyes catching interface glow. A dead channel line pulses once where it should remain flat.
+
+**Ildi Dialogue:**
+
+No.
+
+**Crew Radio, small:**
+
+No what?
+
+## Panel 3
+
+**Visual:** Her monitor shows a handshake request, old-format, half-corrupted. The signal graphic begins to creep subtly into the panel gutters, like the page itself is picking up static.
+
+**Interface Text:**
+
+LEGACY HANDSHAKE REQUEST // SOURCE: UNREGISTERED
+
+**Interface Text:**
+
+INFRASTRUCTURE STATUS PER PACKET: NONE
+
+**Ildi Dialogue:**
+
+Your clean packet is bleeding old signal.
+
+## Panel 4
+
+**Visual:** Tenet in Red Umbrielor's cab. The packet sits beside him. Horus's approval line is no longer visible, but the reader remembers it. Tenet's face hardens, not in shock, but in professional recalculation.
+
+**Tenet Radio:**
+
+Say that in field language.
+
+**Ildi Radio:**
+
+Something old just shook our hand where the route says nothing has hands.
+
+## Panel 5
+
+**Visual:** Exterior wide. MITE II moves through the proposed extension corridor. The signal motif threads faintly along the panel border, almost invisible against cold dawn. The land ahead remains quiet.
+
+**Caption:**
+
+The paper lied first.
+
+**Caption:**
+
+Then the old systems answered.
+
+**Lettering Note:** This is the first clear use of the ghost-signal gutter motif. Keep it restrained enough to feel like signal unease, not magic.
+
+**Reveal Control:** Reveal ghost handshake from infrastructure that should not exist. Do not reveal source, formation, Core, gateway mechanics, or who made the route lie.
+
+---
+
+## Review Notes for Pages 1-13
+
+### What Pages 1-8 Test
 
 - Whether opening with Rob creates enough emotional voltage before Tenet's cold start.
 - Whether Rob and Horus feel personal rather than melodramatic.
@@ -597,15 +923,30 @@ Saw that.
 - Whether Lindy and Tenet's banter carries family history without explaining it.
 - Whether Horus's approval stamp lands as the first bureaucratic wrongness.
 
+### What Pages 9-13 Test
+
+- Whether MITE II feels like a working Traverse rather than a generic convoy.
+- Whether Rudy, Forest, and Ildi each enter through their domain of expertise.
+- Whether the three truth-gauge structure is immediately legible:
+  - Rudy = machine truth.
+  - Forest = terrain truth.
+  - Ildi = signal truth.
+- Whether the ghost handshake feels technical and eerie without becoming mystical exposition.
+- Whether the issue has enough machine, crew, and route texture before the larger terrain reveal begins.
+
 ### Known Follow-Up Pages
 
-The next script pass should draft Pages 9-13:
+The next script pass should draft Pages 14-22:
 
-- Page 9: MITE II rolls out.
-- Page 10: Mod train as survival body.
-- Page 11: Rudy Calder / machine truth.
-- Page 12: Forest Rill / terrain truth.
-- Page 13: Ildi Vey / signal truth / ghost handshake.
+- Page 14: Pistol memory / The Last Traverse.
+- Page 15: Horus presses Rob.
+- Page 16: The land starts behaving wrong.
+- Page 17: Forest reads the teeth in the land.
+- Page 18: Rudy measures survival.
+- Page 19: Ildi tracks the signal toward the formation.
+- Page 20: Hidden formation reveal.
+- Page 21: Footprints.
+- Page 22: Rob's death and MITE II align.
 
 ### Current Candidate Canon Items To Watch
 
@@ -614,3 +955,7 @@ The next script pass should draft Pages 9-13:
 - Specific phrasing: `Field packets do not guarantee field truth.`
 - Rob line: `You made everything smaller the day you started calling old friends assets.`
 - Lindy line: `Defrost never signed. Defrost had legal review.`
+- Rudy line: `Still don't like a little survey hauling backup like it expects to feed teeth.`
+- Forest line: `Terrain talks before it bites.`
+- Ildi line: `Something old just shook our hand where the route says nothing has hands.`
+- Ghost-signal panel-gutter motif.
