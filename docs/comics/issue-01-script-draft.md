@@ -2,7 +2,7 @@
 
 > Script draft for Pages 1-24 of the approved Meridian Prime hype-comic route.
 
-**Sandbox Status:** COMPLETE DRAFT FOR REVIEW
+**Sandbox Status:** SECOND DRAFT FOR REVIEW
 
 **Canon Status:** COMIC-ONLY / NON-CANON PROMO ADAPTATION unless individual details are separately reviewed and promoted through the main canon process.
 
@@ -248,7 +248,7 @@ Ten left a lot of things. Tools. Debt. Bad coffee. Better judgment than either o
 
 ## Panel 5
 
-**Visual:** Rob leans back. Tired, sick, but victorious in a way Horus cannot yet tolerate. The empty place where the oilcloth bundle once rested sits between them like a missing tooth.
+**Visual:** Rob leans back. Tired, sick, but victorious in a way Horus cannot yet tolerate. The empty place where the oilcloth bundle once rested sits between them like a missing tooth. Rob hides a small tremor under the edge of the table before he speaks.
 
 **Horus Dialogue:**
 
@@ -488,7 +488,7 @@ What did they change?
 
 ## Panel 5
 
-**Visual:** Lindy braces in the doorway, not fully entering. Threshold posture. She has delivered the packet, but not surrendered her distance.
+**Visual:** Lindy braces in the doorway, not fully entering. Threshold posture. She has delivered the packet, but not surrendered her distance. Tenet starts opening the packet; Lindy watches his face instead of the screen.
 
 **Lindy Dialogue:**
 
@@ -497,10 +497,6 @@ Good morning to you too.
 **Tenet Dialogue:**
 
 It was morning before you opened the door.
-
-**Lindy Dialogue:**
-
-Barely. And I improved it.
 
 **Reveal Control:** Establish MITE II as legal private survey / route-proofing work. Do not reveal hidden formation.
 
@@ -653,7 +649,7 @@ That was the problem with honest work.
 
 ## Panel 1
 
-**Visual:** The fuel bladder module flexes slightly with movement. Frosted straps, patched insulation, hazard markings, handwritten crew labels.
+**Visual:** The fuel bladder module flexes slightly with movement. Frosted straps shudder, patched insulation creaks, hazard markings slide through frame, and a handwritten crew label rattles against its rivets.
 
 **Caption:**
 
@@ -665,7 +661,7 @@ MITE II / FUEL SUPPORT / DO NOT ARGUE WITH STRAPS
 
 ## Panel 2
 
-**Visual:** Comms module interior. Screens glow dimly. Old and new systems share space uneasily. A paper checklist is taped beside a clean digital display.
+**Visual:** Comms module interior in motion. Screens glow dimly. Old and new systems share space uneasily. A paper checklist flutters beside a clean digital display as the train vibrates.
 
 **Caption:**
 
@@ -677,7 +673,7 @@ Signal second.
 
 ## Panel 3
 
-**Visual:** Mechanic storage. Tools locked into racks. Spare couplers, patched hose, emergency heat wrap, grease pencil notes. One drawer has a hand-lettered warning: `NO, THE OTHER WRENCH`.
+**Visual:** Mechanic storage. Tools knock softly in locked racks. Spare couplers, patched hose, emergency heat wrap, grease pencil notes. One drawer has a hand-lettered warning: `NO, THE OTHER WRENCH`.
 
 **Caption:**
 
@@ -689,7 +685,7 @@ rattle-rattle
 
 ## Panel 4
 
-**Visual:** GPR / survey prep area. A screen shows clean route geometry over terrain that looks less clean through an exterior feed. A gloved hand calibrates equipment.
+**Visual:** GPR / survey prep area. A gloved hand calibrates equipment while the train lurches. A screen shows clean route geometry over terrain that looks less clean through an exterior feed.
 
 **Caption:**
 
@@ -697,7 +693,7 @@ The packet called it survey and proofing.
 
 ## Panel 5
 
-**Visual:** Berthing / kitchen detail. Mugs, thermal bags, a bunk strap, a bad joke written on a cabinet, steam from a kettle. Proof that people live inside these machines, not just operate them.
+**Visual:** Berthing / kitchen detail in motion. Mugs in restraints, thermal bags strapped down, a bunk strap, a bad joke written on a cabinet, steam from a kettle trembling with the track vibration.
 
 **Caption:**
 
@@ -713,7 +709,7 @@ Run first-mile checks again after the yard line drops.
 
 **Tenet Radio:**
 
-If something squeals, lies, or develops religion, I want it logged.
+If something squeals, lies, or prays, log it.
 
 **Reveal Control:** Establish procedure, crew life, and system complexity. Do not explain conspiracy.
 
@@ -771,7 +767,7 @@ Good. Then she's smarter than the packet.
 
 **Rudy Dialogue:**
 
-Still don't like a little survey hauling backup like it expects to feed teeth.
+Still don't like a little survey hauling backup like it expects teeth.
 
 **Lettering Note:** Rudy's humor should stay warm and fatalist. The last line should feel practical, not spooky.
 
@@ -828,10 +824,6 @@ That's the annoying part.
 **Forest Dialogue, off-panel:**
 
 Terrain talks before it bites.
-
-**Forest Dialogue, off-panel:**
-
-This stretch is waiting for somebody else to speak first.
 
 **Reveal Control:** Forest may imply route wrongness. Do not reveal the formation or growth rollers yet.
 
@@ -937,7 +929,7 @@ Before MITE II. Before the packet. Before Tenet understood the shape of goodbye.
 
 ## Panel 2
 
-**Visual:** Rob's hands unwrap an old oilcloth bundle. Do not glamorize the weapon. It is old, cared for, and heavy with family history. Tenet watches, uneasy.
+**Visual:** Rob's hands unwrap an old oilcloth bundle. Do not glamorize the weapon. It is old, cared for, and heavy with family history. Tenet watches, uneasy. Rob adjusts Tenet's hand position before letting him take the weight, practical even now.
 
 **Rob Dialogue:**
 
@@ -999,7 +991,7 @@ For the question to catch up.
 
 ## Panel 1
 
-**Visual:** Present-tense House scene again. Horus stands near the table where the oilcloth bundle is no longer present. Rob stays seated. The empty space is louder than a weapon.
+**Visual:** Present-tense House scene again. Horus stands near the table where the oilcloth bundle is no longer present. Rob stays seated. The empty space is louder than a weapon. Horus sees the empty place before he speaks.
 
 **Horus Dialogue:**
 
@@ -1011,7 +1003,7 @@ That's a fun question.
 
 ## Panel 2
 
-**Visual:** Close on Horus. A crack in control. Not rage yet, but the old wound showing through official polish.
+**Visual:** Close on Horus. A crack in control. Not rage yet, but the old wound showing through official polish. He almost says Tenet's name, then avoids it.
 
 **Horus Dialogue:**
 
@@ -1343,7 +1335,7 @@ Where the packet gets quiet.
 
 ## Main Splash
 
-**Visual:** Red Umbrielor clears the angle between growth rollers. The hidden formation appears beyond them: vast, old, cracked, not natural enough to be geology, not readable enough to be a simple ruin. It sits where terrain and policy kept it out of sight. Frost, crystal pressure, old shadow, and signal distortion cling to it. The formation should feel like a door, wound, machine, and fossilized question all at once without becoming any single confirmed thing.
+**Visual:** Red Umbrielor clears the angle between growth rollers. The hidden formation appears beyond them: vast, old, cracked, and half-buried in terrain that looks scarred open by pressure. It reads like a route-scar and a wound in the land, not natural enough to be geology and not clear enough to be named. Frost, crystal pressure, old shadow, and signal distortion cling to it.
 
 **Caption:**
 
@@ -1435,7 +1427,7 @@ Nobody explains it before we preserve it.
 
 **Adaptation Label:** Adaptation Choice / Comic-Only Continuity
 
-**Panel Count:** 6 panels or one layered montage with inset memories
+**Panel Count:** 5 panels
 
 **Page Purpose:** Emotional climax. Tenet realizes Rob's death and MITE II are part of the same route. Rob did not leave him an answer. Rob left him a route.
 
@@ -1457,31 +1449,27 @@ Rob moved the weight.
 
 ## Panel 3
 
+**Visual:** Present: the hidden formation in exterior feed, with the preserved footprint image tagged in a small inset. Signal distortion threads along the panel border.
+
+**Caption:**
+
+The route answered where the packet went quiet.
+
+## Panel 4
+
 **Visual:** Memory inset: Rob placing the pistol in Tenet's hands.
 
 **Rob Memory Dialogue:**
 
 You still have time.
 
-## Panel 4
-
-**Visual:** Present: the hidden formation in exterior feed. Signal distortion threads along the panel border. The footprint image occupies a smaller inset, preserved and tagged.
-
-**Caption:**
-
-The route answered where the packet went quiet.
-
 ## Panel 5
 
-**Visual:** Tenet's face. He is not solving the whole mystery. He is recognizing the shape of the problem for the first time. Work, grief, and evidence align.
+**Visual:** Tenet's face reflected faintly over the packet, the under-seat compartment, and the formation feed. Not a lore diagram, just four pieces of pressure aligning: approval, pistol, formation/footprint, Rob memory.
 
 **Tenet Dialogue, low:**
 
 Rob...
-
-## Panel 6
-
-**Visual:** Layered composition: Red Umbrielor, the packet, Rob at The House Ten Built, Horus in the doorway, the pistol under the seat, the ghost handshake, the hidden formation, the footprint. Not a lore diagram. A route map made of emotional pressure.
 
 **Caption:**
 
@@ -1630,7 +1618,7 @@ MERIDIAN PRIME WILL RETURN
 - Rob line: `For the question to catch up.`
 - Rob line: `You came for an answer. I sent you a route.`
 - Lindy line: `Defrost never signed. Defrost had legal review.`
-- Rudy line: `Still don't like a little survey hauling backup like it expects to feed teeth.`
+- Rudy line: `Still don't like a little survey hauling backup like it expects teeth.`
 - Rudy line: `Machine can survive ugly. It cannot survive impossible twice.`
 - Forest line: `Terrain talks before it bites.`
 - Forest line: `The land has teeth where the map drew a line.`
@@ -1640,3 +1628,22 @@ MERIDIAN PRIME WILL RETURN
 - Page 22 line: `Rob did not leave him an answer. Rob left him a route.`
 - Page 23 poster text: `Things are different On Traverse.`
 - Page 24 caption: `Rob did not die because he lost. He died because he chose.`
+
+---
+
+## Second Draft Change Notes
+
+- Updated script status from `COMPLETE DRAFT FOR REVIEW` to `SECOND DRAFT FOR REVIEW`.
+- Dialogue tightened while preserving the 24-page structure and approved hype route.
+- Page 4 strengthened Rob's physical frailty with a hidden tremor before `Bullshit.`
+- Page 7 banter adjusted by cutting Lindy's `Barely. And I improved it.` so the page has more dread runway before Horus's stamp.
+- Page 10 revised as a moving montage rather than a static gear catalog.
+- Page 10 Tenet line tightened to: `If something squeals, lies, or prays, log it.`
+- Page 11 Rudy line tightened to: `Still don't like a little survey hauling backup like it expects teeth.`
+- Page 12 cut `This stretch is waiting for somebody else to speak first.` to avoid duplicating `Terrain talks before it bites.`
+- Page 14 grounded the pistol handoff with Rob physically adjusting Tenet's grip before transferring the weight.
+- Page 15 added visual emphasis that Horus sees the empty table before speaking and avoids saying Tenet's name.
+- Page 20 formation description simplified around `route-scar / wound` instead of stacking door, wound, machine, and fossil metaphors.
+- Page 21 footprint page kept quiet and preserved `Nobody explains it before we preserve it.`
+- Page 22 montage simplified around four emotional elements: Horus approval line, under-seat pistol, formation/footprint, and Rob memory.
+- Candidate Canon items preserved and updated, including the revised Rudy line, ghost-signal panel-gutter motif, Page 22 thesis, Page 23 poster text, and Page 24 myth sting.
