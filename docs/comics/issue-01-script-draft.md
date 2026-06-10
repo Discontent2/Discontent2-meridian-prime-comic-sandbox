@@ -1,6 +1,6 @@
 # Issue 01 Script Draft
 
-> Script draft for Pages 1-13 of the approved Meridian Prime hype-comic route.
+> Script draft for Pages 1-22 of the approved Meridian Prime hype-comic route.
 
 **Sandbox Status:** DRAFT FOR REVIEW
 
@@ -913,7 +913,591 @@ Then the old systems answered.
 
 ---
 
-## Review Notes for Pages 1-13
+# PAGE 14
+
+**Page Role:** Interior Page 12
+
+**Adaptation Label:** Adaptation Choice / Comic-Only Continuity
+
+**Panel Count:** 4 panels
+
+**Page Purpose:** Return to The Last Traverse. Rob gives Tenet Grandfather Ten's pistol, linking the under-seat weight to trust, route authority, and time.
+
+## Panel 1
+
+**Visual:** Memory palette. Red Umbrielor parked near The House Ten Built on a colder, quieter day. The cab interior is warmer than outside, but emotionally heavy. Rob sits in the passenger seat, salmon polo visible beneath travel layers, a duffel near his boots. Tenet is at the wheel, younger by only a little but less burdened by knowing.
+
+**Caption:**
+
+THE LAST TRAVERSE.
+
+**Caption:**
+
+Before MITE II. Before the packet. Before Tenet understood the shape of goodbye.
+
+## Panel 2
+
+**Visual:** Rob's hands unwrap an old oilcloth bundle. Do not glamorize the weapon. It is old, cared for, and heavy with family history. Tenet watches, uneasy.
+
+**Rob Dialogue:**
+
+This was Ten's.
+
+**Tenet Dialogue:**
+
+Grandfather Ten's?
+
+**Rob Dialogue:**
+
+Unless your family started collecting spare legends and forgot to invoice me.
+
+## Panel 3
+
+**Visual:** Close on the pistol between Rob and Tenet. It is not pointed, not posed for violence. It rests across Rob's palms like a responsibility he cannot carry farther.
+
+**Rob Dialogue:**
+
+It is not just a gun.
+
+**Tenet Dialogue:**
+
+That the part where you explain what it is?
+
+**Rob Dialogue:**
+
+No.
+
+## Panel 4
+
+**Visual:** Rob places the wrapped pistol into Tenet's hands. Rob's face carries warmth, pain, and a decision already made. Tenet does not yet understand that this is a transfer.
+
+**Rob Dialogue:**
+
+You still have time.
+
+**Tenet Dialogue:**
+
+For what?
+
+**Rob Dialogue:**
+
+For the question to catch up.
+
+**Reveal Control:** Show the pistol as inheritance, trust marker, test, key, and route authority. Do not explain its full function.
+
+---
+
+# PAGE 15
+
+**Page Role:** Interior Page 13
+
+**Adaptation Label:** Adaptation Choice / Comic-Only Continuity
+
+**Panel Count:** 5 panels
+
+**Page Purpose:** Return to Horus pressing Rob at The House Ten Built. Horus realizes Rob already moved something beyond reach.
+
+## Panel 1
+
+**Visual:** Present-tense House scene again. Horus stands near the table where the oilcloth bundle is no longer present. Rob stays seated. The empty space is louder than a weapon.
+
+**Horus Dialogue:**
+
+Where is it?
+
+**Rob Dialogue:**
+
+That's a fun question.
+
+## Panel 2
+
+**Visual:** Close on Horus. A crack in control. Not rage yet, but the old wound showing through official polish.
+
+**Horus Dialogue:**
+
+You gave it to him.
+
+**Rob Dialogue, off-panel:**
+
+I gave a man something his grandfather left behind.
+
+## Panel 3
+
+**Visual:** Rob coughs or tightens slightly from pain, but refuses to let Horus turn it into weakness. One hand grips the table. The other waves away concern that Horus did not offer.
+
+**Horus Dialogue:**
+
+You do not know what you have done.
+
+**Rob Dialogue:**
+
+I know exactly which mistake I refused to repeat.
+
+## Panel 4
+
+**Visual:** Horus leans closer. Behind him, the photograph of Tenet I, Rob, and Horus as young men is now unmistakable. All three are smiling beside a military MMS Quadtrack.
+
+**Horus Dialogue:**
+
+Ten trusted me too.
+
+**Rob Dialogue:**
+
+Ten liked you.
+
+**Rob Dialogue:**
+
+That was never the same thing.
+
+## Panel 5
+
+**Visual:** Rob's warm smile returns, thinner now, sharp as a filed key. Horus looks like he has arrived with a machine too late to pull the train back onto the track.
+
+**Rob Dialogue:**
+
+You came for an answer.
+
+**Rob Dialogue:**
+
+I sent you a route.
+
+**Reveal Control:** Horus may understand the pistol moved beyond reach. Do not reveal the full House secrets, Core mechanics, or exact route destination.
+
+---
+
+# PAGE 16
+
+**Page Role:** Interior Page 14
+
+**Adaptation Label:** Canon Reference / Promo Exaggeration if heightened
+
+**Panel Count:** 4 panels
+
+**Page Purpose:** Wrongness becomes physical. MITE II enters terrain that contradicts the clean packet.
+
+## Panel 1
+
+**Visual:** Back to present. Red Umbrielor's route display shows a clean official line through the proposed extension corridor. The UI looks confident in a way that only machines and bureaucracies can look before being humiliated.
+
+**Route Display Text:**
+
+PROPOSED EXTENSION CORRIDOR  
+SURFACE VIABILITY: EXPECTED PASSABLE  
+INFRASTRUCTURE: NONE REGISTERED
+
+## Panel 2
+
+**Visual:** Exterior feed. The same terrain does not match the clean line. Nothing explosive yet. Just wrong texture: subtle ridges, strange crystal pressure, horizon geometry that feels slightly bent.
+
+**Forest Radio:**
+
+Tenet.
+
+**Tenet Radio:**
+
+I see it.
+
+## Panel 3
+
+**Visual:** Tenet compares the packet, route display, and forward view. His hand marks or tags an internal discrepancy log.
+
+**Tenet Dialogue:**
+
+Logging field discrepancy.
+
+**Rudy Radio:**
+
+Only one?
+
+**Tenet Dialogue:**
+
+Don't get greedy.
+
+## Panel 4
+
+**Visual:** A low, wide exterior shot. Red Umbrielor approaches terrain that looks like it has been trying to grow a decision. Black flags in the distance lean at inconsistent angles. The ghost signal motif from Page 13 is barely present in the page border.
+
+**Caption:**
+
+The route stopped lying quietly.
+
+**Reveal Control:** Show terrain contradiction. Do not reveal the full formation yet.
+
+---
+
+# PAGE 17
+
+**Page Role:** Interior Page 15
+
+**Adaptation Label:** Canon Reference / Promo Exaggeration if visualized aggressively
+
+**Panel Count:** 5 panels
+
+**Page Purpose:** Forest's terrain truth becomes central. Pressure ridges and growth rollers enter as live hazard, not lore decoration.
+
+## Panel 1
+
+**Visual:** Forest at the observation station, posture changed. He is no longer lounging. Tail angled for balance. Clawed hand over the display. The relaxed menace becomes professional focus.
+
+**Forest Dialogue:**
+
+Stop short of the next marker.
+
+**Tenet Radio:**
+
+Why?
+
+## Panel 2
+
+**Visual:** Close on exterior feed. A pressure ridge rises where the route line expected passable surface. Not a mountain, not a normal drift. Something formed by crystal pressure, terrain growth, and bad timing.
+
+**Forest Dialogue:**
+
+Because that marker is lying by about thirty meters.
+
+## Panel 3
+
+**Visual:** Red Umbrielor brakes heavily. Tracks bite into hard surface. Mods behind sway within safe tolerance. Crew grips rails inside modules.
+
+**SFX:**
+
+GRRNNNNK
+
+**Rudy Radio:**
+
+Easy, easy, easy.
+
+## Panel 4
+
+**Visual:** Forest steps or leans into a better angle, reading GPR and land together. The terrain outside has ridges like old scars and rollers like something still moving under skin.
+
+**Forest Dialogue:**
+
+Pressure ridges ahead.
+
+**Forest Dialogue:**
+
+Growth rollers under the crust.
+
+## Panel 5
+
+**Visual:** Wide exterior. The land ahead seems to bristle. Red Umbrielor is big, but the terrain suddenly feels bigger.
+
+**Forest Dialogue, off-panel:**
+
+The land has teeth where the map drew a line.
+
+**Reveal Control:** Hidden formation remains obscured by rollers, ridges, weather, or angle.
+
+---
+
+# PAGE 18
+
+**Page Role:** Interior Page 16
+
+**Adaptation Label:** Canon Reference / Adaptation Choice
+
+**Panel Count:** 5 panels
+
+**Page Purpose:** Rudy and Tenet measure survival in machinery terms: couplings, load, tracks, brakes, weight, and ugly math.
+
+## Panel 1
+
+**Visual:** Rudy in the mechanic module, braced against movement, running quick diagnostics. Warning lights are not catastrophic, but too many small amber notes gather like bad weather.
+
+**Diagnostic Text:**
+
+COUPLING STRAIN: RISING  
+TRACK LOAD: UNEVEN  
+MOD SWAY: WITHIN LIMITS
+
+**Rudy Dialogue:**
+
+She's annoyed, not scared.
+
+## Panel 2
+
+**Visual:** Tenet in Red Umbrielor, one hand near controls, one eye on Rudy's data. The packet is now physically in the way, clipped where it can be glared at.
+
+**Tenet Dialogue:**
+
+Can we crawl it?
+
+**Rudy Radio:**
+
+Define crawl like a man with insurance.
+
+## Panel 3
+
+**Visual:** Exterior side view of the Mod train. The route ahead has ridge lines and roller shadows. The train is long, vulnerable, and stubborn.
+
+**Rudy Radio:**
+
+Machine can survive ugly.
+
+**Rudy Radio:**
+
+It cannot survive impossible twice.
+
+## Panel 4
+
+**Visual:** Tenet marks a slow approach path on his display, overriding the packet route line with field-noted corrections.
+
+**Tenet Dialogue:**
+
+Then we do ugly once.
+
+**Tenet Dialogue:**
+
+Forest, talk me through teeth.
+
+## Panel 5
+
+**Visual:** Rudy's hand tightens on a grab rail as the Mod train creeps forward. He smiles without comfort.
+
+**Rudy Dialogue:**
+
+I hate when leadership makes sense.
+
+**Reveal Control:** Keep danger operational. Do not explain the cause of terrain growth.
+
+---
+
+# PAGE 19
+
+**Page Role:** Interior Page 17
+
+**Adaptation Label:** Candidate Canon visual motif / Promo Exaggeration
+
+**Panel Count:** 4 panels
+
+**Page Purpose:** Ildi's ghost handshake becomes directional. Signal wrongness and terrain wrongness begin pointing at the same hidden thing.
+
+## Panel 1
+
+**Visual:** Ildi's station. The old signal repeats, but now it carries rhythm. A line bends across her display toward an unmapped area. The panel gutters begin to carry faint signal filaments again.
+
+**SFX:**
+
+kshh... tik... tik... kshh...
+
+**Ildi Dialogue:**
+
+It did it again.
+
+## Panel 2
+
+**Visual:** Close on interface. The registered map shows nothing where the signal points. The unregistered handshake repeats in old format, stubborn as a buried machine knocking on a wall.
+
+**Interface Text:**
+
+LEGACY HANDSHAKE RESPONSE PATTERN DETECTED  
+SOURCE TRIANGULATION: CONFLICTING  
+REGISTERED INFRASTRUCTURE: NONE
+
+**Tenet Radio:**
+
+Noise?
+
+**Ildi Dialogue:**
+
+No.
+
+## Panel 3
+
+**Visual:** Ildi turns from one monitor to another. Her eyes glow with reflected data. This is technical fury, not trance.
+
+**Ildi Dialogue:**
+
+Dead channels don't answer in rhythm.
+
+**Ildi Dialogue:**
+
+This thing is pointing.
+
+## Panel 4
+
+**Visual:** Exterior map overlay combined with forward terrain. Forest's ridge read, Rudy's strain path, and Ildi's signal direction all converge toward a blank region behind pressure rollers.
+
+**Tenet Radio:**
+
+Pointing where?
+
+**Ildi Radio:**
+
+Where the packet gets quiet.
+
+**Reveal Control:** The signal is directional but the source remains unknown. Do not reveal the formation until Page 20.
+
+---
+
+# PAGE 20
+
+**Page Role:** Interior Page 18
+
+**Adaptation Label:** Promo Exaggeration / Comic-Only Continuity
+
+**Panel Count:** Mostly splash page with 2 inset panels
+
+**Page Purpose:** Major visual bombshell. The hidden formation appears and the official map fails completely.
+
+## Main Splash
+
+**Visual:** Red Umbrielor clears the angle between growth rollers. The hidden formation appears beyond them: vast, old, cracked, not natural enough to be geology, not readable enough to be a simple ruin. It sits where terrain and policy kept it out of sight. Frost, crystal pressure, old shadow, and signal distortion cling to it. The formation should feel like a door, wound, machine, and fossilized question all at once without becoming any single confirmed thing.
+
+**Caption:**
+
+No marker.
+
+**Caption:**
+
+No lease note.
+
+**Caption:**
+
+No official name.
+
+## Inset Panel 1
+
+**Visual:** Tenet's face in the cab, lit by route display and cold exterior glare. He is not awestruck in a romantic way. He is recalculating danger and grief at the same time.
+
+**Tenet Dialogue, small:**
+
+Log visual.
+
+## Inset Panel 2
+
+**Visual:** Ildi's monitor loses the clean map layer for a second. The ghost-signal gutter motif spikes, then steadies.
+
+**Ildi Dialogue:**
+
+It's answering us.
+
+**Lettering Note:** Let the splash breathe. Captions should be sparse and placed inside safe area. Signal motif may bleed into art but not obscure the formation.
+
+**Reveal Control:** Show enough to create awe and dread. Do not explain whether it is gateway, ruin, route, Core symptom, or something else.
+
+---
+
+# PAGE 21
+
+**Page Role:** Interior Page 19
+
+**Adaptation Label:** Canon Reference revealed early for hype / Promo Exaggeration
+
+**Panel Count:** 3 panels
+
+**Page Purpose:** Quiet impossible evidence. The formation is not just geology. Something used it.
+
+## Panel 1
+
+**Visual:** Low exterior close-up near the formation approach. Snow, crystal dust, hard surface, and disrupted frost. A crew boot or crawler probe enters frame at the edge for scale, but does not touch the evidence.
+
+**Forest Dialogue, off-panel:**
+
+Tenet.
+
+**Tenet Radio:**
+
+I see it.
+
+## Panel 2
+
+**Visual:** The footprint. Make it clear enough to be evidence, not decorative texture. Do not make it fully identifiable as human, Meridian, Saurasapien, Antisapien, old, fresh, or impossible. It is shaped wrong enough to raise every question.
+
+**Caption:**
+
+The formation was not just geology.
+
+## Panel 3
+
+**Visual:** Tenet stands or appears framed from the cab/exterior feed, looking from the footprint toward the hidden formation. The page should be almost silent. The crew's presence is felt through held breath and tiny radio hiss.
+
+**Radio Texture:**
+
+...kshh...
+
+**Tenet Dialogue:**
+
+Nobody steps near it.
+
+**Tenet Dialogue:**
+
+Nobody explains it before we preserve it.
+
+**Reveal Control:** Do not reveal who or what made the footprints. Do not solve the anomaly.
+
+---
+
+# PAGE 22
+
+**Page Role:** Interior Page 20
+
+**Adaptation Label:** Adaptation Choice / Comic-Only Continuity
+
+**Panel Count:** 6 panels or one layered montage with inset memories
+
+**Page Purpose:** Emotional climax. Tenet realizes Rob's death and MITE II are part of the same route. Rob did not leave him an answer. Rob left him a route.
+
+## Panel 1
+
+**Visual:** Close on the MITE II packet in Red Umbrielor's cab. Horus's approval line is visible again, but partially obscured by Tenet's field notes and new discrepancy marks.
+
+**Caption:**
+
+Horus approved the paper.
+
+## Panel 2
+
+**Visual:** Close on the under-seat compartment. Tenet's hand near it, not opening it yet. The memory of the oilcloth bundle from Page 14 overlays faintly.
+
+**Caption:**
+
+Rob moved the weight.
+
+## Panel 3
+
+**Visual:** Memory inset: Rob placing the pistol in Tenet's hands.
+
+**Rob Memory Dialogue:**
+
+You still have time.
+
+## Panel 4
+
+**Visual:** Present: the hidden formation in exterior feed. Signal distortion threads along the panel border. The footprint image occupies a smaller inset, preserved and tagged.
+
+**Caption:**
+
+The route answered where the packet went quiet.
+
+## Panel 5
+
+**Visual:** Tenet's face. He is not solving the whole mystery. He is recognizing the shape of the problem for the first time. Work, grief, and evidence align.
+
+**Tenet Dialogue, low:**
+
+Rob...
+
+## Panel 6
+
+**Visual:** Layered composition: Red Umbrielor, the packet, Rob at The House Ten Built, Horus in the doorway, the pistol under the seat, the ghost handshake, the hidden formation, the footprint. Not a lore diagram. A route map made of emotional pressure.
+
+**Caption:**
+
+Rob did not leave him an answer.
+
+**Caption:**
+
+Rob left him a route.
+
+**Lettering Note:** This is the hinge page. Keep final captions clean, simple, and central but inside safe area.
+
+**Reveal Control:** Emotional connection is clear. Do not solve Core mechanics, Horus's full plan, the assassin, exact footprint origin, or complete pistol function.
+
+---
+
+## Review Notes for Pages 1-22
 
 ### What Pages 1-8 Test
 
@@ -934,19 +1518,22 @@ Then the old systems answered.
 - Whether the ghost handshake feels technical and eerie without becoming mystical exposition.
 - Whether the issue has enough machine, crew, and route texture before the larger terrain reveal begins.
 
+### What Pages 14-22 Test
+
+- Whether the pistol memory lands as trust, time, and route authority without over-explaining.
+- Whether Horus's loss at The House Ten Built feels personal and immediate.
+- Whether terrain wrongness escalates from field discrepancy to physical hazard.
+- Whether Forest, Rudy, and Ildi continue functioning as terrain, machine, and signal truth.
+- Whether the hidden formation reveal feels earned by signal, terrain, and paperwork contradictions.
+- Whether the footprints page stays quiet and unsettling rather than explanatory.
+- Whether Page 22 ties Rob's death and MITE II together emotionally without solving the whole world.
+
 ### Known Follow-Up Pages
 
-The next script pass should draft Pages 14-22:
+The next script pass should draft Pages 23-24:
 
-- Page 14: Pistol memory / The Last Traverse.
-- Page 15: Horus presses Rob.
-- Page 16: The land starts behaving wrong.
-- Page 17: Forest reads the teeth in the land.
-- Page 18: Rudy measures survival.
-- Page 19: Ildi tracks the signal toward the formation.
-- Page 20: Hidden formation reveal.
-- Page 21: Footprints.
-- Page 22: Rob's death and MITE II align.
+- Page 23: Inside back cover / in-world Traverse warning ad.
+- Page 24: Back cover teaser / The House Ten Built with one light still burning.
 
 ### Current Candidate Canon Items To Watch
 
@@ -954,8 +1541,14 @@ The next script pass should draft Pages 14-22:
 - Field-report style captions.
 - Specific phrasing: `Field packets do not guarantee field truth.`
 - Rob line: `You made everything smaller the day you started calling old friends assets.`
+- Rob line: `For the question to catch up.`
+- Rob line: `You came for an answer. I sent you a route.`
 - Lindy line: `Defrost never signed. Defrost had legal review.`
 - Rudy line: `Still don't like a little survey hauling backup like it expects to feed teeth.`
+- Rudy line: `Machine can survive ugly. It cannot survive impossible twice.`
 - Forest line: `Terrain talks before it bites.`
+- Forest line: `The land has teeth where the map drew a line.`
 - Ildi line: `Something old just shook our hand where the route says nothing has hands.`
+- Ildi line: `Where the packet gets quiet.`
 - Ghost-signal panel-gutter motif.
+- Page 22 line: `Rob did not leave him an answer. Rob left him a route.`
