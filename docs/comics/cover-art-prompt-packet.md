@@ -258,6 +258,42 @@ Create a clean vertical comic cover for **Meridian Prime: The Route To It**. In 
 - Tagline can sit beneath title or above Tenet.
 - Lower safe area reserved for issue/creator information.
 
+### Variant B Front-Blade Composition Lock
+
+**Adaptation Label:** Sandbox Production Direction / Non-Canon Promo Art Composition Rule
+
+For the clean publisher pitch cover, prefer the head-on / near-head-on composition when the front blade needs to read correctly.
+
+Locked staging:
+
+- Tenet stands in front of the blade, holding the MITE II packet.
+- The matte-black rear face of Red Umbrielor's front blade sits behind Tenet and spans the lower foreground.
+- Red Umbrielor looms behind the blade.
+- The tractor body should be mostly front-facing or front-left three-quarter, not side-profile.
+- The blade is mounted directly in front of the tractor, not on the side.
+- The viewer sees the back / rear face of the blade, not the front cutting face.
+- The rear face of the blade is matte black.
+- Black hydraulic lift arms run from the rear of the blade back to mounting points below the front engine compartment, in front of the front tracks.
+- The lift arms protrude slightly outward from the chassis so they clear the engine compartment when actuated.
+- The hidden formation remains distant beyond the machine and landscape.
+
+Marking rule for this head-on cover composition:
+
+- Do **not** show `Red Umbrielor` or `289` on the front face of the tractor.
+- `Red Umbrielor` and `289` cannot be cleanly read from a head-on view because they are side markings only.
+- If a side surface is barely visible, a partial faded glimpse may appear, but it should not become a clear front-facing label.
+- The front grille of Red Umbrielor is black mesh.
+- The black mesh grille should carry no large number, name, logo, or decorative label.
+
+Avoid in Variant B cover generations:
+
+- side-profile tractor staging when blade placement is critical
+- blade appearing attached to the side of 289
+- blade flank reading as the main blade face
+- readable `289` on the front grille
+- readable `Red Umbrielor` on the front grille or front hood
+- billboard-style front labels created by the image model
+
 ---
 
 ## Variant C: Artifact / Field Packet Cover
@@ -379,6 +415,7 @@ Potential Candidate Canon items created or reinforced by this packet:
 4. Ghost-signal linework threading through gutters or document forms.
 5. Formation as `route-scar / wound` visual shorthand.
 6. Tagline: `The job was legal. The map was dead. The route answered anyway.`
+7. Head-on Variant B blade composition rule with matte-black rear blade face and no front-facing `289` / `Red Umbrielor` markings.
 
 Before any item is promoted, add or cross-check it in:
 
