@@ -1,7 +1,23 @@
-# Binary Upload Limitation
+# Binary Upload Status
 
-This repo folder has the KFR-BLOCKOUT-v001 text submission, review, and upload manifest.
+This repo folder has the KFR-BLOCKOUT-v001 text submission, review, upload manifest, and verified binary assets.
 
-The actual generated binary files were created locally in the ChatGPT sandbox and are available as downloadable artifacts. They have not yet been committed as binary files to this GitHub repository through the text-file helper.
+## Verified Uploaded Assets
 
-For persistent storage, upload the downloaded ZIP package or individual files through GitHub's web UI or a local git client.
+The following files were verified by direct repository path lookup:
+
+- `kfr-blockout-v001-package.zip`
+- `kfr_blockout_v001_contact_sheet.png`
+- `kfr_blockout_v001_full_model.obj`
+- `kfr_blockout_v001_full_model.stl`
+- `kfr_blockout_v001_full_scene.glb`
+
+## Not Verified As Separate Files
+
+The individually named screenshot PNGs 01 through 14 were not found as separate files during this verification pass.
+
+They should remain available inside `kfr-blockout-v001-package.zip`. Extract and upload them separately only if GitHub-side preview of each view is needed.
+
+## Current State
+
+Persistent repo storage is sufficient for the main v001 handoff because the ZIP package and key extracted model / preview assets are present.
