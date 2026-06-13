@@ -1,24 +1,33 @@
 # Kavo "Forest" Rill Paint Guide
 
 **Room:** Meridian Prime Toy Development Room / Action Figure Prototype Lab  
-**Status:** Prototype A paint guide updated from approved KFR-REF-013  
+**Status:** Prototype A paint guide updated from KFR-REF-013, KFR-REF-014A, and KFR-REF-014B  
 **Prototype Type:** 5-inch adult collectible 3D printed figure  
 **Canon Boundary:** Sandbox toy-development guide. Does not alter main canon.
 
 ---
 
-## Approved Paint Reference
+## Approved / Working Paint References
 
 Primary approved paint reference:
 
 - `KFR-REF-013 — Paint-Zone Overlay`
 - Generated file: `/mnt/data/prototype_action_figure_paint_reference_sheet.png`
-- Recommended repo filename if uploaded later: `kfr_overlay_paint-zones_v001_approved-paint-reference.png`
 - Approval note: `production/toy-prototypes/kavo-forest-rill/reference/kfr-ref-013-paint-zone-approval.md`
 
-KFR-REF-013 is approved for paint reference, material breakup, finish reference, weathering reference, accessory paint-zone reference, and prototype paint-guide updates.
+Garment reference:
 
-It is not approved as final packaging text, final lore text, main-canon symbol approval, final factory production specification, or any safety / child-use claim.
+- `KFR-REF-014A — Torso / Jacket / Pants Garment Detail Sheet`
+- Generated file: `/mnt/data/kavo_velocisapien_action_figure_garment_specs.png`
+- Approval note: `production/toy-prototypes/kavo-forest-rill/reference/kfr-ref-014a-garment-detail-approval.md`
+
+Watch reference:
+
+- `KFR-REF-014B — Forest Route-Reader Watch / Wrist GPR Unit`
+- Corrected generated file: `/mnt/data/kfr_014b_route_reader_watch_design_guide.png`
+- Working reference note: `production/toy-prototypes/kavo-forest-rill/reference/kfr-ref-014b-watch-working-reference.md`
+
+These references are approved / working production references for paint, material breakup, finish, weathering, and prototype paint-guide updates. They are not final packaging text, final lore text, main-canon symbol approval, final factory production specifications, or safety / child-use claims.
 
 ---
 
@@ -26,7 +35,9 @@ It is not approved as final packaging text, final lore text, main-canon symbol a
 
 Kavo should look like a Velocisapien Mountaineer who lives in field procedure, pressure-route culture, cold industrial survival, and boiler-ska underclass style.
 
-The paint should feel bold enough for a retro action figure but worn enough for Meridian Prime. The figure should read as practical route gear, not monster gloss, fantasy armor, parody band outfit, or generic survival toy.
+The paint should feel bold enough for a retro action figure but worn enough for Meridian Prime. The figure should read as practical route gear, not monster gloss, fantasy armor, parody band outfit, generic survival toy, biker parody, or military uniform.
+
+No human skin color should appear on Forest's exposed body areas. Exposed skin is Route-Dust Olive Teal scaled Velocisapien skin.
 
 ---
 
@@ -34,7 +45,7 @@ The paint should feel bold enough for a retro action figure but worn enough for 
 
 | Area | Approved Prototype A Direction | Finish | Notes |
 |---|---|---|---|
-| Exposed scaled skin | Route-Dust Olive Teal | Matte / satin | Primary skin color for head, arms, fingers, tail upper, and visible skin. |
+| Exposed scaled skin | Route-Dust Olive Teal | Matte / satin | Primary skin color for head, arms, visible wrist / fingers, tail upper, and exposed skin. Never human skin. |
 | Skin recess wash | Slightly darker olive / field green | Matte | Use subtly in scale recesses only. |
 | Tail underside | Sage Green | Matte | Practical two-zone tail plan for first prototype. |
 | Short sparse red proto-quills | Oxide Red / muted red | Matte | Canon language remains **short sparse red proto-quills**, not generic dorsal spines. Keep sturdy and not too numerous. |
@@ -42,27 +53,37 @@ The paint should feel bold enough for a retro action figure but worn enough for 
 | Shades frame | Black | Satin | Thick, clean, sculpt-friendly frames. |
 | Shades lenses | Dark Smoke | Slight gloss | Do not hide the brow read completely. |
 | Route goggles | Black / dark frame, dark-smoke or amber lens | Satin frame, gloss lens | Alternate look only unless later selected. |
+| Jacket shell | Worn black / charcoal weathered leather or waxed shell | Matte / satin | Cropped cold-weather route jacket. Not biker-gang parody. |
+| Jacket collar lining | Warm gray / weathered shearling texture | Matte | Toy sculpt texture, not fuzzy real material. |
+| Under-layer | Black thermal / field-knit | Matte | Minimal graphics unless separately approved. |
 | Harness base | Worn black / dark brown | Matte / satin | Field-maintained, not muddy. |
 | Harness panels / trim | Worn Orange | Semi-gloss or satin | Controlled accent only. Do not let orange dominate the figure. |
 | Checker trim | Black / off-white | Matte | Approved only in controlled harness zones. Keep crisp and sparse. |
 | Badges / patches | Toy-only placeholder colors: orange, green, brass, black | Satin / metallic as needed | Badge graphics require separate canon review. |
-| Hardware | Gunmetal | Semi-gloss metallic | Buckles, clips, D-rings, rivets, route-tool metal. |
-| Gloves | Black leather | Satin / low gloss | Approved KFR-REF-007 black fingerless glove direction. |
+| Hardware | Gunmetal | Semi-gloss metallic | Buckles, clips, D-rings, rivets, route-tool metal, watch fasteners. |
+| Gloves | Black leather | Satin / low gloss | Fingerless gloves only. No wrist warmers. |
 | Claws | Dark Horn | Satin | Thick, blunt, print-safe. Avoid bright monster claws. |
-| Pants / fabric | Dark canvas / worn black / olive-brown | Matte | Keep route-worker practical. |
+| Pants base | Worn brown / dark canvas brown | Matte | Route-worker cargo pants. |
+| Pants reinforcement panels | Darker brown / black-brown | Matte | Thigh / knee panels. Useful for optional knee seam. |
+| Belt | Dark brown / black leather | Satin | Wide belt line, practical. |
 | EMT pouch | Dark canvas, no symbol | Matte | No medical symbol for Prototype A unless separately approved. |
 | Field boot upper | Worn Orange | Semi-gloss / satin | Approved KFR-REF-008 Mountaineer field boot direction. |
 | Boot trim / bumper | Black | Semi-gloss / satin | Protects four-toe claw read. |
 | Boot sole | Matte Black | Matte | Keep tread readable but not glossy. |
-| Route-reader casing | Matte black / dark field gray | Matte / satin | Primary character-specific tool. |
-| Route-reader screen | Muted green display | Satin / slight gloss | Screen UI is placeholder only. |
+| Wrist route-reader watch case / bezel | Matte black | Matte / satin | Compact left-wrist unit. Sculpted on for Prototype A. |
+| Watch buttons | Dark charcoal | Matte / satin | Chunky, simplified. |
+| Watch fasteners | Gunmetal | Semi-gloss metallic | Simple raised circles. |
+| Watch screen | Monochrome green-gray | Satin / slight gloss | UI is placeholder only. No kill switch / stealth UI. |
+| Watch strap | Matte black fabric | Matte | Hook-and-loop style texture, no tiny thread detail. |
+| Optional handheld route-reader casing | Matte black / dark field gray | Matte / satin | Secondary backup only if included. |
+| Optional handheld route-reader screen | Muted green display | Satin / slight gloss | Screen UI is placeholder only. |
 | Black Path flag marker | Matte black | Matte | Blunt, print-safe, non-weapon-forward. |
 | Route probe / collapsible staff | Matte black / gunmetal with worn orange accent | Matte / metallic | Tool-like, not weapon-like. |
 | Field pack | Dark canvas with worn orange accents | Matte | Use KFR-REF-011 storage logic. |
 | Route token / whistle | Antique brass | Semi-gloss metallic | Markings are toy-only placeholder / candidate canon. |
 | Carabiner / route clip | Gunmetal with small worn orange accent | Semi-gloss | Grip / storage compatibility reference only. |
 | Folded terrain map / route card | Olive paper / muted route graphic | Matte | Graphics are toy-only placeholder / candidate canon. |
-| Weathering | W-02 Light Route Dust | Matte | Controlled dust on lower legs, boots, tail contact, harness edges, and tools. |
+| Weathering | W-02 Light Route Dust | Matte | Controlled dust on lower pants, boots, tail contact, jacket hem, harness edges, watch edges, and tools. |
 
 ---
 
@@ -73,14 +94,15 @@ At shelf distance, prioritize:
 1. face / expression
 2. short sparse red proto-quills
 3. black-frame shades or route goggles
-4. harness silhouette and worn orange field panels
+4. cropped jacket + harness silhouette
 5. tail and stance
-6. black fingerless gloves and orange / black field boots
-7. checker trim
-8. badges and tool details
-9. route-reader screen and accessory markings
+6. black fingerless gloves and compact left-wrist watch
+7. orange / black field boots
+8. dark route-worker cargo pants
+9. checker trim
+10. badges, watch screen, and tool details
 
-Do not let tiny badge paint, route-card symbols, or token markings steal the show from the head sculpt.
+Do not let tiny badge paint, route-card symbols, route-reader UI, or token markings steal the show from the head sculpt.
 
 ---
 
@@ -90,12 +112,13 @@ Recommended approach:
 
 - Base coat Route-Dust Olive Teal.
 - Add slightly darker wash into scale recesses.
-- Soft dry-brush on brow, cheek, knuckles, elbows, knees, tail ridge, and boot-contact areas.
+- Soft dry-brush on brow, cheek, knuckles, elbows, visible wrist, knees, tail ridge, and boot-contact areas.
 - Use subtle warmth around the face only if it helps expression readability.
 - Keep the tail upper in Route-Dust Olive Teal and the underside in Sage Green.
 
 Avoid:
 
+- human skin color on Forest
 - bright monster-green cliché
 - wet reptile gloss over the entire body
 - human blush makeup logic
@@ -125,11 +148,38 @@ If shades are sculpted on:
 - use dark-smoke lens with slight gloss
 - avoid hiding the brow entirely
 
-If route goggles are used:
+---
 
-- lenses may be smoky amber, dark gray, or muted field green
-- frame should be black / dark and robust
-- strap should read as practical field gear
+## Jacket, Under-Layer, Pants, and Belt
+
+Use KFR-REF-014A with the approved Prototype A paint guide.
+
+### Cropped Route Jacket
+
+- jacket shell: worn black / charcoal weathered leather or waxed shell
+- collar lining: warm gray / weathered shearling texture
+- seams / lapels: subtle edge highlight
+- zipper / snaps: gunmetal
+- cuffs and hem: W-02 Light Route Dust on raised edges
+
+The jacket should read cold-weather route gear, not biker parody, superhero costume, or military uniform.
+
+### Under-Layer
+
+- black thermal / field-knit
+- minimal graphic treatment
+- any shirt graphic is toy-only placeholder unless separately approved
+
+### Pants
+
+- base: worn brown / dark canvas brown
+- reinforcement panels: darker brown / black-brown
+- pocket flaps: slightly darker edge wear
+- belt: dark brown / black leather
+- belt hardware: gunmetal or antique brass
+- weathering: W-02 Light Route Dust on cuffs, knees, pocket edges, and boot-adjacent areas
+
+Keep pants practical and route-worker tough. Do not add loose straps, fashion chains, or dangling cords.
 
 ---
 
@@ -147,31 +197,41 @@ Approved treatment:
 
 Badge caveat:
 
-Badge symbols, badge labels, mountain / M icon, tree / KFR icon, route-reader UI, route-card graphics, and route-token markings are toy-development placeholders only. They do not create canon rank, title, faction, lore, or hidden Book One information.
+Badge symbols, badge labels, mountain / M icon, tree / KFR icon, route-reader UI, route-card graphics, watch UI, and route-token markings are toy-development placeholders only. They do not create canon rank, title, faction, lore, or hidden Book One information.
 
 Do not cover the figure in checkerboard. It should be pressure-route flavor, not a racing flag costume.
 
 ---
 
-## Gloves, Hands, Claws, and Tool Grip Paint
+## Gloves, Hands, Claws, and Watch Paint
 
-Use KFR-REF-007 and KFR-REF-013 together for hand paint.
+Use KFR-REF-007, KFR-REF-013, and KFR-REF-014B together.
 
-Approved treatment:
+Approved hand treatment:
 
 - black leather fingerless gloves
-- visible Route-Dust Olive Teal saurian fingers
+- visible Route-Dust Olive Teal saurian fingers and wrist skin where exposed
 - dark horn claws
 - satin / low-gloss glove finish
 - minimal edge wear on glove cuffs and knuckle areas
 
-Keep the glove cuff useful for hiding wrist swivel seams. Do not paint the gloves so glossy that they look like vinyl costume gloves.
+Watch treatment:
+
+- compact left-wrist watch only
+- matte black case and strap
+- dark charcoal buttons
+- gunmetal fasteners
+- monochrome green-gray screen
+- light W-02 edge wear on bezel, screws, and strap high points
+- screen graphics are non-canon placeholders
+
+Do not paint wrist warmers. Do not paint human skin around the watch. Do not make the watch huge or glossy superhero-tech.
 
 ---
 
 ## Boots and Foot Paint
 
-Use KFR-REF-008 and KFR-REF-013 together for boot paint.
+Use KFR-REF-008 and KFR-REF-013 together.
 
 Approved treatment:
 
@@ -205,15 +265,28 @@ Keep the first prototype paint mask practical. Do not use needle-tip high contra
 
 ## Accessories Paint Notes
 
-Use KFR-REF-011 and KFR-REF-013 together for accessory paint.
+KFR-REF-014B makes the wrist watch Forest's primary route-reader interface. The handheld GPR / route-reader from KFR-REF-011 is now optional backup if included.
 
-### GPR / Route-Reader Device
+### Wrist GPR Watch
+
+- matte black case / bezel
+- matte black fabric strap
+- dark charcoal buttons
+- gunmetal fasteners
+- monochrome green-gray screen
+- light route dust on edges / screws
+- no real-world brand marks
+- no kill-switch / stealth / military command UI
+- no canon-making tiny screen text
+
+### Optional Handheld GPR / Route-Reader Device
 
 - matte black or dark field-gray casing
 - muted green screen
 - gunmetal buttons
 - worn orange accent panels
 - light edge wear
+- secondary / backup only
 - screen graphics are toy-only placeholder unless separately approved
 
 ### Black Path Flag Marker
@@ -281,11 +354,10 @@ Use KFR-REF-011 and KFR-REF-013 together for accessory paint.
 
 ## Finish Recommendations
 
-- matte or satin finish for most body and clothing
-- slight gloss for shades / goggle lenses
+- matte or satin finish for most body, jacket, pants, and clothing
+- slight gloss for shades / goggle lenses and watch screen
 - satin or metallic for brass / copper / gunmetal details
-- matte black for Path flag
-- matte black boot soles
+- matte black for Path flag, watch strap, and boot soles
 - avoid full gloss body unless testing a specific stylized toy finish
 - use matte clear coat over most areas after paint tests pass
 
@@ -298,11 +370,14 @@ Weathering should make Kavo look field-used, maintained, and professionally earn
 Use light dust on:
 
 - boots and soles
-- lower legs
+- lower pants and cuffs
+- reinforced knees
 - lower tail and tail contact areas
+- jacket hem and cuff edges
 - harness edges
 - pouch corners
-- route-reader corners
+- watch bezel and strap high points
+- optional route-reader corners
 - route probe lower section
 - field pack bottom corners
 
@@ -321,42 +396,37 @@ Avoid:
 Before final paint:
 
 - [ ] confirm Route-Dust Olive Teal skin on physical test chip
+- [ ] confirm no human-skin paint appears on Forest
 - [ ] confirm Sage Green tail underside on physical test chip
 - [ ] confirm short sparse red proto-quill color and durability
+- [ ] confirm cropped jacket shell / collar colors
+- [ ] confirm pants base and reinforcement panel colors
 - [ ] confirm checker trim placement and mask size
 - [ ] confirm badge colors without canonizing badge meanings
 - [ ] confirm eye / lens treatment
 - [ ] confirm EMT pouch remains no-symbol
-- [ ] confirm black glove finish and exposed finger contrast
+- [ ] confirm black fingerless glove finish and exposed finger contrast
+- [ ] confirm compact left-wrist watch colors and non-canon screen UI
 - [ ] confirm orange / black boot treatment and dusting
-- [ ] test paint scrape at neck, shoulders, wrists, hips, tail socket, and optional knees
+- [ ] test paint scrape at neck, shoulders, wrists, watch edges, hips, tail socket, and optional knees
 - [ ] seal accessories separately
 - [ ] test balance after paint and sealant
-- [ ] verify route-reader screen / route-card / token markings remain placeholder-only in documentation
-
----
-
-## Labeling Notes
-
-Use these labels in future paint variants:
-
-- **Canon Reference:** required visual marker
-- **Toy Adaptation Choice:** shelf-read simplification or exaggeration
-- **Prototype Engineering Choice:** paint choice made for print or handling durability
-- **Toy-Only Continuity:** non-canon toyline embellishment
-- **Candidate Canon:** possible canon detail needing separate approval
-- **Rejected / Do Not Use:** paint idea that harms canon, printability, safety, or originality
+- [ ] verify route-reader screen / route-card / token / watch markings remain placeholder-only in documentation
 
 ---
 
 ## Rejected / Do Not Use
 
 - generic monster-green body
+- human skin paint on Forest
+- wrist warmers
+- oversized wrist computer paint emphasis
+- real-world watch / boot / garment branding or copied trade dress
+- kill-switch / stealth / military command screen UI
 - full wet reptile gloss
 - red or white medical symbol on EMT pouch without separate approval
-- real-world boot branding or copied trade dress
 - badge symbols treated as canon without review
-- route-reader UI or route-card graphics treated as canon without review
+- route-reader UI, watch UI, or route-card graphics treated as canon without review
 - generic survival weapon paint scheme
 - blood effects
 - excessive rust
