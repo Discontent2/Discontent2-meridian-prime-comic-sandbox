@@ -2,7 +2,7 @@
 
 **Room:** Meridian Prime Toy Development Room / Action Figure Prototype Lab  
 **Folder:** `production/toy-prototypes/kavo-forest-rill/reference/`  
-**Status:** First turnaround generated; primary head and hand details approved for sculpt reference  
+**Status:** First turnaround generated; head, hand, and foot details approved for sculpt reference  
 **Prototype Target:** 5-inch retro collector action figure  
 **Canon Boundary:** Sandbox production file. Does not alter main canon.
 
@@ -19,6 +19,7 @@ Current asset state:
 - KFR-REF-001 / KFR-REF-002 / KFR-REF-003 combined turnaround sheet has been generated and remains **Review Needed**.
 - KFR-REF-005 primary shades head sheet has been generated and is **Approved for Sculpt Reference**.
 - KFR-REF-007 four-finger hand detail sheet has been generated and is **Approved for Sculpt Reference**.
+- KFR-REF-008 four-toed foot / field boot detail sheet has been generated and is **Approved for Sculpt Reference**.
 
 ---
 
@@ -61,7 +62,7 @@ For each asset, ask:
 - Does Kavo read as Velocisapien / Velociraptoroid?
 - Does he read as Mountaineer / route guide / wilderness EMT / GPR path-reader?
 - Are the tail, four-fingered hands, and four-toed feet preserved?
-- Are red proto-quills, shades / goggles, harness, checker trim, badges, and claw-wraps / glove details present or planned?
+- Are red proto-quills, shades / goggles, harness, checker trim, badges, glove details, and field-boot details present or planned?
 - Does the posture read relaxed route-readiness rather than attack pose?
 - Does it avoid ninja, assassin, monster, generic raptor scout, human reptile makeup, and protected-toyline clone cues?
 - Are toy-only details labeled properly?
@@ -99,6 +100,8 @@ Examples:
 - `kfr_turnaround_side_v001_review.png`
 - `kfr_turnaround_back_v001_review.png`
 - `kfr_head_sly-shades_v001_review.png`
+- `kfr_hand_detail_fourfinger_black-gloves_v001_approved-sculpt-reference.png`
+- `kfr_foot_detail_fourtoe_field-boot_v001_approved-sculpt-reference.png`
 - `kfr_accessory_route-reader_v001_review.png`
 - `kfr_overlay_articulation_v001_review.png`
 - `kfr_overlay_paint-zones_v001_review.png`
@@ -123,10 +126,13 @@ These planned assets should reflect the approved Prototype A direction:
 - W-02 Light Route Dust weathering
 - dark canvas EMT pouch with no symbol yet
 - keyed removable tail, swivel-ready later
+- orange and black Mountaineer field boots with four-toe claw clearance for KFR-REF-008 foot sculpt reference
 
-Note:
+Notes:
 
 - The original route-dust tan claw-wrap concept remains a broader earlier toy-development direction, but the approved KFR-REF-007 hand sculpt reference uses black fingerless leather gloves with visible saurian fingers and claws.
+- The KFR-REF-008 foot direction uses mountaineering boot construction as a toy adaptation, while preserving four-toed Velocisapien anatomy through visible claw clearance.
+- Do not copy real boot branding, logos, product names, or exact trade dress. Use the boot reference for field-boot logic only.
 
 ---
 
@@ -237,6 +243,52 @@ Toy-development label:
 
 ---
 
+## Generated Asset Record: Four-Toed Foot / Field Boot Detail Sheet
+
+**Generated asset:** KFR-REF-008 four-toed foot / field boot detail sheet  
+**Local generated file:** `/mnt/data/velocisapien_boot_design_reference_sheet.png`  
+**Recommended repo filename if uploaded later:** `kfr_foot_detail_fourtoe_field-boot_v001_approved-sculpt-reference.png`  
+**Generated date:** 2026-06-12  
+**Status:** Approved for Sculpt Reference  
+**Production use:** foot-reference, sculpt-reference, printability-reference, balance-reference  
+**Canon-safe status:** Approved for sandbox toy sculpt reference.
+
+### Approval Summary
+
+User approved this asset in the Toy Development Room conversation.
+
+Strengths:
+
+- Preserves four-toed Velocisapien foot logic through visible front claw clearance.
+- Mountaineering field boot reads as Mountaineer / route guide gear rather than generic combat footwear.
+- Front, side, rear, top, sole, footprint, and three-quarter views give strong sculpt and print guidance.
+- Broad forefoot platform supports stable toy stance.
+- Toe bumper protects the claws while leaving the four-toe read visible.
+- Padded collar, heel counter, midsole, and tread depth provide useful durable toy forms.
+- Outsole tread gives strong field-read while still being simplifiable for 5-inch print scale.
+- Orange and black field color language supports visibility and route-culture shelf read.
+
+Sculpt-use notes:
+
+- Use the boot as a Meridian Prime Mountaineer field boot, not as a real-world branded product.
+- Preserve exactly four toes / front claws per foot.
+- Keep claws thick, blunt, and print-safe.
+- Keep the forefoot wide and flat enough for stance testing.
+- Use tread blocks as simplified sculpted lugs, not tiny brittle spikes.
+- Use boot collar and ankle shape to hide leg-to-foot transition.
+- Use orange / black field boot color language as Prototype A toy reference unless later revised.
+- Remove or redesign any real-world logos, brand names, and product text before sculpt, packaging, or final paint.
+
+Toy-development label:
+
+- **Toy Adaptation Choice:** orange and black Mountaineer field boots with four-toe claw clearance are approved for Prototype A foot sculpting.
+
+Rejected / do-not-copy note:
+
+- Do not copy Scarpa logos, wordmarks, model names, or exact product trade dress from the user-provided reference screenshots. Use only broad mountaineering boot construction logic.
+
+---
+
 ## Asset Log Table
 
 | Asset ID | File Name / Link | Source | Prompt / Artist Notes | Status | Production Use Tags | Canon-Safe? | Notes |
@@ -248,12 +300,12 @@ Toy-development label:
 | KFR-REF-005 | `/mnt/data/kavo_forest_rill_action_figure_design.png` / planned repo filename `kfr_headsheet_primary-shades_v001_approved-sculpt-reference.png` | Generated image | Primary shades head sheet. Front, side, and three-quarter views with brow, snout, shades, quills, and neck joint notes. | Approved for Sculpt Reference | head-reference, expression-reference, sculpt-reference, printability-reference | Approved | User approved. Use as primary head sculpt reference. |
 | KFR-REF-006 | `kfr_headsheet_route-goggles_v001_planned.png` | Planned | Alternate head sheet with route goggles. Amber lenses. Same underlying character identity. | Proposed | head-reference, paint-reference, sculpt-reference | Pending Review | Recommended optional alternate. |
 | KFR-REF-007 | `/mnt/data/kavo_forest_rill_hand_reference_sheet.png` / planned repo filename `kfr_hand_detail_fourfinger_black-gloves_v001_approved-sculpt-reference.png` | Generated image | Four-finger hand detail with black fingerless leather gloves, open hand, grip hand, palm view, tool grip, and wrist detail. | Approved for Sculpt Reference | hand-reference, accessory-reference, sculpt-reference, printability-reference | Approved | User approved. Use as primary hand sculpt and grip reference. |
-| KFR-REF-008 | `kfr_foot_detail_fourtoe_v001_planned.png` | Planned | Four-toed foot detail. Broad stable toy stance. Claw shape blunted enough for prototype safety. | Proposed | sculpt-reference, printability-reference | Pending Review | Required. |
+| KFR-REF-008 | `/mnt/data/velocisapien_boot_design_reference_sheet.png` / planned repo filename `kfr_foot_detail_fourtoe_field-boot_v001_approved-sculpt-reference.png` | Generated image | Four-toed Mountaineer field boot sheet with claw clearance, front / side / rear / sole / footprint views, and construction notes. | Approved for Sculpt Reference | foot-reference, sculpt-reference, printability-reference, balance-reference | Approved | User approved. Use as primary foot, boot, stance, and sole sculpt reference. Remove all real-world branding. |
 | KFR-REF-009 | `kfr_tail_engineering_v001_planned.png` | Planned | Tail detail and socket concept. Keyed removable tail. Show curve, balance intention, and tail base silhouette. | Proposed | sculpt-reference, articulation-reference, printability-reference | Pending Review | Required. |
-| KFR-REF-010 | `kfr_harness_badges_detail_v001_planned.png` | Planned | Route harness, badge cluster, checker trim placement, EMT pouch, claw-wrap / glove detail. | Proposed | sculpt-reference, paint-reference | Pending Review | Required. |
+| KFR-REF-010 | `kfr_harness_badges_detail_v001_planned.png` | Planned | Route harness, badge cluster, checker trim placement, EMT pouch, glove / boot integration. | Proposed | sculpt-reference, paint-reference | Pending Review | Required. |
 | KFR-REF-011 | `kfr_accessory_lineup_v001_planned.png` | Planned | Accessory lineup: route-reader, black Path flag marker, route probe, optional EMT pouch / field pack. | Proposed | accessory-reference, sculpt-reference, printability-reference, paint-reference | Pending Review | Required. |
 | KFR-REF-012 | `kfr_overlay_articulation_v001_planned.png` | Planned | Overlay on front/side body showing neck, shoulders, wrists, hips, tail engineering points. | Proposed | articulation-reference, sculpt-reference | Pending Review | Required. |
-| KFR-REF-013 | `kfr_overlay_paint-zones_v001_planned.png` | Planned | Overlay marking skin, quills, shades lenses, harness, checker trim, badges, gloves, claws, accessories. | Proposed | paint-reference | Pending Review | Required. |
+| KFR-REF-013 | `kfr_overlay_paint-zones_v001_planned.png` | Planned | Overlay marking skin, quills, shades lenses, harness, checker trim, badges, gloves, field boots, claws, accessories. | Proposed | paint-reference | Pending Review | Required. |
 | KFR-REF-014 | `kfr_packaging_portrait_v001_planned.png` | Planned | Portrait-oriented hero art for packaging mood only. Use Prototype A colors. | Proposed | packaging-reference | Pending Review | Optional. |
 | KFR-REF-015 | `kfr_packaging_accessory-callout_v001_planned.png` | Planned | Simple accessory callout sheet for packaging layout reference. | Proposed | packaging-reference, accessory-reference | Pending Review | Optional. |
 
@@ -273,12 +325,12 @@ Before sculpt begins, fill or explicitly waive these slots.
 | Shades head detail | Yes | KFR-REF-005 | Approved for Sculpt Reference | Use as primary head / shades / snout / brow sculpt reference. |
 | Route goggles alternate | Recommended | KFR-REF-006 | Proposed | Optional alternate head. |
 | Four-finger hand detail | Yes | KFR-REF-007 | Approved for Sculpt Reference | Black fingerless glove version generated and approved. |
-| Four-toed foot detail | Yes | KFR-REF-008 | Proposed | Required for sculpt and balance planning. |
+| Four-toed foot detail | Yes | KFR-REF-008 | Approved for Sculpt Reference | Mountaineer field boot version generated and approved. |
 | Tail engineering detail | Yes | KFR-REF-009 | Proposed | Required for prototype one engineering. |
-| Route harness / badge detail | Yes | KFR-REF-010 | Proposed | Required. Should align with approved glove direction. |
+| Route harness / badge detail | Yes | KFR-REF-010 | Proposed | Required. Should align with approved glove and boot direction. |
 | Accessory lineup | Yes | KFR-REF-011 | Proposed | Required. Use KFR-REF-007 grip geometry. |
-| Articulation overlay | Yes | KFR-REF-012 | Proposed | Required. Wrist seam should align with glove cuff. |
-| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. Must include black fingerless gloves. |
+| Articulation overlay | Yes | KFR-REF-012 | Proposed | Required. Wrist seam should align with glove cuff; ankles should align with boot collar. |
+| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. Must include black fingerless gloves and orange / black field boots. |
 | Packaging art concept | Optional | KFR-REF-014 | Proposed | Optional until packaging pass. |
 
 ---
@@ -287,12 +339,12 @@ Before sculpt begins, fill or explicitly waive these slots.
 
 Generate / request assets in this order:
 
-1. KFR-REF-001, full-body front turnaround — generated, Review Needed
-2. KFR-REF-002, full-body side turnaround — generated, Review Needed
-3. KFR-REF-003, full-body back turnaround — generated, Review Needed
-4. KFR-REF-005, primary head sheet, shades version — generated, Approved for Sculpt Reference
-5. KFR-REF-007, four-finger hand detail — generated, Approved for Sculpt Reference
-6. KFR-REF-008, four-toed foot detail
+1. KFR-REF-001, full-body front turnaround: generated, Review Needed
+2. KFR-REF-002, full-body side turnaround: generated, Review Needed
+3. KFR-REF-003, full-body back turnaround: generated, Review Needed
+4. KFR-REF-005, primary head sheet, shades version: generated, Approved for Sculpt Reference
+5. KFR-REF-007, four-finger hand detail: generated, Approved for Sculpt Reference
+6. KFR-REF-008, four-toed foot detail: generated, Approved for Sculpt Reference
 7. KFR-REF-009, tail engineering detail
 8. KFR-REF-010, harness / badges / checker trim detail
 9. KFR-REF-011, accessory lineup
@@ -332,12 +384,12 @@ Planned prompt section mapping:
 | KFR-REF-005 | head sheet primary | Generated and approved for sculpt reference. |
 | KFR-REF-006 | head sheet alternate | Route-goggles optional. |
 | KFR-REF-007 | hand detail | Generated and approved for sculpt reference. Black fingerless glove version. |
-| KFR-REF-008 | foot detail | Wide toy stance logic. |
+| KFR-REF-008 | foot detail | Generated and approved for sculpt reference. Mountaineer field boot version. |
 | KFR-REF-009 | tail detail | Keyed removable tail concept. |
-| KFR-REF-010 | gear detail | Harness, badges, trim, pouch, wraps / gloves. |
+| KFR-REF-010 | gear detail | Harness, badges, trim, pouch, gloves, boots. |
 | KFR-REF-011 | accessory sheet | Route-reader, black flag, route probe. Use KFR-REF-007 grip geometry. |
-| KFR-REF-012 | articulation overlay | Joint mapping, including wrist seam hidden by glove cuff. |
-| KFR-REF-013 | paint-zone overlay | Prototype A paint map with black fingerless gloves. |
+| KFR-REF-012 | articulation overlay | Joint mapping, including wrist seam hidden by glove cuff and ankle transition hidden by boot collar. |
+| KFR-REF-013 | paint-zone overlay | Prototype A paint map with black fingerless gloves and orange / black field boots. |
 | KFR-REF-014 | packaging portrait | Optional packaging mood. |
 | KFR-REF-015 | packaging accessory callout | Optional layout support. |
 
@@ -353,7 +405,7 @@ An asset can be marked **Approved for Sculpt Reference** only if:
 - [ ] tail is functional and characterful
 - [ ] head expression fits relaxed menace
 - [ ] hands and feet match four-finger / four-toe canon
-- [ ] harness, badges, wraps / gloves, and shades / goggles are clear
+- [ ] harness, badges, gloves, boots, and shades / goggles are clear
 - [ ] no protected-toyline confusion is present
 - [ ] details are printable or marked for simplification
 - [ ] toy-only or candidate canon details are labeled
@@ -366,10 +418,10 @@ Current KFR-REF-001/002/003 checklist status:
 - [x] tail is functional and characterful
 - [x] head expression generally fits relaxed menace
 - [x] hands and feet visually indicate four-finger / four-toe canon
-- [x] harness, badges, wraps / gloves, and shades are clear enough for review
+- [x] harness, badges, gloves, and shades are clear enough for review
 - [x] no protected-toyline confusion is present
-- [ ] details are printable or marked for simplification — quills need shortening / thickening note
-- [ ] toy-only or candidate canon details are fully labeled — generated sheet text should not be used
+- [ ] details are printable or marked for simplification: quills need shortening / thickening note
+- [ ] toy-only or candidate canon details are fully labeled: generated sheet text should not be used
 
 Current KFR-REF-005 checklist status:
 
@@ -397,6 +449,20 @@ Current KFR-REF-007 checklist status:
 - [x] no protected-toyline confusion is present
 - [x] approved by user for sculpt reference
 
+Current KFR-REF-008 checklist status:
+
+- [x] foot / boot proportions are consistent with the 5-inch figure plan
+- [x] feet read as Velocisapien / Velociraptoroid field gear rather than ordinary human boots
+- [x] four-toe / front claw read is preserved
+- [x] front, side, rear, top, sole, footprint, and three-quarter views are present
+- [x] broad forefoot platform supports stance and balance planning
+- [x] toe bumper protects claws while preserving the four-toe read
+- [x] outsole lugs are useful for field-read and can be simplified for printing
+- [x] boot collar can hide ankle / leg transition
+- [x] no protected-toyline confusion is present
+- [x] approved by user for sculpt reference
+- [x] real-world branding must be removed / redesigned before production use
+
 ---
 
 ## Approval Checklist for Paint Reference
@@ -413,6 +479,8 @@ An asset can be marked **Approved for Paint Reference** only if:
 - [ ] accessory colors match the paint guide
 - [ ] figure does not drift into neon parody or monster gloss
 - [ ] black fingerless gloves are treated as a Toy Adaptation Choice unless canon-approved elsewhere
+- [ ] orange / black field boots are treated as a Toy Adaptation Choice unless canon-approved elsewhere
+- [ ] no real-world boot branding appears in final sculpt, paint, packaging, or production notes
 
 ---
 
@@ -426,6 +494,7 @@ An asset can be marked **Approved for Packaging Reference** only if:
 - [ ] it preserves Kavo's role and character read
 - [ ] it does not reveal hidden Book One information
 - [ ] it includes adult collectible prototype caution if used in mock packaging
+- [ ] it does not include real-world boot brand names, logos, or product names
 
 ---
 
@@ -448,6 +517,7 @@ Use these labels when rejecting or archiving assets:
 - `canon-risk`
 - `paint-risk`
 - `packaging-risk`
+- `brand-copy-risk`
 - `archive-only`
 
 ---
@@ -458,19 +528,19 @@ Use these labels when rejecting or archiving assets:
 |---|---|---|---|
 | KFR-REF-001/002/003 original generation | `/mnt/data/a_clean_professional_concept_art_turnaround_sheet.png` | archive-only | Superseded by revised generation. Original had stronger EMT cross issue and weaker back-view tail match. |
 | KFR-REF-007 first hand generation | `/mnt/data/reptilian_action_figure_hand_reference_sheet.png` | archive-only | Superseded by approved black fingerless leather glove version. Useful only as wrap-only comparison, not current sculpt direction. |
-|  |  |  |  |
+| User-provided boot screenshots | `/mnt/data/1000004792.png` through `/mnt/data/1000004798.png` | archive/reference only | Use for broad mountaineering boot construction logic only. Do not copy brand names, logos, product names, or exact trade dress. |
 
 ---
 
 ## Immediate Next Use
 
-Use the approved primary shades head sheet and approved four-finger hand sheet as sculpt reference.
+Use the approved primary shades head sheet, approved four-finger hand sheet, and approved four-toed field boot sheet as sculpt reference.
 
 Immediate working goal:
 
-- generate or request KFR-REF-008 four-toed foot detail
 - generate or request KFR-REF-009 tail engineering detail
 - generate or request KFR-REF-011 accessory lineup using the KFR-REF-007 grip geometry
+- generate or request KFR-REF-012 articulation overlay using glove cuff and boot collar seam logic
 - keep KFR-REF-001/002/003 at Review Needed until quill and generated-text caveats are either corrected or accepted as sculpt notes
 
 ---
@@ -479,8 +549,8 @@ Immediate working goal:
 
 Recommended next asset to generate:
 
-`KFR-REF-008 — kfr_foot_detail_fourtoe_v001_review.png`
+`KFR-REF-009 — kfr_tail_engineering_v001_review.png`
 
 Purpose:
 
-Create a dedicated four-toed foot reference so the sculptor has stable stance, toe count, claw thickness, sole contact, and balance guidance before modeling legs, feet, and the tail-assisted stance.
+Create a dedicated tail engineering reference so the sculptor has tail base, keyed-removable socket, balance contact, curve, thickness, and print-safe tail-tip guidance before body sculpt and parts breakdown move forward.
