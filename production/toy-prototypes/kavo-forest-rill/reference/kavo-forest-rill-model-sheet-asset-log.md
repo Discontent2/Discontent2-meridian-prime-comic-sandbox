@@ -2,7 +2,7 @@
 
 **Room:** Meridian Prime Toy Development Room / Action Figure Prototype Lab  
 **Folder:** `production/toy-prototypes/kavo-forest-rill/reference/`  
-**Status:** First turnaround generated; head, hand, foot, tail, and harness details approved for sculpt reference  
+**Status:** Core reference assets generated; head, hands, feet, tail, harness, and accessories approved for sculpt reference  
 **Prototype Target:** 5-inch retro collector action figure  
 **Canon Boundary:** Sandbox production file. Does not alter main canon.
 
@@ -24,6 +24,7 @@ Use this log to record where each visual asset came from, what it may guide, whe
 - KFR-REF-008 four-toed foot / field boot detail sheet has been generated and is **Approved for Sculpt Reference**.
 - KFR-REF-009 tail engineering detail sheet has been generated and is **Approved for Sculpt / Engineering Reference**, with Prototype A caveats.
 - KFR-REF-010 harness / badges / checker trim detail sheet has been generated and is **Approved for Sculpt / Paint Reference**, with badge-symbol caveats.
+- KFR-REF-011 accessory lineup sheet has been regenerated and is **Approved for Sculpt / Paint / Packaging-Tray Reference**, with toy-only and generated-text caveats.
 
 ---
 
@@ -48,6 +49,10 @@ Asset may guide sculpt shape and functional engineering, but any complex mechani
 ### Approved for Sculpt / Paint Reference
 
 Asset may guide sculpt placement, shape language, material breakup, paint masks, color zones, weathering, and finish decisions.
+
+### Approved for Sculpt / Paint / Packaging-Tray Reference
+
+Asset may guide accessory sculpting, paint zones, accessory scale, compatibility, storage logic, and blister / tray planning. Packaging copy and generated text still require separate rewriting and approval.
 
 ### Approved for Paint Reference
 
@@ -74,9 +79,9 @@ For each asset, ask:
 - Does Kavo read as Velocisapien / Velociraptoroid?
 - Does he read as Mountaineer / route guide / wilderness EMT / GPR path-reader?
 - Are the tail, four-fingered hands, and four-toed feet preserved?
-- Are red proto-quills, shades / goggles, harness, checker trim, badges, glove details, field-boot details, and tail engineering details present or planned?
+- Are red proto-quills, shades / goggles, harness, checker trim, badges, glove details, field-boot details, tail engineering details, and canon-based accessories present or planned?
 - Does the posture read relaxed route-readiness rather than attack pose?
-- Does it avoid ninja, assassin, monster, generic raptor scout, human reptile makeup, and protected-toyline clone cues?
+- Does it avoid ninja, assassin, monster, generic raptor scout, human reptile makeup, protected-toyline clone cues, and generic over-armed survival-figure cues?
 - Are toy-only details labeled properly?
 - Are candidate canon details logged before use?
 
@@ -98,6 +103,7 @@ Use one or more tags:
 - `badge-reference`
 - `checker-trim-reference`
 - `paint-reference`
+- `packaging-tray-reference`
 - `packaging-reference`
 - `sculpt-reference`
 - `printability-reference`
@@ -125,6 +131,7 @@ These approved or planned assets should reflect the Prototype A direction:
 - Orange and black Mountaineer field boots with four-toe claw clearance for KFR-REF-008 foot sculpt reference.
 - Tail must remain functional: balance, attitude, pose support, and emotional read.
 - KFR-REF-009 is approved as the tail engineering reference, while final physical implementation must still pass printability and durability review.
+- KFR-REF-011 canon accessory pool is: GPR / route-reader device, black Path flag marker, route probe / collapsible staff, compact Mountaineer field pack, dark canvas EMT pouch with no symbol, route goggles alternate, brass route token / whistle, carabiner / route clip, folded terrain map / route card, and optional alternate gripping hand pair.
 
 Important caveats:
 
@@ -134,6 +141,7 @@ Important caveats:
 - The earlier keyed-removable / swivel-ready tail direction remains the safest physical prototype baseline unless the segmented tail design passes tolerance and durability testing.
 - Generated labels that say 6-inch, kid-friendly, or not-to-scale must not override the project target: 5-inch adult collectible prototype.
 - KFR-REF-010 badge symbols and badge labels are approved as visual toy-development placeholders only. They do not establish main canon meanings.
+- KFR-REF-011 route token / whistle markings, route-card symbols, screen graphics, and packaging-tray text are approved as toy-development placeholders only unless separately reviewed.
 
 ---
 
@@ -381,6 +389,56 @@ Caveat / do-not-use note:
 
 ---
 
+## Generated Asset Record: Accessory Lineup Sheet
+
+**Generated asset:** KFR-REF-011 accessory lineup sheet  
+**Local generated file:** `/mnt/data/kavo_forest_rill_accessory_lineup.png`  
+**Recommended repo filename if uploaded later:** `kfr_accessory_lineup_canon-tools_v001_approved-sculpt-paint-tray-reference.png`  
+**Generated date:** 2026-06-12  
+**Status:** Approved for Sculpt / Paint / Packaging-Tray Reference  
+**Production use:** accessory-reference, sculpt-reference, printability-reference, paint-reference, packaging-tray-reference  
+**Canon-safe status:** Approved for sandbox toy accessory reference, with toy-only and generated-text caveats.
+
+### Approval Summary
+
+User approved the regenerated canon-accessory version in the Toy Development Room conversation.
+
+Strengths:
+
+- Uses the agreed Kavo-specific accessory pool instead of generic outdoor / survival gear.
+- Includes GPR / route-reader device, black Path flag marker, route probe / collapsible staff, compact Mountaineer field pack, dark canvas EMT pouch with no symbol, route goggles, brass route token / whistle, carabiner / route clip, folded terrain map / route card, and optional alternate gripping hand pair.
+- Shows a 5-inch scale figure reference and approximate accessory dimensions.
+- Includes compatibility and storage views: route-reader clips to chest, route probe stores on back webbing, black Path flag stores on pack side, EMT pouch stores on lower webbing, and carabiner / token clip to harness D-ring.
+- Includes hand-grip compatibility views using the approved black fingerless glove hand logic.
+- Includes material / finish reference swatches for matte black, gunmetal, worn orange, olive drab, dark canvas, brass / copper, muted green display, and nylon texture.
+- Includes an accessory packaging tray concept useful for later blister / tray planning.
+- Project guardrails correctly state that the figure is a 5-inch adult collectible prototype and not intended for children.
+
+Sculpt / paint / tray-use notes:
+
+- Use the accessory lineup for scale, accessory silhouette, print-safe thickness, paint zones, grip compatibility, storage logic, and tray layout reference.
+- Keep the route-reader device as the primary character-specific tool.
+- Keep the black Path flag marker matte black and blunt / print-safe.
+- Keep the route probe / collapsible staff blunt, tool-like, and non-weapon-forward.
+- Keep the EMT pouch dark canvas with no symbol.
+- Use route goggles as an alternate accessory / alternate-head support item, but do not let them replace the approved primary shades head unless specifically chosen.
+- Use the alternate gripping hand pair only if needed for accessory handling.
+- Treat route token / whistle markings, route-card markings, screen graphics, and tiny labels as toy-development placeholders unless separately reviewed.
+- Do not copy generated text into packaging, final files, or canon docs without rewriting.
+- Do not add generic survival weapons, ice axes, knives, or fantasy combat weapons to Prototype A accessory pool unless separately approved.
+
+Toy-development labels:
+
+- **Canon Reference:** GPR / route-reader, black Path flag marker, route probe / collapsible staff, Mountaineer field pack, EMT pouch, and route goggles derive from the approved toy-development accessory pool.
+- **Toy Adaptation Choice:** brass route token / whistle, carabiner / route clip, folded terrain map / route card, and alternate gripping hand pair are approved for Prototype A toy accessory development.
+- **Toy-Only Continuity / Candidate Canon:** route token face markings, route-card graphics, screen UI, and specific storage callouts require separate review before main-canon adoption.
+
+Caveat / do-not-use note:
+
+- Generated labels and tiny UI symbols are not production copy and do not create canon. Rewrite all packaging text before use.
+
+---
+
 ## Asset Log Table
 
 | Asset ID | File Name / Link | Source | Prompt / Artist Notes | Status | Production Use Tags | Canon-Safe? | Notes |
@@ -395,7 +453,7 @@ Caveat / do-not-use note:
 | KFR-REF-008 | `/mnt/data/velocisapien_boot_design_reference_sheet.png` / planned repo filename `kfr_foot_detail_fourtoe_field-boot_v001_approved-sculpt-reference.png` | Generated image | Four-toed Mountaineer field boot sheet with claw clearance, front / side / rear / sole / footprint views, and construction notes. | Approved for Sculpt Reference | foot-reference, sculpt-reference, printability-reference, balance-reference | Approved | User approved. Use as primary foot, boot, stance, and sole sculpt reference. Remove all real-world branding. |
 | KFR-REF-009 | `/mnt/data/a_clean_technical_reference_sheet_engineering.png` / planned repo filename `kfr_tail_engineering_segmented-keyed_v001_approved-sculpt-engineering-reference.png` | Generated image | Tail engineering sheet with side / top / bottom views, hip connector detail, segment breakdown, pose range, and clearance notes. | Approved for Sculpt / Engineering Reference | tail-engineering-reference, articulation-reference, sculpt-reference, printability-reference, balance-reference | Approved with caveats | User approved. Use for tail function, taper, pose range, socket logic, and engineering thinking. Ignore 6-inch / kid-friendly generated text. Mechanism must pass durability tests. |
 | KFR-REF-010 | `/mnt/data/a_clean_high_detail_product_design_reference_shee.png` / planned repo filename `kfr_harness_badges_checker-trim_v001_approved-sculpt-paint-reference.png` | Generated image | Harness / badges / checker trim detail sheet with front/back views, material swatches, hardware, badge scale, and paint notes. | Approved for Sculpt / Paint Reference | harness-reference, badge-reference, checker-trim-reference, sculpt-reference, paint-reference, printability-reference | Approved with caveats | User approved. Use for harness structure, material breakup, checker placement, badge scale, and paint masks. Badge symbols are toy-only / candidate canon placeholders. |
-| KFR-REF-011 | `kfr_accessory_lineup_v001_planned.png` | Planned | Accessory lineup: route-reader, black Path flag marker, route probe, optional EMT pouch / field pack. | Proposed | accessory-reference, sculpt-reference, printability-reference, paint-reference | Pending Review | Required. |
+| KFR-REF-011 | `/mnt/data/kavo_forest_rill_accessory_lineup.png` / planned repo filename `kfr_accessory_lineup_canon-tools_v001_approved-sculpt-paint-tray-reference.png` | Generated image | Canon-accessory lineup with route-reader, black Path flag marker, route probe, field pack, no-symbol EMT pouch, route goggles, route token / whistle, route clip, route card, and alternate hands. | Approved for Sculpt / Paint / Packaging-Tray Reference | accessory-reference, sculpt-reference, printability-reference, paint-reference, packaging-tray-reference | Approved with caveats | User approved. Use for canon accessory pool, grip compatibility, storage logic, paint zones, and tray concept. Generated text and tiny markings are placeholders only. |
 | KFR-REF-012 | `kfr_overlay_articulation_v001_planned.png` | Planned | Overlay on front/side body showing neck, shoulders, wrists, hips, and tail engineering points. | Proposed | articulation-reference, sculpt-reference | Pending Review | Required. Must decide one-piece / swivel / segmented tail path. |
 | KFR-REF-013 | `kfr_overlay_paint-zones_v001_planned.png` | Planned | Overlay marking skin, quills, shades lenses, harness, checker trim, badges, gloves, field boots, claws, tail, and accessories. | Proposed | paint-reference | Pending Review | Required. |
 | KFR-REF-014 | `kfr_packaging_portrait_v001_planned.png` | Planned | Portrait-oriented hero art for packaging mood only. Use Prototype A colors. | Proposed | packaging-reference | Pending Review | Optional. |
@@ -420,9 +478,9 @@ Before sculpt begins, fill or explicitly waive these slots.
 | Four-toed foot detail | Yes | KFR-REF-008 | Approved for Sculpt Reference | Mountaineer field boot version generated and approved. |
 | Tail engineering detail | Yes | KFR-REF-009 | Approved for Sculpt / Engineering Reference | Tail engineering sheet generated and approved with Prototype A caveats. |
 | Route harness / badge detail | Yes | KFR-REF-010 | Approved for Sculpt / Paint Reference | Harness / badges / checker trim sheet generated and approved with badge-symbol caveats. |
-| Accessory lineup | Yes | KFR-REF-011 | Proposed | Required. Use KFR-REF-007 grip geometry. |
+| Accessory lineup | Yes | KFR-REF-011 | Approved for Sculpt / Paint / Packaging-Tray Reference | Canon-accessory lineup generated and approved with toy-only and generated-text caveats. |
 | Articulation overlay | Yes | KFR-REF-012 | Proposed | Required. Wrist seam should align with glove cuff; ankles should align with boot collar; tail path must be decided. |
-| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. Must include black fingerless gloves, orange / black field boots, tail quill rules, and KFR-REF-010 harness paint masks. |
+| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. Must include black fingerless gloves, orange / black field boots, tail quill rules, KFR-REF-010 harness paint masks, and KFR-REF-011 accessory paint zones. |
 | Packaging art concept | Optional | KFR-REF-014 | Proposed | Optional until packaging pass. |
 
 ---
@@ -439,7 +497,7 @@ Generate / request assets in this order:
 6. KFR-REF-008, four-toed foot detail: generated, Approved for Sculpt Reference
 7. KFR-REF-009, tail engineering detail: generated, Approved for Sculpt / Engineering Reference
 8. KFR-REF-010, harness / badges / checker trim detail: generated, Approved for Sculpt / Paint Reference
-9. KFR-REF-011, accessory lineup
+9. KFR-REF-011, accessory lineup: generated, Approved for Sculpt / Paint / Packaging-Tray Reference
 10. KFR-REF-012, articulation overlay
 11. KFR-REF-013, paint-zone overlay
 12. KFR-REF-004, three-quarter hero view
@@ -479,9 +537,9 @@ Planned prompt section mapping:
 | KFR-REF-008 | foot detail | Generated and approved for sculpt reference. Mountaineer field boot version. |
 | KFR-REF-009 | tail detail | Generated and approved for sculpt / engineering reference. Final tail mechanism must pass durability testing. |
 | KFR-REF-010 | gear detail | Generated and approved for harness / badges / checker trim sculpt and paint reference. Badge symbols are toy-only / candidate canon placeholders. |
-| KFR-REF-011 | accessory sheet | Route-reader, black flag, route probe. Use KFR-REF-007 grip geometry. |
-| KFR-REF-012 | articulation overlay | Joint mapping, including wrist seam hidden by glove cuff, ankle transition hidden by boot collar, selected tail mechanism, and harness shoulder clearance. |
-| KFR-REF-013 | paint-zone overlay | Prototype A paint map with black fingerless gloves, orange / black field boots, harness masks, checker trim, badge caveats, and tail quill limits. |
+| KFR-REF-011 | accessory sheet | Generated and approved for canon accessory sculpt, paint, storage, grip compatibility, and tray reference. Generated text and tiny markings are placeholders. |
+| KFR-REF-012 | articulation overlay | Joint mapping, including wrist seam hidden by glove cuff, ankle transition hidden by boot collar, selected tail mechanism, harness shoulder clearance, and accessory storage compatibility. |
+| KFR-REF-013 | paint-zone overlay | Prototype A paint map with black fingerless gloves, orange / black field boots, harness masks, checker trim, badge caveats, tail quill limits, and accessory paint zones. |
 | KFR-REF-014 | packaging portrait | Optional packaging mood. |
 | KFR-REF-015 | packaging accessory callout | Optional layout support. |
 
@@ -497,7 +555,7 @@ An asset can be marked **Approved for Sculpt Reference** only if:
 - [ ] tail is functional and characterful
 - [ ] head expression fits relaxed menace
 - [ ] hands and feet match four-finger / four-toe canon
-- [ ] harness, badges, gloves, boots, tail, and shades / goggles are clear
+- [ ] harness, badges, gloves, boots, tail, accessories, and shades / goggles are clear
 - [ ] no protected-toyline confusion is present
 - [ ] details are printable or marked for simplification
 - [ ] toy-only or candidate canon details are labeled
@@ -582,6 +640,21 @@ Current KFR-REF-010 checklist status:
 - [x] badge symbols are labeled toy-only / candidate canon placeholders
 - [ ] shoulder, waist, and tail clearances must still be confirmed during articulation overlay and sculpt review
 
+Current KFR-REF-011 checklist status:
+
+- [x] accessory pool is Kavo-specific rather than generic survival gear
+- [x] route-reader, black Path flag marker, route probe / collapsible staff, field pack, no-symbol EMT pouch, route goggles, route token / whistle, carabiner / route clip, route card, and alternate gripping hand pair are present
+- [x] 5-inch scale reference and approximate dimensions are present
+- [x] hand-grip compatibility views align with KFR-REF-007 hand logic
+- [x] storage / compatibility views align with KFR-REF-010 harness / pouch logic
+- [x] material / finish swatches support paint planning
+- [x] tray concept is useful for later packaging planning
+- [x] adult collectible prototype guardrails are present
+- [x] approved by user for sculpt / paint / packaging-tray reference
+- [x] generated text and tiny markings are labeled placeholders
+- [ ] accessory handle diameters must still be checked against physical hand tolerance tests
+- [ ] route-reader screen UI, route-card graphics, token markings, and packaging tray text require separate approval before final use
+
 ---
 
 ## Approval Checklist for Paint Reference
@@ -602,6 +675,7 @@ An asset can be marked **Approved for Paint Reference** only if:
 - [ ] no real-world boot branding appears in final sculpt, paint, packaging, or production notes
 - [ ] tail quills remain short, sturdy, sparse, and not fragile
 - [ ] harness badge symbols remain toy-only / candidate canon unless separately approved
+- [ ] accessory screen, route-card, route-token, and whistle markings remain toy-only / candidate canon unless separately approved
 
 ---
 
@@ -615,7 +689,7 @@ An asset can be marked **Approved for Packaging Reference** only if:
 - [ ] it preserves Kavo's role and character read
 - [ ] it does not reveal hidden Book One information
 - [ ] it includes adult collectible prototype caution if used in mock packaging
-- [ ] it does not include real-world boot brand names, logos, product names, generated child-safe language, generated 6-inch scale claims, or unapproved badge/rank/faction terminology
+- [ ] it does not include real-world boot brand names, logos, product names, generated child-safe language, generated 6-inch scale claims, unapproved badge/rank/faction terminology, or unapproved route-token / route-card lore
 
 ---
 
@@ -631,6 +705,7 @@ Use these labels when rejecting or archiving assets:
 - `protected-toyline-confusion`
 - `literal-music-prop`
 - `over-armed`
+- `generic-survival-gear-drift`
 - `missing-tail`
 - `wrong-hands-feet`
 - `fragile-print-details`
@@ -642,6 +717,7 @@ Use these labels when rejecting or archiving assets:
 - `wrong-scale-label`
 - `child-safety-language-risk`
 - `unapproved-badge-meaning-risk`
+- `unapproved-accessory-lore-risk`
 - `archive-only`
 
 ---
@@ -653,18 +729,18 @@ Use these labels when rejecting or archiving assets:
 | KFR-REF-001/002/003 original generation | `/mnt/data/a_clean_professional_concept_art_turnaround_sheet.png` | archive-only | Superseded by revised generation. Original had stronger EMT cross issue and weaker back-view tail match. |
 | KFR-REF-007 first hand generation | `/mnt/data/reptilian_action_figure_hand_reference_sheet.png` | archive-only | Superseded by approved black fingerless leather glove version. Useful only as wrap-only comparison, not current sculpt direction. |
 | User-provided boot screenshots | `/mnt/data/1000004792.png` through `/mnt/data/1000004798.png` | archive/reference only | Use for broad mountaineering boot construction logic only. Do not copy brand names, logos, product names, or exact trade dress. |
+| KFR-REF-011 first accessory generation | `/mnt/data/a_clean_high_detail_product_reference_sheet_spec.png` | archive-only / generic-survival-gear-drift | Superseded by regenerated canon-accessory lineup. First version drifted into generic ice axe / knife / binocular / comm unit / glow stick / rope gear. |
 
 ---
 
 ## Immediate Next Use
 
-Use the approved primary shades head sheet, approved four-finger hand sheet, approved four-toed field boot sheet, approved tail engineering sheet, and approved harness / badges / checker trim sheet as sculpt / engineering / paint reference.
+Use the approved primary shades head sheet, approved four-finger hand sheet, approved four-toed field boot sheet, approved tail engineering sheet, approved harness / badges / checker trim sheet, and approved accessory lineup as sculpt / engineering / paint / tray reference.
 
 Immediate working goal:
 
-- generate or request KFR-REF-011 accessory lineup using the KFR-REF-007 grip geometry and KFR-REF-010 harness / pouch logic
-- generate or request KFR-REF-012 articulation overlay using glove cuff, boot collar, harness shoulder clearance, and tail mechanism logic
-- generate or request KFR-REF-013 paint-zone overlay using approved Prototype A colors and badge-symbol caveats
+- generate or request KFR-REF-012 articulation overlay using glove cuff, boot collar, harness shoulder clearance, accessory storage, and tail mechanism logic
+- generate or request KFR-REF-013 paint-zone overlay using approved Prototype A colors, badge-symbol caveats, and accessory paint zones
 - keep KFR-REF-001/002/003 at Review Needed until quill and generated-text caveats are either corrected or accepted as sculpt notes
 
 ---
@@ -673,8 +749,8 @@ Immediate working goal:
 
 Recommended next asset to generate:
 
-`KFR-REF-011 — kfr_accessory_lineup_v001_review.png`
+`KFR-REF-012 — kfr_overlay_articulation_v001_review.png`
 
 Purpose:
 
-Create a dedicated accessory lineup sheet for the route-reader device, black Path flag marker, route probe, optional EMT pouch / field pack, and any grip-compatible tools, using the approved KFR-REF-007 hand geometry and KFR-REF-010 harness / pouch logic.
+Create a dedicated articulation overlay showing neck, shoulders, wrists, hips, ankles / boot-collar transition, tail mechanism options, harness clearance, and accessory-storage compatibility before the sculpt is converted into parts and joints.
