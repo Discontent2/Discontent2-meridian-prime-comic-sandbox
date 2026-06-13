@@ -2,7 +2,7 @@
 
 **Room:** Meridian Prime Toy Development Room / Action Figure Prototype Lab  
 **Folder:** `production/toy-prototypes/kavo-forest-rill/reference/`  
-**Status:** First turnaround generated; head, hand, foot, and tail engineering details approved for sculpt reference  
+**Status:** First turnaround generated; head, hand, foot, tail, and harness details approved for sculpt reference  
 **Prototype Target:** 5-inch retro collector action figure  
 **Canon Boundary:** Sandbox production file. Does not alter main canon.
 
@@ -10,17 +10,20 @@
 
 ## Purpose
 
-This file tracks the first planned model-sheet package for the Kavo "Forest" Rill action figure prototype.
+This file tracks the first model-sheet package for the Kavo "Forest" Rill action figure prototype.
 
-Use this log to record where each asset came from, what prompt or artist note generated it, whether it is canon-safe, whether it has been approved, and what production use it supports.
+Use this log to record where each visual asset came from, what it may guide, whether it is canon-safe, what has been approved, and what must remain toy-only, candidate canon, or rejected.
 
-Current asset state:
+---
+
+## Current Asset State
 
 - KFR-REF-001 / KFR-REF-002 / KFR-REF-003 combined turnaround sheet has been generated and remains **Review Needed**.
 - KFR-REF-005 primary shades head sheet has been generated and is **Approved for Sculpt Reference**.
 - KFR-REF-007 four-finger hand detail sheet has been generated and is **Approved for Sculpt Reference**.
 - KFR-REF-008 four-toed foot / field boot detail sheet has been generated and is **Approved for Sculpt Reference**.
 - KFR-REF-009 tail engineering detail sheet has been generated and is **Approved for Sculpt / Engineering Reference**, with Prototype A caveats.
+- KFR-REF-010 harness / badges / checker trim detail sheet has been generated and is **Approved for Sculpt / Paint Reference**, with badge-symbol caveats.
 
 ---
 
@@ -32,7 +35,7 @@ Asset exists or is planned, but has not been reviewed.
 
 ### Review Needed
 
-Asset is promising but needs canon, toy, printability, or originality review.
+Asset is promising but needs canon, toy, printability, originality, or production review.
 
 ### Approved for Sculpt Reference
 
@@ -41,6 +44,10 @@ Asset may guide sculpt shape, silhouette, anatomy, gear placement, or turnaround
 ### Approved for Sculpt / Engineering Reference
 
 Asset may guide sculpt shape and functional engineering, but any complex mechanism must still pass printability, durability, tolerance, and assembly review.
+
+### Approved for Sculpt / Paint Reference
+
+Asset may guide sculpt placement, shape language, material breakup, paint masks, color zones, weathering, and finish decisions.
 
 ### Approved for Paint Reference
 
@@ -82,67 +89,51 @@ Use one or more tags:
 - `turnaround-reference`
 - `head-reference`
 - `expression-reference`
+- `hand-reference`
+- `foot-reference`
 - `accessory-reference`
 - `articulation-reference`
 - `tail-engineering-reference`
+- `harness-reference`
+- `badge-reference`
+- `checker-trim-reference`
 - `paint-reference`
 - `packaging-reference`
 - `sculpt-reference`
 - `printability-reference`
+- `balance-reference`
 - `archive-only`
 - `rejected`
 
 ---
 
-## Asset Naming Convention
-
-Recommended format for future image/reference files:
-
-`kfr_[asset-type]_[description]_[version]_[status].ext`
-
-Examples:
-
-- `kfr_turnaround_front_v001_review.png`
-- `kfr_turnaround_side_v001_review.png`
-- `kfr_turnaround_back_v001_review.png`
-- `kfr_head_sly-shades_v001_review.png`
-- `kfr_hand_detail_fourfinger_black-gloves_v001_approved-sculpt-reference.png`
-- `kfr_foot_detail_fourtoe_field-boot_v001_approved-sculpt-reference.png`
-- `kfr_tail_engineering_segmented-keyed_v001_approved-sculpt-engineering-reference.png`
-- `kfr_accessory_route-reader_v001_review.png`
-- `kfr_overlay_articulation_v001_review.png`
-- `kfr_overlay_paint-zones_v001_review.png`
-
-Use lowercase names. Keep filenames descriptive enough that no one opens `lizard_final_maybe.png` and summons chaos.
-
----
-
 ## Prototype A Direction Locked For These Assets
 
-These planned assets should reflect the approved Prototype A direction:
+These approved or planned assets should reflect the Prototype A direction:
 
-- Route-Dust Olive Teal skin
-- sparse red proto-quill mohawk
-- black-frame shades as primary head look
-- optional route-goggles alternate head with amber lenses
-- worn black-brown route harness
-- checker trim on one harness tab plus one cuff edge
-- brass / copper badges with one teal accent
-- black fingerless leather gloves for KFR-REF-007 hand sculpt reference
-- dark horn claws
-- W-02 Light Route Dust weathering
-- dark canvas EMT pouch with no symbol yet
-- orange and black Mountaineer field boots with four-toe claw clearance for KFR-REF-008 foot sculpt reference
-- tail must remain functional: balance, attitude, pose support, and emotional read
-- KFR-REF-009 is approved as the tail engineering reference, while final physical implementation must still pass printability and durability review
+- Route-Dust Olive Teal skin.
+- Sparse red proto-quill mohawk.
+- Black-frame shades as primary head look.
+- Optional route-goggles alternate head with amber lenses.
+- Worn black-brown route harness with orange field panels.
+- Checker trim on controlled harness zones only.
+- Brass / copper / gunmetal hardware accents.
+- Black fingerless leather gloves for KFR-REF-007 hand sculpt reference.
+- Dark horn claws.
+- W-02 Light Route Dust weathering.
+- Dark canvas EMT pouch with no approved symbol yet.
+- Orange and black Mountaineer field boots with four-toe claw clearance for KFR-REF-008 foot sculpt reference.
+- Tail must remain functional: balance, attitude, pose support, and emotional read.
+- KFR-REF-009 is approved as the tail engineering reference, while final physical implementation must still pass printability and durability review.
 
-Notes:
+Important caveats:
 
 - The original route-dust tan claw-wrap concept remains a broader earlier toy-development direction, but the approved KFR-REF-007 hand sculpt reference uses black fingerless leather gloves with visible saurian fingers and claws.
 - The KFR-REF-008 foot direction uses mountaineering boot construction as a toy adaptation, while preserving four-toed Velocisapien anatomy through visible claw clearance.
 - Do not copy real boot branding, logos, product names, or exact trade dress. Use the boot reference for field-boot logic only.
 - The earlier keyed-removable / swivel-ready tail direction remains the safest physical prototype baseline unless the segmented tail design passes tolerance and durability testing.
 - Generated labels that say 6-inch, kid-friendly, or not-to-scale must not override the project target: 5-inch adult collectible prototype.
+- KFR-REF-010 badge symbols and badge labels are approved as visual toy-development placeholders only. They do not establish main canon meanings.
 
 ---
 
@@ -344,6 +335,52 @@ Caveat / do-not-use note:
 
 ---
 
+## Generated Asset Record: Harness / Badges / Checker Trim Detail Sheet
+
+**Generated asset:** KFR-REF-010 harness / badges / checker trim detail sheet  
+**Local generated file:** `/mnt/data/a_clean_high_detail_product_design_reference_shee.png`  
+**Recommended repo filename if uploaded later:** `kfr_harness_badges_checker-trim_v001_approved-sculpt-paint-reference.png`  
+**Generated date:** 2026-06-12  
+**Status:** Approved for Sculpt / Paint Reference  
+**Production use:** harness-reference, badge-reference, checker-trim-reference, sculpt-reference, paint-reference, printability-reference  
+**Canon-safe status:** Approved for sandbox toy sculpt / paint reference, with badge-symbol caveats.
+
+### Approval Summary
+
+User approved this asset in the Toy Development Room conversation.
+
+Strengths:
+
+- Excellent front and back harness views.
+- Checker trim placement is clear, controlled, and visually readable.
+- Badge scale and placement read well for a 5-inch prototype.
+- Black tactical harness plus orange panels fits Prototype A field-read.
+- Includes material references, hardware notes, shoulder strap detail, side view, fit references, and paint notes.
+- Useful guardrail language reinforces adult collectible prototype positioning and durability testing.
+- Harness structure gives strong guidance for torso sculpt, paint masks, badge placement, and shoulder clearance.
+
+Sculpt / paint-use notes:
+
+- Use the harness shape, shoulder straps, front/back paneling, belt line, D-ring, webbing, buckles, pouch shapes, material breakup, and checker trim placement as sculpt / paint reference.
+- Keep checker trim restrained and aligned to approved harness zones.
+- Keep pockets and pouches as sculpted nonfunctional details unless a later engineering pass approves removable parts.
+- Use badge scale and placement, but treat badge graphics as placeholder toy-development symbols.
+- Do not assign main-canon meaning to the orange mountain / M badge, green KFR tree badge, or any generated badge labels without separate canon review.
+- Do not copy generated text into packaging, final files, or canon docs without rewriting.
+- Maintain adult collectible prototype language only. Do not add child-safe claims.
+- Confirm shoulder, waist, and tail clearances during articulation overlay and sculpt review.
+
+Toy-development labels:
+
+- **Toy Adaptation Choice:** black / orange Mountaineer harness with checker trim is approved for Prototype A sculpt and paint reference.
+- **Toy-Only Continuity / Candidate Canon:** orange mountain / M badge and green KFR tree badge are visually approved for toy development only. They require separate review before any main-canon adoption.
+
+Caveat / do-not-use note:
+
+- Badge labels such as "Meridian Prime Mountaineer" or "Kavo Forest Rill Ranger" are placeholder visual text only. Do not treat them as canon rank, title, or faction terminology.
+
+---
+
 ## Asset Log Table
 
 | Asset ID | File Name / Link | Source | Prompt / Artist Notes | Status | Production Use Tags | Canon-Safe? | Notes |
@@ -357,7 +394,7 @@ Caveat / do-not-use note:
 | KFR-REF-007 | `/mnt/data/kavo_forest_rill_hand_reference_sheet.png` / planned repo filename `kfr_hand_detail_fourfinger_black-gloves_v001_approved-sculpt-reference.png` | Generated image | Four-finger hand detail with black fingerless leather gloves, open hand, grip hand, palm view, tool grip, and wrist detail. | Approved for Sculpt Reference | hand-reference, accessory-reference, sculpt-reference, printability-reference | Approved | User approved. Use as primary hand sculpt and grip reference. |
 | KFR-REF-008 | `/mnt/data/velocisapien_boot_design_reference_sheet.png` / planned repo filename `kfr_foot_detail_fourtoe_field-boot_v001_approved-sculpt-reference.png` | Generated image | Four-toed Mountaineer field boot sheet with claw clearance, front / side / rear / sole / footprint views, and construction notes. | Approved for Sculpt Reference | foot-reference, sculpt-reference, printability-reference, balance-reference | Approved | User approved. Use as primary foot, boot, stance, and sole sculpt reference. Remove all real-world branding. |
 | KFR-REF-009 | `/mnt/data/a_clean_technical_reference_sheet_engineering.png` / planned repo filename `kfr_tail_engineering_segmented-keyed_v001_approved-sculpt-engineering-reference.png` | Generated image | Tail engineering sheet with side / top / bottom views, hip connector detail, segment breakdown, pose range, and clearance notes. | Approved for Sculpt / Engineering Reference | tail-engineering-reference, articulation-reference, sculpt-reference, printability-reference, balance-reference | Approved with caveats | User approved. Use for tail function, taper, pose range, socket logic, and engineering thinking. Ignore 6-inch / kid-friendly generated text. Mechanism must pass durability tests. |
-| KFR-REF-010 | `kfr_harness_badges_detail_v001_planned.png` | Planned | Route harness, badge cluster, checker trim placement, EMT pouch, glove / boot / tail integration. | Proposed | sculpt-reference, paint-reference | Pending Review | Required. |
+| KFR-REF-010 | `/mnt/data/a_clean_high_detail_product_design_reference_shee.png` / planned repo filename `kfr_harness_badges_checker-trim_v001_approved-sculpt-paint-reference.png` | Generated image | Harness / badges / checker trim detail sheet with front/back views, material swatches, hardware, badge scale, and paint notes. | Approved for Sculpt / Paint Reference | harness-reference, badge-reference, checker-trim-reference, sculpt-reference, paint-reference, printability-reference | Approved with caveats | User approved. Use for harness structure, material breakup, checker placement, badge scale, and paint masks. Badge symbols are toy-only / candidate canon placeholders. |
 | KFR-REF-011 | `kfr_accessory_lineup_v001_planned.png` | Planned | Accessory lineup: route-reader, black Path flag marker, route probe, optional EMT pouch / field pack. | Proposed | accessory-reference, sculpt-reference, printability-reference, paint-reference | Pending Review | Required. |
 | KFR-REF-012 | `kfr_overlay_articulation_v001_planned.png` | Planned | Overlay on front/side body showing neck, shoulders, wrists, hips, and tail engineering points. | Proposed | articulation-reference, sculpt-reference | Pending Review | Required. Must decide one-piece / swivel / segmented tail path. |
 | KFR-REF-013 | `kfr_overlay_paint-zones_v001_planned.png` | Planned | Overlay marking skin, quills, shades lenses, harness, checker trim, badges, gloves, field boots, claws, tail, and accessories. | Proposed | paint-reference | Pending Review | Required. |
@@ -382,10 +419,10 @@ Before sculpt begins, fill or explicitly waive these slots.
 | Four-finger hand detail | Yes | KFR-REF-007 | Approved for Sculpt Reference | Black fingerless glove version generated and approved. |
 | Four-toed foot detail | Yes | KFR-REF-008 | Approved for Sculpt Reference | Mountaineer field boot version generated and approved. |
 | Tail engineering detail | Yes | KFR-REF-009 | Approved for Sculpt / Engineering Reference | Tail engineering sheet generated and approved with Prototype A caveats. |
-| Route harness / badge detail | Yes | KFR-REF-010 | Proposed | Required. Should align with approved glove, boot, and tail direction. |
+| Route harness / badge detail | Yes | KFR-REF-010 | Approved for Sculpt / Paint Reference | Harness / badges / checker trim sheet generated and approved with badge-symbol caveats. |
 | Accessory lineup | Yes | KFR-REF-011 | Proposed | Required. Use KFR-REF-007 grip geometry. |
 | Articulation overlay | Yes | KFR-REF-012 | Proposed | Required. Wrist seam should align with glove cuff; ankles should align with boot collar; tail path must be decided. |
-| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. Must include black fingerless gloves, orange / black field boots, and tail quill rules. |
+| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. Must include black fingerless gloves, orange / black field boots, tail quill rules, and KFR-REF-010 harness paint masks. |
 | Packaging art concept | Optional | KFR-REF-014 | Proposed | Optional until packaging pass. |
 
 ---
@@ -401,7 +438,7 @@ Generate / request assets in this order:
 5. KFR-REF-007, four-finger hand detail: generated, Approved for Sculpt Reference
 6. KFR-REF-008, four-toed foot detail: generated, Approved for Sculpt Reference
 7. KFR-REF-009, tail engineering detail: generated, Approved for Sculpt / Engineering Reference
-8. KFR-REF-010, harness / badges / checker trim detail
+8. KFR-REF-010, harness / badges / checker trim detail: generated, Approved for Sculpt / Paint Reference
 9. KFR-REF-011, accessory lineup
 10. KFR-REF-012, articulation overlay
 11. KFR-REF-013, paint-zone overlay
@@ -441,10 +478,10 @@ Planned prompt section mapping:
 | KFR-REF-007 | hand detail | Generated and approved for sculpt reference. Black fingerless glove version. |
 | KFR-REF-008 | foot detail | Generated and approved for sculpt reference. Mountaineer field boot version. |
 | KFR-REF-009 | tail detail | Generated and approved for sculpt / engineering reference. Final tail mechanism must pass durability testing. |
-| KFR-REF-010 | gear detail | Harness, badges, trim, pouch, gloves, boots, tail clearances. |
+| KFR-REF-010 | gear detail | Generated and approved for harness / badges / checker trim sculpt and paint reference. Badge symbols are toy-only / candidate canon placeholders. |
 | KFR-REF-011 | accessory sheet | Route-reader, black flag, route probe. Use KFR-REF-007 grip geometry. |
-| KFR-REF-012 | articulation overlay | Joint mapping, including wrist seam hidden by glove cuff, ankle transition hidden by boot collar, and selected tail mechanism. |
-| KFR-REF-013 | paint-zone overlay | Prototype A paint map with black fingerless gloves, orange / black field boots, and tail quill limits. |
+| KFR-REF-012 | articulation overlay | Joint mapping, including wrist seam hidden by glove cuff, ankle transition hidden by boot collar, selected tail mechanism, and harness shoulder clearance. |
+| KFR-REF-013 | paint-zone overlay | Prototype A paint map with black fingerless gloves, orange / black field boots, harness masks, checker trim, badge caveats, and tail quill limits. |
 | KFR-REF-014 | packaging portrait | Optional packaging mood. |
 | KFR-REF-015 | packaging accessory callout | Optional layout support. |
 
@@ -531,6 +568,20 @@ Current KFR-REF-009 checklist status:
 - [ ] final mechanism must still be selected: one-piece keyed, swivel-ready, or segmented
 - [ ] segmented version must pass tolerance and durability tests before physical prototype use
 
+Current KFR-REF-010 checklist status:
+
+- [x] harness proportions are consistent with the 5-inch figure plan
+- [x] front and back harness views are clear
+- [x] checker trim is controlled and not costume-dominant
+- [x] badge placement and badge scale are useful for sculpt / paint reference
+- [x] black / orange material breakup supports Prototype A field-read
+- [x] shoulder strap, belt, D-ring, pouch, webbing, and hardware details are readable
+- [x] material and finish references are useful for paint planning
+- [x] adult collectible prototype guardrails are present
+- [x] approved by user for sculpt / paint reference
+- [x] badge symbols are labeled toy-only / candidate canon placeholders
+- [ ] shoulder, waist, and tail clearances must still be confirmed during articulation overlay and sculpt review
+
 ---
 
 ## Approval Checklist for Paint Reference
@@ -550,6 +601,7 @@ An asset can be marked **Approved for Paint Reference** only if:
 - [ ] orange / black field boots are treated as a Toy Adaptation Choice unless canon-approved elsewhere
 - [ ] no real-world boot branding appears in final sculpt, paint, packaging, or production notes
 - [ ] tail quills remain short, sturdy, sparse, and not fragile
+- [ ] harness badge symbols remain toy-only / candidate canon unless separately approved
 
 ---
 
@@ -563,7 +615,7 @@ An asset can be marked **Approved for Packaging Reference** only if:
 - [ ] it preserves Kavo's role and character read
 - [ ] it does not reveal hidden Book One information
 - [ ] it includes adult collectible prototype caution if used in mock packaging
-- [ ] it does not include real-world boot brand names, logos, product names, generated child-safe language, or generated 6-inch scale claims
+- [ ] it does not include real-world boot brand names, logos, product names, generated child-safe language, generated 6-inch scale claims, or unapproved badge/rank/faction terminology
 
 ---
 
@@ -589,6 +641,7 @@ Use these labels when rejecting or archiving assets:
 - `brand-copy-risk`
 - `wrong-scale-label`
 - `child-safety-language-risk`
+- `unapproved-badge-meaning-risk`
 - `archive-only`
 
 ---
@@ -605,13 +658,13 @@ Use these labels when rejecting or archiving assets:
 
 ## Immediate Next Use
 
-Use the approved primary shades head sheet, approved four-finger hand sheet, approved four-toed field boot sheet, and approved tail engineering sheet as sculpt / engineering reference.
+Use the approved primary shades head sheet, approved four-finger hand sheet, approved four-toed field boot sheet, approved tail engineering sheet, and approved harness / badges / checker trim sheet as sculpt / engineering / paint reference.
 
 Immediate working goal:
 
-- generate or request KFR-REF-010 harness / badges / checker trim detail with glove, boot, and tail clearance compatibility
-- generate or request KFR-REF-011 accessory lineup using the KFR-REF-007 grip geometry
-- generate or request KFR-REF-012 articulation overlay using glove cuff, boot collar, and tail mechanism logic
+- generate or request KFR-REF-011 accessory lineup using the KFR-REF-007 grip geometry and KFR-REF-010 harness / pouch logic
+- generate or request KFR-REF-012 articulation overlay using glove cuff, boot collar, harness shoulder clearance, and tail mechanism logic
+- generate or request KFR-REF-013 paint-zone overlay using approved Prototype A colors and badge-symbol caveats
 - keep KFR-REF-001/002/003 at Review Needed until quill and generated-text caveats are either corrected or accepted as sculpt notes
 
 ---
@@ -620,8 +673,8 @@ Immediate working goal:
 
 Recommended next asset to generate:
 
-`KFR-REF-010 — kfr_harness_badges_detail_v001_review.png`
+`KFR-REF-011 — kfr_accessory_lineup_v001_review.png`
 
 Purpose:
 
-Create a dedicated harness / badges / checker trim detail sheet so the sculptor has torso gear, badge scale, checker placement, shoulder clearance, EMT pouch, and compatibility notes for gloves, boots, and tail before body sculpting moves forward.
+Create a dedicated accessory lineup sheet for the route-reader device, black Path flag marker, route probe, optional EMT pouch / field pack, and any grip-compatible tools, using the approved KFR-REF-007 hand geometry and KFR-REF-010 harness / pouch logic.
