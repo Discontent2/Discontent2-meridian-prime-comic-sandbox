@@ -2,7 +2,7 @@
 
 **Room:** Meridian Prime Toy Development Room / Action Figure Prototype Lab  
 **Folder:** `production/toy-prototypes/kavo-forest-rill/reference/`  
-**Status:** First turnaround generated; review needed  
+**Status:** First turnaround generated; primary shades head sheet approved for sculpt reference  
 **Prototype Target:** 5-inch retro collector action figure  
 **Canon Boundary:** Sandbox production file. Does not alter main canon.
 
@@ -14,7 +14,10 @@ This file tracks the first planned model-sheet package for the Kavo "Forest" Ril
 
 Use this log to record where each asset came from, what prompt or artist note generated it, whether it is canon-safe, whether it has been approved, and what production use it supports.
 
-The first combined front / side / back turnaround image has now been generated and logged as KFR-REF-001 through KFR-REF-003. It is useful visual reference, but it remains **Review Needed**, not sculpt-approved, until the caveats below are resolved or formally accepted.
+Current asset state:
+
+- KFR-REF-001 / KFR-REF-002 / KFR-REF-003 combined turnaround sheet has been generated and remains **Review Needed**.
+- KFR-REF-005 primary shades head sheet has been generated and is **Approved for Sculpt Reference**.
 
 ---
 
@@ -159,6 +162,38 @@ Recommended status:
 
 ---
 
+## Generated Asset Record: Primary Shades Head Sheet
+
+**Generated asset:** KFR-REF-005 primary shades head sheet  
+**Local generated file:** `/mnt/data/kavo_forest_rill_action_figure_design.png`  
+**Recommended repo filename if uploaded later:** `kfr_headsheet_primary-shades_v001_approved-sculpt-reference.png`  
+**Generated date:** 2026-06-12  
+**Status:** Approved for Sculpt Reference  
+**Production use:** head-reference, expression-reference, sculpt-reference, printability-reference  
+**Canon-safe status:** Approved for sandbox toy sculpt reference.
+
+### Approval Summary
+
+User approved this asset in the Toy Development Room conversation.
+
+Strengths:
+
+- Strong primary shades head identity.
+- Front, side, and three-quarter views give usable sculpt guidance.
+- Snout, brow ridge, mouth line, neck base, and shades frame are clear.
+- Red proto-quills are short, sparse, and sturdier than the combined turnaround quills.
+- The sheet includes useful sculpt notes for brow ridge, snout, shades, neck, red proto-quills, and neck joint clearance.
+- Shades frames are chunky enough to guide a durable prototype sculpt.
+
+Sculpt-use notes:
+
+- Use the head forms, snout, brow, shades, neck, and quill proportions as primary head sculpt reference.
+- Use the visual sculpt notes only after rewriting any generated text if copied into production docs.
+- Maintain Kavo's sly, calm, precise read. Do not exaggerate into monster grin or mascot smile.
+- Preserve thick, sculpt-friendly shades frames and sturdy quill shapes.
+
+---
+
 ## Asset Log Table
 
 | Asset ID | File Name / Link | Source | Prompt / Artist Notes | Status | Production Use Tags | Canon-Safe? | Notes |
@@ -167,7 +202,7 @@ Recommended status:
 | KFR-REF-002 | `/mnt/data/a_clean_high_detail_turn_around_reference_sheet.png` / planned repo filename `kfr_turnaround_front-side-back_v002_review.png` | Generated image | Combined turnaround sheet, side view section. Strongest tail and balance reference. Use visual figure only, not text labels. | Review Needed | turnaround-reference, sculpt-reference, printability-reference | Mostly, with caveats | Side view tail is useful for balance and silhouette. Quills remain slightly too spiky. |
 | KFR-REF-003 | `/mnt/data/a_clean_high_detail_turn_around_reference_sheet.png` / planned repo filename `kfr_turnaround_front-side-back_v002_review.png` | Generated image | Combined turnaround sheet, back view section. Improved tail length and no obvious pouch cross. Use visual figure only, not text labels. | Review Needed | turnaround-reference, sculpt-reference | Mostly, with caveats | Back view tail now reads better. Harness routing is useful. All text must be ignored / rewritten. |
 | KFR-REF-004 | `kfr_hero_threequarter_v001_planned.png` | Planned | Three-quarter hero view. Relaxed route-readiness. Shelf-read reference only, not primary turnaround. | Proposed | expression-reference, sculpt-reference, packaging-reference | Pending Review | Recommended. |
-| KFR-REF-005 | `kfr_headsheet_primary-shades_v001_planned.png` | Planned | Head sheet with front, side, three-quarter. Sly calm expression. Strong brow and saurian snout. Black-frame shades. | Proposed | head-reference, expression-reference, sculpt-reference | Pending Review | Required. |
+| KFR-REF-005 | `/mnt/data/kavo_forest_rill_action_figure_design.png` / planned repo filename `kfr_headsheet_primary-shades_v001_approved-sculpt-reference.png` | Generated image | Primary shades head sheet. Front, side, and three-quarter views with brow, snout, shades, quills, and neck joint notes. | Approved for Sculpt Reference | head-reference, expression-reference, sculpt-reference, printability-reference | Approved | User approved. Use as primary head sculpt reference. |
 | KFR-REF-006 | `kfr_headsheet_route-goggles_v001_planned.png` | Planned | Alternate head sheet with route goggles. Amber lenses. Same underlying character identity. | Proposed | head-reference, paint-reference, sculpt-reference | Pending Review | Recommended optional alternate. |
 | KFR-REF-007 | `kfr_hand_detail_fourfinger_v001_planned.png` | Planned | Four-finger hand detail. Grip-ready pose for route probe / route-reader. Claw-wrap visibility. | Proposed | sculpt-reference, printability-reference | Pending Review | Required. |
 | KFR-REF-008 | `kfr_foot_detail_fourtoe_v001_planned.png` | Planned | Four-toed foot detail. Broad stable toy stance. Claw shape blunted enough for prototype safety. | Proposed | sculpt-reference, printability-reference | Pending Review | Required. |
@@ -191,8 +226,8 @@ Before sculpt begins, fill or explicitly waive these slots.
 | Full-body side view | Yes | KFR-REF-002 | Review Needed | Combined generated turnaround sheet. Strong tail / balance reference. |
 | Full-body back view | Yes | KFR-REF-003 | Review Needed | Combined generated turnaround sheet. Improved tail and harness reference. |
 | Three-quarter hero view | Recommended | KFR-REF-004 | Proposed | Useful for shelf-read and packaging mood. |
-| Head front / side / three-quarter | Yes | KFR-REF-005 | Proposed | Primary head is shades-first. |
-| Shades head detail | Yes | KFR-REF-005 | Proposed | Included in primary head sheet. |
+| Head front / side / three-quarter | Yes | KFR-REF-005 | Approved for Sculpt Reference | Primary shades head sheet generated and approved. |
+| Shades head detail | Yes | KFR-REF-005 | Approved for Sculpt Reference | Use as primary head / shades / snout / brow sculpt reference. |
 | Route goggles alternate | Recommended | KFR-REF-006 | Proposed | Optional alternate head. |
 | Four-finger hand detail | Yes | KFR-REF-007 | Proposed | Required for sculpt accuracy. |
 | Four-toed foot detail | Yes | KFR-REF-008 | Proposed | Required for sculpt and balance planning. |
@@ -212,7 +247,7 @@ Generate / request assets in this order:
 1. KFR-REF-001, full-body front turnaround — generated, Review Needed
 2. KFR-REF-002, full-body side turnaround — generated, Review Needed
 3. KFR-REF-003, full-body back turnaround — generated, Review Needed
-4. KFR-REF-005, primary head sheet, shades version
+4. KFR-REF-005, primary head sheet, shades version — generated, Approved for Sculpt Reference
 5. KFR-REF-007, four-finger hand detail
 6. KFR-REF-008, four-toed foot detail
 7. KFR-REF-009, tail engineering detail
@@ -251,7 +286,7 @@ Planned prompt section mapping:
 | KFR-REF-002 | turnaround side | Generated as part of combined sheet. Review needed. |
 | KFR-REF-003 | turnaround back | Generated as part of combined sheet. Review needed. |
 | KFR-REF-004 | hero three-quarter | Mood / shelf-read asset. |
-| KFR-REF-005 | head sheet primary | Shades-first identity anchor. |
+| KFR-REF-005 | head sheet primary | Generated and approved for sculpt reference. |
 | KFR-REF-006 | head sheet alternate | Route-goggles optional. |
 | KFR-REF-007 | hand detail | Grip-ready hand geometry. |
 | KFR-REF-008 | foot detail | Wide toy stance logic. |
@@ -292,6 +327,19 @@ Current KFR-REF-001/002/003 checklist status:
 - [x] no protected-toyline confusion is present
 - [ ] details are printable or marked for simplification — quills need shortening / thickening note
 - [ ] toy-only or candidate canon details are fully labeled — generated sheet text should not be used
+
+Current KFR-REF-005 checklist status:
+
+- [x] head proportions are consistent with the 5-inch figure plan
+- [x] Kavo reads as Velocisapien / Velociraptoroid
+- [x] required head anatomy markers are present
+- [x] head expression fits relaxed menace
+- [x] shades are thick and printable enough for sculpt reference
+- [x] red proto-quills are short, sparse, and sturdy enough for sculpt reference
+- [x] snout, brow, and neck joint clearance are clear
+- [x] no protected-toyline confusion is present
+- [x] details are printable or marked clearly enough for sculpting
+- [x] approved by user for sculpt reference
 
 ---
 
@@ -359,11 +407,10 @@ Use these labels when rejecting or archiving assets:
 
 ## Immediate Next Use
 
-Use the revised combined turnaround sheet as a visual reference only while generating the next detail assets.
+Use the approved primary shades head sheet as the main head sculpt reference.
 
 Immediate working goal:
 
-- generate or request KFR-REF-005 primary shades head sheet
 - generate or request KFR-REF-007 four-finger hand detail
 - generate or request KFR-REF-008 four-toed foot detail
 - generate or request KFR-REF-009 tail engineering detail
@@ -375,8 +422,8 @@ Immediate working goal:
 
 Recommended next asset to generate:
 
-`KFR-REF-005 — kfr_headsheet_primary-shades_v001_review.png`
+`KFR-REF-007 — kfr_hand_detail_fourfinger_v001_review.png`
 
 Purpose:
 
-Create a dedicated primary shades head sheet so the sculptor has a cleaner face, snout, brow, shades, neck-joint, and proto-quill reference than the combined turnaround provides.
+Create a dedicated four-finger gripping-hand reference so the sculptor has clear hand anatomy, claw-wrap, wrist-seam, and accessory-grip guidance before modeling hands or route tools.
