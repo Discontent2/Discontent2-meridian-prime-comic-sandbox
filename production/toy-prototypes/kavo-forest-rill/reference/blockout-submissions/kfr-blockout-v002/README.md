@@ -3,7 +3,8 @@
 **Submission:** `kfr-blockout-v002`  
 **Status:** Commissioned / awaiting refined modeler blockout  
 **Target:** Real sculpt-aware gray blockout in Blender, ZBrush, Nomad Sculpt, or equivalent  
-**Starter Script:** `create_kfr_blockout_v002_starter_scene.py`  
+**Recommended Starter Script:** `create_kfr_blockout_v002_lite_safe_scene.py`  
+**Full Starter Script:** `create_kfr_blockout_v002_starter_scene.py`  
 **Canon Boundary:** Sandbox production submission folder. Does not alter main canon.
 
 ---
@@ -22,8 +23,8 @@ v002 should still be a gray / neutral-material blockout. It should not be final 
 
 Modeler should open these files first:
 
-1. `create_kfr_blockout_v002_starter_scene.py`  
-   Run this in Blender to create the automated starter scene.
+1. `create_kfr_blockout_v002_lite_safe_scene.py`  
+   Run this first in Blender. It is the crash-safe starter scene.
 
 2. `kfr_blockout_v002_refinement_brief.md`  
    Read before editing the generated forms.
@@ -38,23 +39,38 @@ Use KFR-BLOCKOUT-v001 as layout reference only.
 
 ---
 
-## Running the Blender Starter Script
+## Running the Lite Safe Blender Starter Script
+
+Use this version if the full starter script crashes or closes Blender.
 
 In Blender:
 
-1. Open the **Scripting** workspace.
-2. Open `create_kfr_blockout_v002_starter_scene.py`.
-3. Press **Run Script**.
-4. The script creates the v002 starter scene with named parts, millimeter units, a 127 mm guide, joint placeholders, a compact left-wrist watch, accessory placeholders, and 14 review cameras.
-5. Save the `.blend` file before manual refinement.
+1. Open **File > New > General**.
+2. Open the **Scripting** workspace.
+3. Open `create_kfr_blockout_v002_lite_safe_scene.py`.
+4. Press **Run Script**.
+5. The script creates the v002 starter scene with named parts, millimeter units, a 127 mm guide, joint placeholders, a compact left-wrist watch, accessory placeholders, and 14 review cameras.
+6. Save the `.blend` file as `kfr_blockout_v002_lite_safe_starter_scene.blend` before manual refinement.
 
-Optional script toggles near the top of the file:
+This Lite version avoids bevel modifiers, weighted normals, text objects, smooth shading, node materials, automatic rendering, and automatic exporting.
+
+---
+
+## Full Starter Script
+
+The full script remains available as:
+
+`create_kfr_blockout_v002_starter_scene.py`
+
+Only use it after the Lite script works, or if your Blender setup handles the heavier script safely.
+
+Optional full-script toggles near the top of that file:
 
 - `RENDER_ALL_VIEWS = False`
 - `EXPORT_SCENE_ASSETS = False`
 - `SAVE_BLEND_FILE = False`
 
-Set any of those to `True` before running if you want Blender to render screenshots, export model files, or save the starter file automatically.
+Set any of those to `True` only after the scene is stable.
 
 ---
 
