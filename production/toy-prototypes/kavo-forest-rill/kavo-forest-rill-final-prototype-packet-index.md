@@ -30,6 +30,32 @@ Use this index as the toy-lab map: canon on one shelf, sculpting on another, pri
 
 ---
 
+## Prototype A Approved Direction
+
+Prototype A has been approved as the first paint / finish direction.
+
+Approved Prototype A choices:
+
+| Area | Approved Choice | Notes |
+|---|---|---|
+| Skin | Route-Dust Olive Teal | muted olive-teal base with route-dust highlights |
+| Shades | black frames, smoky gloss lenses | primary head read |
+| Route goggles | optional alternate head, amber lenses | not required for first body print |
+| Harness | worn black-brown field material | practical field gear read |
+| Checker trim | one harness tab plus one cuff edge | subtle, not costume-dominant |
+| Badges | brass / copper with one teal accent | no canon meanings assigned |
+| Claw-wraps | route-dust tan | field-worn, readable at one foot |
+| Claws | dark horn | less monster-ish than bright bone |
+| Weathering | W-02 Light Route Dust | field use, not neglect |
+| EMT pouch | dark canvas, no symbol yet | avoids unapproved canon symbol |
+| Tail | keyed removable, swivel-ready later | first prototype engineering direction |
+
+Approved in:
+
+- `production/toy-prototypes/kavo-forest-rill/paint-guide/kavo-forest-rill-paint-swatch-decision-sheet.md`
+
+---
+
 ## Required Canon Markers
 
 The packet protects these markers across sculpt, print, paint, and packaging:
@@ -125,6 +151,9 @@ production/toy-prototypes/kavo-forest-rill/
 - `production/toy-prototypes/kavo-forest-rill/reference/kavo-forest-rill-model-sheet-prompt-pack.md`  
   Canon-safe prompt pack for turnaround, head sheet, accessory sheet, articulation overlay, paint-zone overlay, and packaging art.
 
+- `production/toy-prototypes/kavo-forest-rill/reference/kavo-forest-rill-model-sheet-asset-log.md`  
+  Asset log for future model-sheet images, prompt outputs, artist references, approval status, and production use tags.
+
 ---
 
 ## Sculpt Notes
@@ -183,7 +212,7 @@ production/toy-prototypes/kavo-forest-rill/
   Folder guide for swatches, paint tests, weathering, sealant, and final paint recipe.
 
 - `production/toy-prototypes/kavo-forest-rill/paint-guide/kavo-forest-rill-paint-swatch-decision-sheet.md`  
-  Candidate skin palettes, lens finish, checker trim, badges, wraps, claws, weathering, accessory colors, and approval boxes.
+  Approved Prototype A palette and finish decisions.
 
 - `production/toy-prototypes/kavo-forest-rill/paint-guide/kavo-forest-rill-painted-prototype-plan.md`  
   Primer, masking, skin paint, gear weathering, accessory paint, sealant, final assembly.
@@ -199,16 +228,16 @@ Recommended sequence:
 
 1. Review canon-to-toy brief.
 2. Review figure spec and articulation plan.
-3. Create / approve model sheet using prompt pack and turnaround checklist.
-4. Create digital sculpt from first sculpt brief.
-5. Build parts according to parts breakdown spec.
-6. Export files according to STL planning notes.
-7. Run joint tolerance test plan.
-8. Run Batch A coupon / head / hand / accessory tests.
-9. Run Batch B body / partial assembly / balance tests.
-10. Run Batch C full raw prototype test.
-11. Approve paint swatches.
-12. Paint prototype using painted prototype plan.
+3. Fill the model-sheet asset log with planned required assets.
+4. Create / approve model sheet using prompt pack and turnaround checklist.
+5. Create digital sculpt from first sculpt brief.
+6. Build parts according to parts breakdown spec.
+7. Export files according to STL planning notes.
+8. Run joint tolerance test plan.
+9. Run Batch A coupon / head / hand / accessory tests.
+10. Run Batch B body / partial assembly / balance tests.
+11. Run Batch C full raw prototype test.
+12. Paint prototype using approved Prototype A palette.
 13. Complete painted prototype review log.
 14. Update this index with final status and remaining action items.
 
@@ -233,7 +262,9 @@ Planning packet status:
 - [x] STL planning notes created.
 - [x] Support orientation notes created.
 - [x] Paint swatch decision sheet created.
+- [x] Prototype A paint decisions approved.
 - [x] Model sheet prompt pack created.
+- [x] Model sheet asset log created.
 - [x] First sculpt brief created.
 - [x] First test print checklist created.
 - [x] Batch A test log created.
@@ -257,25 +288,31 @@ Physical production status:
 - [ ] Batch B logged.
 - [ ] Batch C printed.
 - [ ] Batch C logged.
-- [ ] Paint swatches approved.
 - [ ] Painted prototype completed.
 - [ ] Painted prototype reviewed.
 - [ ] Final prototype packet marked complete.
 
 ---
 
-## Open Decisions
+## Closed Prototype A Decisions
 
-- [ ] Final skin palette.
-- [ ] Shades-first head vs goggles-first head for prototype photography.
-- [ ] Whether route-goggles head is included in first physical prototype.
-- [ ] Final checker trim placement.
-- [ ] Final badge color accents.
-- [ ] Whether EMT pouch uses no symbol, toy-only field mark, or later-approved canon mark.
+- [x] Final skin palette: Route-Dust Olive Teal.
+- [x] Primary head for prototype photography: shades-first head.
+- [x] Route-goggles head: optional alternate head with amber lenses.
+- [x] Final checker trim placement: one harness tab plus one cuff edge.
+- [x] Final badge color accents: brass / copper with one teal accent, no canon meaning assigned.
+- [x] EMT pouch treatment: dark canvas, no symbol yet.
+- [x] Tail direction for prototype one: keyed removable, swivel-ready later.
+- [x] Weathering level: W-02 Light Route Dust.
+
+---
+
+## Remaining Open Decisions
+
 - [ ] Wrist swivel vs fixed gripping hands after tolerance tests.
-- [ ] Tail keyed removable vs swivel-ready for prototype one.
-- [ ] Whether display base is unnecessary, optional, or required.
+- [ ] Whether display base is unnecessary, optional, or required after stance tests.
 - [ ] Whether any toy-only packaging stats are used.
+- [ ] Final route-reader screen color: amber or muted teal, to be decided during paint contrast testing.
 
 ---
 
@@ -311,10 +348,12 @@ This index does not provide legal advice.
 
 ## Next Production Move
 
-Recommended next file:
+Start filling existing files rather than creating new ones.
+
+Recommended next file to fill:
 
 `production/toy-prototypes/kavo-forest-rill/reference/kavo-forest-rill-model-sheet-asset-log.md`
 
 Purpose:
 
-Create an asset log for future model-sheet images and reference files: file names, source, prompt or artist notes, approval status, canon-safe status, and whether each asset is suitable for sculpt reference, packaging reference, paint reference, or archive only.
+Add planned required assets for the first model-sheet package: full-body front, side, back, head sheet, hand / foot details, tail engineering detail, accessory lineup, articulation overlay, and paint-zone overlay.
