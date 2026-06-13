@@ -2,7 +2,7 @@
 
 **Room:** Meridian Prime Toy Development Room / Action Figure Prototype Lab  
 **Folder:** `production/toy-prototypes/kavo-forest-rill/reference/`  
-**Status:** First turnaround generated; primary shades head sheet approved for sculpt reference  
+**Status:** First turnaround generated; primary head and hand details approved for sculpt reference  
 **Prototype Target:** 5-inch retro collector action figure  
 **Canon Boundary:** Sandbox production file. Does not alter main canon.
 
@@ -18,6 +18,7 @@ Current asset state:
 
 - KFR-REF-001 / KFR-REF-002 / KFR-REF-003 combined turnaround sheet has been generated and remains **Review Needed**.
 - KFR-REF-005 primary shades head sheet has been generated and is **Approved for Sculpt Reference**.
+- KFR-REF-007 four-finger hand detail sheet has been generated and is **Approved for Sculpt Reference**.
 
 ---
 
@@ -60,7 +61,7 @@ For each asset, ask:
 - Does Kavo read as Velocisapien / Velociraptoroid?
 - Does he read as Mountaineer / route guide / wilderness EMT / GPR path-reader?
 - Are the tail, four-fingered hands, and four-toed feet preserved?
-- Are red proto-quills, shades / goggles, harness, checker trim, badges, and claw-wraps present or planned?
+- Are red proto-quills, shades / goggles, harness, checker trim, badges, and claw-wraps / glove details present or planned?
 - Does the posture read relaxed route-readiness rather than attack pose?
 - Does it avoid ninja, assassin, monster, generic raptor scout, human reptile makeup, and protected-toyline clone cues?
 - Are toy-only details labeled properly?
@@ -117,11 +118,15 @@ These planned assets should reflect the approved Prototype A direction:
 - worn black-brown route harness
 - checker trim on one harness tab plus one cuff edge
 - brass / copper badges with one teal accent
-- route-dust tan claw-wraps
+- black fingerless leather gloves for KFR-REF-007 hand sculpt reference
 - dark horn claws
 - W-02 Light Route Dust weathering
 - dark canvas EMT pouch with no symbol yet
 - keyed removable tail, swivel-ready later
+
+Note:
+
+- The original route-dust tan claw-wrap concept remains a broader earlier toy-development direction, but the approved KFR-REF-007 hand sculpt reference uses black fingerless leather gloves with visible saurian fingers and claws.
 
 ---
 
@@ -144,7 +149,7 @@ Successful fixes / strengths:
 - Back-view tail now better matches the side-view tail length and reads as a real balance feature.
 - Obvious cross-like EMT pouch symbol has been removed / minimized enough for non-canon review use.
 - Figure strongly reads as a 5-inch retro action figure prototype.
-- Shades-first head, red proto-quill mohawk, route harness, checker trim, badge cluster, claw-wraps, four-finger / four-toe intent, and Prototype A color direction are visible.
+- Shades-first head, red proto-quill mohawk, route harness, checker trim, badge cluster, hand gear, four-finger / four-toe intent, and Prototype A color direction are visible.
 - Relaxed route-readiness read is usable.
 
 Remaining caveats before sculpt approval:
@@ -194,6 +199,44 @@ Sculpt-use notes:
 
 ---
 
+## Generated Asset Record: Four-Finger Hand Detail Sheet
+
+**Generated asset:** KFR-REF-007 four-finger hand detail sheet  
+**Local generated file:** `/mnt/data/kavo_forest_rill_hand_reference_sheet.png`  
+**Recommended repo filename if uploaded later:** `kfr_hand_detail_fourfinger_black-gloves_v001_approved-sculpt-reference.png`  
+**Generated date:** 2026-06-12  
+**Status:** Approved for Sculpt Reference  
+**Production use:** hand-reference, accessory-reference, sculpt-reference, printability-reference  
+**Canon-safe status:** Approved for sandbox toy sculpt reference.
+
+### Approval Summary
+
+User approved the revised fingerless black leather glove version in the Toy Development Room conversation.
+
+Strengths:
+
+- Clear four-finger saurian hand anatomy.
+- Open hand, grip hand, tool grip, palm view, and wrist detail give useful sculpt guidance.
+- Black fingerless leather gloves preserve visible saurian fingers and dark horn claws.
+- Grip cylinder and black flag marker views help define accessory-holding geometry.
+- Wrist seam can be hidden by the glove cuff.
+- Glove surfaces are chunkier and more print-friendly than thin wrap-only cloth strips.
+
+Sculpt-use notes:
+
+- Use black fingerless leather gloves as the approved KFR-REF-007 hand direction.
+- Preserve exactly four fingers, including thumb-equivalent.
+- Keep claws thick, dark, blunt, and print-safe.
+- Use glove cuff to hide wrist seam or wrist swivel.
+- Use the grip cylinder / flag grip views to inform the standard accessory handle diameter.
+- Do not use the generated sheet text as final production copy without rewriting.
+
+Toy-development label:
+
+- **Toy Adaptation Choice:** black fingerless leather gloves replace the earlier wrap-only hand reference for Prototype A hand sculpting.
+
+---
+
 ## Asset Log Table
 
 | Asset ID | File Name / Link | Source | Prompt / Artist Notes | Status | Production Use Tags | Canon-Safe? | Notes |
@@ -204,13 +247,13 @@ Sculpt-use notes:
 | KFR-REF-004 | `kfr_hero_threequarter_v001_planned.png` | Planned | Three-quarter hero view. Relaxed route-readiness. Shelf-read reference only, not primary turnaround. | Proposed | expression-reference, sculpt-reference, packaging-reference | Pending Review | Recommended. |
 | KFR-REF-005 | `/mnt/data/kavo_forest_rill_action_figure_design.png` / planned repo filename `kfr_headsheet_primary-shades_v001_approved-sculpt-reference.png` | Generated image | Primary shades head sheet. Front, side, and three-quarter views with brow, snout, shades, quills, and neck joint notes. | Approved for Sculpt Reference | head-reference, expression-reference, sculpt-reference, printability-reference | Approved | User approved. Use as primary head sculpt reference. |
 | KFR-REF-006 | `kfr_headsheet_route-goggles_v001_planned.png` | Planned | Alternate head sheet with route goggles. Amber lenses. Same underlying character identity. | Proposed | head-reference, paint-reference, sculpt-reference | Pending Review | Recommended optional alternate. |
-| KFR-REF-007 | `kfr_hand_detail_fourfinger_v001_planned.png` | Planned | Four-finger hand detail. Grip-ready pose for route probe / route-reader. Claw-wrap visibility. | Proposed | sculpt-reference, printability-reference | Pending Review | Required. |
+| KFR-REF-007 | `/mnt/data/kavo_forest_rill_hand_reference_sheet.png` / planned repo filename `kfr_hand_detail_fourfinger_black-gloves_v001_approved-sculpt-reference.png` | Generated image | Four-finger hand detail with black fingerless leather gloves, open hand, grip hand, palm view, tool grip, and wrist detail. | Approved for Sculpt Reference | hand-reference, accessory-reference, sculpt-reference, printability-reference | Approved | User approved. Use as primary hand sculpt and grip reference. |
 | KFR-REF-008 | `kfr_foot_detail_fourtoe_v001_planned.png` | Planned | Four-toed foot detail. Broad stable toy stance. Claw shape blunted enough for prototype safety. | Proposed | sculpt-reference, printability-reference | Pending Review | Required. |
 | KFR-REF-009 | `kfr_tail_engineering_v001_planned.png` | Planned | Tail detail and socket concept. Keyed removable tail. Show curve, balance intention, and tail base silhouette. | Proposed | sculpt-reference, articulation-reference, printability-reference | Pending Review | Required. |
-| KFR-REF-010 | `kfr_harness_badges_detail_v001_planned.png` | Planned | Route harness, badge cluster, checker trim placement, EMT pouch, claw-wrap detail. | Proposed | sculpt-reference, paint-reference | Pending Review | Required. |
+| KFR-REF-010 | `kfr_harness_badges_detail_v001_planned.png` | Planned | Route harness, badge cluster, checker trim placement, EMT pouch, claw-wrap / glove detail. | Proposed | sculpt-reference, paint-reference | Pending Review | Required. |
 | KFR-REF-011 | `kfr_accessory_lineup_v001_planned.png` | Planned | Accessory lineup: route-reader, black Path flag marker, route probe, optional EMT pouch / field pack. | Proposed | accessory-reference, sculpt-reference, printability-reference, paint-reference | Pending Review | Required. |
 | KFR-REF-012 | `kfr_overlay_articulation_v001_planned.png` | Planned | Overlay on front/side body showing neck, shoulders, wrists, hips, tail engineering points. | Proposed | articulation-reference, sculpt-reference | Pending Review | Required. |
-| KFR-REF-013 | `kfr_overlay_paint-zones_v001_planned.png` | Planned | Overlay marking skin, quills, shades lenses, harness, checker trim, badges, wraps, claws, accessories. | Proposed | paint-reference | Pending Review | Required. |
+| KFR-REF-013 | `kfr_overlay_paint-zones_v001_planned.png` | Planned | Overlay marking skin, quills, shades lenses, harness, checker trim, badges, gloves, claws, accessories. | Proposed | paint-reference | Pending Review | Required. |
 | KFR-REF-014 | `kfr_packaging_portrait_v001_planned.png` | Planned | Portrait-oriented hero art for packaging mood only. Use Prototype A colors. | Proposed | packaging-reference | Pending Review | Optional. |
 | KFR-REF-015 | `kfr_packaging_accessory-callout_v001_planned.png` | Planned | Simple accessory callout sheet for packaging layout reference. | Proposed | packaging-reference, accessory-reference | Pending Review | Optional. |
 
@@ -229,13 +272,13 @@ Before sculpt begins, fill or explicitly waive these slots.
 | Head front / side / three-quarter | Yes | KFR-REF-005 | Approved for Sculpt Reference | Primary shades head sheet generated and approved. |
 | Shades head detail | Yes | KFR-REF-005 | Approved for Sculpt Reference | Use as primary head / shades / snout / brow sculpt reference. |
 | Route goggles alternate | Recommended | KFR-REF-006 | Proposed | Optional alternate head. |
-| Four-finger hand detail | Yes | KFR-REF-007 | Proposed | Required for sculpt accuracy. |
+| Four-finger hand detail | Yes | KFR-REF-007 | Approved for Sculpt Reference | Black fingerless glove version generated and approved. |
 | Four-toed foot detail | Yes | KFR-REF-008 | Proposed | Required for sculpt and balance planning. |
 | Tail engineering detail | Yes | KFR-REF-009 | Proposed | Required for prototype one engineering. |
-| Route harness / badge detail | Yes | KFR-REF-010 | Proposed | Required. |
-| Accessory lineup | Yes | KFR-REF-011 | Proposed | Required. |
-| Articulation overlay | Yes | KFR-REF-012 | Proposed | Required. |
-| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. |
+| Route harness / badge detail | Yes | KFR-REF-010 | Proposed | Required. Should align with approved glove direction. |
+| Accessory lineup | Yes | KFR-REF-011 | Proposed | Required. Use KFR-REF-007 grip geometry. |
+| Articulation overlay | Yes | KFR-REF-012 | Proposed | Required. Wrist seam should align with glove cuff. |
+| Paint-zone overlay | Yes | KFR-REF-013 | Proposed | Required. Must include black fingerless gloves. |
 | Packaging art concept | Optional | KFR-REF-014 | Proposed | Optional until packaging pass. |
 
 ---
@@ -248,7 +291,7 @@ Generate / request assets in this order:
 2. KFR-REF-002, full-body side turnaround — generated, Review Needed
 3. KFR-REF-003, full-body back turnaround — generated, Review Needed
 4. KFR-REF-005, primary head sheet, shades version — generated, Approved for Sculpt Reference
-5. KFR-REF-007, four-finger hand detail
+5. KFR-REF-007, four-finger hand detail — generated, Approved for Sculpt Reference
 6. KFR-REF-008, four-toed foot detail
 7. KFR-REF-009, tail engineering detail
 8. KFR-REF-010, harness / badges / checker trim detail
@@ -288,13 +331,13 @@ Planned prompt section mapping:
 | KFR-REF-004 | hero three-quarter | Mood / shelf-read asset. |
 | KFR-REF-005 | head sheet primary | Generated and approved for sculpt reference. |
 | KFR-REF-006 | head sheet alternate | Route-goggles optional. |
-| KFR-REF-007 | hand detail | Grip-ready hand geometry. |
+| KFR-REF-007 | hand detail | Generated and approved for sculpt reference. Black fingerless glove version. |
 | KFR-REF-008 | foot detail | Wide toy stance logic. |
 | KFR-REF-009 | tail detail | Keyed removable tail concept. |
-| KFR-REF-010 | gear detail | Harness, badges, trim, pouch, wraps. |
-| KFR-REF-011 | accessory sheet | Route-reader, black flag, route probe. |
-| KFR-REF-012 | articulation overlay | Joint mapping. |
-| KFR-REF-013 | paint-zone overlay | Prototype A paint map. |
+| KFR-REF-010 | gear detail | Harness, badges, trim, pouch, wraps / gloves. |
+| KFR-REF-011 | accessory sheet | Route-reader, black flag, route probe. Use KFR-REF-007 grip geometry. |
+| KFR-REF-012 | articulation overlay | Joint mapping, including wrist seam hidden by glove cuff. |
+| KFR-REF-013 | paint-zone overlay | Prototype A paint map with black fingerless gloves. |
 | KFR-REF-014 | packaging portrait | Optional packaging mood. |
 | KFR-REF-015 | packaging accessory callout | Optional layout support. |
 
@@ -310,7 +353,7 @@ An asset can be marked **Approved for Sculpt Reference** only if:
 - [ ] tail is functional and characterful
 - [ ] head expression fits relaxed menace
 - [ ] hands and feet match four-finger / four-toe canon
-- [ ] harness, badges, wraps, and shades / goggles are clear
+- [ ] harness, badges, wraps / gloves, and shades / goggles are clear
 - [ ] no protected-toyline confusion is present
 - [ ] details are printable or marked for simplification
 - [ ] toy-only or candidate canon details are labeled
@@ -323,7 +366,7 @@ Current KFR-REF-001/002/003 checklist status:
 - [x] tail is functional and characterful
 - [x] head expression generally fits relaxed menace
 - [x] hands and feet visually indicate four-finger / four-toe canon
-- [x] harness, badges, wraps, and shades are clear
+- [x] harness, badges, wraps / gloves, and shades are clear enough for review
 - [x] no protected-toyline confusion is present
 - [ ] details are printable or marked for simplification — quills need shortening / thickening note
 - [ ] toy-only or candidate canon details are fully labeled — generated sheet text should not be used
@@ -341,6 +384,19 @@ Current KFR-REF-005 checklist status:
 - [x] details are printable or marked clearly enough for sculpting
 - [x] approved by user for sculpt reference
 
+Current KFR-REF-007 checklist status:
+
+- [x] hand proportions are consistent with the 5-inch figure plan
+- [x] hands read as Velocisapien / Velociraptoroid rather than human hands with claws glued on
+- [x] four-finger anatomy is clear
+- [x] open hand, grip hand, palm view, tool grip, and wrist detail are present
+- [x] black fingerless gloves preserve visible saurian fingers and claws
+- [x] dark horn claws are thick and print-safe enough for sculpt reference
+- [x] grip geometry is useful for route probe / black flag / route-reader planning
+- [x] wrist seam can be hidden by glove cuff
+- [x] no protected-toyline confusion is present
+- [x] approved by user for sculpt reference
+
 ---
 
 ## Approval Checklist for Paint Reference
@@ -356,6 +412,7 @@ An asset can be marked **Approved for Paint Reference** only if:
 - [ ] weathering is restrained
 - [ ] accessory colors match the paint guide
 - [ ] figure does not drift into neon parody or monster gloss
+- [ ] black fingerless gloves are treated as a Toy Adaptation Choice unless canon-approved elsewhere
 
 ---
 
@@ -400,20 +457,20 @@ Use these labels when rejecting or archiving assets:
 | Asset ID | File Name / Link | Rejection / Archive Reason | Notes |
 |---|---|---|---|
 | KFR-REF-001/002/003 original generation | `/mnt/data/a_clean_professional_concept_art_turnaround_sheet.png` | archive-only | Superseded by revised generation. Original had stronger EMT cross issue and weaker back-view tail match. |
-|  |  |  |  |
+| KFR-REF-007 first hand generation | `/mnt/data/reptilian_action_figure_hand_reference_sheet.png` | archive-only | Superseded by approved black fingerless leather glove version. Useful only as wrap-only comparison, not current sculpt direction. |
 |  |  |  |  |
 
 ---
 
 ## Immediate Next Use
 
-Use the approved primary shades head sheet as the main head sculpt reference.
+Use the approved primary shades head sheet and approved four-finger hand sheet as sculpt reference.
 
 Immediate working goal:
 
-- generate or request KFR-REF-007 four-finger hand detail
 - generate or request KFR-REF-008 four-toed foot detail
 - generate or request KFR-REF-009 tail engineering detail
+- generate or request KFR-REF-011 accessory lineup using the KFR-REF-007 grip geometry
 - keep KFR-REF-001/002/003 at Review Needed until quill and generated-text caveats are either corrected or accepted as sculpt notes
 
 ---
@@ -422,8 +479,8 @@ Immediate working goal:
 
 Recommended next asset to generate:
 
-`KFR-REF-007 — kfr_hand_detail_fourfinger_v001_review.png`
+`KFR-REF-008 — kfr_foot_detail_fourtoe_v001_review.png`
 
 Purpose:
 
-Create a dedicated four-finger gripping-hand reference so the sculptor has clear hand anatomy, claw-wrap, wrist-seam, and accessory-grip guidance before modeling hands or route tools.
+Create a dedicated four-toed foot reference so the sculptor has stable stance, toe count, claw thickness, sole contact, and balance guidance before modeling legs, feet, and the tail-assisted stance.
