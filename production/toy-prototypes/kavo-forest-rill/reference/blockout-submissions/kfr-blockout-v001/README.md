@@ -3,28 +3,32 @@
 **Submission:** `kfr-blockout-v001`  
 **Status:** Submitted as procedural schematic blockout / workflow proof  
 **Review decision:** Approved with Required Fixes / Not Approved for Detail Sculpt Yet  
+**Binary upload status:** Main package and key extracted assets verified in repo  
 **Canon Boundary:** Sandbox production submission. Does not alter main canon.
 
 ---
 
 ## Package Contents
 
-This folder records the first gray blockout submission notes and review decision.
+This folder records the first gray blockout submission notes, review decision, upload manifest, and uploaded binary assets.
 
 Text files in this repo folder:
 
+- `README.md`
 - `kfr_blockout_v001_submission_notes.md`
 - `kfr_blockout_v001_review.md`
+- `asset-upload-manifest.md`
+- `BINARY_UPLOAD_STATUS.md`
 
-Generated binary assets for this submission package include:
+Verified uploaded binary / model assets:
 
+- `kfr-blockout-v001-package.zip`
 - `kfr_blockout_v001_full_model.obj`
 - `kfr_blockout_v001_full_model.stl`
 - `kfr_blockout_v001_full_scene.glb`
 - `kfr_blockout_v001_contact_sheet.png`
-- views 01 through 14 named according to the screenshot protocol
 
-The binary assets were generated as a local review package and should be uploaded / attached separately if persistent repo storage is needed.
+The individually named screenshot PNGs 01 through 14 were not verified as separate files during this check. They should remain available inside `kfr-blockout-v001-package.zip` unless extracted and uploaded separately later.
 
 ---
 
