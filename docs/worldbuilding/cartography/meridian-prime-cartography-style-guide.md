@@ -8,6 +8,7 @@
 
 **Related Sandbox Files:**
 
+- `docs/worldbuilding/cartography/civilization-map-biases.md`
 - `docs/worldbuilding/cartography/map-symbol-dictionary.md`
 - `docs/worldbuilding/cartography/meridian-dry-circuit-satellite-map.md`
 - `docs/worldbuilding/cartography/antisapien-dry-circuit-signal-map.md`
@@ -73,6 +74,10 @@ Meridian Prime cartography should preserve three distinct map minds.
 All future maps should know which map mind produced them.
 
 A map without a point of view should be treated as suspicious.
+
+For expanded civilization, institutional, and subculture map biases, see:
+
+- `docs/worldbuilding/cartography/civilization-map-biases.md`
 
 ---
 
@@ -314,77 +319,18 @@ Maps should reveal who made them by what name they choose first.
 
 Every map should distort something.
 
-### Meridian Map Bias
+The short-form bias system is:
 
-Shows:
+| Map Tradition | Shows | Hides or Flattens |
+|---|---|---|
+| Meridian / Human | supportability, fuel, camps, route stages, terrain hazard, machine risk | sacred refusal, identity harm, signal contradiction, nonhuman jurisdiction nuance |
+| Antisapien / Hydropolis | signal behavior, identity, contradiction, old infrastructure echoes, false silence, device conduct | pressure law, guest-status, human machine necessity, sacred non-recording |
+| Aeonolacertian / Craton | threshold, pressure, guest-right, wound memory, machine insult, silence | logistics timing, signal law, ordinary survey needs, desperate survival motive |
+| World Works | asset access, legal corridors, route feasibility, logistics optimization, survey priority | sacred sovereignty, Hydropolis refusal, Craton memory, political hunger, Dry Port motive |
 
-- supportability
-- fuel
-- camps
-- route stages
-- terrain hazard
-- machine risk
+Expanded map bias entries for Meridian / Human Traverse, World Works, NCI, Hydropolis / Antisapien, Lividisapien, Vaultsapien, Null Court, Aeonolacertian pressure, Gate-Guard, Hydropolis public, Traverse crew hand maps, and Dry Port rumor maps are maintained in:
 
-Hides or flattens:
-
-- sacred refusal
-- identity harm
-- signal contradiction
-- nonhuman jurisdiction nuance
-
-### Antisapien Map Bias
-
-Shows:
-
-- signal behavior
-- identity
-- contradiction
-- old infrastructure echoes
-- false silence
-- device conduct
-
-Hides or flattens:
-
-- pressure law
-- guest-status
-- human machine necessity
-- sacred non-recording
-
-### Aeonolacertian Map Bias
-
-Shows:
-
-- threshold
-- pressure
-- guest-right
-- wound memory
-- machine insult
-- silence
-
-Hides or flattens:
-
-- logistics timing
-- signal law
-- ordinary survey needs
-- desperate survival motive
-
-### World Works Map Bias
-
-Shows:
-
-- asset access
-- legal corridors
-- route feasibility
-- logistics optimization
-- survey priority
-
-Hides or flattens:
-
-- sacred sovereignty
-- Hydropolis refusal
-- Craton memory
-- political hunger
-- Dry Port motive
+- `docs/worldbuilding/cartography/civilization-map-biases.md`
 
 ---
 
