@@ -8,6 +8,8 @@
 
 **Related Sandbox Files:**
 
+- `docs/worldbuilding/ecology/seasonal-hydrology-and-altitude-zones.md`
+- `docs/worldbuilding/cartography/seasonal-territories-boundaries-and-landmarks.md`
 - `docs/worldbuilding/cartography/civilization-map-biases.md`
 - `docs/worldbuilding/cartography/map-symbol-dictionary.md`
 - `docs/worldbuilding/cartography/meridian-dry-circuit-satellite-map.md`
@@ -141,6 +143,26 @@ Blank space may mean:
 
 Use different marks for different kinds of blankness.
 
+### 6. Season and Elevation Are Required Context
+
+A Meridian Prime map without season is incomplete.
+
+A Meridian Prime route without elevation is lying politely.
+
+Future maps should identify:
+
+- season or transition state
+- altitude band
+- water state
+- whether routes are road, riverbed, cataract, inland sea, ocean route, snowfield, or drawdown mud
+- whether Hydropolis is in basin-floor form or wet-season moored form
+- whether the Anticlinal Craton is being treated as geode mountain or geode island
+
+For the current seasonal hydrology and altitude model, see:
+
+- `docs/worldbuilding/ecology/seasonal-hydrology-and-altitude-zones.md`
+- `docs/worldbuilding/cartography/seasonal-territories-boundaries-and-landmarks.md`
+
 ---
 
 ## Coordinate and Waypoint Logic
@@ -195,6 +217,8 @@ All map symbols should belong to one of these families:
 6. **Signal Symbols** - RF field, dead channel, signal contamination, identity seal, contradiction mark.
 7. **Pressure Symbols** - threshold, guest-status, weight path, wound mark, silence field.
 8. **Mystery Symbols** - rumored, redacted, protected, unverified, contradictory, suppressed archive.
+9. **Season / Water-State Symbols** - dry road, underground river, cataract, inland sea, wet-season ocean, snowfield, drawdown mud.
+10. **Elevation Symbols** - escarpment rim, descent corridor, basin floor, mid-elevation Craton, tower/mooring height.
 
 Detailed symbol entries belong in `map-symbol-dictionary.md`.
 
@@ -206,43 +230,80 @@ Detailed symbol entries belong in `map-symbol-dictionary.md`.
 
 The same territory should map differently depending on season.
 
+### Long-Season Calendar Note
+
+Official Meridian Prime years still need to be established.
+
+Working Earth-duration references currently include:
+
+- dry season: approximately 2 Earth years
+- wet season: approximately 2 Earth years
+- spring / cataract season: approximately 1 Earth year
+- fall / drawdown season: approximately 1 Earth year
+
+The user also specified that a full Meridian Prime year is approximately 4 Earth years.
+
+This creates an unresolved calendar-design issue: spring and fall may overlap wet/dry transitions, the civil year may differ from the hydrological cycle, or Earth-year references may be field shorthand.
+
+Do not finalize the official Meridian Prime calendar yet.
+
 ### Dry Season Maps
 
 Emphasize:
 
-- exposed flats
+- high-elevation crystal desert escarpment
+- 8,000-foot Traverse descent to lower basin routes
+- exposed riverbeds as roads
+- underground river traces
+- basin floor access
 - dry canals
 - route access
 - heat-bloom
 - crust collapse
 - dead channels
 - Dry Circuit traffic
-- Hydropolis dry gates
-- Craton approach roads
+- Hydropolis dry gates and basin-floor form
+- Craton as geode mountain
+
+### Spring / Cataract Season Maps
+
+Emphasize:
+
+- cataracts
+- snowmelt routes
+- returning rivers
+- underground river eruptions
+- route breakage
+- descent danger
+- emergency closures
+- first inland sea formation
 
 ### Wet Season Maps
 
 Emphasize:
 
+- escarpment snowfield
 - navigable water
-- barges
-- submerged infrastructure
-- closed dry roads
-- canal authority
-- Hydropolis wet-body configuration
-- island logic around the Craton
+- submerged lower routes
+- basin ocean state
+- Hydropolis moored / floating form
+- four 2,000-foot Hydropolis skyscraper mooring / elevator towers
+- underground city access through towers
+- Craton as geode island
+- water approach protocols
 - flood, fog, and reflection hazards
 
-### Transition Season Maps
+### Fall / Drawdown Season Maps
 
 Emphasize:
 
-- closing pressure
-- unreliable routes
-- shifting permissions
-- emergency returns
-- late convoys
-- contested weather windows
+- retreating waters
+- unstable re-emerging roads
+- drawdown mud
+- exposed debris lines
+- first route-proving missions
+- contested access to newly exposed corridors
+- seasonally changed landmarks
 
 ### Growth Event Maps
 
@@ -344,6 +405,8 @@ Future map documents should include:
 - mapmaker or issuing authority
 - canon status
 - season
+- altitude band
+- water state
 - region
 - route or subject
 - map mind / civilization perspective
@@ -360,6 +423,8 @@ Map Title:
 Issuing Authority:
 Perspective:
 Season:
+Altitude Band:
+Water State:
 Region:
 Purpose:
 Confidence Level:
@@ -402,6 +467,9 @@ Do not yet canonize:
 - exact legal form of the Three-Way Permit
 - exact forbidden cartography laws
 - exact Dry Port markers
+- exact official Meridian Prime calendar mechanics
+- exact season names or month systems
+- exact hydrological cycle resolution
 
 These should remain flexible until more story and visual development requires precision.
 
