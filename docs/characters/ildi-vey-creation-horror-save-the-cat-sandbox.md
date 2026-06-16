@@ -14,6 +14,10 @@ The revised concept: Ildi is in her twenties, living on the fringes with a close
 
 The experiment transforms her into a Conjugate Chimera. Afterward, involuntary autobiographical memory mind-pops pull her into dreamlike flashback states. During these states, her many scars biofluoresce. The color depends on scar location and memory type. Before she can escape, she must learn to control these memory states enough to read her transformed body as a map of the hostile facility and the world around her.
 
+Visibility note:
+
+> The scar biofluorescence is not universally visible. It can be visually perceived / interpreted only by Conjugate Chimeras and Aeonolacertians with the aid of a strong enough UV light source, such as a black light. Other observers require diagnostic translation, sensor mediation, or secondhand interpretation.
+
 Core escape principle:
 
 > The experiment turned her body into a record. Ildi turned the record into a map.
@@ -131,7 +135,7 @@ The transformation begins as procedure and becomes violation.
 Early signs:
 
 - the room temperature divides around her;
-- old scars begin to glow faintly;
+- old scars begin responding, though the biofluorescent pattern is only visually legible under strong UV / blacklight to Conjugate Chimeras or Aeonolacertians;
 - machines disagree about whether she is stable;
 - she hears systems as arguments through her own body;
 - memories arrive without invitation;
@@ -172,7 +176,9 @@ The promise of the premise, in horror form: Ildi inside the facility, transforme
 
 #### Scar Biofluorescence
 
-Her scars glow during involuntary memory mind-pops. The color depends on scar location, memory type, and intensity.
+Her scars biofluoresce during involuntary memory mind-pops. The color depends on scar location, memory type, intensity, and nearby system pressure.
+
+The visual rule matters: the scar-light is not visible to everyone. Direct visual interpretation requires a capable observer, currently limited to Conjugate Chimeras and Aeonolacertians, plus a strong enough UV / blacklight source. Other personnel need cameras, sensor translation, or diagnostic displays.
 
 Candidate color logic:
 
@@ -195,7 +201,7 @@ During a mind-pop:
 - the current room overlays with a past corridor;
 - staff voices become the friend's voice;
 - a scanner tone becomes laughter from an old job;
-- scar-light reveals the memory before her mind can reject it;
+- scar-light reveals the memory before her mind can reject it, if conditions allow it to be visualized;
 - she speaks to someone who is not there;
 - systems respond to her memory-state as if it is input.
 
@@ -219,7 +225,7 @@ Midpoint revelation:
 
 Possible midpoint image:
 
-Ildi sees footage of herself during transformation. Her scars glow in patterns. A researcher says:
+Ildi sees footage of herself during transformation. Under blacklight / UV-assisted imaging, her scars glow in patterns. A researcher says:
 
 > She is remembering in boundary light.
 
@@ -239,7 +245,7 @@ External pressure tightens:
 Internal pressure tightens:
 
 - flashbacks become more disorienting;
-- scars glow before she can hide them;
+- scar responses escalate before she can hide them;
 - she loses time;
 - every memory feels like a handle someone else can pull;
 - she doubts which memories are original and which were shaped by the experiment.
@@ -258,7 +264,7 @@ Ildi finally sees the truth: the friend may not have known every detail, but the
 
 Then the facility uses a memory of the friend to trigger Ildi's strongest mind-pop.
 
-Her scars ignite in multiple colors at once. She is trapped in overlapping memory states: old corridor, consent room, transformation chamber, the friend's final lie.
+Her scars flare in multiple states at once. Under UV / blacklight, those capable of seeing the biofluorescence would perceive overlapping colors. She is trapped in overlapping memory states: old corridor, consent room, transformation chamber, the friend's final lie.
 
 The result is a catastrophic loss of control. Someone may be harmed, lost, or sacrificed by the containment response. The exact consequence can remain expandable.
 
@@ -294,7 +300,7 @@ The scar-light is not merely output. It is not only symptom, evidence, data leak
 
 It is also input.
 
-Her scars are responding to the world around her. Color, location, rhythm, intensity, and memory-pressure form a hostile interface she can partially read.
+Her scars are responding to the world around her. Color, location, rhythm, intensity, and memory-pressure form a hostile interface she can partially read. The visual pattern becomes fully legible only under strong enough UV / blacklight and only to capable perception, but Ildi can also feel and interpret aspects of it from inside her body.
 
 She realizes:
 
@@ -340,6 +346,8 @@ She reads it.
 
 The scars become route language. Their colors and rhythms reveal hidden lines in the facility: old service paths, sealed conduits, medical locks, boundary pressure zones, surveillance blind spots, and institutional traps.
 
+If the sequence uses visible biofluorescence, the scene should include strong UV / blacklight or equivalent diagnostic conditions. Otherwise, Ildi can read much of the map internally while external observers only see indirect effects.
+
 Final escape principle enacted:
 
 > The experiment turned her body into a record. Ildi turned the record into a map.
@@ -376,13 +384,13 @@ Adult Ildi in 409.
 
 The Traverse is in motion. She reads 409, module systems, comms, heat, dead channels, old signal behavior, and ghost-handshake anomalies.
 
-A signal pulse causes one scar beneath her sleeve or collar to glow faintly.
+A signal pulse causes one scar beneath her sleeve or collar to respond. In ordinary light, no one may see the color. Under strong UV / blacklight, a Conjugate Chimera or Aeonolacertian could visualize the biofluorescent flicker.
 
 Not wild. Not uncontrolled.
 
-A contained flicker.
+A contained response.
 
-If Forest is present in a later framing scene, he notices but does not ask what she is. He asks:
+If Forest is present in a later framing scene, he notices the room or Ildi's behavior, not necessarily the scar-light. He does not ask what she is. He asks:
 
 > Ugly version?
 
@@ -452,14 +460,19 @@ During involuntary autobiographical memory mind-pops, the scars biofluoresce acc
 - nearby system pressure;
 - whether the memory is acting as warning, lure, map, or wound.
 
+Visibility rule:
+
+> Direct visual interpretation of the biofluorescence requires both a strong enough UV light source, such as a black light, and a capable viewer: Conjugate Chimera or Aeonolacertian. Others need diagnostic mediation or secondhand interpretation.
+
 Story uses:
 
 - visualizes trauma without exposition;
-- gives comics and animation a signature visual language;
+- gives comics and animation a signature visual language, especially in blacklight / UV scenes;
 - gives prose a recurring image that can shift meaning;
 - supports game mechanics around flashback control and environmental mapping;
 - makes her body an unwilling archive;
-- later lets her convert that archive into navigational agency.
+- later lets her convert that archive into navigational agency;
+- creates suspense around who can actually see the evidence and under what conditions.
 
 Rule:
 
