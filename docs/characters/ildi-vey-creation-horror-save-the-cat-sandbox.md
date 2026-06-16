@@ -4,7 +4,7 @@
 **Access status:** Findable / readable / restricted internal development file  
 **Audience:** Mature discreet development audience only  
 **Canon status:** Candidate restricted backstory outline. Not locked canon.  
-**Related files:** `docs/characters/ildi-vey-backstory-sandbox.md`, `docs/story/mature-horror-tone-sandbox.md`, `docs/worldbuilding/conjugate-chimera-protected-state-models.md`
+**Related files:** `docs/characters/ildi-vey-backstory-sandbox.md`, `docs/characters/ildi-vey-scar-memory-map-system-sandbox.md`, `docs/story/mature-horror-tone-sandbox.md`, `docs/worldbuilding/conjugate-chimera-protected-state-models.md`
 
 ## Purpose
 
@@ -12,11 +12,15 @@ This file captures the current Save the Cat-style shape for Ildi Vey's Conjugate
 
 The revised concept: Ildi is in her twenties, living on the fringes with a close friend. Daily life exposes them to vulnerability, exploitation, debt, dangerous work, and predatory contracts. A close friend betrays Ildi for monetary gain, leading her into what appears to be a voluntary paid experiment. The consent is real only on paper. She does not understand what she has volunteered for.
 
-The experiment transforms her into a Conjugate Chimera. Afterward, involuntary autobiographical memory mind-pops pull her into dreamlike flashback states. During these states, her many scars biofluoresce. The color depends on scar location and memory type. Before she can escape, she must learn to control these memory states enough to read her transformed body as a map of the hostile facility and the world around her.
+The experiment transforms her into a Conjugate Chimera. Afterward, involuntary autobiographical memory mind-pops pull her into dreamlike flashback states. During these states, her many scars biofluoresce. The color depends on scar location, memory type, intensity, and nearby system pressure. Before she can escape, she must learn to control these memory states enough to read her transformed body as a map of the hostile facility and the world around her.
 
-Visibility note:
+Corrected visibility rule:
 
-> The scar biofluorescence is not universally visible. It can be visually perceived / interpreted only by Conjugate Chimeras and Aeonolacertians with the aid of a strong enough UV light source, such as a black light. Other observers require diagnostic translation, sensor mediation, or secondhand interpretation.
+> Conjugate Chimeras and Aeonolacertians can visually perceive / interpret Conjugate Chimera scar biofluorescence without blacklight. All other races require a strong enough UV light source, such as a black light, or diagnostic / sensor mediation to visualize it.
+
+Forest implication:
+
+> Ildi later chooses to trust Forest partly because he is Aeonolacertian. He can recognize her scar-state changes during an extreme involuntary mind-pop without needing blacklight, without forcing her to expose herself to equipment, and without demanding an explanation before helping.
 
 Core escape principle:
 
@@ -135,7 +139,8 @@ The transformation begins as procedure and becomes violation.
 Early signs:
 
 - the room temperature divides around her;
-- old scars begin responding, though the biofluorescent pattern is only visually legible under strong UV / blacklight to Conjugate Chimeras or Aeonolacertians;
+- old scars begin responding and biofluorescing;
+- Conjugate Chimeras and Aeonolacertians could see the scar-light unaided, but other personnel need blacklight or diagnostic translation;
 - machines disagree about whether she is stable;
 - she hears systems as arguments through her own body;
 - memories arrive without invitation;
@@ -178,7 +183,11 @@ The promise of the premise, in horror form: Ildi inside the facility, transforme
 
 Her scars biofluoresce during involuntary memory mind-pops. The color depends on scar location, memory type, intensity, and nearby system pressure.
 
-The visual rule matters: the scar-light is not visible to everyone. Direct visual interpretation requires a capable observer, currently limited to Conjugate Chimeras and Aeonolacertians, plus a strong enough UV / blacklight source. Other personnel need cameras, sensor translation, or diagnostic displays.
+The visual rule matters:
+
+- Conjugate Chimeras can see / interpret the biofluorescence without blacklight.
+- Aeonolacertians can also see / interpret the biofluorescence without blacklight.
+- All other races require strong UV / blacklight exposure, cameras, sensor translation, or diagnostic displays.
 
 Candidate color logic:
 
@@ -201,7 +210,7 @@ During a mind-pop:
 - the current room overlays with a past corridor;
 - staff voices become the friend's voice;
 - a scanner tone becomes laughter from an old job;
-- scar-light reveals the memory before her mind can reject it, if conditions allow it to be visualized;
+- scar-light reveals the memory before her mind can reject it;
 - she speaks to someone who is not there;
 - systems respond to her memory-state as if it is input.
 
@@ -225,7 +234,7 @@ Midpoint revelation:
 
 Possible midpoint image:
 
-Ildi sees footage of herself during transformation. Under blacklight / UV-assisted imaging, her scars glow in patterns. A researcher says:
+Ildi sees footage of herself during transformation. Staff use UV / blacklight-assisted imaging so non-Chimera / non-Aeonolacertian personnel can visualize her scar patterns. A researcher says:
 
 > She is remembering in boundary light.
 
@@ -264,7 +273,9 @@ Ildi finally sees the truth: the friend may not have known every detail, but the
 
 Then the facility uses a memory of the friend to trigger Ildi's strongest mind-pop.
 
-Her scars flare in multiple states at once. Under UV / blacklight, those capable of seeing the biofluorescence would perceive overlapping colors. She is trapped in overlapping memory states: old corridor, consent room, transformation chamber, the friend's final lie.
+Her scars flare in multiple states at once. Conjugate Chimeras and Aeonolacertians could see the overlapping color-states unaided. Other observers see them only under blacklight / UV or through instruments.
+
+She is trapped in overlapping memory states: old corridor, consent room, transformation chamber, the friend's final lie.
 
 The result is a catastrophic loss of control. Someone may be harmed, lost, or sacrificed by the containment response. The exact consequence can remain expandable.
 
@@ -300,7 +311,7 @@ The scar-light is not merely output. It is not only symptom, evidence, data leak
 
 It is also input.
 
-Her scars are responding to the world around her. Color, location, rhythm, intensity, and memory-pressure form a hostile interface she can partially read. The visual pattern becomes fully legible only under strong enough UV / blacklight and only to capable perception, but Ildi can also feel and interpret aspects of it from inside her body.
+Her scars are responding to the world around her. Color, location, rhythm, intensity, and memory-pressure form a hostile interface she can partially read. She can feel and interpret aspects of the response internally. Conjugate Chimera or Aeonolacertian observers could see the pattern unaided; everyone else would require UV / blacklight or equipment.
 
 She realizes:
 
@@ -346,7 +357,7 @@ She reads it.
 
 The scars become route language. Their colors and rhythms reveal hidden lines in the facility: old service paths, sealed conduits, medical locks, boundary pressure zones, surveillance blind spots, and institutional traps.
 
-If the sequence uses visible biofluorescence, the scene should include strong UV / blacklight or equivalent diagnostic conditions. Otherwise, Ildi can read much of the map internally while external observers only see indirect effects.
+During the escape, Ildi can read the map internally. If the sequence shows others seeing the scar pattern, viewer rules apply: Conjugate Chimeras and Aeonolacertians can see it unaided; all others need blacklight / UV or mediated diagnostics.
 
 Final escape principle enacted:
 
@@ -384,15 +395,15 @@ Adult Ildi in 409.
 
 The Traverse is in motion. She reads 409, module systems, comms, heat, dead channels, old signal behavior, and ghost-handshake anomalies.
 
-A signal pulse causes one scar beneath her sleeve or collar to respond. In ordinary light, no one may see the color. Under strong UV / blacklight, a Conjugate Chimera or Aeonolacertian could visualize the biofluorescent flicker.
+A signal pulse causes one scar beneath her sleeve or collar to respond.
 
-Not wild. Not uncontrolled.
+Most crew may see nothing without blacklight or sensors.
 
-A contained response.
-
-If Forest is present in a later framing scene, he notices the room or Ildi's behavior, not necessarily the scar-light. He does not ask what she is. He asks:
+Forest, because he is Aeonolacertian, can see enough to know the response is not ordinary pain. He notices the scar-state and the room around her changing. He does not ask what she is. He asks:
 
 > Ugly version?
+
+This is one reason Ildi later chooses to trust him: he can recognize when an extreme involuntary mind-pop means she needs help, and he can act before ordinary observers or equipment understand the danger.
 
 Ildi studies the clean packet, the dead channel, and the route that should not be answering.
 
@@ -462,17 +473,18 @@ During involuntary autobiographical memory mind-pops, the scars biofluoresce acc
 
 Visibility rule:
 
-> Direct visual interpretation of the biofluorescence requires both a strong enough UV light source, such as a black light, and a capable viewer: Conjugate Chimera or Aeonolacertian. Others need diagnostic mediation or secondhand interpretation.
+> Conjugate Chimeras and Aeonolacertians can perceive / interpret the biofluorescence without blacklight. All other races require a strong enough UV light source, such as a black light, or diagnostic / sensor mediation.
 
 Story uses:
 
 - visualizes trauma without exposition;
-- gives comics and animation a signature visual language, especially in blacklight / UV scenes;
+- gives comics and animation a signature visual language;
 - gives prose a recurring image that can shift meaning;
 - supports game mechanics around flashback control and environmental mapping;
 - makes her body an unwilling archive;
 - later lets her convert that archive into navigational agency;
-- creates suspense around who can actually see the evidence and under what conditions.
+- creates suspense around who can actually see the evidence and under what conditions;
+- explains why Forest's Aeonolacertian perception matters to Ildi's eventual trust in him.
 
 Rule:
 
