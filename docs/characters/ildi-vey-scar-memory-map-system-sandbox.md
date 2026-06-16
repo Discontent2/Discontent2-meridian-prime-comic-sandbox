@@ -33,28 +33,31 @@ Her scars respond to the world around her. Their color, location, rhythm, and me
 
 She escapes when she learns to read her transformed body as a hostile interface and translate the facility into a map she can use.
 
-## Visibility Rule
+## Corrected Visibility Rule
 
-Biofluorescence is not automatically visible to ordinary observers.
+Biofluorescence is real, but not every people-group can visualize it the same way.
 
 Candidate restricted rule:
 
-> Only Conjugate Chimeras and Aeonolacertians can visually perceive / interpret Conjugate Chimera scar biofluorescence with the aid of a strong enough UV light source, such as a black light.
+> Conjugate Chimeras and Aeonolacertians can visually perceive / interpret Conjugate Chimera scar biofluorescence without the aid of a UV source. All other races require a strong enough UV light source, such as a black light, or diagnostic / sensor mediation to visualize it.
 
 Implications:
 
-- Ildi may feel or internally read scar responses even when no visible glow is apparent to others.
-- Under ordinary lighting, most observers may miss the scar-light entirely or see only subtle texture, heat, or skin irregularity.
-- Under strong UV / blacklight, Conjugate Chimeras and Aeonolacertians can visualize the biofluorescent pattern directly.
-- Other observers may require translated diagnostics, cameras, specialized sensors, or secondhand interpretation rather than direct visual perception.
-- This makes scar-reading intimate, species-linked, and operationally constrained instead of a simple visible superpower.
+- Ildi can feel and internally read scar responses even when others see nothing.
+- Another Conjugate Chimera could visually recognize the scar-light without blacklight.
+- Aeonolacertians can also visually recognize the biofluorescence unaided, making them uniquely valuable witnesses / allies in moments of extreme mind-pop pressure.
+- Other races generally need blacklight, diagnostic translation, camera enhancement, or secondhand interpretation.
+- Under ordinary lighting, most non-Chimera / non-Aeonolacertian observers may miss the scar-light entirely or see only subtle texture, heat, or skin irregularity.
+- Blacklight scenes can make hidden scar patterns visible to otherwise incapable observers, which can become medical aid, violation, interrogation, proof, or tactical advantage.
+- This makes Forest's Aeonolacertian perception important: he can recognize when Ildi needs help during an extreme involuntary mind-pop without forcing her to explain herself or waiting for equipment.
 
 Story use:
 
-- A facility may need blacklight rigs, sensor translation, or Aeonolacertian / Chimera observers to read the scar patterns.
-- Ildi can hide the visual evidence more easily in ordinary light.
-- A blacklight scene can become a violation, interrogation tool, medical necessity, or tactical advantage.
-- Aeonolacertian perception of the scar-light can create unique cross-cultural or horror resonance, especially because they may read the glow as threshold pressure rather than ordinary medical data.
+- Ildi may later choose to trust Forest because his Aeonolacertian perception lets him notice scar-state changes directly and early.
+- Forest can tell when a mind-pop is becoming dangerous before ordinary crew members or machines catch up.
+- Ildi does not have to expose herself under blacklight for Forest to recognize that something is wrong.
+- A facility may still use blacklight rigs to make the scar patterns legible to non-Aeonolacertian personnel.
+- Aeonolacertian perception of scar-light can create unique cross-cultural resonance: they may read it as threshold pressure, route warning, or living signal behavior rather than ordinary medical data.
 
 ## Autobiographical Memory Mind-Pops
 
@@ -85,7 +88,7 @@ The scar glow should depend on several factors:
 - nearby signal pressure;
 - whether the memory acts as warning, wound, lure, or map;
 - whether Ildi is resisting, suppressing, reframing, or reading it;
-- whether the scene includes enough UV / blacklight exposure for the glow to become visually legible to those capable of perceiving it.
+- whether the observer is capable of seeing the biofluorescence unaided, or requires UV / blacklight / diagnostic mediation.
 
 The glow should not be pretty first. It should be revealing first.
 
@@ -250,36 +253,37 @@ In later 409-era scenes, this system should be subtler.
 Possible uses:
 
 - a scar internally responds before Ildi identifies a ghost handshake;
-- Ildi presses a sleeve down before a blacklight or UV source can make the color visible;
-- Forest notices the room change before he notices anything on her skin;
+- Ildi presses a sleeve down before ordinary crew can put her under blacklight or scan her;
+- Forest notices the scar-state directly because he is Aeonolacertian, while others only notice Ildi's behavior or the room changing;
 - 409 or module systems briefly read her scar response as route telemetry;
 - a hostile system tries to trigger a known color-state, and Ildi gives it the wrong memory on purpose;
 - a flashback begins, but Ildi converts it into a diagnostic sequence;
-- an Aeonolacertian under blacklight sees the scar pattern and recognizes threshold pressure that others cannot visualize directly.
+- Forest recognizes that an extreme involuntary mind-pop is becoming dangerous and helps stabilize the situation without demanding explanation;
+- an Aeonolacertian can see the scar pattern without blacklight and recognize threshold pressure that others cannot visualize directly.
 
 ## Visual Development Notes
 
 - The glow should follow scar geography, not random body lighting.
 - Color should imply memory-type and system-pressure, not mood-ring simplicity.
 - Biofluorescence can be beautiful, but never harmless.
-- Visual biofluorescence requires a strong enough UV / blacklight source and a capable viewer: Conjugate Chimera or Aeonolacertian.
-- Under ordinary light, scar responses may be invisible, internally felt, or visible only as subtle texture / thermal / sensor anomalies.
-- Under low UV light, scar glow may make Ildi look briefly mapped rather than illuminated.
-- In comics, scar-light can be paired with panel overlays from memory fragments, but the scene should clarify whether the visible color is direct perception, UV-assisted perception, or diagnostic translation.
-- In animation or games, color shifts should be brief, costly, tied to decision points, and triggered by blacklight / UV conditions when visually shown.
+- Conjugate Chimeras and Aeonolacertians can see / interpret the biofluorescence without UV aid.
+- All other races require strong enough UV / blacklight exposure or diagnostic mediation to visualize it.
+- Under ordinary light, scar responses may be invisible to most races, internally felt by Ildi, or visible only as subtle texture / thermal / sensor anomalies.
+- In comics, scar-light can be paired with panel overlays from memory fragments, but the scene should clarify whether the visible color is direct Chimera / Aeonolacertian perception, blacklight-assisted perception, or diagnostic translation.
+- In animation or games, color shifts should be brief, costly, tied to decision points, and governed by viewer capability / lighting conditions when visually shown.
 
 ## Game Design Hooks
 
 Possible mechanics:
 
-- **Memory Map:** scar color reveals hidden routes or system categories when UV / blacklight conditions and viewer capability are present.
+- **Memory Map:** scar color reveals hidden routes or system categories to Ildi and Aeonolacertian viewers without blacklight; others need UV or sensors.
 - **Warning or Leash:** player must distinguish genuine danger from manipulated flashback triggers.
 - **Biofluorescent State:** different scar colors unlock different perception modes with costs.
 - **Suppress / Reframe / Read:** three response options to mind-pop events.
 - **Bad Consent Marker:** sickly green highlights institutional traps or false-safe choices.
 - **Boundary Pressure:** violet reveals conjugate-adjacent hazards but increases risk.
-- **Blacklight Gate:** certain clues become visible only under strong enough UV light and only to Conjugate Chimera or Aeonolacertian perception, unless translated by sensors.
-- **Forest Anchor:** Forest can stabilize the scene socially, giving Ildi time to read without demanding exposition.
+- **Blacklight Gate:** non-Chimera / non-Aeonolacertian characters require a strong enough UV source or sensor translation to see certain scar clues.
+- **Forest Anchor:** Forest can recognize extreme mind-pop danger directly because he is Aeonolacertian, allowing him to stabilize the scene socially and tactically without demanding exposition.
 
 ## Guardrails
 
@@ -287,8 +291,8 @@ Possible mechanics:
 - Do not make every scar glow every time.
 - Do not use color as simple emotion shorthand only.
 - Do not make the glow universally visible to all observers.
-- Do not forget the UV / blacklight requirement for visualizing biofluorescence.
-- Do not forget that direct visual interpretation is limited to Conjugate Chimeras and Aeonolacertians unless mediated by equipment.
+- Do not make Conjugate Chimeras or Aeonolacertians require blacklight to perceive the biofluorescence.
+- Do not forget that all other races require blacklight or diagnostic mediation to visualize the biofluorescence.
 - Do not make the transformation feel chosen simply because the paperwork said voluntary.
 - Do not let the facility's interpretation be the final truth of Ildi's body.
 - Do not make Ildi's escape passive. She must actively learn to read and redirect the system.
