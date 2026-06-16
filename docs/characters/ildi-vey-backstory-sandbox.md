@@ -1,314 +1,515 @@
-# Ildi Vey Backstory Sandbox
+# Ildi Vey Restricted Backstory Sandbox
 
 **Repository status:** Sandbox development material  
-**Canon status:** Candidate support material only. Do not treat as locked canon until promoted.  
-**Protected mystery policy:** This file may suggest pressure, training, habits, and emotional weather around Ildi Vey, but it must not fully explain her origin, any classified 409 history, or the final truth of why she trusts Kavo "Forest" Rill.
+**Access status:** Findable / readable / restricted internal development file  
+**Audience:** Mature discreet development audience only  
+**Canon status:** Candidate restricted backstory support. Do not treat as locked public canon until promoted.  
+**Primary canon dependencies:** `Discontent2/meridian-prime/docs/characters/ildi-vey.md`, `Discontent2/meridian-prime/docs/cosmology/conjugate-chimeras.md`, `Discontent2/meridian-prime/docs/cosmology/conjugate-contact-frames.md`, `Discontent2/meridian-prime/docs/species-guide.md`  
+**Primary sandbox dependencies:** `docs/worldbuilding/conjugate-chimera-protected-state-models.md`, `docs/characters/ildi-forest-409-dynamic-sandbox.md`
 
 ## Purpose
 
-This document develops canon-safe backstory options for Ildi Vey that strengthen Book One characterization without turning her into an answer key. The goal is to give future prose, comic, visual, and game rooms usable material: behaviors, contradictions, sensory motifs, past-role options, and conflict engines.
+This file develops Ildi Vey's restricted Conjugate Chimera backstory for internal story, comic, visual, game, and character-room use.
 
-Core motto for this room:
+This is **not** public-facing early Book One exposition. It is meant to let trusted development rooms understand the machinery under Ildi's behavior without forcing the reader to receive that machinery too soon.
+
+Core room motto:
 
 > Their bond should be professional before it is personal.
 
-For Ildi, that means affection should first appear as competence: the door unlocked at the right second, the warning sent in clipped code, the ugly truth filed where Forest will actually find it.
+For Ildi, that means her deepest history should not first reveal itself as confession. It should show through work: the line she will not let a system cross, the scan she runs twice because the first answer sounded too clean, the way she treats being named like a legal trap.
 
-## Canon-Safe Guardrails
+## Mature Horror Orientation
 
-Use these as rails on the bridge:
+This backstory may support:
 
-- Ildi should not be reduced to "the cold one." Her restraint is active labor, not absence.
-- Do not define the exact founding truth of 409 in this file.
-- Do not reveal any final secret about why 409 exists, who truly controls it, or what it is hiding.
-- Do not give Ildi a backstory that makes Forest her subordinate, savior, handler, or romantic destiny by default.
-- Do not make her competence depend on a supernatural, alien, or chosen-one explanation unless later canon explicitly requires it.
-- Keep her personal history useful but porous. The fog is part of the architecture.
+- body horror;
+- cosmic horror;
+- psychological horror;
+- splatterpunk texture;
+- sci-fi horror;
+- found-footage / recovered-record structure;
+- dry horror comedy as a pressure valve.
 
-## Book One Function
+Use horror to reveal **personhood under classification pressure**, not to reduce Ildi to spectacle.
 
-Ildi works best in Book One as the crew member who makes dangerous systems legible.
+The horror should feel clinical before it becomes bloody, bureaucratic before it becomes monstrous, and intimate before it becomes cosmic. The worst thing done to Ildi was not only that her body was made into a boundary. It was that institutions found language tidy enough to pretend the body was a file.
 
-She is the person who:
+## Canon Anchors
 
-- turns panic into procedure;
-- hears the missing beat in a report;
-- notices when someone is lying because the truth would have been shorter;
-- respects rules enough to know where they will snap;
-- protects the team without announcing protection as virtue.
+These are protected anchors from current canon and user correction:
 
-Her scenes should often create the sense that she has already seen the second and third consequence of an action while everyone else is still staring at the first.
+- Ildi Vey is a restricted Conjugate Chimera.
+- She is Antisapien, likely Lividisapien or related underclass signal-band, unless later canon specifies further.
+- She is a MITE II / 409 signal-truth crew anchor.
+- She drives / operates from 409's forward systems position and can interact with module systems while Traverse is in motion as part of her job.
+- She reads comms, heat, dead channels, corrupted terminals, route infrastructure, old signal behavior, buried or half-awake systems, module behavior, and ghost-handshake anomalies.
+- Her Chimera biology may amplify signal sensitivity, but her competence comes from training, anger, experience, underclass signal logic, and technical skill.
+- She is not mystical, not a universal detector, not the answer to the Core, and not the source of the ghost handshake.
+- Her hidden truth should not erase her Antisapien personhood or make every Antisapien a Conjugate Chimera.
+- Her central fear-line is: **Being known can mean being owned.**
 
-## Core Character Constants
+## Restricted Thesis
 
-These traits can remain true across most backstory options:
+Ildi Vey is not merely a survivor of an experiment.
 
-1. **Operational restraint:** Ildi does not withhold because she is empty. She withholds because too much information at the wrong moment can become shrapnel.
-2. **High-friction trust:** She trusts actions before motives, repeated behavior before promises, and repair before apology.
-3. **Procedural tenderness:** She expresses care through preparation, redundancy, and exact timing.
-4. **Controlled defiance:** She knows how to obey a command while quietly ruining the intent behind it.
-5. **Memory as terrain:** She remembers routes, voices, damage patterns, and social debts with uncomfortable precision.
-6. **Unsentimentally loyal:** Once she has judged someone to be her responsibility, she will not abandon them simply because they become inconvenient.
+She is a survivor of a **body-sized containment crime** who became a systems reader because systems were the first monsters that learned her name.
 
-## Speech and Scene Texture
+She learned to read infrastructure because infrastructure once read her. She learned to distrust clean packets because the cleanest records were the ones that hurt people most efficiently. She learned that official silence has texture. She learned that a sealed boundary can be medical, legal, spatial, emotional, and alive.
 
-Ildi's dialogue should usually feel like a clean incision.
+Best current thesis:
 
-Possible speech traits:
+> Ildi was not born as an answer. She was made into a question no institution could safely file, then became brilliant enough to interrogate the filing system back.
 
-- sentences shorter under stress;
-- names used sparingly, making their use feel deliberate;
-- questions that are actually tests of what someone has noticed;
-- dry humor deployed as a pressure valve;
-- refusal to over-explain when someone is asking for comfort rather than clarity.
+## What Happened To Her: Restricted Development Model
 
-Possible repeated phrases or modes:
+Use this as the current recommended restricted backstory spine unless future canon overrides it.
 
-- "That is not the same question."
-- "Again, but without the lie you told yourself first."
-- "I can work with damage. I cannot work with unknown damage."
-- "Write it down before fear edits it."
-- "Forest, left side. Now."
+Ildi's early life intersected with a hidden or semi-official **Bi-Phase Integration Trial**, later euphemized by different institutions as:
 
-Visual texture:
+- **Bi-Phase Viability Subject**;
+- **Boundary-Compatible Subject Persistence**;
+- **Mirror-Grafting incident**;
+- **Conjugate Chimera containment case**;
+- **hazard-person continuity event**;
+- **nonstandard Antisapien survivability anomaly**.
 
-- neat field notes with one almost invisible personal mark;
-- gloves worn too often or removed only when trust is required;
-- hair, collar, cuffs, or kit arranged with ritual precision;
-- a habit of standing where she can see both the exit and the person most likely to collapse.
+The exact first culprit remains unresolved. The file may imply World Works, WWISSaRD, subcontracted medical infrastructure, illegal contact-science, or inherited research records, but should not canonize the full responsibility chain yet.
 
-## Backstory Option A: The Ledger Child
+### Core Event
 
-**Premise:** Ildi grew up inside an institution that converted human lives into records, claims, tallies, exemptions, or disappearances. She learned early that a misplaced line could kill someone and a delayed correction could save them.
+Ildi became viable because opposing systems inside her never directly touched.
 
-This option makes Ildi's precision emotional. Paperwork was never paper to her. It was blood wearing ink.
+Her matter-compatible body contains sealed conjugate microstructures, containment tissues, boundary-state systems, or translated anti-phase biological / signal structures. The internal boundary did not solve the contradiction. It kept the contradiction from becoming annihilation.
 
-### Possible Past Environment
+Development line:
 
-- a municipal registry under occupation or corporate administration;
-- a ration, relocation, or labor allocation office;
-- a medical triage archive;
-- a ruined civic hall where names were both shield and target;
-- a machine-age records depot where dieselpunk bureaucracy became a labyrinth with teeth.
+> She was not stable. She was correctly unstable.
 
-### Formative Wound
+The horror is not that she is half-one thing and half-another. The horror is that she is one person forced to remain a border.
 
-Ildi once discovered that a clerical choice could determine who was protected, transferred, erased, or hunted. Whether she made the choice, failed to stop it, or inherited the aftermath should remain unresolved for now.
+### Possible Origin Modes
 
-### Skills Explained
+Do not lock one yet. These can remain competing documents, erased records, lies, or partial memories.
 
-- pattern recognition in official language;
-- forged compliance;
-- document reconstruction;
-- quiet interrogation;
-- knowing how institutions hide crimes inside normal procedure.
+#### Option A: Created Subject
 
-### Book One Payoff
+Ildi was deliberately selected or engineered as a Bi-Phase Integration Trial subject because her Antisapien signal-band biology made her unusually compatible with containment translation.
 
-When 409 encounters falsified orders, archived casualties, doctored manifests, or administrative ghosts, Ildi becomes dangerous. She does not need to break the system immediately. She can make the system contradict itself until it starts screaming.
+Horror flavor:
 
-### Protected Mystery Hook
+- clean rooms;
+- consent forms signed by people who were not her;
+- lullabies replaced by diagnostics;
+- medical staff using tenderness as procedural lubricant;
+- records that call pain "boundary response compliance."
 
-One name from that old ledger should still matter to her, but this file should not define who it belongs to.
+#### Option B: Accident Survivor
 
-## Backstory Option B: The Failed Liaison
+A Contact Frame, Mirror-Shell, old infrastructure site, or conjugate-science device failed near Ildi. The event should have killed her. Instead, containment formed, was imposed, or was patched into her body afterward.
 
-**Premise:** Before 409, Ildi served as a liaison between two hostile or mutually suspicious groups. Her job was to translate needs across a trust vacuum. It ended badly.
+Horror flavor:
 
-This option emphasizes diplomacy under rot. Ildi is not merely tactical. She has survived the exhausting theater of pretending enemies are partners long enough to extract one useful truth.
+- found footage with audio dropouts;
+- a child's shadow appearing twice on one wall;
+- responders arguing whether she is alive, contaminated, or evidence;
+- a body bag tag crossed out and replaced with an asset number.
 
-### Possible Past Environment
+#### Option C: Salvaged Evidence
 
-- a ceasefire commission;
-- a scientific recovery unit with political handlers;
-- a post-disaster relief corridor;
-- a security detachment assigned to protect people it did not respect;
-- a technical exchange between incompatible cultures or factions.
+Ildi was not the experiment. She was what survived after the experiment failed. Institutions kept her alive partly because saving her preserved data they were afraid to lose.
 
-### Formative Wound
+Horror flavor:
 
-Ildi may have believed that correct information could prevent a catastrophe. The catastrophe happened anyway because the parties involved needed the lie more than they needed survival.
+- emergency care that is also evidence preservation;
+- doctors who whisper "patient" while forms say "artifact";
+- tissue samples logged with better chain-of-custody than her name.
 
-### Skills Explained
+#### Option D: Misclassified Antisapien
 
-- reading rooms with multiple agendas;
-- speaking in layers;
-- sensing when a compromise has become a trap;
-- protecting one side from the other without admitting she has chosen a side;
-- recognizing the scent of staged cooperation.
+Ildi lived for years as an unusual Antisapien signal-band child before a later scan revealed impossible mixed signatures. The experiment may have happened before she could remember, before she was born, or before records officially admitted she existed.
 
-### Book One Payoff
+Horror flavor:
 
-In Book One, Ildi can clock a fake alliance faster than most characters can recognize an enemy. She knows when a negotiation is actually a burial ceremony wearing a tablecloth.
+- childhood symptoms treated as attitude;
+- community protectors falsifying school and medical records;
+- an old clinic discovering that her scans contradict each other in different decades.
 
-### Protected Mystery Hook
+## Recommended Composite
 
-Someone from the failed liaison period may still consider Ildi a traitor, even though the audience should not yet know what she betrayed: a command, a faction, a secret, or her own first version of justice.
+The strongest current composite is:
 
-## Backstory Option C: The Locked Door Survivor
+> Ildi began as an Antisapien underclass signal-band child whose body carried evidence of a hidden Bi-Phase Integration event. A later institution identified her as a viable Conjugate Chimera and tried to turn survival into ownership. She escaped complete institutional capture by becoming too technically necessary, too hard to classify, and too dangerous to lie to.
 
-**Premise:** Ildi survived an event by doing the most rational thing available, and the moral cost of that rational choice never left her.
+This lets her be:
 
-This is the sharpest option. Use it only if the story wants Ildi's restraint to carry a buried ethical bruise.
+- a person first;
+- a survivor second;
+- a restricted file third;
+- a technician always.
 
-### Possible Past Event
+## The Ledger Child Reframed
 
-- sealing a breach;
-- abandoning a compromised route;
-- refusing a rescue attempt that would have killed more people;
-- destroying evidence to prevent a worse weaponization;
-- choosing which distress signal could be answered.
+The earlier **Ledger Child** option should now be folded into her Chimera history.
 
-### Formative Wound
+Ildi's relationship to records is not generic bureaucracy. It comes from seeing medical, legal, and operational language attempt to decide whether she was:
 
-The question is not "Did Ildi do the right thing?" The question is whether the right thing can still haunt a person because it required becoming someone who could do it.
+- patient;
+- hazard;
+- subject;
+- minor asset;
+- Antisapien citizen;
+- salvageable evidence;
+- route risk;
+- experimental success;
+- failed contamination;
+- person.
 
-### Skills Explained
+Her earliest education may have come from watching adults fight over which column could hold her.
 
-- triage under impossible conditions;
-- command voice;
-- compartmentalization;
-- distrust of heroic improvisation;
-- meticulous backup planning.
+Key line:
 
-### Book One Payoff
+> The first monster Ildi learned to read was a checkbox.
 
-This Ildi can challenge impulsive heroism without sounding cowardly. She has seen bravery become a contagion. She respects courage, but she respects oxygen, doors, timing, and math more.
+## The Failed Liaison Reframed
 
-### Protected Mystery Hook
+Ildi may later have served as a liaison, translator, systems technician, or field contact between Antisapien communities, World Works-linked infrastructure teams, WWISSaRD-adjacent researchers, Traverse personnel, and local authorities.
 
-The locked door should not be literal in every draft. It can become a symbol: the route closed, the call ignored, the truth withheld, the person not saved.
+This role may have given her the ability to survive rooms where every faction wanted a different version of her body to be true.
 
-## Backstory Option D: The Ghost Student
+Possible betrayal:
 
-**Premise:** Ildi was trained by someone whose methods still shape her, but whose identity, allegiance, and survival remain uncertain.
+- She exposed a false safety certificate and doomed a facility.
+- She hid Mirrorborn survivors from official relocation.
+- She destroyed research that could have helped others because it would also have reopened the trial line.
+- She gave a name to someone who used it as a leash.
+- She refused to testify in a hearing because the hearing would have converted survivors into discoverable assets.
 
-This option gives her precision a lineage without over-explaining her.
+## The Locked Door Reframed
 
-### Mentor Shape
+The locked door is likely not just metaphor.
 
-The mentor might have been:
+Possible forms:
 
-- an archivist who taught her how power edits memory;
-- a field operator who taught her that silence is a tool, not a mood;
-- a disgraced officer who taught her the difference between orders and responsibility;
-- a scientist who treated systems like confession boxes;
-- a criminal whose ethics were ugly but effective.
+1. **Containment Door:** She sealed a lab / clinic / module bay while something inside was still alive or partly alive.
+2. **Data Door:** She deleted or encrypted a registry that contained the only proof certain subjects existed.
+3. **Body Door:** She survived by allowing emergency systems to shut down part of her own boundary response, leaving permanent damage.
+4. **Community Door:** She refused to reveal a Mirrorborn route, leaving people outside without access but protecting those inside.
+5. **Signal Door:** She ignored a distress call because the signal pattern was bait wearing a dead person's voice.
 
-### Formative Wound
+This is the bruise under her restraint. She knows some correct choices never become clean choices.
 
-Ildi may have learned too late that the mentor had prepared her for a job, a betrayal, or a succession she never agreed to inherit.
+## The Ghost Student Reframed
 
-### Skills Explained
+Ildi may have been taught by someone who understood systems that erase people.
 
-- layered note systems;
-- counter-surveillance habits;
-- emotional minimalism;
-- suspicion of admiration;
-- ability to teach under pressure without sounding encouraging.
+Possible restricted mentor shapes:
 
-### Book One Payoff
+- **The Old Archivist:** an Antisapien continuity keeper who taught her to read ownership language.
+- **The Boundary Nurse:** a medical worker who saved subjects by misfiling them.
+- **The Ghost Instructor:** a disgraced WWISSaRD technician who taught her how to make systems contradict themselves.
+- **The Null-Contact Doctor:** someone who treated her body without claiming to understand her.
+- **The Route Nun / Route Rat / Signal Auntie:** an underclass figure who hid Mirrorborn children inside ordinary route logistics.
 
-Hints of the mentor can appear in Ildi's rituals, phrases, or emergency protocols. Later canon can decide whether that inheritance is a gift, infection, trap, or all three wearing the same coat.
+Do not canonize one yet. The mentor may be alive, dead, complicit, sainted by memory, or worse than Ildi wants to know.
 
-### Protected Mystery Hook
+## Ildi's Body Horror Grammar
 
-Do not name the mentor in this file unless later canon requires it. Refer to them by a placeholder such as **the Ghost Instructor**, **the Old Archivist**, or **Vey's First Shadow**.
+Ildi's horror should be intimate, procedural, and intermittent.
 
-## Preferred Composite Direction
+Use symptoms like weather, not fireworks.
 
-The strongest sandbox composite may be:
+Possible body horror textures:
 
-> Ildi began as someone trained to read systems that erase people, survived a rational choice with a moral cost, and entered 409 because it was the first place where her suspicion could be used to protect rather than merely endure.
+- boundary-line scars that ache before instruments register old signal;
+- skin that chills in geometric patches near Contact Frame alarms;
+- one eye or pupil response lagging by a fraction under ghost-handshake pressure;
+- bloodwork that prints mutually exclusive results depending on which machine reads it;
+- containment fever that smells faintly metallic or ozone-clean;
+- pain when dead channels are not dead enough;
+- phantom tactile feedback from module systems she is not touching directly;
+- localized heat or cold around old implant ports;
+- dreams of organs as rooms with sealed doors;
+- medical displays deciding she has no pulse in one channel and too many in another;
+- a scar-line briefly glowing under extreme anomaly stress, then leaving no camera-readable trace.
 
-This preserves mystery while giving her behavior a pressure history.
+Splatterpunk use should be rare and consequence-heavy:
+
+- ruptured containment tissue should be terrifying, messy, and dangerous, not decorative gore;
+- blood or internal material may be described as diagnostically wrong rather than merely abundant;
+- a body can become evidence before the scene admits it is a body;
+- cleanup crews and forms may be more horrifying than the wound.
+
+## Cosmic Horror Grammar
+
+The cosmic horror is not tentacles or grand speeches.
+
+It is the discovery that the universe has categories for life that law, medicine, and selfhood cannot safely hold.
+
+Ildi's body implies:
+
+- matter and conjugate life can be forced into adjacency but not reconciliation;
+- a person can survive as an unresolved contradiction;
+- institutions may prefer a contained impossibility over a free survivor;
+- old infrastructure may recognize boundary-state life faster than people recognize personhood;
+- the route may respond to her not because she is chosen, but because she is made of the same kind of unresolved border the route is hiding.
+
+Best cosmic-horror line:
+
+> The old systems did not call her by name. They called her by condition.
+
+## Psychological Horror Grammar
+
+Ildi's psychological horror should center on classification trauma.
+
+Possible recurring fears:
+
+- If someone fully understands her, they will own her.
+- If a scan names the wrong thing, the name will become law.
+- If she lets pain show, someone will replace trust with containment.
+- If she remembers too clearly, she may discover which part of her life was edited.
+- If she trusts 409, she may become discoverable through the people she protects.
+
+Possible behaviors:
+
+- she rewrites her own medical shorthand so no two files match completely;
+- she never gives a complete symptom timeline;
+- she prefers mechanical diagnostics because machines lie less imaginatively than institutions;
+- she avoids mirrors in facilities but tolerates reflective black glass in vehicles because vehicles are honest about being tools;
+- she jokes only when the alternative is giving a room the satisfaction of seeing fear.
+
+## Found-Footage / Recovered-Record Structure
+
+Ildi's restricted history can be revealed through fragments rather than exposition.
+
+Possible artifacts:
+
+- corrupted intake video from a boundary clinic;
+- audio transcript where her name is redacted inconsistently;
+- thermal footage showing a child's outline with a second cold geometry inside it;
+- a WWISSaRD memo that calls her **viable** before it calls her **awake**;
+- a Traverse Ops incident report with one missing minute and three contradictory timestamps;
+- an Antisapien community ledger where her entry is written in different ink than everyone else's;
+- a handheld recording of someone laughing at an impossible diagnostic because the alternative is screaming;
+- an old maintenance log where a module system responds to her vital signs as if they were route telemetry;
+- a clinic photo where every face is blurred except the people who later disappeared.
+
+Found-footage rule:
+
+> Let the record fail exactly where the truth becomes most personal.
+
+## Horror Comedy Use
+
+The humor should be dry, defensive, and survival-shaped.
+
+Ildi is allowed to be funny because horror without human reflex becomes a museum display.
+
+Possible tones:
+
+- gallows sarcasm;
+- procedural absurdity;
+- contempt for euphemisms;
+- annoyance at machines choosing dramatic timing;
+- cruelly accurate nicknames for forms, scanners, and policies;
+- tiny laughs after impossible survival.
+
+Possible lines:
+
+- "Good news. The scanner has decided I am legally furniture again."
+- "If it starts blinking magenta, do not pray. Unplug it."
+- "That is not a diagnosis. That is a liability costume."
+- "I have been misclassified by better equipment."
+- "Congratulations. You found the file where they spelled my name correctly. Burn that one last."
 
 ## Relationship to 409
 
-Ildi should view 409 less as a home and more as a dangerous instrument that must be tuned constantly.
+409 is not simply a vehicle for Ildi. It is a professional ecology where her boundary-state sensitivity and technical skill can become useful without immediately becoming ownership.
 
-Possible relationship states:
+User correction for future canon update:
 
-- **Early 409:** She does not trust the crew. She trusts checklists, redundancies, and her own exit routes.
-- **Middle 409:** She begins making plans that assume the others will survive.
-- **Book One present:** She has not become soft. She has become more precise about who matters.
+> Ildi can interact with module systems while the Traverse is in motion. This is part of her job.
 
-409 should not "heal" her by making her expressive. Instead, 409 gives her a place where her difficult instincts save lives.
+Sandbox application:
+
+- 409's forward systems position can function as her cockpit, nerve-board, diagnostic nest, and partial interface station.
+- Module systems remain part of her operational web in motion, especially for health, coupling strain, sensor translation, comms, dead-channel sweeps, ghost-handshake detection, route infrastructure, and buried systems.
+- The horror can come from 409 and the module briefly treating her body as diagnostic hardware.
+- The tenderness can come from Ildi making that same system protect the crew anyway.
+
+Best 409 line:
+
+> She did not become part of 409. She made 409 understand the difference between interface and appetite.
 
 ## Relationship to Forest
 
-Ildi and Forest should not begin as confidants. Their bond works best if it is assembled from field reliability.
+Forest should not be the person who explains or heals Ildi's condition.
 
-Early dynamic:
+He should be the person who notices what the room is doing to her before the room admits it is doing anything.
 
-- She reads him as a risk because he moves through danger with too much openness.
-- He reads her as a locked system and does not immediately try to pry her open.
-- She respects that he follows tactical correction without taking it as personal insult.
-- He respects that she tells him the truth fast, even when it has no padding.
+Professional-first trust markers:
 
-Trust markers:
+- He sees a physical reaction and asks what needs doing, not what happened to her.
+- He notices when a scanner is making her more dangerous by naming her incorrectly.
+- He covers her body language with tactical movement, not sympathy theater.
+- He treats her pain as operationally real without turning her into a fragile object.
+- He refuses to let others translate her silence into consent.
 
-- she gives him incomplete warnings and he understands the missing half;
-- he changes position before she has to finish the order;
-- she leaves one route unsealed because she knows he will find it;
-- he stops asking what she feels and starts asking what she needs done.
+Possible first restricted trust beat:
 
-Personal warmth should appear only after repeated professional proof.
+Ildi has a boundary fever during an old-signal event. Forest realizes the route is not merely hurting her; it is using her as a reply path. He does not say, "Are you okay?" He says, "Tell me which line to cut." She gives him three words. He obeys. That is the beginning.
 
-## Conflict Engines
+## Scene Seeds: Restricted Mature Horror Set
 
-Use any of these to generate scenes:
+### 1. The Body-Sized Containment Crime
 
-1. **Procedure vs instinct:** Forest senses a human opening. Ildi sees a structural trap.
-2. **Truth vs timing:** Ildi withholds information until it can be acted on. Forest worries the delay makes consent impossible.
-3. **Mercy vs containment:** Forest wants to rescue one more person. Ildi calculates that the attempt could doom the mission.
-4. **Trust vs audit:** Ildi keeps records of everyone, including the crew. Forest discovers this and must decide whether it is betrayal or care in its strangest uniform.
-5. **Command vs conscience:** A 409 order aligns with protocol but violates Ildi's private ethics.
+A recovered WWISSaRD clip shows a child-sized thermal outline behind glass. The spoken transcript keeps calling the subject viable. The audio never uses her name until someone off-camera whispers it as a warning.
 
-## Visual Development Notes
+Use for:
 
-Design Ildi around useful restraint:
+- found-footage dread;
+- personhood vs viability;
+- first hint that Ildi's survival was recorded before it was protected.
 
-- compact silhouette, economical movement;
-- kit arranged with unnerving logic;
-- subtle asymmetry suggesting one practical concession to past injury or habit;
-- eyes that scan before they settle;
-- no ornamental chaos unless it has a function.
+### 2. The Scanner With Too Many Answers
 
-Possible recurring prop:
+409's systems, the module diagnostics, and a portable medical unit all read Ildi during a ghost handshake. Each machine produces a different legal category. Patient. Hazard. Equipment. Crew.
 
-- a field ledger, slim data-slate, coded notebook, or folded paper archive;
-- a small repair tool she uses when thinking;
-- an old key or tag whose meaning remains unstated.
+Ildi says, "Pick the one with the lowest paperwork." Nobody laughs until Forest does, very softly, because she needs the room breathing.
 
-## Game Design Hooks
+Use for:
 
-Possible mechanics inspired by Ildi:
+- horror comedy;
+- classification trauma;
+- Forest reading the human pressure.
 
-- **Contradiction Scan:** detect inconsistencies in orders, maps, NPC dialogue, or environmental records.
-- **Triage Lock:** sacrifice optional paths to preserve core mission resources.
-- **Quiet Override:** bypass a system by making it believe it is still obeying itself.
-- **Field Ledger:** collected clues auto-organize into hidden pattern sets.
-- **Cold Read:** identify the least stable person in a room and predict their next move.
+### 3. The Dead Channel That Knows Her Temperature
 
-## Scene Seeds
+A route packet says no infrastructure exists. A dead channel opens anyway and begins transmitting thermal telemetry that matches Ildi's scar-line pattern.
 
-1. **The Unopened Envelope:** Ildi carries a sealed message from before 409. Forest notices she has resealed it more than once without reading it.
-2. **The Corrected Casualty List:** She quietly changes a memorial record because one listed death is false. She will not say whether this is hope or dread.
-3. **The Bad Order:** A command arrives with perfect authorization and one phrase Ildi knows no legitimate sender would use.
-4. **The Almost Rescue:** Forest pushes to save someone. Ildi stops him. Later evidence proves they were both partly right, which is much worse than either being wrong.
-5. **The Name She Uses Once:** In a crisis she calls Forest by a name or title she never uses. He obeys before he understands why.
+Use for:
 
-## Open Questions for Future Rooms
+- cosmic horror;
+- old systems recognizing condition over name;
+- Book One-adjacent ghost-handshake pressure.
 
-These should remain unresolved until deliberately chosen:
+### 4. The Ledger of Viable Losses
 
-- What specific institution, faction, or disaster shaped Ildi's earliest competence?
-- Did she enter 409 voluntarily, under pressure, or through a bargain?
-- What line will she not cross again, even for the crew?
-- What does Forest know about her that no one else in 409 has earned?
-- Is Ildi afraid of being known, or afraid that being known will make her predictable?
+Ildi finds an old ledger listing failed subjects by status code. One line is hers, but not in the death column. In the margin someone wrote: **kept breathing against model expectation**.
 
-## Recommended Current Canon-Safe Use
+Use for:
 
-For now, write Ildi as a person whose backstory can be felt in her methods rather than exposed in confession. Let her history show up as habits, not monologues. Let the audience understand that every locked door in her has a reason, but do not hand them the whole key ring yet.
+- psychological horror;
+- institutional cruelty;
+- the Ledger Child reframed.
+
+### 5. The Boundary Fever Room
+
+During a stop, Ildi's containment tissues flare. The room becomes colder near her left side and hotter near the scanner bank. No monster enters. The room itself begins choosing sides.
+
+Use for:
+
+- body horror;
+- cosmic pressure;
+- Forest / 409 operational care.
+
+### 6. The Misclassification Joke
+
+A hostile bureaucrat calls Ildi a hazard. Ildi replies, "Only before coffee." The joke lands badly because everyone can see the hazard team outside the glass.
+
+Use for:
+
+- horror comedy with a blade;
+- authority pressure;
+- Ildi refusing to perform fear.
+
+### 7. The Cleanup Form
+
+After a containment rupture in another Chimera case, the most horrifying artifact is not the gore footage but the cleanup form. It has checkboxes for body material, equipment material, and legally ambiguous material.
+
+Ildi recognizes the form number.
+
+Use for:
+
+- splatterpunk aftermath;
+- institutional horror;
+- implication without overexposure.
+
+### 8. The Door She Sealed
+
+A flashback fragment shows Ildi sealing a door during a facility breach. Voices inside beg her to open it. Later evidence suggests one voice may have been real, one was a copied distress pattern, and one was the system using her own childhood voice.
+
+Use for:
+
+- psychological horror;
+- locked-door trauma;
+- unreliable memory.
+
+### 9. The Forest Witness Beat
+
+Forest sees Ildi flinch before any alarm triggers. He quietly shifts formation, giving her a clear line to the manual cutoff. Later he says, "The room looked hungry." She replies, "Rooms are not hungry." He says, "That one was." She does not correct him.
+
+Use for:
+
+- professional trust;
+- horror perception;
+- no confession required.
+
+### 10. The Name That Owns
+
+A restricted file uses Ildi's full legal / experimental designation. Systems begin unlocking around her because the designation still has authority. Ildi refuses to say the designation aloud. Forest does not ask her to.
+
+Use for:
+
+- names as ownership;
+- sci-fi horror;
+- trust through restraint.
+
+## Game / Visual Mechanics
+
+Possible mechanics for future game rooms:
+
+- **Boundary Fever Meter:** old signal exposure raises risk, unlocking perception but threatening collapse.
+- **Classification Hazard:** certain scans make Ildi more legible to hostile systems.
+- **Dead Channel Reply:** Ildi can hear / interpret dead infrastructure but may become a reply path.
+- **Misfile Override:** use contradictory records to bypass institutional locks.
+- **Containment Choice:** preserve Ildi's safety, crew safety, or evidence integrity; not all can be maximized.
+- **Forest Anchor Assist:** Forest reduces panic or environmental pressure long enough for Ildi to act, but does not erase the underlying horror.
+
+Visual development notes:
+
+- avoid obvious half-and-half body designs;
+- emphasize bureaucratic medical marks, old ports, scar-lines, asymmetrical heat/cold cues, signal-responsive skin or eye reactions;
+- make horror visible in diagnostics, reflections, mismatched records, and the behavior of systems around her;
+- gore should be rare and specific, with cleanup and classification consequences.
+
+## Red Flags To Avoid
+
+- Do not make Ildi's trauma her whole personality.
+- Do not make her a magic scanner.
+- Do not let gore replace dread.
+- Do not make Forest her therapist or savior.
+- Do not turn Conjugate Chimera history into simple superhero origin logic.
+- Do not reveal all causality too early.
+- Do not make World Works or WWISSaRD cartoonishly open about ownership.
+- Do not erase Antisapien community agency, protection networks, or cultural interpretation.
+- Do not make the body horror decorative.
+- Do not make Ildi passive inside her own backstory.
+
+## Open Questions For Future Rooms
+
+These are now allowed restricted-development questions:
+
+1. Was Ildi created, salvaged, misclassified, or discovered?
+2. Who first used the term Mirrorborn around her?
+3. Who saved her by misfiling her?
+4. What name or designation would give hostile systems authority over her?
+5. What does she remember that contradicts the official footage?
+6. What did she do during the locked-door event?
+7. Did Lindy, Horus, Mark Skelton, Tenet, or NCI know anything before MITE II?
+8. Does Forest sense her condition as terrain wrongness, human wrongness, or both?
+9. What does Ildi call herself when no one is listening?
+10. What would make her choose disclosure despite the risk of ownership?
+
+## Final Restricted Backstory Principle
+
+**Ildi Vey is not strange because she is mystical. She is strange because someone made survival into a containment protocol inside her body, then she learned to read every system that tried to turn that survival into property.**
