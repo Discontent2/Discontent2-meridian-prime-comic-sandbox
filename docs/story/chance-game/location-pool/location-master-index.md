@@ -31,6 +31,7 @@ This index should remain lightweight. Do not duplicate full location cards here;
 | Location | Pool File | Status | Canon Risk | Use Tier | Pull Weight | Seasonal Availability | Key Tags | Notes |
 |---|---|---|---|---|---|---|---|---|
 | The Name-Silt Ledger House | `pools/hydropolis-locations.md` | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion | Low to Moderate | Tier 2 Recurring Sandbox Location | Medium | Dry season / low-water Hydropolis | hydropolis, antisapian-community, black-market, registry, identity-shelter, low-water, dry-body, bad-paperwork, name-silt, contract-court-pressure, questionable-dealings | Dry-season Hydropolis dry-body street-level registry annex; not a Dry Circuit location; does not prove names have power or canonize name-silt. |
+| The Low Road Roadhouse | `pools/black-market-locations.md` | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion | Book One Risk | Tier 2 Recurring Sandbox Location, with review caution | Medium | Wet season / unofficial low-road spur outside protected Book One route unless reviewed | traverse-route, out-of-town, roadside, drifter, pirate-radio, wet-season-dock, bad-map-trade, medical-salvage, false-report, NCI-Prime-edge, bad-decisions, contested-jurisdiction, last-stop, fuel-light, questionable-dealings, geode-basin-instability | Out-of-town roadside pirate-radio roadhouse; not main canon; not automatically adjacent to MITE II corridor; false report remains local/side-story unless explicitly reviewed. |
 
 ---
 
