@@ -8,7 +8,7 @@ Use this file to keep tags consistent across NPC pool files and the master index
 
 ### Role Tags
 
-Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`.
+Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`, `crowd-control-weapon`.
 
 ### Story-Use Tags
 
@@ -16,7 +16,7 @@ Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false
 
 ### Location Tags
 
-Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`.
+Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`.
 
 ### Faction Tags
 
@@ -24,15 +24,15 @@ Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `wwissard`, `hydrop
 
 ### Species / People Tags
 
-Examples: `human`, `antisapian`, `lividisapien`, `hydropolis-antisapian`, `velocisapien`, `aeonolacertian`, `misclassified-person`, `velocisapien-dominant`, `ankylosapien-traits`.
+Examples: `human`, `antisapian`, `antisapien`, `lividisapien`, `hydropolis-antisapian`, `signalband-antisapian`, `staticwound-traits`, `velocisapien`, `aeonolacertian`, `misclassified-person`, `velocisapien-dominant`, `ankylosapien-traits`.
 
 ### Tone Tags
 
-Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`.
+Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`, `signal-coded-arena-menace`.
 
 ### Risk Tags
 
-Examples: `low-risk`, `moderate-risk`, `high-risk`, `book-one-risk`, `protected-mystery-risk`, `canon-bloat-risk`, `restricted-character-risk`, `wwissard-canon-risk`, `bio-hack-risk`, `species-biology-risk`, `protected-pressure-risk`, `safety-bio-hack-detail-risk`.
+Examples: `low-risk`, `moderate-risk`, `high-risk`, `book-one-risk`, `protected-mystery-risk`, `canon-bloat-risk`, `restricted-character-risk`, `wwissard-canon-risk`, `bio-hack-risk`, `species-biology-risk`, `antisapian-visual-risk`, `protected-signal-risk`, `protected-pressure-risk`, `safety-bio-hack-detail-risk`.
 
 ### Recurrence Tags
 
@@ -44,7 +44,7 @@ Examples: `knows-tenet`, `knows-rudy`, `knows-forest`, `knows-ildi`, `knows-lind
 
 ### Secret-Type Tags
 
-Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`.
+Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`, `legal-reclassification`.
 
 ### Availability Tags
 
@@ -68,11 +68,11 @@ Examples: `roadside`, `drifter`, `out-of-town`, `roadhouse`, `last-stop`, `bad-d
 
 ### Boss / WWISSaRD Released Asset Tags
 
-Examples: `wwizzard-asset`, `released-asset`, `off-books-stasis`, `end-stage-boss`, `hidden-boss`, `secret-boss`, `snes-boss`, `boss-villain`, `bio-hack-risk`, `symbiotic-load`, `old-machine-wakes`, `debt-vs-ownership`, `machine-rights-rumor`, `release-order`, `false-storage-category`.
+Examples: `wwizzard-asset`, `released-asset`, `off-books-stasis`, `end-stage-boss`, `hidden-boss`, `secret-boss`, `snes-boss`, `boss-villain`, `bio-hack-risk`, `symbiotic-load`, `old-machine-wakes`, `debt-vs-ownership`, `machine-rights-rumor`, `release-order`, `false-storage-category`, `legal-reclassification`, `crowd-control-weapon`.
 
 ### Visual Lock Tags
 
-Examples: `aeonolacertian-visual-lock-required`, `saurian-person-first`, `not-human-with-scales`, `four-fingered-clawed-hands`, `four-toed-clawed-feet`, `tail-required`.
+Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-required`, `blue-skin-lock`, `saurian-person-first`, `not-human-with-scales`, `four-fingered-clawed-hands`, `four-toed-clawed-feet`, `tail-required`, `visual-development`.
 
 ## Current Tag Highlights
 
@@ -81,6 +81,7 @@ Examples: `aeonolacertian-visual-lock-required`, `saurian-person-first`, `not-hu
 - **Varesh “Blackless” Orren:** `craton`, `antisapian-community`, `traverse-route`, `false-records`, `misclassification`, `gate-pressure`, `debt`, `false-culprit`, `aeonolacertian`, `restricted`.
 - **Kessa “No-Try” Saltstep:** `roadside`, `roadhouse`, `abandoned-mine`, `illegal-shelter`, `out-of-town`, `low-road`, `route-gossip`, `false-name`, `family-network`, `traverse-route`, `difficult-witness`, `informant`, `black-glass`, `geodeum-adjacent`, `protected-pressure`, `protected-mystery-risk`, `aeonolacertian`, `velocisapien-dominant`, `ankylosapien-traits`, `kavo-history`, `romantic-tension`, `bad-map-consequence`, `open-character-restricted-secret`, `medium-pull`, `hold-in-sandbox`, `aeonolacertian-visual-lock-required`.
 - **Evek “Clutch-Saint” Marr:** `wwizzard-asset`, `released-asset`, `off-books-stasis`, `end-stage-boss`, `hidden-boss`, `secret-boss`, `snes-boss`, `boss-villain`, `bio-hack-risk`, `symbiotic-load`, `velocisapien`, `aeonolacertian`, `mechanic`, `repair-worker`, `route-mechanic`, `ceremonial-authority`, `machine-witness`, `proposed-extension-corridor`, `geodeum-adjacent`, `old-machine-wakes`, `prime-ops-disciplinary-bay`, `grief`, `route-ban`, `protected-pressure`, `debt-vs-ownership`, `false-storage-category`, `release-order`, `machine-rights-rumor`, `hard-pull`, `subtext-only`, `restricted`, `hold-in-sandbox`, `pre-book-one`, `aeonolacertian-visual-lock-required`.
+- **Nera “Whitewire” Voss:** `whitewire`, `nera-voss`, `antisapian`, `antisapien`, `blue-skin-lock`, `signalband-antisapian`, `staticwound-traits`, `wwizzard-asset`, `released-asset`, `boss-villain`, `end-stage-boss`, `snes-boss`, `legal-reclassification`, `crowd-control-weapon`, `fight-circuit`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`, `cable-whips`, `legal-plastic-frame`, `visual-development`, `non-canon`, `requires-canon-review`, `hard-pull`, `subtext-only`, `restricted`, `hold-in-sandbox`.
 
 ## Tag Principle
 
