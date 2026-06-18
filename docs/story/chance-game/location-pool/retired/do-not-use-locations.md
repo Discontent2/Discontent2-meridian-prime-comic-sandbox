@@ -1,0 +1,9 @@
+# Do-Not-Use Locations
+
+**Status:** Sandbox retirement file
+
+Use this file for location seeds that should not be pulled by the Chance Story Game Room.
+
+Entries here remain preserved for reference unless the user explicitly requests deletion.
+
+_No entries yet._
