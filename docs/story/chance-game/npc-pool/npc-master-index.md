@@ -9,6 +9,11 @@ The master index is for fast casting. Full cards live in pool files.
 | Nerith-of-Low Bell | `pools/antisapian-community-npcs.md` | Antisapien, general | NCI / Antisapian community pressure | NCI records annex / bad-paperwork setting | Witness with bad paperwork | Witness / translator / protected civilian | Procedural grief, careful bite | Low to Moderate | Tier 1 Drop-in NPC | Easy to Medium | Sandbox NPC; Non-Canon; Requires Canon Review Before Promotion |
 | Sarrik “Mastbite” Venn | `pools/black-market-npcs.md` | Velocisapien / Velociraptoroid | Black-market mapmakers | Weather mast / signal tower, wet-season channels | Route guide | Technical specialist / wet-season guide | Angry honesty, route-slang | Moderate to High | Tier 4 Restricted / Use Carefully | Hard | Sandbox NPC; Non-Canon; Requires Canon Review Before Promotion |
 | Varesh “Blackless” Orren | `pools/craton-npcs.md` | Aeonolacertian | Quietly allied with Antisapian community protection channels | Traverse corridor / Craton-adjacent gate pressure | Craton-adjacent gate functionary | False culprit / misclassification obstructionist | Poetic route-slang, restrained moral pressure | Moderate | Tier 4 Restricted / Use Carefully | Medium | Sandbox NPC; Non-Canon; Hold in sandbox |
+| Kessa “No-Try” Saltstep | `pools/roadside-npcs.md` | Aeonolacertian, Velocisapien-dominant with Ankylosapien labor traits | Family network / roadside shelter pressure | Traverse corridor roadhouse / abandoned mine shelter | Roadhouse fixer / abandoned mine shelter keeper | Informant / false-name broker / Kavo-history pressure point | Salesperson charm, late-night survival wit | Protected Mystery Risk | Tier 4 Restricted / Use Carefully | Medium | Sandbox NPC; Non-Canon; Hold in sandbox; Aeonolacertian Visual Lock Required |
+
+## Kessa Required Master Entry
+
+| Kessa “No-Try” Saltstep | roadside-npcs.md | Roadhouse fixer / abandoned mine shelter keeper / false-name broker / Kavo-history pressure point | Aeonolacertian, Velocisapien-dominant with Ankylosapien labor traits | Protected Mystery Risk | Tier 4 Restricted | Medium | Open character, restricted secret | Hold in sandbox |
 
 ## Index Maintenance Notes
 
@@ -24,3 +29,4 @@ When adding a new NPC:
 
 - Existing entries should not be reused as canon names without review.
 - Repeated surnames or handles are allowed only when intentional.
+- Repo search found no prior `Kessa`, `No-Try`, or `Kessa “No-Try” Saltstep` entries before the roadside NPC entry was created.
