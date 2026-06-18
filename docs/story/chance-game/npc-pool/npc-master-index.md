@@ -10,10 +10,15 @@ The master index is for fast casting. Full cards live in pool files.
 | Sarrik “Mastbite” Venn | `pools/black-market-npcs.md` | Velocisapien / Velociraptoroid | Black-market mapmakers | Weather mast / signal tower, wet-season channels | Route guide | Technical specialist / wet-season guide | Angry honesty, route-slang | Moderate to High | Tier 4 Restricted / Use Carefully | Hard | Sandbox NPC; Non-Canon; Requires Canon Review Before Promotion |
 | Varesh “Blackless” Orren | `pools/craton-npcs.md` | Aeonolacertian | Quietly allied with Antisapian community protection channels | Traverse corridor / Craton-adjacent gate pressure | Craton-adjacent gate functionary | False culprit / misclassification obstructionist | Poetic route-slang, restrained moral pressure | Moderate | Tier 4 Restricted / Use Carefully | Medium | Sandbox NPC; Non-Canon; Hold in sandbox |
 | Kessa “No-Try” Saltstep | `pools/roadside-npcs.md` | Aeonolacertian, Velocisapien-dominant with Ankylosapien labor traits | Family network / roadside shelter pressure | Traverse corridor roadhouse / abandoned mine shelter | Roadhouse fixer / abandoned mine shelter keeper | Informant / false-name broker / Kavo-history pressure point | Salesperson charm, late-night survival wit | Protected Mystery Risk | Tier 4 Restricted / Use Carefully | Medium | Sandbox NPC; Non-Canon; Hold in sandbox; Aeonolacertian Visual Lock Required |
+| Evek “Clutch-Saint” Marr | `pools/boss-villains.md` | Aeonolacertian / Velocisapien | WWISSaRD off-books stasis pressure / fictional Symbiotic Load | Prime Ops disciplinary bay / proposed extension corridor incident pressure | WWISSaRD Released Asset / end-stage boss / route mechanic | Hidden boss / machine-witness eraser / non-combat release-order puzzle | Cheerful fatalism, grief filed as equipment | WWISSaRD Canon Risk / Bio-Hack Risk / Book One Risk / Species-Biology Risk / Protected Pressure Risk | Tier 4 Restricted / Use Carefully | Hard | Sandbox NPC; Non-Canon; Hold in sandbox; Aeonolacertian Visual Lock Required |
 
 ## Kessa Required Master Entry
 
 | Kessa “No-Try” Saltstep | roadside-npcs.md | Roadhouse fixer / abandoned mine shelter keeper / false-name broker / Kavo-history pressure point | Aeonolacertian, Velocisapien-dominant with Ankylosapien labor traits | Protected Mystery Risk | Tier 4 Restricted | Medium | Open character, restricted secret | Hold in sandbox |
+
+## Evek Required Master Entry
+
+| Evek “Clutch-Saint” Marr | boss-villains.md | WWISSaRD off-books stasis boss, Velocisapien mechanic bound to fictional Symbiotic Load, released when public machine awakenings create too many witnesses | Aeonolacertian / Velocisapien | WWISSaRD Canon Risk / Bio-Hack Risk / Book One Risk / Species-Biology Risk / Protected Pressure Risk | Tier 4 Restricted | Hard | Subtext Only / Restricted | Hold in sandbox |
 
 ## Index Maintenance Notes
 
@@ -30,3 +35,4 @@ When adding a new NPC:
 - Existing entries should not be reused as canon names without review.
 - Repeated surnames or handles are allowed only when intentional.
 - Repo search found no prior `Kessa`, `No-Try`, or `Kessa “No-Try” Saltstep` entries before the roadside NPC entry was created.
+- Repo search found no prior `Evek`, `Clutch-Saint`, or `Evek “Clutch-Saint” Marr` entries before the boss-villain NPC entry was created.
