@@ -2,71 +2,72 @@
 
 All entries are **Sandbox NPC / Non-Canon / Requires Canon Review Before Promotion** unless explicitly promoted after canon review.
 
-## Primary Pools
+Use this file to keep tags consistent across NPC pool files and the master index.
 
-### `black-market-npcs.md`
+## Tag Categories
 
-- **Sarrik “Mastbite” Venn** — wet-season route guide; black-market channel specialist; illegal map-truth interpreter; Tier 4, Restricted / Use Carefully.
+### Role Tags
 
-### `craton-npcs.md`
+Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`.
 
-- **Varesh “Blackless” Orren** — Craton-adjacent gate functionary; false-record detector; misclassification obstructionist; false culprit; Tier 4, Restricted / Use Carefully.
+### Story-Use Tags
 
-## Tags
+Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false-culprit`, `technical-specialist`, `emotional-mirror`, `recurring-troublemaker`.
 
-### Black-Market Mapmakers
+### Location Tags
 
-- **Sarrik “Mastbite” Venn** — sells and corrects unofficial wet-season map truth.
+Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`.
 
-### Route Guide
+### Faction Tags
 
-- **Sarrik “Mastbite” Venn** — guides through flooded or shifting terrain near weather masts and signal towers.
+Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `wwissard`, `hydropolis`, `antisapian-community`, `free-scabs`, `bought-nation`, `craton`, `geodeum-circuit`, `black-market-mapmakers`.
 
-### Velocisapien / Velociraptoroid
+### Species / People Tags
 
-- **Sarrik “Mastbite” Venn** — Velocisapien route guide with survivor guilt and fear of ownership.
+Examples: `human`, `antisapian`, `lividisapien`, `hydropolis-antisapian`, `velocisapien`, `aeonolacertian`, `misclassified-person`.
 
-### Weather Mast / Signal Tower
+### Tone Tags
 
-- **Sarrik “Mastbite” Venn** — mast-adjacent terrain-risk specialist; does not reveal protected signal tower truths.
+Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`.
 
-### Wet Season
+### Risk Tags
 
-- **Sarrik “Mastbite” Venn** — strongest use case during wet-season channel crossings or storm shifts.
+Examples: `low-risk`, `moderate-risk`, `high-risk`, `book-one-risk`, `protected-mystery-risk`, `canon-bloat-risk`, `restricted-character-risk`.
 
-### Restricted / Use Carefully
+### Recurrence Tags
 
-- **Sarrik “Mastbite” Venn** — must not replace Forest or Rudy, and must not solve protected mysteries.
-- **Varesh “Blackless” Orren** — must not define Craton law, gateway mechanics, or protected legal systems.
+Examples: `drop-in`, `recurring`, `candidate-canon`, `restricted-use`, `do-not-use`.
 
-### Antisapian-Community
+### Relationship Tags
 
-- **Varesh “Blackless” Orren** — quietly serves the Antisapien community network by catching false records before they become cages.
+Examples: `knows-tenet`, `knows-rudy`, `knows-forest`, `knows-ildi`, `knows-lindy`, `knows-mark`, `avoids-horus-orbit`, `crew-once-failed`, `helpful-stranger`.
 
-### Traverse-Route
+### Secret-Type Tags
 
-- **Varesh “Blackless” Orren** — useful for corridor audit, contested crossing, and route paperwork pressure.
+Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`.
 
-### False-Records
+### Availability Tags
 
-- **Varesh “Blackless” Orren** — spots false official records and exposes what law does when aimed badly.
+Examples: `book-one-era`, `pre-book-one`, `later-series`, `side-story-only`, `flashback-only`, `location-restricted`, `requires-user-approval`.
 
-### Misclassification
+### Season Tags
 
-- **Varesh “Blackless” Orren** — will not knowingly sign a person into the wrong legal category.
+Examples: `dry-season`, `wet-season`, `cataract`, `haboon`, `freeze`, `drawdown`, `any-season`, `seasonal-appearance`.
 
-### Gate-Pressure
+### Spoiler Visibility Tags
 
-- **Varesh “Blackless” Orren** — Craton-adjacent gate functionary whose title hides a protective role.
+Examples: `open`, `subtext-only`, `restricted`, `do-not-reveal`, `protected-mystery-hint`.
 
-### Debt
+### Pull Weight Tags
 
-- **Varesh “Blackless” Orren** — owes a private corridor lender tied to document runners.
+Examples: `easy-pull`, `medium-pull`, `hard-pull`, `requires-permission`, `off-screen-only`.
 
-### False-Culprit
+## Current Tag Highlights
 
-- **Varesh “Blackless” Orren** — should appear guilty for credible reasons while shielding someone else.
+- **Nerith-of-Low Bell:** `antisapian`, `nci`, `witness`, `bad-paperwork`, `translator`, `grief`, `needs-protection`, `faction-bridge`, `drop-in`, `open-or-subtext`.
+- **Sarrik “Mastbite” Venn:** `black-market-mapmakers`, `traverse-route`, `wet-season`, `weather-mast`, `signal-tower`, `velocisapien`, `route-guide`, `local-authority`, `survivor-guilt`, `hard-pull`, `open-spoiler`.
+- **Varesh “Blackless” Orren:** `craton`, `antisapian-community`, `traverse-route`, `false-records`, `misclassification`, `gate-pressure`, `debt`, `false-culprit`, `aeonolacertian`, `restricted`.
 
-### Aeonolacertian
+## Tag Principle
 
-- **Varesh “Blackless” Orren** — Aeonolacertian corridor functionary; culture details remain sandbox and review-gated.
+Tags should help rooms find usable NPCs quickly. They should not become lore claims beyond the saved card.
