@@ -1,51 +1,13 @@
 # Location Master Index
 
-This index tracks sandbox location seeds for the Meridian Prime Location Pool Chance Room.
+All locations listed here are **Sandbox Location Seed / Non-Canon / Requires Canon Review Before Promotion** unless explicitly noted otherwise.
 
-All entries begin as:
+The master index is for fast set selection. Full cards live in pool files.
 
-**Sandbox Location Seed**  
-**Non-Canon**  
-**Requires Canon Review Before Promotion**
-
-No entry in this index is main canon unless separately reviewed and explicitly promoted by the user.
-
-## Index Use
-
-Use this file to check:
-
-- Location name collisions.
-- Pool file placement.
-- Canon risk.
-- Use tier.
-- Tags.
-- Promotion / retirement status.
-- Notes needed before canon review.
-
-This index should remain lightweight. Do not duplicate full location cards here; keep full entries in their pool files.
-
----
-
-## Active Sandbox Location Seeds
-
-| Location | Pool File | Status | Canon Risk | Use Tier | Pull Weight | Seasonal Availability | Key Tags | Notes |
-|---|---|---|---|---|---|---|---|---|
-| The Name-Silt Ledger House | `pools/hydropolis-locations.md` | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion | Low to Moderate | Tier 2 Recurring Sandbox Location | Medium | Dry season / low-water Hydropolis | hydropolis, antisapian-community, black-market, registry, identity-shelter, low-water, dry-body, bad-paperwork, name-silt, contract-court-pressure, questionable-dealings | Dry-season Hydropolis dry-body street-level registry annex; not a Dry Circuit location; does not prove names have power or canonize name-silt. |
-| The Low Road Roadhouse | `pools/black-market-locations.md` | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion | Book One Risk | Tier 2 Recurring Sandbox Location, with review caution | Medium | Wet season / unofficial low-road spur outside protected Book One route unless reviewed | traverse-route, out-of-town, roadside, drifter, pirate-radio, wet-season-dock, bad-map-trade, medical-salvage, false-report, NCI-Prime-edge, bad-decisions, contested-jurisdiction, last-stop, fuel-light, questionable-dealings, geode-basin-instability | Out-of-town roadside pirate-radio roadhouse; not main canon; not automatically adjacent to MITE II corridor; false report remains local/side-story unless explicitly reviewed. |
-
----
-
-## Retired / Do-Not-Use Location Seeds
-
-None yet.
-
----
-
-## Promoted-to-Canon Location Seeds
-
-None yet.
-
----
+| Location | Pool | Region / Route System | Jurisdiction | Primary Function | Story Use | Season | Visual Hook | Canon Risk | Pull Weight | Status |
+|---|---|---|---|---|---|---|---|---|---|---|
+| The Name-Silt Ledger House | `pools/hydropolis-locations.md` | Hydropolis dry body / low-water street level | Hydropolis registry / Antisapian community-adjacent refuge / black-market pressure | Identity shelter / registry annex / bad-paperwork refuge | Refuge / faction negotiation / questionable dealings | Dry season / low-water Hydropolis | Damp ledgers, name-silt, black-glass chamber, dry-body registry grime | Low to Moderate | Medium | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion |
+| The Low Road Roadhouse | `pools/black-market-locations.md` | NCI / Prime Ops edge, unofficial low-road spur outside protected Book One route unless reviewed | Contested NCI / Prime Ops edge; black-market route economy | Wet-season dock roadhouse / pirate radio relay / black-market map counter / medical salvage corner | Faction negotiation site / bad decision location / pirate radio scene | Wet season | Crooked floating roadhouse, red dust, salt crust, pirate radio booth, avoided doorway | Book One Risk | Medium | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion; Hold in sandbox |
 
 ## Index Maintenance Notes
 
@@ -55,10 +17,12 @@ When adding a new location seed:
 2. Check this index for name collisions.
 3. Add only a lightweight index row here.
 4. Keep full location content in the appropriate pool file.
-5. Preserve the status language unless the user explicitly approves canon review and promotion.
+5. Preserve sandbox status unless the user explicitly approves canon review and promotion.
 
-Required status language for sandbox entries:
+## Retired / Do-Not-Use Location Seeds
 
-**Sandbox Location Seed**  
-**Non-Canon**  
-**Requires Canon Review Before Promotion**
+None yet.
+
+## Promoted-to-Canon Location Seeds
+
+None yet.
