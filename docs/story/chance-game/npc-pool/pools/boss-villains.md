@@ -396,3 +396,57 @@ Evek “Clutch-Saint” Marr is what happens when WWISSaRD stores grief as equip
 Alternate shorter principle:
 
 > Evek is grief filed as equipment.
+
+---
+
+## Nera “Whitewire” Voss
+
+**NPC Status:** Sandbox NPC / Non-Canon  
+**Review Status:** Requires Canon Review Before Promotion  
+**Boss Classification:** WWISSaRD Released Asset / End-Stage Boss Villain  
+**Use Tier:** Tier 4 Restricted / Use Carefully  
+**Candidate Canon Status:** Hold in sandbox  
+**Primary Visual Receipt:** WHITEWIRE-ANTISAPIAN-BLUE-SKIN-VISUAL-RECEIPT-001  
+**Primary Visual Mode:** Hydropolis-adjacent underground fuel-depot fight-circuit boss portrait  
+**Villain Function:** Crowd-control boss / legal reclassification weapon / underground fight-circuit spectacle asset  
+**Species / People:** Antisapian / Antisapien  
+**Phenotype:** Signalband Antisapian with Staticwound traits  
+**Blue Skin Type:** Deep cobalt blue / blue-black, with violet-blue stress shimmer  
+**Primary Pool:** `boss-villains.md`  
+**Visual Receipt Path:** `docs/story/chance-game/visual-development/character-receipts/whitewire-antisapian-blue-skin-visual-receipt.md`
+
+**Core Concept:** Whitewire is a blue-skinned signal-coded Antisapian boss whose body, legal frame, and cable-whip movement expose how official systems turn misclassification into violence.
+
+**Silhouette Read:** Blue-skinned Antisapian woman with cable-bound static hair, white legal-plastic collar and back-frame, wrist cable whips, low lunging stance, electric-blue signal arcs, and wet-floor reflection errors.
+
+**What the crowd sees:** fighter  
+**What WWISSaRD uses:** crowd-control weapon  
+**What the story sees:** misclassification turned into violence
+
+### Route 77 / Fight-Circuit Guardrail
+
+Route 77 / fight-circuit signage is sandbox visual set dressing unless separately canon-reviewed. It does not define official route topology, Book One route continuity, Hydropolis legal structure, or protected corridor truth.
+
+### Hydropolis Guardrail
+
+The Hydropolis-adjacent underground fuel-depot fight arena is sandbox visual development unless separately canon-reviewed. It does not establish a formal Hydropolis fight-circuit institution, legal entertainment structure, or official civic practice without review.
+
+### WWISSaRD Guardrail
+
+Whitewire’s visual status as a WWISSaRD Released Asset remains sandbox-only. This receipt does not canonize a formal WWISSaRD Released Asset program, off-books stasis program, legal reclassification protocol, or bio-hack system.
+
+### Antisapian Guardrail
+
+This boss-villain stub uses Whitewire’s sandbox visual phenotype only. It does not canonize all Antisapian biology, all Signalband traits, all Staticwound traits, or any protected Antisapian identity truth.
+
+### Bio-Hack / Weapon Detail Guardrail
+
+Cable whips, legal-plastic restraints, signal arcs, and reclassification-frame details are fictional visual and story elements only. Do not define real-world weapon construction, restraint engineering, bio-hack methods, medical procedures, electrical mechanisms, or usable harm instructions.
+
+**Do Not Use For:** Do not use Whitewire to canonize a formal WWISSaRD Released Asset program, define Hydropolis legal structure, define Route 77 topology, explain protected signal mechanics, explain Contact Frame mechanics, confirm gateway behavior, solve the Core, define Dry Port truth, reveal Ildi’s restricted truth, or provide real-world weapon / bio-hack methods.
+
+**Final Visual Principle:** Nera “Whitewire” Voss should always read as a blue-skinned signal-coded Antisapian boss whose body, legal frame, and cable-whip movement expose how official systems turn misclassification into violence.
+
+Alternate short principle:
+
+> Whitewire is not wearing the signal. The signal is where the paperwork failed to erase her.
