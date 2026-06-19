@@ -8,31 +8,31 @@ Use this file to keep tags consistent across NPC pool files and the master index
 
 ### Role Tags
 
-Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`, `crowd-control-weapon`.
+Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`, `crowd-control-weapon`, `refusal-processing-suit`, `boundary-enforcement-boss`.
 
 ### Story-Use Tags
 
-Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false-culprit`, `technical-specialist`, `emotional-mirror`, `recurring-troublemaker`, `bad-decision-witness`, `roadhouse-fixer`, `route-burnout-mirror`, `kavo-history-pressure`, `hidden-boss`, `secret-boss`, `snes-boss`, `end-stage-boss`.
+Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false-culprit`, `technical-specialist`, `emotional-mirror`, `recurring-troublemaker`, `bad-decision-witness`, `roadhouse-fixer`, `route-burnout-mirror`, `kavo-history-pressure`, `hidden-boss`, `secret-boss`, `snes-boss`, `end-stage-boss`, `side-scroller-boss`, `shelter-breach-pressure`.
 
 ### Location Tags
 
-Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`.
+Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`, `old-hydraulic-pressure-house`, `pressure-house`, `shelter-pressure`.
 
 ### Faction Tags
 
-Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `wwissard`, `hydropolis`, `antisapian-community`, `free-scabs`, `bought-nation`, `craton`, `geodeum-circuit`, `black-market-mapmakers`, `family-network`.
+Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `wwissard`, `hydropolis`, `antisapian-community`, `free-scabs`, `bought-nation`, `craton`, `geodeum-circuit`, `black-market-mapmakers`, `family-network`, `conjugate-visitor-pressure`.
 
 ### Species / People Tags
 
-Examples: `human`, `antisapian`, `antisapien`, `lividisapien`, `hydropolis-antisapian`, `signalband-antisapian`, `staticwound-traits`, `velocisapien`, `aeonolacertian`, `misclassified-person`, `velocisapien-dominant`, `ankylosapien-traits`.
+Examples: `human`, `antisapian`, `antisapien`, `lividisapien`, `hydropolis-antisapian`, `signalband-antisapian`, `staticwound-traits`, `velocisapien`, `aeonolacertian`, `misclassified-person`, `velocisapien-dominant`, `ankylosapien-traits`, `conjugate-visitor`, `āænosapian`, `sealed-visitor`.
 
 ### Tone Tags
 
-Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`, `signal-coded-arena-menace`.
+Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`, `signal-coded-arena-menace`, `hydraulic-diplomacy-horror`, `brass-amplified-procedure`.
 
 ### Risk Tags
 
-Examples: `low-risk`, `moderate-risk`, `high-risk`, `book-one-risk`, `protected-mystery-risk`, `canon-bloat-risk`, `restricted-character-risk`, `wwissard-canon-risk`, `bio-hack-risk`, `species-biology-risk`, `antisapian-visual-risk`, `protected-signal-risk`, `protected-pressure-risk`, `safety-bio-hack-detail-risk`.
+Examples: `low-risk`, `moderate-risk`, `high-risk`, `book-one-risk`, `protected-mystery-risk`, `canon-bloat-risk`, `restricted-character-risk`, `wwissard-canon-risk`, `bio-hack-risk`, `species-biology-risk`, `antisapian-visual-risk`, `protected-signal-risk`, `protected-pressure-risk`, `safety-bio-hack-detail-risk`, `conjugate-canon-risk`, `contact-breach-risk`, `crystal-clause-risk`, `route-pressure-risk`.
 
 ### Recurrence Tags
 
@@ -44,7 +44,7 @@ Examples: `knows-tenet`, `knows-rudy`, `knows-forest`, `knows-ildi`, `knows-lind
 
 ### Secret-Type Tags
 
-Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`, `legal-reclassification`.
+Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`, `legal-reclassification`, `withheld-conjugate-truth`.
 
 ### Availability Tags
 
@@ -70,9 +70,13 @@ Examples: `roadside`, `drifter`, `out-of-town`, `roadhouse`, `last-stop`, `bad-d
 
 Examples: `wwizzard-asset`, `released-asset`, `off-books-stasis`, `end-stage-boss`, `hidden-boss`, `secret-boss`, `snes-boss`, `boss-villain`, `bio-hack-risk`, `symbiotic-load`, `old-machine-wakes`, `debt-vs-ownership`, `machine-rights-rumor`, `release-order`, `false-storage-category`, `legal-reclassification`, `crowd-control-weapon`.
 
+### Conjugate Visitor Suit Boss Tags
+
+Examples: `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `brass-verdict`, `refusal-bell`, `fourth-refusal-bell`, `refusal-processing-suit`, `industrial-containment-walker`, `hydraulic-containment`, `steampunk-industrial`, `not-construction`, `pressure-house`, `side-scroller-boss`.
+
 ### Visual Lock Tags
 
-Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-required`, `blue-skin-lock`, `saurian-person-first`, `not-human-with-scales`, `four-fingered-clawed-hands`, `four-toed-clawed-feet`, `tail-required`, `visual-development`.
+Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-required`, `blue-skin-lock`, `saurian-person-first`, `not-human-with-scales`, `four-fingered-clawed-hands`, `four-toed-clawed-feet`, `tail-required`, `visual-development`, `conjugate-visitor-suit-visual-lock`.
 
 ## Current Tag Highlights
 
@@ -82,6 +86,7 @@ Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-require
 - **Kessa “No-Try” Saltstep:** `roadside`, `roadhouse`, `abandoned-mine`, `illegal-shelter`, `out-of-town`, `low-road`, `route-gossip`, `false-name`, `family-network`, `traverse-route`, `difficult-witness`, `informant`, `black-glass`, `geodeum-adjacent`, `protected-pressure`, `protected-mystery-risk`, `aeonolacertian`, `velocisapien-dominant`, `ankylosapien-traits`, `kavo-history`, `romantic-tension`, `bad-map-consequence`, `open-character-restricted-secret`, `medium-pull`, `hold-in-sandbox`, `aeonolacertian-visual-lock-required`.
 - **Evek “Clutch-Saint” Marr:** `wwizzard-asset`, `released-asset`, `off-books-stasis`, `end-stage-boss`, `hidden-boss`, `secret-boss`, `snes-boss`, `boss-villain`, `bio-hack-risk`, `symbiotic-load`, `velocisapien`, `aeonolacertian`, `mechanic`, `repair-worker`, `route-mechanic`, `ceremonial-authority`, `machine-witness`, `proposed-extension-corridor`, `geodeum-adjacent`, `old-machine-wakes`, `prime-ops-disciplinary-bay`, `grief`, `route-ban`, `protected-pressure`, `debt-vs-ownership`, `false-storage-category`, `release-order`, `machine-rights-rumor`, `hard-pull`, `subtext-only`, `restricted`, `hold-in-sandbox`, `pre-book-one`, `aeonolacertian-visual-lock-required`.
 - **Nera “Whitewire” Voss:** `whitewire`, `nera-voss`, `antisapian`, `antisapien`, `blue-skin-lock`, `signalband-antisapian`, `staticwound-traits`, `wwizzard-asset`, `released-asset`, `boss-villain`, `end-stage-boss`, `snes-boss`, `legal-reclassification`, `crowd-control-weapon`, `fight-circuit`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`, `cable-whips`, `legal-plastic-frame`, `visual-development`, `non-canon`, `requires-canon-review`, `hard-pull`, `subtext-only`, `restricted`, `hold-in-sandbox`.
+- **Ith Veylan, the Refusal Bell:** `ith-veylan`, `refusal-bell`, `fourth-refusal-bell`, `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `brass-verdict`, `snes-boss`, `side-scroller-boss`, `tier-4-restricted`, `steampunk-industrial`, `hydraulic-containment`, `refusal-processing-suit`, `pressure-house`, `not-construction`, `industrial-containment-walker`, `shelter-breach-pressure`, `protected-mystery-risk`, `conjugate-canon-risk`, `contact-breach-risk`, `crystal-clause-risk`, `route-pressure-risk`, `hard-pull`, `subtext-only`, `restricted`, `hold-in-sandbox`, `conjugate-visitor-suit-visual-lock`.
 
 ## Tag Principle
 
