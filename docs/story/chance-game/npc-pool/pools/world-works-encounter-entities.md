@@ -115,6 +115,18 @@ tier-4-restricted
 protected-mystery-risk
 ```
 
+### Encounter Seed Cross-Reference: Soft Gate Orchard Deployment
+
+**Encounter File:** `docs/story/chance-game/encounter-seeds/world-works/verdant-contact-walker-soft-gate-orchard-deployment.md`  
+**Encounter Type:** False-sanctuary boss / membrane-deployment mech / field ecology hazard  
+**Main Horror:** Care becomes capture  
+**Weakness:** Prove care is capture  
+**Wild Twist:** Unexpected mercy subroutine  
+**Evidence:** Corrupted care-protocol  
+**Consequence:** Site becomes politically explosive
+
+Use this encounter when the NPC Generator, Encounter Room, Story Room, Illustration Room, or Music Room needs a specific playable deployment of the Verdant Contact Walker rather than the general Project Green Glove concept.
+
 ### NPC Generator Note
 
 If the user asks the NPC Generator to find **The Verdant Contact Walker**, retrieve this pool entry first, then cross-reference the full worldbuilding source file:
