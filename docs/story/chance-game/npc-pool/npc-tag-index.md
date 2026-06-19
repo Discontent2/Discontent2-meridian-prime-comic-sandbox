@@ -8,19 +8,19 @@ Use this file to keep tags consistent across NPC pool files and the master index
 
 ### Role Tags
 
-Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`, `crowd-control-weapon`, `refusal-processing-suit`, `boundary-enforcement-boss`, `route-denial-suit`, `debt-treaty-suit`, `anti-smuggler-predator`, `consent-verification-suit`, `silence-imposition-suit`, `hydropolis-silence-broker`, `membrane-deployment-mech`, `world-works-encounter-entity`, `false-sanctuary-antagonist`, `solarpunk-mech`, `contact-walker`.
+Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`, `crowd-control-weapon`, `refusal-processing-suit`, `boundary-enforcement-boss`, `route-denial-suit`, `debt-treaty-suit`, `anti-smuggler-predator`, `consent-verification-suit`, `silence-imposition-suit`, `hydropolis-silence-broker`, `membrane-deployment-mech`, `world-works-encounter-entity`, `false-sanctuary-antagonist`, `false-sanctuary-boss`, `solarpunk-mech`, `contact-walker`.
 
 ### Story-Use Tags
 
-Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false-culprit`, `technical-specialist`, `emotional-mirror`, `recurring-troublemaker`, `bad-decision-witness`, `roadhouse-fixer`, `route-burnout-mirror`, `kavo-history-pressure`, `hidden-boss`, `secret-boss`, `snes-boss`, `end-stage-boss`, `side-scroller-boss`, `shelter-breach-pressure`, `black-market-map-consequence`, `hidden-witness`, `false-sanctuary`, `corporate-sanctuary-fraud`, `project-green-glove-cross-reference`, `worldskin-prototype-cross-reference`.
+Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false-culprit`, `technical-specialist`, `emotional-mirror`, `recurring-troublemaker`, `bad-decision-witness`, `roadhouse-fixer`, `route-burnout-mirror`, `kavo-history-pressure`, `hidden-boss`, `secret-boss`, `snes-boss`, `end-stage-boss`, `side-scroller-boss`, `shelter-breach-pressure`, `black-market-map-consequence`, `hidden-witness`, `false-sanctuary`, `corporate-sanctuary-fraud`, `care-becomes-capture`, `project-green-glove-cross-reference`, `worldskin-prototype-cross-reference`.
 
 ### Location Tags
 
-Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`, `old-hydraulic-pressure-house`, `pressure-house`, `shelter-pressure`, `craton-threshold-load-yard`, `forbidden-approach`, `wet-dry-registry-atrium`, `worldskin-field-site`, `suspected-dry-gate-pressure-zone`, `project-green-glove-site`.
+Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`, `old-hydraulic-pressure-house`, `pressure-house`, `shelter-pressure`, `craton-threshold-load-yard`, `forbidden-approach`, `wet-dry-registry-atrium`, `worldskin-field-site`, `suspected-dry-gate-pressure-zone`, `project-green-glove-site`, `soft-gate-orchard`, `maintenance-grove`.
 
 ### Faction Tags
 
-Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `world-works-corp`, `prime-ops`, `wwissard`, `hydropolis`, `antisapian-community`, `free-scabs`, `bought-nation`, `craton`, `geodeum-circuit`, `black-market-mapmakers`, `family-network`, `conjugate-visitor-pressure`, `project-green-glove`.
+Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `world-works-corp`, `wwissard`, `hydropolis`, `antisapian-community`, `free-scabs`, `bought-nation`, `craton`, `geodeum-circuit`, `black-market-mapmakers`, `family-network`, `conjugate-visitor-pressure`, `project-green-glove`.
 
 ### Species / People Tags
 
@@ -28,7 +28,7 @@ Examples: `human`, `antisapian`, `antisapien`, `lividisapien`, `hydropolis-antis
 
 ### Tone Tags
 
-Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`, `signal-coded-arena-menace`, `hydraulic-diplomacy-horror`, `brass-amplified-procedure`, `dieselpunk-border-menace`, `cyberpunk-actuator-horror`, `beautiful-corporate-ecology-horror`, `wellness-architecture-with-an-appetite`, `solarpunk-corporate-menace`.
+Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`, `signal-coded-arena-menace`, `hydraulic-diplomacy-horror`, `brass-amplified-procedure`, `dieselpunk-border-menace`, `cyberpunk-actuator-horror`, `beautiful-corporate-ecology-horror`, `wellness-architecture-with-an-appetite`, `solarpunk-corporate-menace`, `healing-grove-trap`.
 
 ### Risk Tags
 
@@ -44,7 +44,7 @@ Examples: `knows-tenet`, `knows-rudy`, `knows-forest`, `knows-ildi`, `knows-lind
 
 ### Secret-Type Tags
 
-Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`, `legal-reclassification`, `withheld-conjugate-truth`, `treaty-condition-false`, `withdrawn-consent`, `silence-as-consent`, `withheld-dry-gate-truth`, `project-green-glove-classified`.
+Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`, `legal-reclassification`, `withheld-conjugate-truth`, `treaty-condition-false`, `withdrawn-consent`, `silence-as-consent`, `withheld-dry-gate-truth`, `project-green-glove-classified`, `corrupted-care-protocol`, `green-glove-care-protocol-7b`.
 
 ### Availability Tags
 
@@ -76,7 +76,7 @@ Examples: `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`,
 
 ### World Works Encounter Entity Tags
 
-Examples: `verdant-contact-walker`, `project-green-glove`, `worldskin-prototype`, `world-works`, `world-works-corp`, `planet-wrap`, `planetary-conjugate-suit`, `solarpunk-contact-membrane`, `solarpunk-prototype`, `conjugate-contact-technology`, `dry-gate-pressure`, `deployable-mech`, `solarpunk-mech`, `conjugate-suit-inspired-mech`, `membrane-deployment-mech`, `flower-walker`, `garden-glove`, `field-ecology-wrap`, `contact-glovebox`, `greenhouse-glovebox`, `false-sanctuary`, `corporate-sanctuary-fraud`, `wellness-architecture-with-an-appetite`.
+Examples: `verdant-contact-walker`, `project-green-glove`, `worldskin-prototype`, `world-works`, `world-works-corp`, `planet-wrap`, `planetary-conjugate-suit`, `solarpunk-contact-membrane`, `solarpunk-prototype`, `conjugate-contact-technology`, `dry-gate-pressure`, `deployable-mech`, `solarpunk-mech`, `conjugate-suit-inspired-mech`, `membrane-deployment-mech`, `flower-walker`, `garden-glove`, `field-ecology-wrap`, `contact-glovebox`, `greenhouse-glovebox`, `false-sanctuary`, `false-sanctuary-boss`, `corporate-sanctuary-fraud`, `care-becomes-capture`, `reassurance-bloom`, `root-anchoring`, `full-worldskin-deployment`, `unexpected-mercy-subroutine`, `pre-extraction-mapping`, `maintenance-grove`, `witness-target`, `route-panic-misread`, `healing-grove-trap`, `wellness-architecture-with-an-appetite`.
 
 ### Visual Lock Tags
 
@@ -94,7 +94,8 @@ Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-require
 - **Thāren Voss-Kel, the Claim Pylon:** `tharen-voss-kel`, `claim-pylon`, `the-claim-pylon`, `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `pile-verdict`, `snes-boss`, `side-scroller-boss`, `tier-4-restricted`, `dieselpunk-industrial`, `hydraulic-containment`, `industrial-contact-mech`, `walking-quarantine-machine`, `route-denial-suit`, `debt-treaty-suit`, `anti-smuggler-predator`, `craton-adjacent`, `craton-threshold-load-yard`, `black-market-map`, `forbidden-approach`, `orange-crystal`, `gold-crystal`, `black-crystal`, `red-crystal`, `treaty-condition-false`, `protected-mystery-risk`, `conjugate-canon-risk`, `craton-continuity-risk`, `contact-breach-risk`, `route-pressure-risk`, `crystal-clause-risk`, `hard-pull`, `restricted`, `hold-in-sandbox`, `conjugate-visitor-suit-visual-lock`.
 - **Sāth Nyr, the Ninth Consent Actuator:** `sath-nyr`, `ninth-consent-actuator`, `the-ninth-consent-actuator`, `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `quiet-yes`, `snes-boss`, `side-scroller-boss`, `tier-4-restricted`, `cyberpunk-industrial`, `hydraulic-containment`, `actuator-horror`, `black-glass`, `hydropolis-adjacent`, `wet-dry-registry-atrium`, `consent-verification-suit`, `silence-imposition-suit`, `hydropolis-silence-broker`, `blue-crystal`, `violet-crystal`, `silver-crystal`, `prismatic-crystal`, `hidden-witness`, `withdrawn-consent`, `silence-as-consent`, `protected-signal-risk`, `protected-mystery-risk`, `conjugate-canon-risk`, `hydropolis-continuity-risk`, `contact-breach-risk`, `crystal-clause-risk`, `hard-pull`, `restricted`, `hold-in-sandbox`, `conjugate-visitor-suit-visual-lock`.
 - **The Verdant Contact Walker:** `verdant-contact-walker`, `project-green-glove`, `worldskin-prototype`, `world-works`, `world-works-corp`, `planet-wrap`, `planetary-conjugate-suit`, `solarpunk-contact-membrane`, `solarpunk-prototype`, `conjugate-contact-technology`, `dry-gate-pressure`, `deployable-mech`, `solarpunk-mech`, `conjugate-suit-inspired-mech`, `membrane-deployment-mech`, `flower-walker`, `garden-glove`, `field-ecology-wrap`, `contact-glovebox`, `greenhouse-glovebox`, `false-sanctuary`, `corporate-sanctuary-fraud`, `wellness-architecture-with-an-appetite`, `high-canon-risk`, `tier-4-restricted`, `protected-mystery-risk`, `hold-in-sandbox`.
+- **Soft Gate Orchard Deployment:** `soft-gate-orchard`, `soft-gate-orchard-deployment`, `verdant-contact-walker`, `project-green-glove`, `worldskin-prototype`, `world-works`, `world-works-corp`, `planet-wrap`, `planetary-conjugate-suit`, `solarpunk-contact-membrane`, `solarpunk-prototype`, `deployable-mech`, `solarpunk-mech`, `conjugate-suit-inspired-mech`, `membrane-deployment-mech`, `flower-walker`, `garden-glove`, `false-sanctuary-boss`, `false-sanctuary`, `corporate-sanctuary-fraud`, `care-becomes-capture`, `reassurance-bloom`, `root-anchoring`, `full-worldskin-deployment`, `unexpected-mercy-subroutine`, `corrupted-care-protocol`, `pre-extraction-mapping`, `maintenance-grove`, `witness-target`, `route-panic-misread`, `healing-grove-trap`, `wellness-architecture-with-an-appetite`, `dry-gate-pressure`, `high-canon-risk`, `tier-4-restricted`, `protected-mystery-risk`, `hold-in-sandbox`.
 
 ## Tag Principle
 
-Tags should help rooms find usable NPCs quickly. They should not become lore claims beyond the saved card.
+Tags should help rooms find usable NPCs and encounter entities quickly. They should not become lore claims beyond the saved card.
