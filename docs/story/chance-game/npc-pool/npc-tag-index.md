@@ -8,31 +8,31 @@ Use this file to keep tags consistent across NPC pool files and the master index
 
 ### Role Tags
 
-Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`, `crowd-control-weapon`, `refusal-processing-suit`, `boundary-enforcement-boss`, `route-denial-suit`, `debt-treaty-suit`, `anti-smuggler-predator`, `consent-verification-suit`, `silence-imposition-suit`, `hydropolis-silence-broker`.
+Examples: `witness`, `translator`, `route-guide`, `mechanic`, `registry-clerk`, `false-culprit`, `technical-specialist`, `local-authority`, `misclassification-obstructionist`, `roadhouse-fixer`, `illegal-shelter-keeper`, `false-name-broker`, `released-asset`, `route-mechanic`, `machine-witness`, `crowd-control-weapon`, `refusal-processing-suit`, `boundary-enforcement-boss`, `route-denial-suit`, `debt-treaty-suit`, `anti-smuggler-predator`, `consent-verification-suit`, `silence-imposition-suit`, `hydropolis-silence-broker`, `membrane-deployment-mech`, `world-works-encounter-entity`, `false-sanctuary-antagonist`, `solarpunk-mech`, `contact-walker`.
 
 ### Story-Use Tags
 
-Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false-culprit`, `technical-specialist`, `emotional-mirror`, `recurring-troublemaker`, `bad-decision-witness`, `roadhouse-fixer`, `route-burnout-mirror`, `kavo-history-pressure`, `hidden-boss`, `secret-boss`, `snes-boss`, `end-stage-boss`, `side-scroller-boss`, `shelter-breach-pressure`, `black-market-map-consequence`, `hidden-witness`.
+Examples: `ally`, `difficult-helper`, `witness`, `informant`, `obstacle`, `false-culprit`, `technical-specialist`, `emotional-mirror`, `recurring-troublemaker`, `bad-decision-witness`, `roadhouse-fixer`, `route-burnout-mirror`, `kavo-history-pressure`, `hidden-boss`, `secret-boss`, `snes-boss`, `end-stage-boss`, `side-scroller-boss`, `shelter-breach-pressure`, `black-market-map-consequence`, `hidden-witness`, `false-sanctuary`, `corporate-sanctuary-fraud`, `project-green-glove-cross-reference`, `worldskin-prototype-cross-reference`.
 
 ### Location Tags
 
-Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`, `old-hydraulic-pressure-house`, `pressure-house`, `shelter-pressure`, `craton-threshold-load-yard`, `forbidden-approach`, `wet-dry-registry-atrium`.
+Examples: `nci-records`, `weather-mast`, `signal-tower`, `wet-season-channels`, `traverse-route`, `craton-adjacent`, `gate-pressure`, `roadside`, `roadhouse`, `abandoned-mine`, `low-road`, `out-of-town`, `last-stop`, `prime-ops-disciplinary-bay`, `proposed-extension-corridor`, `fuel-depot-arena`, `hydropolis-adjacent`, `route-77-set-dressing`, `old-hydraulic-pressure-house`, `pressure-house`, `shelter-pressure`, `craton-threshold-load-yard`, `forbidden-approach`, `wet-dry-registry-atrium`, `worldskin-field-site`, `suspected-dry-gate-pressure-zone`, `project-green-glove-site`.
 
 ### Faction Tags
 
-Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `wwissard`, `hydropolis`, `antisapian-community`, `free-scabs`, `bought-nation`, `craton`, `geodeum-circuit`, `black-market-mapmakers`, `family-network`, `conjugate-visitor-pressure`.
+Examples: `nci`, `traverse-ops`, `prime-ops`, `world-works`, `world-works-corp`, `prime-ops`, `wwissard`, `hydropolis`, `antisapian-community`, `free-scabs`, `bought-nation`, `craton`, `geodeum-circuit`, `black-market-mapmakers`, `family-network`, `conjugate-visitor-pressure`, `project-green-glove`.
 
 ### Species / People Tags
 
-Examples: `human`, `antisapian`, `antisapien`, `lividisapien`, `hydropolis-antisapian`, `signalband-antisapian`, `staticwound-traits`, `velocisapien`, `aeonolacertian`, `misclassified-person`, `velocisapien-dominant`, `ankylosapien-traits`, `conjugate-visitor`, `āænosapian`, `sealed-visitor`.
+Examples: `human`, `antisapian`, `antisapien`, `lividisapien`, `hydropolis-antisapian`, `signalband-antisapian`, `staticwound-traits`, `velocisapien`, `aeonolacertian`, `misclassified-person`, `velocisapien-dominant`, `ankylosapien-traits`, `conjugate-visitor`, `āænosapian`, `sealed-visitor`, `non-person-encounter-entity`, `deployable-mech`, `contact-mech`.
 
 ### Tone Tags
 
-Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`, `signal-coded-arena-menace`, `hydraulic-diplomacy-horror`, `brass-amplified-procedure`, `dieselpunk-border-menace`, `cyberpunk-actuator-horror`.
+Examples: `procedural-grief`, `angry-honesty`, `poetic-route-slang`, `bureaucratic-menace`, `warm-but-evasive`, `gallows-humor`, `streetwise-compression`, `salesperson-charm`, `late-night-survival-wit`, `cheerful-fatalism`, `signal-coded-arena-menace`, `hydraulic-diplomacy-horror`, `brass-amplified-procedure`, `dieselpunk-border-menace`, `cyberpunk-actuator-horror`, `beautiful-corporate-ecology-horror`, `wellness-architecture-with-an-appetite`, `solarpunk-corporate-menace`.
 
 ### Risk Tags
 
-Examples: `low-risk`, `moderate-risk`, `high-risk`, `book-one-risk`, `protected-mystery-risk`, `canon-bloat-risk`, `restricted-character-risk`, `wwissard-canon-risk`, `bio-hack-risk`, `species-biology-risk`, `antisapian-visual-risk`, `protected-signal-risk`, `protected-pressure-risk`, `safety-bio-hack-detail-risk`, `conjugate-canon-risk`, `contact-breach-risk`, `crystal-clause-risk`, `route-pressure-risk`, `craton-continuity-risk`, `hydropolis-continuity-risk`.
+Examples: `low-risk`, `moderate-risk`, `high-risk`, `book-one-risk`, `protected-mystery-risk`, `canon-bloat-risk`, `restricted-character-risk`, `wwissard-canon-risk`, `bio-hack-risk`, `species-biology-risk`, `antisapian-visual-risk`, `protected-signal-risk`, `protected-pressure-risk`, `safety-bio-hack-detail-risk`, `conjugate-canon-risk`, `contact-breach-risk`, `crystal-clause-risk`, `route-pressure-risk`, `craton-continuity-risk`, `hydropolis-continuity-risk`, `dry-gate-pressure-risk`, `world-works-canon-risk`.
 
 ### Recurrence Tags
 
@@ -44,7 +44,7 @@ Examples: `knows-tenet`, `knows-rudy`, `knows-forest`, `knows-ildi`, `knows-lind
 
 ### Secret-Type Tags
 
-Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`, `legal-reclassification`, `withheld-conjugate-truth`, `treaty-condition-false`, `withdrawn-consent`, `silence-as-consent`.
+Examples: `hidden-debt`, `hidden-medical-status`, `hidden-survivor-guilt`, `hidden-faction-contact`, `hidden-route-trauma`, `hidden-illegal-map`, `hidden-betrayal`, `protected-secret`, `protected-pressure`, `false-storage-category`, `release-order`, `legal-reclassification`, `withheld-conjugate-truth`, `treaty-condition-false`, `withdrawn-consent`, `silence-as-consent`, `withheld-dry-gate-truth`, `project-green-glove-classified`.
 
 ### Availability Tags
 
@@ -74,9 +74,13 @@ Examples: `wwizzard-asset`, `released-asset`, `off-books-stasis`, `end-stage-bos
 
 Examples: `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `brass-verdict`, `pile-verdict`, `quiet-yes`, `refusal-bell`, `fourth-refusal-bell`, `claim-pylon`, `the-claim-pylon`, `ninth-consent-actuator`, `the-ninth-consent-actuator`, `refusal-processing-suit`, `route-denial-suit`, `debt-treaty-suit`, `consent-verification-suit`, `silence-imposition-suit`, `industrial-containment-walker`, `industrial-contact-mech`, `walking-quarantine-machine`, `hydraulic-containment`, `actuator-horror`, `black-glass`, `steampunk-industrial`, `dieselpunk-industrial`, `cyberpunk-industrial`, `not-construction`, `pressure-house`, `craton-threshold-load-yard`, `wet-dry-registry-atrium`, `side-scroller-boss`.
 
+### World Works Encounter Entity Tags
+
+Examples: `verdant-contact-walker`, `project-green-glove`, `worldskin-prototype`, `world-works`, `world-works-corp`, `planet-wrap`, `planetary-conjugate-suit`, `solarpunk-contact-membrane`, `solarpunk-prototype`, `conjugate-contact-technology`, `dry-gate-pressure`, `deployable-mech`, `solarpunk-mech`, `conjugate-suit-inspired-mech`, `membrane-deployment-mech`, `flower-walker`, `garden-glove`, `field-ecology-wrap`, `contact-glovebox`, `greenhouse-glovebox`, `false-sanctuary`, `corporate-sanctuary-fraud`, `wellness-architecture-with-an-appetite`.
+
 ### Visual Lock Tags
 
-Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-required`, `blue-skin-lock`, `saurian-person-first`, `not-human-with-scales`, `four-fingered-clawed-hands`, `four-toed-clawed-feet`, `tail-required`, `visual-development`, `conjugate-visitor-suit-visual-lock`.
+Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-required`, `blue-skin-lock`, `saurian-person-first`, `not-human-with-scales`, `four-fingered-clawed-hands`, `four-toed-clawed-feet`, `tail-required`, `visual-development`, `conjugate-visitor-suit-visual-lock`, `solarpunk-mech-visual-lock`.
 
 ## Current Tag Highlights
 
@@ -89,6 +93,7 @@ Examples: `aeonolacertian-visual-lock-required`, `antisapian-visual-lock-require
 - **Ith Veylan, the Refusal Bell:** `ith-veylan`, `refusal-bell`, `fourth-refusal-bell`, `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `brass-verdict`, `snes-boss`, `side-scroller-boss`, `tier-4-restricted`, `steampunk-industrial`, `hydraulic-containment`, `refusal-processing-suit`, `pressure-house`, `not-construction`, `industrial-containment-walker`, `shelter-breach-pressure`, `protected-mystery-risk`, `conjugate-canon-risk`, `contact-breach-risk`, `crystal-clause-risk`, `route-pressure-risk`, `hard-pull`, `subtext-only`, `restricted`, `hold-in-sandbox`, `conjugate-visitor-suit-visual-lock`.
 - **Thāren Voss-Kel, the Claim Pylon:** `tharen-voss-kel`, `claim-pylon`, `the-claim-pylon`, `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `pile-verdict`, `snes-boss`, `side-scroller-boss`, `tier-4-restricted`, `dieselpunk-industrial`, `hydraulic-containment`, `industrial-contact-mech`, `walking-quarantine-machine`, `route-denial-suit`, `debt-treaty-suit`, `anti-smuggler-predator`, `craton-adjacent`, `craton-threshold-load-yard`, `black-market-map`, `forbidden-approach`, `orange-crystal`, `gold-crystal`, `black-crystal`, `red-crystal`, `treaty-condition-false`, `protected-mystery-risk`, `conjugate-canon-risk`, `craton-continuity-risk`, `contact-breach-risk`, `route-pressure-risk`, `crystal-clause-risk`, `hard-pull`, `restricted`, `hold-in-sandbox`, `conjugate-visitor-suit-visual-lock`.
 - **Sāth Nyr, the Ninth Consent Actuator:** `sath-nyr`, `ninth-consent-actuator`, `the-ninth-consent-actuator`, `conjugate-visitor`, `āænosapian`, `visitor-suit`, `sealed-visitor`, `contact-breach-boss`, `clause-seed`, `crystal-delivery-system`, `annihilation-instrument`, `final-clause`, `quiet-yes`, `snes-boss`, `side-scroller-boss`, `tier-4-restricted`, `cyberpunk-industrial`, `hydraulic-containment`, `actuator-horror`, `black-glass`, `hydropolis-adjacent`, `wet-dry-registry-atrium`, `consent-verification-suit`, `silence-imposition-suit`, `hydropolis-silence-broker`, `blue-crystal`, `violet-crystal`, `silver-crystal`, `prismatic-crystal`, `hidden-witness`, `withdrawn-consent`, `silence-as-consent`, `protected-signal-risk`, `protected-mystery-risk`, `conjugate-canon-risk`, `hydropolis-continuity-risk`, `contact-breach-risk`, `crystal-clause-risk`, `hard-pull`, `restricted`, `hold-in-sandbox`, `conjugate-visitor-suit-visual-lock`.
+- **The Verdant Contact Walker:** `verdant-contact-walker`, `project-green-glove`, `worldskin-prototype`, `world-works`, `world-works-corp`, `planet-wrap`, `planetary-conjugate-suit`, `solarpunk-contact-membrane`, `solarpunk-prototype`, `conjugate-contact-technology`, `dry-gate-pressure`, `deployable-mech`, `solarpunk-mech`, `conjugate-suit-inspired-mech`, `membrane-deployment-mech`, `flower-walker`, `garden-glove`, `field-ecology-wrap`, `contact-glovebox`, `greenhouse-glovebox`, `false-sanctuary`, `corporate-sanctuary-fraud`, `wellness-architecture-with-an-appetite`, `high-canon-risk`, `tier-4-restricted`, `protected-mystery-risk`, `hold-in-sandbox`.
 
 ## Tag Principle
 
