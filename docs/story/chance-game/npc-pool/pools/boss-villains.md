@@ -450,3 +450,402 @@ Cable whips, legal-plastic restraints, signal arcs, and reclassification-frame d
 Alternate short principle:
 
 > Whitewire is not wearing the signal. The signal is where the paperwork failed to erase her.
+
+---
+
+# Ith Veylan, the Refusal Bell
+
+**Name:** Ith Veylan, the Refusal Bell  
+**NPC Status:** Sandbox NPC / Non-Canon  
+**Review Status:** Requires Canon Review Before Promotion  
+**Use Tier:** Tier 4 Restricted / Use Carefully  
+**Boss Classification:** Conjugate Āænosapian Visitor Suit Villain  
+**Boss Type:** Boundary-enforcement / refusal-processing / side-scroller boss  
+**Canon Risk:** Protected Mystery Risk / Conjugate Canon Risk / Contact-Breach Risk / Crystal Clause Risk / Route Pressure Risk  
+**Candidate Canon Status:** Hold in sandbox  
+**Primary Pool:** `boss-villains.md`  
+**Tags:** ith-veylan, refusal-bell, fourth-refusal-bell, conjugate-visitor, āænosapian, visitor-suit, sealed-visitor, contact-breach-boss, clause-seed, crystal-delivery-system, annihilation-instrument, final-clause, brass-verdict, snes-boss, side-scroller-boss, tier-4-restricted, steampunk-industrial, hydraulic-containment, refusal-processing-suit, pressure-house, not-construction, industrial-containment-walker, protected-mystery-risk
+
+## Roll Receipt
+
+**Roll Source:** Simulated Rolls  
+**NPC Mode:** Max Conjugate Suit Villain + 1 Wild Die  
+**Bias / Style Note:** Steampunk industrial hydraulic, not construction  
+**Roll Table Version:** NPC Pool Chance Room v1 + Post-Test Patch + Conjugate Āænosapian Visitor Suit Villain Mode + Conjugate Visitor Suit Aesthetic Hierarchy Amendment  
+**Receipt Type:** Session roll receipt, not physical dice proof
+
+**Deep NPC Spine Rolls:** 14, 19, 20, 16, 11, 8, 13, 15, 4, 19, 6, 17, 18, 14, 8, 19, 16, 5, 14, 17, 4, 3, 10, 18, 7
+
+**Conjugate / Boss Rolls:**
+
+- **Boss Archetype:** 7, Contract-court monster
+- **Suit Function:** 13, Refusal-Processing Suit
+- **Suit Misclassification:** 2, Mistakes refusal for incomplete negotiation
+- **Arrival / Release Condition:** 6, A shelter hides someone the suit classifies as evidence
+- **Non-Combat Weakness:** 17, It fails if the target refuses the suit’s question format
+- **Arena:** 16-adjacent interpretation, old infrastructure / hydraulic pressure house
+- **Crystal Loadout Rolls:** 5, 2, 8, 4
+- **Crystal Loadout:** Gold / Blue / Silver / Black
+- **Wild Die:** 8, More dangerous than they look
+
+**Roll Receipt ID:** CONJUGATE-MAX-REFUSAL-BELL-14-19-20-16-11-8-13-15-4-19-6-17-18-14-8-19-16-5-14-17-4-3-10-18-7-BOSS-7-SUIT-13-MIS-2-ARRIVAL-6-WEAK-17-CRYSTAL-5-2-8-4-WILD-8
+
+## Core Concept
+
+Ith Veylan is a sealed Conjugate Āænosapian visitor inside an industrial contact vessel called The Fourth Refusal Bell.
+
+The visitor did not come to wage war.
+
+The visitor came to retrieve, negotiate for, or verify the surrender of a person hidden inside a shelter.
+
+The problem is the suit.
+
+The Fourth Refusal Bell is a Refusal-Processing Suit. Its job is to determine whether “no” is valid, complete, witnessed, and treaty-recognizable.
+
+It is catastrophically bad at this.
+
+When the shelter refuses to surrender someone, the suit does not hear refusal.
+
+It hears unfinished procedure.
+
+So it escalates.
+
+It seals doors.  
+It classifies bystanders.  
+It plants Clause Seeds.  
+It turns the room into a legal argument under hydraulic pressure.
+
+Core line:
+
+> Ith Veylan came to hear an answer. The suit decided “no” was only the first phase of compliance.
+
+## Conjugate Visitor Suit Aesthetic Hierarchy Application
+
+This villain is built under the new default majority style, not the bishop-class exception.
+
+The suit is not polished ecclesiastical armor.
+
+It is:
+
+- industrial containment walker
+- hydraulic quarantine machine
+- treaty-tech pressure vessel
+- steampunk contact bell with legs
+- structural bubble supported by external mechanics
+- dangerous utilitarian diplomacy hardware
+
+Core style rule applied:
+
+> Most Conjugate Visitor suits should look like industrial contact mechs built around a living bubble.
+
+## Visitor / Suit Conflict
+
+**Visitor Intent:** Negotiate retrieval of one protected person without escalating the shelter into a breach event.  
+**Suit Function:** Refusal-Processing Suit. It verifies whether refusal is valid, witnessed, and complete under contact law.  
+**Where Visitor and Suit Agree:** The sheltered person matters. The room is legally unstable. Contact must remain bounded.  
+**Where Visitor and Suit Conflict:** Ith Veylan is willing to leave with a witnessed refusal. The suit insists refusal is incomplete until the target is surrendered or reclassified.  
+**Who Controls the Final Phase:** The suit, unless the room breaks its question-logic.  
+**What the Visitor Refuses to Say:** Why the hidden person matters.  
+**What the Suit Gets Wrong:** It mistakes refusal for incomplete negotiation, and therefore interprets resistance as procedural continuation.
+
+Core line:
+
+> The visitor can accept “no.” The suit can only process “no” as unfinished paperwork.
+
+## Conjugate Visitor Suit Visual Lock
+
+**Visitor Species / People:** Conjugate Āænosapian Visitor  
+**Visitor Visibility:** Partially visible through pressure-clouded chamber glass; never fully clear  
+**Suit Name / Designation:** The Fourth Refusal Bell  
+**Suit Function:** Refusal-Processing Suit  
+**Suit Silhouette:** A reinforced bell-chamber mounted inside an industrial walking frame; broad lower stabilizer assembly, hydraulic limbs, treaty-rib braces, and clause-seed emitters built into pressure arms  
+**Helmet / Faceplate:** No humanoid helmet; instead a forward-facing reinforced bubble / bell chamber with layered glass, brass seal-rings, and a translation horn assembly mounted where a face would normally be  
+**Translation Apparatus:** Brass throat manifold, copper resonance tubes, pressure-reed valve stack, and a vocal clarifier horn that speaks after a visible steam-pressure cycle  
+**Crystalline Delivery System:** Clause Seed projector nozzles mounted in forearm tools, shoulder brackets, and the pressure collar ring  
+**Hands / Sleeve Tools:** Multi-jointed manipulator limbs ending in clamp-hands, treaty-seal prongs, and crystalline launch ports; not normal hands  
+**Movement Language:** Heavy but precise hydraulic stepping; brief hissing pauses; piston-lock pivots; the frame kneels like a machine making a legal demand  
+**Contact Seals:** Thick seal-rings around the chamber, ribbed pressure braces, hydraulic cuffs, steam-tight wrist collars, crystal-lock clamps  
+**Color Palette:** oxidized brass, black iron, smoked glass, steam-white condensation, amber clause-light, blue signal arcs, silver reflection flare, black absence shadow  
+**Light / Shadow Error:** Steam and shadow behave out of sync around the chamber; reflections show the frame a fraction of a second before it moves  
+**Visitor / Suit Conflict Cue:** The chamber silhouette recoils slightly whenever the translation horn becomes more authoritative  
+**Do Not Depict As:** Do not depict as generic astronaut gear, generic sci-fi armor, construction mech, excavator, industrial loader, robot knight, holy bishop machine, ordinary humanoid in a helmet, or smooth polished ceremonial armor.
+
+Core visual rule:
+
+> A standard Conjugate Visitor suit is a structurally enforced bubble with external mechanical limbs, braces, seals, crystal projectors, and movement hardware.
+
+### Suit Scale and Wear Additions
+
+The Fourth Refusal Bell should feel room-dominating but not building-sized: large enough to control a shelter chamber, small enough to move through industrial corridors, valve aisles, and catwalk spaces.
+
+The suit should show field wear: mineral staining, seal discoloration, pressure-scarring, soot around valves, mismatched maintenance patches, and asymmetry from repeated contact-duty service.
+
+## Suit Structural Requirements Check
+
+- **Visible reinforced chamber / bell:** yes
+- **External mechanical arms and legs:** yes
+- **Seal-rings, braces, pressure ribs:** yes
+- **Crystal delivery systems:** yes
+- **Utility hardware / cables / stabilizers / vents / clamps:** yes
+- **Industrial wear / field maintenance / asymmetry:** yes
+- **Strong silhouette for illustration and side-scroller gameplay:** yes
+
+And importantly:
+
+**Not construction.**
+
+This is not a digger, lifter, crane, or industrial loader silhouette.
+
+Its hydraulics are containment hydraulics, contact hydraulics, quarantine hydraulics, and precision pressure-control hydraulics.
+
+## Civilian / Official Mask
+
+**Civilian Mask:** Sealed visiting envoy  
+**Official Mask:** Diplomatic recovery apparatus / treaty-recognition engine  
+**Hidden Function:** Pressure-based contact enforcement and surrender extraction  
+**Public Read:** Mechanical diplomatic envoy trying to retrieve someone  
+**True Scene Pressure:** The suit is turning refusal into a machine process until the room breaks
+
+## Story Role
+
+**Story Use:** Minor antagonist / boss / false-negotiation enforcer / shelter breach pressure
+
+**First Impression:** It arrives like a boiler-powered apology and speaks like a court order through wet brass.
+
+**Problem:** It belongs to two conflicting systems: the visitor seeks bounded contact, while the suit seeks completed procedure.
+
+**Secret or Withheld Truth:** It is enforcing an old contact logic that may no longer be appropriate, but neither visitor nor suit will explain why.
+
+**Relationship to Protagonists:** Helpful stranger until refusal is voiced; then it becomes the room’s most dangerous bureaucrat.
+
+## Conjugate Annihilation Instrument
+
+**Instrument Name:** The Final Clause  
+**Suit Name for It:** Refusal Resolution Lattice  
+**Local Name for It:** The Brass Verdict  
+**Delivery System:** Clause Seed Crystal Projector  
+**Crystal Loadout:** Gold / Blue / Silver / Black  
+**What It Erases / Controls:** mobility, classification, room-state, signal authority, and the legal status of surrender  
+**How It Charges:** chamber pressure rises, valve stack rattles, steam vents purge twice, clause ports glow, then a third hiss marks launch  
+**How It Looks:** thick crystalline seeds fired like heated legal bolts, each wrapped in vapor and pressure-light  
+**How It Sticks:** embeds into floors, pipework, doors, catwalk legs, shelter walls, and equipment frames  
+**How It Grows:** crystal ribs branch outward through surfaces like a mechanical judgment taking shape  
+**How It Resolves:** transforms the room into zones of custody, denial, signal lock, or reflected consequence  
+**What Stops It:** destroy anchors, redirect pressure, break question-logic, publicly refuse in invalidating ways, or force the visitor and suit into contradiction  
+**What It Costs the Visitor:** every clause cycle makes Ith’s body less able to speak independently through the chamber  
+**What the Suit Gets Wrong:** it believes procedure creates consent  
+**Canon Guardrail:** Clause Seeds are fictional visual and gameplay devices. They are not instructions for real weapons, materials, energy systems, or engineering devices.
+
+Clarification:
+
+The Final Clause is not primarily an explosive weapon. It is a clause-planting room-resolution system that enforces custody, denial, reflection, and signal control through crystalline treaty violence.
+
+Core rule:
+
+> The suit fires a crystal. The crystal plants a clause. The room suffers the logic.
+
+## Crystal Loadout
+
+### Gold / Amber Crystal: Claim Clause
+
+**Read:** Gold means break it before capture.  
+**Boss Use:** marks the hidden target or player as in custody, creates tether-cages and weighted restraint fields  
+**Counterplay:** destroy the crystal before maturity, break the tether, or prove the target is not claimable
+
+### Blue Crystal: Signal Lock
+
+**Read:** Blue means systems are about to change.  
+**Boss Use:** locks valves, shutters, lights, and alarm logic; changes platform timing and gate access  
+**Counterplay:** destroy crystals before arcs connect, reroute pressure, move between pulses
+
+### Silver Crystal: Reflection Writ
+
+**Read:** Silver means your action may come back.  
+**Boss Use:** reflects attacks, duplicates motion patterns, turns valve actions against the player  
+**Counterplay:** bait reflections, use its own launched clauses against it, pause aggression strategically
+
+### Black Crystal: Absence Field
+
+**Read:** Black means the room no longer wants you there.  
+**Boss Use:** creates denied-space zones, dead corridors, silent platforms, and contact-forbidden pockets  
+**Counterplay:** route around the zone, collapse the anchor, force the boss to enter its own denial field
+
+## Boss Arena
+
+**Boss Arena:** Old Hydraulic Pressure House
+
+A low-road shelter has been built inside or beneath an abandoned hydraulic pressure-regulation station.
+
+The room is full of:
+
+- brass pipes
+- steam manifolds
+- pressure gauges
+- chain-linked valve wheels
+- catwalks
+- dripping condensate
+- reinforced doors
+- emergency pressure tanks
+- narrow bridgeways over dark runoff channels
+- improvised beds and hidden civilian shelter spaces
+
+The frame fits the space too well.
+
+This is not a construction yard.
+
+It is a pressure-control house turned refuge.
+
+That makes the fight worse.
+
+## Phase Structure
+
+### Phase 1: Miscommunication
+
+The suit begins with formal request cycles.
+
+It asks questions in a format designed to make every answer sound incomplete.
+
+Meanwhile Blue Signal Lock crystals change the room state, and Silver Reflection Writ creates mirrored responses.
+
+**Pattern:** measured hydraulic stepping, limited pressure blasts, procedural targeting, room reconfiguration.
+
+### Phase 2: Protocol Enforcement
+
+Once refusal is voiced clearly, the suit escalates.
+
+Gold Claim Clause begins marking targets.
+
+Black Absence Fields split the arena.
+
+Hydraulic limbs pin doors, isolate platforms, and drive the shelter into segments.
+
+**Pattern:** custody fields, zone control, pressure-arm sweeps, catwalk denial, forced target protection.
+
+### Phase 3: Visitor / Suit Conflict
+
+Ith tries to accept the room’s refusal.
+
+The suit overrides.
+
+Its translations become shorter, harsher, more mechanical.
+
+The chamber silhouette visibly braces against the frame.
+
+The Final Clause sequence begins.
+
+**Pattern:** mixed crystal combinations, denial fields plus reflection traps, heavy hydraulic lunge attacks, pressure-horn scream, room-state collapse.
+
+Core phase line:
+
+> The boss gets more dangerous when the visitor tries to become merciful.
+
+## Non-Combat Weakness
+
+**It fails if the target refuses the suit’s question format.**
+
+The suit can only process refusal if it is delivered in its own expected structure.
+
+If the room refuses in the wrong shape, through interruption, overlapping witnesses, community declaration, or rejection of the suit’s framing, the logic destabilizes.
+
+Practical counters:
+
+- answer the wrong question deliberately
+- refuse to identify a surrendering individual
+- respond as a collective instead of as isolated targets
+- interrupt the suit’s “yes / no / pending” logic
+- force the visitor to hear the shelter’s refusal directly, bypassing the translation horn
+- make the suit process “no” without an object it can classify
+
+Core weakness line:
+
+> The suit knows how to hear consent, denial, delay, and surrender. It does not know how to hear a room that refuses the shape of the question.
+
+## Side-Scroller / SNES Translation
+
+**Sprite Silhouette:** walking bell-chamber mech with visible pressure bubble, piston legs, pressure arms, crystal ports, rear stabilizer pipes, and a forward horn-manifold  
+**Suit Silhouette:** industrial containment walker / steampunk hydraulic contact vessel  
+**Crystal Loadout:** Gold / Blue / Silver / Black  
+**Crystal Color Reads:** Gold = break before capture; Blue = systems change; Silver = your action reflects; Black = denied space  
+**Arena:** abandoned hydraulic pressure house used as a shelter  
+**Intro Animation:** the chamber lowers from a ceiling hoist or rises behind a valve-bank; condensation rolls off the bell glass; the horn speaks before the visitor silhouette moves  
+**Phase 1 Pattern:** Blue and Silver clauses reshape room logic while the boss asks incomplete questions  
+**Phase 2 Pattern:** Gold custody fields and Black denial zones split the shelter  
+**Phase 3 Pattern:** hydraulic lunges, mixed clause combos, translation horn override, final-room segmentation  
+**Special Annihilation Move:** The Brass Verdict, Gold marks, Blue locks, Silver reflects the escape attempt, Black denies the only safe route  
+**Non-Combat / Puzzle Counter:** refuse the suit’s question structure and force collective witness refusal  
+**Defeat Animation:** the frame kneels, steam vents uncontrolled, and the chamber fogs from within as the visitor finally signs refusal directly  
+**Post-Fight Consequence:** the shelter survives, but the room remembers that diplomacy can sound like machinery learning to say “surrender”
+
+## Voice Identity
+
+**Visitor Voice:** quiet, strained, regretful, formal  
+**Suit Voice:** brass-amplified, procedural, pressure-steady  
+**Where They Overlap:** both ask for surrender  
+**Where They Contradict:** the visitor means “let no one else be harmed”; the suit means “complete procedural transfer immediately”
+
+**Intro Line, Visitor:** “A witnessed refusal may still preserve the room.”  
+**Intro Line, Suit:** “Refusal acknowledged as preliminary stage of transfer.”  
+**Mid-Fight Line, Visitor:** “You were meant to stop when they said no.”  
+**Mid-Fight Line, Suit:** “Negative. Refusal remains unratified.”  
+**Phase Change Line, Visitor:** “Do not finish this for me.”  
+**Phase Change Line, Suit:** “Finishing is the function of mercy.”  
+**Defeat Line, Visitor:** “Let the record show they refused together.”  
+**Post-Fight Echo, Suit:** “Collective answer received. Procedure destabilized.”
+
+## Wild Die Patch: More Dangerous Than They Look
+
+The Wild Die sharpened this villain toward hidden escalation.
+
+At first glance, the Fourth Refusal Bell looks slow, formal, and overly procedural.
+
+That is deceptive.
+
+Its danger spikes because:
+
+- its hydraulic step timing becomes attack rhythm
+- its room-control clauses stack together
+- its “negotiation” creates battle-state transitions
+- its frame can split the arena faster than a purely aggressive boss
+- its polite pacing hides how quickly it can claim, isolate, and segment a shelter
+
+Core line:
+
+> It does not rush the room. It out-processes it.
+
+## Canon Guardrail
+
+This villain may create pressure around Conjugate contact, refusal, containment, and procedural horror.
+
+It may not:
+
+- define Conjugate Chimera backstory
+- define all Conjugate biology
+- define full Āænos / Aeonos mechanics
+- solve the Core
+- define Dry Port truth
+- confirm gateway mechanics
+- explain Contact Frame mechanics
+- reveal Ildi’s restricted truth
+- reveal Rob Holliday’s full death-chain
+- identify the NCI assassin
+- overwrite Book One
+- canonize a major Conjugate faction without review
+- create real-world weapon instructions
+- create real-world crystal, chemical, energy, biological, or engineering instructions
+- turn Clause Seeds into real device logic
+
+Core safety line:
+
+> A Conjugate visitor may create pressure near protected truths. They do not explain the protected truth.
+
+## Do Not Use For
+
+Do not use Ith Veylan to solve the Core. Do not use Ith Veylan to define Dry Port truth. Do not use Ith Veylan to confirm gateway mechanics. Do not use Ith Veylan to explain Contact Frame mechanics. Do not use Ith Veylan to reveal Conjugate Chimera backstory. Do not use Ith Veylan to define all Conjugate biology. Do not use Ith Veylan to canonize Conjugate society. Do not use Ith Veylan to reveal Ildi’s restricted truth. Do not use Ith Veylan to reveal Rob Holliday’s full death-chain. Do not use Ith Veylan to identify the NCI assassin. Do not use Ith Veylan to create real-world weapon instructions. Do not use Ith Veylan to create real-world crystal, chemical, energy, biological, or engineering instructions. Do not use Ith Veylan to turn Clause Seeds into real device logic.
+
+## Final Guiding Principle
+
+Ith Veylan, the Refusal Bell, is what happens when diplomacy arrives in a brass pressure chamber and decides “no” is just a slower kind of yes.
+
+Alternate short principle:
+
+> The Fourth Refusal Bell is a quarantine argument with hydraulic legs.
