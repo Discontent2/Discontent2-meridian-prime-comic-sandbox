@@ -22,9 +22,9 @@
 | Current Phase | Phase 2: Source Code Orientation |
 | Current Goal | Understand enough of Azgaar's structure to modify it safely. |
 | First Victory | A local Azgaar build runs unchanged and map generation still works. Achieved in Baseline Attempt 3. |
-| Active Warning | Do not customize source yet. First identify marker, save/load, layer, and export systems. |
-| Last Completed Step | Baseline Attempt 3 passed: clone, install, dev server, app launch, map generation, save/load, build, and clean git status. |
-| Next Action | Create Phase 2 orientation notes: `docs/cartography/azgaar-fork/schema/schema-notes.md` and/or `docs/cartography/azgaar-fork/source-map-notes.md`. |
+| Active Warning | Do not customize source yet. First test whether nested Meridian Prime marker metadata survives save/load and JSON export. |
+| Last Completed Step | Created Phase 2 source orientation notes for marker, save/load, layer, and export systems. |
+| Next Action | Run the metadata survival test described in `docs/cartography/azgaar-fork/schema/schema-notes.md`. |
 
 ---
 
@@ -36,9 +36,13 @@ The first practical goal has been achieved:
 
 > Fork/clone Azgaar locally and prove the unmodified app runs, generates a map, saves, reloads, builds, and leaves the working tree clean.
 
-The next practical goal is:
+The current practical goal is:
 
 > Learn where Azgaar stores map data, markers, routes, layers, save/load, and export behavior before adding Meridian Prime metadata.
+
+The next specific question is:
+
+> Does nested metadata inside `pack.markers` survive `.map` save/load and JSON export without breaking the UI or build?
 
 The map engine should eventually support novels, comics, tabletop campaigns, 16-bit game planning, faction pressure, routes, sanctuaries, NPC pools, encounter seeds, protected mysteries, and visual development.
 
@@ -136,6 +140,8 @@ Deliverables:
 - `docs/cartography/azgaar-fork/source-map-notes.md`
 - candidate modification points
 - risk notes
+
+**Status:** Started. Initial marker, save/load, layer, and export orientation notes created.
 
 Rule:
 
@@ -327,30 +333,20 @@ Tracking categories:
 | Setup notes created | Done, draft / verified enough for baseline |
 | Setup test log created | Done, Baseline Attempt 3 passed |
 | Decision log updated | Done |
-| Source orientation notes | Not started |
+| Source orientation notes | Started: source-map and schema notes created |
+| Metadata survival test | Not started |
 
 ---
 
 ## Next Action
 
-Begin Phase 2 source orientation and create/update:
+Run the metadata survival test described in:
 
 `docs/cartography/azgaar-fork/schema/schema-notes.md`
 
-and/or:
+Test question:
 
-`docs/cartography/azgaar-fork/source-map-notes.md`
-
-The first source-orientation pass should identify where Azgaar stores or renders:
-
-1. map data
-2. markers
-3. notes
-4. routes
-5. save/load logic
-6. UI editors
-7. layer rendering
-8. export functions
+> Can a nested `marker.meridianPrime` object survive `.map` save/load and JSON export without breaking the UI or build?
 
 Do not customize source yet.
 
@@ -360,17 +356,30 @@ Do not customize source yet.
 
 Current blockers:
 
-- No current blockers for moving into Phase 2 orientation.
+- No current blockers for continuing Phase 2 orientation.
 
 Open questions:
 
 - Should the eventual fork remain a direct Azgaar fork, or should it be mirrored into a custom Meridian Prime repository after source orientation?
 - Should map-engine code work eventually happen on a dedicated feature branch once modification begins?
-- Which Phase 2 notes file should be created first: `schema-notes.md`, `source-map-notes.md`, or both together?
+- Should Meridian Prime metadata live inside `pack.markers`, in a separate map-level metadata object, or both?
+- If marker metadata survives save/load, should the first source change be export-only or search-only?
 
 ---
 
 ## Decision Log
+
+### 2026-06-20: Phase 2 Orientation Notes Created
+
+**Decision:** Create `docs/cartography/azgaar-fork/source-map-notes.md` and `docs/cartography/azgaar-fork/schema/schema-notes.md`.
+
+**Reason:** Before changing source, the project needs a documented map of marker generation/rendering, marker UI, save/load slots, layer toggles, and export systems.
+
+**Result:** Phase 2 source orientation has started. The next safe test is metadata survival, not source customization.
+
+**Canon effect:** None. This is tooling documentation only.
+
+---
 
 ### 2026-06-20: Baseline Attempt 3 Passed
 
@@ -644,6 +653,32 @@ No Meridian Prime source customization has been made yet.
 
 ---
 
+## Source Orientation Status
+
+Phase 2 source orientation notes exist at:
+
+`docs/cartography/azgaar-fork/source-map-notes.md`
+
+`docs/cartography/azgaar-fork/schema/schema-notes.md`
+
+Initial findings:
+
+- marker generation: `src/modules/markers-generator.ts`
+- marker rendering: `src/renderers/draw-markers.ts`
+- marker editing: `public/modules/ui/markers-editor.js`
+- marker overview / CSV export: `public/modules/ui/markers-overview.js`
+- layer control: `public/modules/ui/layers.js`
+- save: `public/modules/io/save.js`
+- load: `public/modules/io/load.js`
+- JSON export: `public/modules/dynamic/export-json.js`
+- visual/data export: `public/modules/io/export.js`
+
+Next source-orientation test:
+
+> Confirm whether nested Meridian Prime metadata attached to a marker survives save/load and JSON export.
+
+---
+
 ## What To Avoid Early
 
 Do not start with:
@@ -664,7 +699,7 @@ First victory achieved:
 
 Current caution:
 
-> Do not customize until Phase 2 source orientation identifies safe modification points.
+> Do not customize source until the Phase 2 metadata survival test is complete.
 
 ---
 
