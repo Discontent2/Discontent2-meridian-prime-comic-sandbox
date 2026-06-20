@@ -23,8 +23,8 @@
 | Current Goal | Get Azgaar forked, cloned, installed, and running locally before customization. |
 | First Victory | A local Azgaar build runs unchanged and map generation still works. |
 | Active Warning | Do not customize before the app runs locally. |
-| Last Completed Step | Created `docs/cartography/azgaar-fork/setup/setup-test-log.md` as a baseline run template. |
-| Next Action | Choose fork location, run the unmodified local baseline, and update the setup test log with install, dev server, map generation, save/load, and build results. |
+| Last Completed Step | Chose local-only clone first and recorded Baseline Attempt 1 as blocked. |
+| Next Action | Rerun the unmodified local baseline in an environment with GitHub shell access, Node `>=24.0.0`, and a browser for map generation and save/load testing. |
 
 ---
 
@@ -299,7 +299,7 @@ This phase comes later, after schema and export behavior are stable.
 
 **Phase 1: Fork and Run Locally**
 
-Current official-source verification, setup notes, and setup test log template are now in place. The next work session should choose the fork location, perform the local baseline test, and record results before any customization.
+Current official-source verification, setup notes, and setup test log template are in place. Baseline Attempt 1 selected local-only clone first but was blocked by local runtime limits.
 
 Tracking categories:
 
@@ -310,26 +310,33 @@ Tracking categories:
 | Official wiki/static-run guidance verified | Done |
 | Official `package.json` verified | Done |
 | Package/source structure verified | Done |
-| Fork created | Not started |
-| Local clone completed | Not started |
+| Fork location chosen | Done: local-only clone first |
+| Local clone completed | Blocked: shell could not resolve `github.com` |
 | Dependencies installed | Not tested |
 | Dev server run | Not tested |
 | App opened locally | Not tested |
 | Map generation confirmed | Not tested |
 | Save/load confirmed | Not tested |
+| Production build confirmed | Not tested |
 | Setup notes created | Done, draft / untested |
-| Setup test log created | Done, baseline template / not run |
+| Setup test log created | Done, Baseline Attempt 1 recorded as blocked |
 | Decision log updated | Done |
 
 ---
 
 ## Next Action
 
-Choose fork location, run the unmodified local baseline, and record results in:
+Rerun the unmodified local baseline in an environment with:
+
+1. GitHub network access from the shell.
+2. Node `>=24.0.0`.
+3. A browser available for manual or automated app testing.
+
+Then update:
 
 `docs/cartography/azgaar-fork/setup/setup-test-log.md`
 
-The test log should record:
+The test log should record exact results for:
 
 1. Host OS and shell.
 2. Node version.
@@ -351,19 +358,32 @@ The test log should record:
 
 Current blockers:
 
-- Local development environment details are unknown.
-- The user has not yet chosen whether to fork under the main user account, a project org, or a local-only clone first.
-- No local installation, dev server, build, or save/load testing has been performed.
+- Baseline Attempt 1 runtime had Node `v22.16.0`, below Azgaar's current `>=24.0.0` requirement.
+- Baseline Attempt 1 shell could not resolve `github.com`, so `git clone` failed.
+- No local app/browser session was available, so map generation and save/load could not be tested.
+- No local installation, dev server, build, or save/load testing has passed yet.
 
 Open questions:
 
-- What local OS and development environment will be used for the first run?
-- Should the first fork remain a direct Azgaar fork, or should it be mirrored into a custom Meridian Prime repository after initial testing?
+- Which real local machine or development environment will be used for the rerun?
+- Should the eventual fork remain a direct Azgaar fork, or should it be mirrored into a custom Meridian Prime repository after baseline success?
 - Should map-engine work happen on `main` in the sandbox repo documentation only, or should tooling notes track a separate development branch once code begins?
 
 ---
 
 ## Decision Log
+
+### 2026-06-20: Baseline Attempt 1 Blocked
+
+**Decision:** Choose local-only clone first for the initial baseline attempt and record the result as blocked.
+
+**Reason:** Local-only clone first is the safest path before a project fork, but the available runtime could not resolve `github.com` for `git clone`, and Node was `v22.16.0` while current Azgaar package metadata requires `>=24.0.0`.
+
+**Result:** No dependencies, dev server, map generation, save/load, build, preview, tests, or lint commands were run.
+
+**Canon effect:** None. This is tooling documentation only.
+
+---
 
 ### 2026-06-20: Create Setup Test Log Template
 
@@ -573,36 +593,25 @@ Map markers should be able to reference:
 
 ## Setup Status
 
-Setup notes now exist at:
+Setup notes exist at:
 
 `docs/cartography/azgaar-fork/setup/setup-notes.md`
 
-Setup test log now exists at:
+Setup test log exists at:
 
 `docs/cartography/azgaar-fork/setup/setup-test-log.md`
 
-The setup notes and setup test log are drafts and are not records of a successful local run. No local setup has been attempted from this room yet.
+Baseline Attempt 1 is recorded as blocked.
 
-The setup notes separate:
+Blocked reasons:
 
-- official static-run guidance
-- official package / development-tooling facts
-- inferred fork workflow
-- untested local commands
+- available Node version was `v22.16.0`, below required `>=24.0.0`
+- shell `git clone` could not resolve `github.com`
+- no app/browser session was available for map generation or save/load testing
 
-The setup test log is ready to receive:
+The Meridian Prime modification gate remains locked.
 
-- fork-location decision
-- local environment details
-- install results
-- dev server results
-- map generation results
-- save/load results
-- build results
-- test results
-- errors and warnings
-
-Before any Meridian Prime customization, perform and document a local baseline run.
+Before any Meridian Prime customization, perform and document a successful or partial local baseline run in a suitable environment.
 
 ---
 
