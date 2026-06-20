@@ -369,6 +369,10 @@ Open questions:
 
 ## Decision Log
 
+External decision log file now exists at:
+
+`docs/cartography/azgaar-fork/decision-log/decision-log.md`
+
 ### 2026-06-20: Phase 2 Orientation Notes Created
 
 **Decision:** Create `docs/cartography/azgaar-fork/source-map-notes.md` and `docs/cartography/azgaar-fork/schema/schema-notes.md`.
