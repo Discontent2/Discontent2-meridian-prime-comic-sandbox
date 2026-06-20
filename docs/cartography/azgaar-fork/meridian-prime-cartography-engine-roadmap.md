@@ -23,8 +23,8 @@
 | Current Goal | Get Azgaar forked, cloned, installed, and running locally before customization. |
 | First Victory | A local Azgaar build runs unchanged and map generation still works. |
 | Active Warning | Do not customize before the app runs locally. |
-| Last Completed Step | Created `docs/cartography/azgaar-fork/setup/setup-notes.md` as a draft with verified, inferred, proposed, and untested sections. |
-| Next Action | Choose fork location and run a local baseline test, then record results in `docs/cartography/azgaar-fork/setup/setup-test-log.md`. |
+| Last Completed Step | Created `docs/cartography/azgaar-fork/setup/setup-test-log.md` as a baseline run template. |
+| Next Action | Choose fork location, run the unmodified local baseline, and update the setup test log with install, dev server, map generation, save/load, and build results. |
 
 ---
 
@@ -299,7 +299,7 @@ This phase comes later, after schema and export behavior are stable.
 
 **Phase 1: Fork and Run Locally**
 
-Current official-source verification is complete enough to draft setup notes. The next work session should choose the fork location, perform the local baseline test, and record results before any customization.
+Current official-source verification, setup notes, and setup test log template are now in place. The next work session should choose the fork location, perform the local baseline test, and record results before any customization.
 
 Tracking categories:
 
@@ -318,14 +318,14 @@ Tracking categories:
 | Map generation confirmed | Not tested |
 | Save/load confirmed | Not tested |
 | Setup notes created | Done, draft / untested |
-| Setup test log created | Not started |
+| Setup test log created | Done, baseline template / not run |
 | Decision log updated | Done |
 
 ---
 
 ## Next Action
 
-Create the first local baseline test record:
+Choose fork location, run the unmodified local baseline, and record results in:
 
 `docs/cartography/azgaar-fork/setup/setup-test-log.md`
 
@@ -364,6 +364,16 @@ Open questions:
 ---
 
 ## Decision Log
+
+### 2026-06-20: Create Setup Test Log Template
+
+**Decision:** Create `docs/cartography/azgaar-fork/setup/setup-test-log.md` as the baseline run record for the unmodified Azgaar fork.
+
+**Reason:** The project needs a structured place to record fork location, environment, install, dev server, map generation, save/load, build, tests, errors, and git status before any Meridian Prime customization.
+
+**Canon effect:** None. This is tooling documentation only.
+
+---
 
 ### 2026-06-20: Create Setup Notes Draft
 
@@ -567,14 +577,30 @@ Setup notes now exist at:
 
 `docs/cartography/azgaar-fork/setup/setup-notes.md`
 
-The setup notes are a draft and are not a record of a successful local run. No local setup has been attempted from this room yet.
+Setup test log now exists at:
 
-The draft separates:
+`docs/cartography/azgaar-fork/setup/setup-test-log.md`
+
+The setup notes and setup test log are drafts and are not records of a successful local run. No local setup has been attempted from this room yet.
+
+The setup notes separate:
 
 - official static-run guidance
 - official package / development-tooling facts
 - inferred fork workflow
 - untested local commands
+
+The setup test log is ready to receive:
+
+- fork-location decision
+- local environment details
+- install results
+- dev server results
+- map generation results
+- save/load results
+- build results
+- test results
+- errors and warnings
 
 Before any Meridian Prime customization, perform and document a local baseline run.
 
