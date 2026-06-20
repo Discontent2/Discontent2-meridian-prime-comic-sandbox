@@ -11,6 +11,7 @@ All entries begin as sandbox material. Nothing in this index promotes a sanctuar
 | Sanctuary | File | Summary | Primary Function | Canon Risk | Use Tier | Candidate Canon Status |
 |---|---|---|---|---|---|---|
 | The Blue-Still Offering Chamber | `save-screen-seeds/the-blue-still-offering-chamber.md` | Moss-covered agate chamber with blue bioluminescence, vapor plume, old machine save-light, tree frogs, and a quiet two-person gear-repair rest scene | Save Screen / Hidden Refuge / Dream-Entry Rest Chamber | Low | Low to Moderate | Hold in sandbox |
+| The Pearlreed Candle Shrine | `save-screen-seeds/the-pearlreed-candle-shrine.md` | Candlelit abandoned route shrine behind reeds with pearlescent fountain, tiny crustaceans, sealed note, dry map, and three-person rest scene | Save Screen / Abandoned Route Shrine / Dream-Entry Rest Chamber | Low | Low to Moderate | Hold in sandbox |
 
 ## Music Room Lookup Notes
 
@@ -45,6 +46,35 @@ soft-thunder
 old-machine-light
 warm analog pads
 field recordings
+```
+
+For **The Pearlreed Candle Shrine**, use:
+
+```text
+pearlreed-candle-shrine
+abandoned-route-shrine
+reed-curtain
+candlelight
+deep-night
+fountain
+pearlescent-deposits
+desert-succulents
+tiny-crustaceans
+glassphase-antisapian
+velocisapien
+tyrannosapien
+dinosaur-informed-aeonolacertian
+proto-feathers
+display-quills
+dream-entry
+sealed-note
+dry-map
+harmless-story
+healing-silence
+ambient new age synth pads
+tiny glass bells
+canyon wind
+fountain trickle
 ```
 
 ## Canon Guardrail
