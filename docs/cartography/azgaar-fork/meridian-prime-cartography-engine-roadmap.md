@@ -23,7 +23,8 @@
 | Current Goal | Get Azgaar forked, cloned, installed, and running locally before customization. |
 | First Victory | A local Azgaar build runs unchanged and map generation still works. |
 | Active Warning | Do not customize before the app runs locally. |
-| Next Action | Verify current official Azgaar repository, license, setup instructions, and package structure. |
+| Last Completed Step | Created `docs/cartography/azgaar-fork/setup/setup-notes.md` as a draft with verified, inferred, proposed, and untested sections. |
+| Next Action | Choose fork location and run a local baseline test, then record results in `docs/cartography/azgaar-fork/setup/setup-test-log.md`. |
 
 ---
 
@@ -93,8 +94,9 @@ Deliverables:
 
 - `docs/cartography/azgaar-fork/README.md`
 - `docs/cartography/azgaar-fork/setup/setup-notes.md`
+- `docs/cartography/azgaar-fork/setup/setup-test-log.md`
 - Roadmap update.
-- First decision-log entry.
+- Decision-log entry.
 
 Rule:
 
@@ -297,42 +299,51 @@ This phase comes later, after schema and export behavior are stable.
 
 **Phase 1: Fork and Run Locally**
 
-The next work session should verify Azgaar's current official repository and setup instructions from official sources. Because software projects change, do not rely on stale memory.
+Current official-source verification is complete enough to draft setup notes. The next work session should choose the fork location, perform the local baseline test, and record results before any customization.
 
 Tracking categories:
 
 | Category | Status |
 |---|---|
-| Official Azgaar repo verified | Not started |
-| License verified | Not started |
+| Official Azgaar repo verified | Done |
+| License verified | Done |
+| Official wiki/static-run guidance verified | Done |
+| Official `package.json` verified | Done |
+| Package/source structure verified | Done |
 | Fork created | Not started |
 | Local clone completed | Not started |
-| Dependencies installed | Not started |
-| Dev server run | Not started |
-| App opened locally | Not started |
-| Map generation confirmed | Not started |
-| Setup notes created | Not started |
-| First decision log created | This roadmap records the initial strategy decision |
+| Dependencies installed | Not tested |
+| Dev server run | Not tested |
+| App opened locally | Not tested |
+| Map generation confirmed | Not tested |
+| Save/load confirmed | Not tested |
+| Setup notes created | Done, draft / untested |
+| Setup test log created | Not started |
+| Decision log updated | Done |
 
 ---
 
 ## Next Action
 
-Verify current official Azgaar sources before giving setup instructions:
+Create the first local baseline test record:
 
-1. Azgaar GitHub repository.
-2. Azgaar official wiki.
-3. Azgaar live app.
-4. Official license file.
-5. Official `package.json`.
-6. Official setup or development notes, if present.
+`docs/cartography/azgaar-fork/setup/setup-test-log.md`
 
-Then separate findings into:
+The test log should record:
 
-- **Verified from official source**
-- **Inferred from source structure**
-- **Proposed by us**
-- **Not yet tested**
+1. Host OS and shell.
+2. Node version.
+3. Fork or clone URL used.
+4. Exact commit or tag tested.
+5. Dependency command used.
+6. Dev server command used.
+7. Browser used.
+8. Whether a new map generated.
+9. Whether save/load worked.
+10. Console or terminal errors.
+11. Whether production build worked.
+12. Whether tests were run.
+13. Whether any files changed unexpectedly.
 
 ---
 
@@ -340,9 +351,9 @@ Then separate findings into:
 
 Current blockers:
 
-- Azgaar official repository and setup process have not yet been verified in this room.
 - Local development environment details are unknown.
 - The user has not yet chosen whether to fork under the main user account, a project org, or a local-only clone first.
+- No local installation, dev server, build, or save/load testing has been performed.
 
 Open questions:
 
@@ -353,6 +364,16 @@ Open questions:
 ---
 
 ## Decision Log
+
+### 2026-06-20: Create Setup Notes Draft
+
+**Decision:** Create `docs/cartography/azgaar-fork/setup/setup-notes.md` as a draft separating official static-run guidance, official package/tooling facts, inferred fork workflow, and untested local commands.
+
+**Reason:** Azgaar's wiki static-run guidance and current `package.json` development workflow are related but not identical. Meridian Prime setup notes need labels so we do not confuse release-ZIP use with source-fork development.
+
+**Canon effect:** None. This is tooling documentation only.
+
+---
 
 ### 2026-06-20: Create Cartography Engine Roadmap
 
@@ -475,7 +496,9 @@ Avoid wording:
 
 - `docs/cartography/azgaar-fork/decision-log/decision-log.md`
 - `docs/cartography/azgaar-fork/setup/setup-notes.md`
+- `docs/cartography/azgaar-fork/setup/setup-test-log.md`
 - `docs/cartography/azgaar-fork/schema/schema-notes.md`
+- `docs/cartography/azgaar-fork/source-map-notes.md`
 - `docs/cartography/azgaar-fork/protected-mystery-map-rules.md`
 - `docs/cartography/azgaar-fork/marker-indexes/marker-type-index.md`
 - `docs/cartography/azgaar-fork/schema/route-pressure-schema.md`
@@ -540,9 +563,20 @@ Map markers should be able to reference:
 
 ## Setup Status
 
-No local setup has been attempted from this room yet.
+Setup notes now exist at:
 
-Before setup instructions are recorded, verify current official Azgaar sources. Use current official sources first and clearly label all setup notes as verified, inferred, proposed, or untested.
+`docs/cartography/azgaar-fork/setup/setup-notes.md`
+
+The setup notes are a draft and are not a record of a successful local run. No local setup has been attempted from this room yet.
+
+The draft separates:
+
+- official static-run guidance
+- official package / development-tooling facts
+- inferred fork workflow
+- untested local commands
+
+Before any Meridian Prime customization, perform and document a local baseline run.
 
 ---
 
