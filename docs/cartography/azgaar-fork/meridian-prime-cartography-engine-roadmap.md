@@ -4,7 +4,7 @@
 **Status:** Sandbox Tooling Roadmap  
 **Project:** Azgaar Fork / Meridian Prime Cartography Engine  
 **Purpose:** Track the process of turning Azgaar Fantasy Map Generator into a Meridian Prime-aware map and story engine.  
-**Current Milestone:** Phase 1, fork and run locally.  
+**Current Milestone:** Phase 2, source code orientation.  
 **Do Not Canonize From This File:** This roadmap is tooling guidance, not lore canon.  
 
 **Last Updated:** 2026-06-20  
@@ -19,12 +19,12 @@
 | Working Repo | `Discontent2/Discontent2-meridian-prime-comic-sandbox` |
 | Main Canon Repo | `Discontent2/meridian-prime` |
 | Canon Status | Sandbox Tooling / Non-Canon / Requires Review Before Promotion |
-| Current Phase | Phase 1: Fork and Run |
-| Current Goal | Get Azgaar forked, cloned, installed, and running locally before customization. |
-| First Victory | A local Azgaar build runs unchanged and map generation still works. |
-| Active Warning | Do not customize before the app runs locally. |
-| Last Completed Step | Chose local-only clone first and recorded Baseline Attempt 1 as blocked. |
-| Next Action | Rerun the unmodified local baseline in an environment with GitHub shell access, Node `>=24.0.0`, and a browser for map generation and save/load testing. |
+| Current Phase | Phase 2: Source Code Orientation |
+| Current Goal | Understand enough of Azgaar's structure to modify it safely. |
+| First Victory | A local Azgaar build runs unchanged and map generation still works. Achieved in Baseline Attempt 3. |
+| Active Warning | Do not customize source yet. First identify marker, save/load, layer, and export systems. |
+| Last Completed Step | Baseline Attempt 3 passed: clone, install, dev server, app launch, map generation, save/load, build, and clean git status. |
+| Next Action | Create Phase 2 orientation notes: `docs/cartography/azgaar-fork/schema/schema-notes.md` and/or `docs/cartography/azgaar-fork/source-map-notes.md`. |
 
 ---
 
@@ -32,9 +32,13 @@
 
 Fork Azgaar or build from Azgaar-like foundations and gradually turn it into a Meridian Prime-aware cartography and story-engine tool.
 
-The first practical goal is not a perfect Meridian Prime generator. The first practical goal is:
+The first practical goal has been achieved:
 
-> Fork Azgaar and add a Meridian Prime marker/index layer without breaking anything.
+> Fork/clone Azgaar locally and prove the unmodified app runs, generates a map, saves, reloads, builds, and leaves the working tree clean.
+
+The next practical goal is:
+
+> Learn where Azgaar stores map data, markers, routes, layers, save/load, and export behavior before adding Meridian Prime metadata.
 
 The map engine should eventually support novels, comics, tabletop campaigns, 16-bit game planning, faction pressure, routes, sanctuaries, NPC pools, encounter seeds, protected mysteries, and visual development.
 
@@ -76,7 +80,7 @@ Do not begin with a complete rewrite unless the user explicitly decides to aband
 
 ### Phase 1: Fork and Run
 
-**Goal:** Get Azgaar forked, cloned, installed, and running locally.
+**Goal:** Get Azgaar forked/cloned, installed, and running locally.
 
 Tasks:
 
@@ -87,6 +91,9 @@ Tasks:
 - Run local development server.
 - Open app locally.
 - Confirm map generation works.
+- Confirm save/load works.
+- Confirm production build works.
+- Confirm clean working tree after baseline.
 - Create setup notes.
 - Record environment issues.
 
@@ -98,9 +105,7 @@ Deliverables:
 - Roadmap update.
 - Decision-log entry.
 
-Rule:
-
-> Do not customize before the app runs locally.
+**Status:** Passed in Baseline Attempt 3.
 
 ---
 
@@ -297,9 +302,9 @@ This phase comes later, after schema and export behavior are stable.
 
 ## Current Milestone
 
-**Phase 1: Fork and Run Locally**
+**Phase 2: Source Code Orientation**
 
-Current official-source verification, setup notes, and setup test log template are in place. Baseline Attempt 1 selected local-only clone first but was blocked by local runtime limits.
+Phase 1 is complete enough to proceed. Baseline Attempt 3 passed on the user's local Pop!_OS machine.
 
 Tracking categories:
 
@@ -310,47 +315,44 @@ Tracking categories:
 | Official wiki/static-run guidance verified | Done |
 | Official `package.json` verified | Done |
 | Package/source structure verified | Done |
-| Fork location chosen | Done: local-only clone first |
-| Local clone completed | Blocked: shell could not resolve `github.com` |
-| Dependencies installed | Not tested |
-| Dev server run | Not tested |
-| App opened locally | Not tested |
-| Map generation confirmed | Not tested |
-| Save/load confirmed | Not tested |
-| Production build confirmed | Not tested |
-| Setup notes created | Done, draft / untested |
-| Setup test log created | Done, Baseline Attempt 1 recorded as blocked |
+| Fork location chosen | Done: local-only baseline first |
+| Local clone completed | Done |
+| Dependencies installed | Done enough for dev/build; exact install output not captured |
+| Dev server run | Done |
+| App opened locally | Done |
+| Map generation confirmed | Done |
+| Save/load confirmed | Done |
+| Production build confirmed | Done, exit code `0` |
+| Final git status | Done, clean / no output from `git status --short` |
+| Setup notes created | Done, draft / verified enough for baseline |
+| Setup test log created | Done, Baseline Attempt 3 passed |
 | Decision log updated | Done |
+| Source orientation notes | Not started |
 
 ---
 
 ## Next Action
 
-Rerun the unmodified local baseline in an environment with:
+Begin Phase 2 source orientation and create/update:
 
-1. GitHub network access from the shell.
-2. Node `>=24.0.0`.
-3. A browser available for manual or automated app testing.
+`docs/cartography/azgaar-fork/schema/schema-notes.md`
 
-Then update:
+and/or:
 
-`docs/cartography/azgaar-fork/setup/setup-test-log.md`
+`docs/cartography/azgaar-fork/source-map-notes.md`
 
-The test log should record exact results for:
+The first source-orientation pass should identify where Azgaar stores or renders:
 
-1. Host OS and shell.
-2. Node version.
-3. Fork or clone URL used.
-4. Exact commit or tag tested.
-5. Dependency command used.
-6. Dev server command used.
-7. Browser used.
-8. Whether a new map generated.
-9. Whether save/load worked.
-10. Console or terminal errors.
-11. Whether production build worked.
-12. Whether tests were run.
-13. Whether any files changed unexpectedly.
+1. map data
+2. markers
+3. notes
+4. routes
+5. save/load logic
+6. UI editors
+7. layer rendering
+8. export functions
+
+Do not customize source yet.
 
 ---
 
@@ -358,20 +360,41 @@ The test log should record exact results for:
 
 Current blockers:
 
-- Baseline Attempt 1 runtime had Node `v22.16.0`, below Azgaar's current `>=24.0.0` requirement.
-- Baseline Attempt 1 shell could not resolve `github.com`, so `git clone` failed.
-- No local app/browser session was available, so map generation and save/load could not be tested.
-- No local installation, dev server, build, or save/load testing has passed yet.
+- No current blockers for moving into Phase 2 orientation.
 
 Open questions:
 
-- Which real local machine or development environment will be used for the rerun?
-- Should the eventual fork remain a direct Azgaar fork, or should it be mirrored into a custom Meridian Prime repository after baseline success?
-- Should map-engine work happen on `main` in the sandbox repo documentation only, or should tooling notes track a separate development branch once code begins?
+- Should the eventual fork remain a direct Azgaar fork, or should it be mirrored into a custom Meridian Prime repository after source orientation?
+- Should map-engine code work eventually happen on a dedicated feature branch once modification begins?
+- Which Phase 2 notes file should be created first: `schema-notes.md`, `source-map-notes.md`, or both together?
 
 ---
 
 ## Decision Log
+
+### 2026-06-20: Baseline Attempt 3 Passed
+
+**Decision:** Record Phase 1 baseline as passed and advance the roadmap current milestone to Phase 2: Source Code Orientation.
+
+**Reason:** The unmodified Azgaar clone ran locally, generated a map, exposed relevant layer systems, saved and reloaded a `.map` file, built successfully with exit code `0`, and left the working tree clean.
+
+**Result:** Phase 1 is complete enough to begin source orientation. No Meridian Prime source customization has been made yet.
+
+**Canon effect:** None. This is tooling documentation only.
+
+---
+
+### 2026-06-20: Baseline Attempt 2 Blocked, Then Resolved
+
+**Decision:** Record local Pop!_OS attempt as initially blocked by GitHub network access, then superseded by Attempt 3 after phone/laptop restart restored access.
+
+**Reason:** The record should preserve the environmental issue in case it recurs.
+
+**Result:** Node was successfully upgraded to `v24.17.0`; GitHub access later worked after restart.
+
+**Canon effect:** None. This is tooling documentation only.
+
+---
 
 ### 2026-06-20: Baseline Attempt 1 Blocked
 
@@ -601,17 +624,23 @@ Setup test log exists at:
 
 `docs/cartography/azgaar-fork/setup/setup-test-log.md`
 
-Baseline Attempt 1 is recorded as blocked.
+Baseline Attempt 3 passed.
 
-Blocked reasons:
+Confirmed results:
 
-- available Node version was `v22.16.0`, below required `>=24.0.0`
-- shell `git clone` could not resolve `github.com`
-- no app/browser session was available for map generation or save/load testing
+- Node `v24.17.0`
+- npm `11.13.0`
+- clone completed
+- commit `9d14cf78791484ea23936aff26807fc2503b3252`
+- dev server ran
+- app opened locally
+- map generated
+- markers/routes/zones available in UI
+- `.map` save/load confirmed
+- production build completed with exit code `0`
+- final `git status --short` returned no output
 
-The Meridian Prime modification gate remains locked.
-
-Before any Meridian Prime customization, perform and document a successful or partial local baseline run in a suitable environment.
+No Meridian Prime source customization has been made yet.
 
 ---
 
@@ -629,9 +658,13 @@ Do not start with:
 - complete rewrite of Azgaar
 - major UI refactor before understanding source
 
-First victory:
+First victory achieved:
 
-> A fork that runs and preserves map save/load behavior.
+> A fork/clone that runs and preserves map save/load behavior.
+
+Current caution:
+
+> Do not customize until Phase 2 source orientation identifies safe modification points.
 
 ---
 
