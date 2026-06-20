@@ -1,6 +1,6 @@
 # Meridian Prime Cartography Engine Setup Test Log
 
-**Status:** Baseline Test Log / Not Yet Run  
+**Status:** Baseline Attempt 1 / Blocked  
 **Project:** Azgaar Fork / Meridian Prime Cartography Engine  
 **Repository Scope:** `Discontent2/Discontent2-meridian-prime-comic-sandbox` documentation only  
 **Related Roadmap:** `docs/cartography/azgaar-fork/meridian-prime-cartography-engine-roadmap.md`  
@@ -34,24 +34,24 @@ No Meridian Prime source changes should happen until this baseline is complete.
 
 | Field | Value |
 |---|---|
-| Test date | Not run |
-| Tester | Not recorded |
-| Host OS | Not recorded |
-| Shell / terminal | Not recorded |
-| Browser | Not recorded |
-| Fork location chosen | Not chosen |
-| Fork / clone URL | Not recorded |
+| Test date | 2026-06-20 |
+| Tester | ChatGPT / Meridian Prime Cartography Engine Room |
+| Host OS | Linux `0725cb61a07b`, kernel `4.4.0`, x86_64 |
+| Shell / terminal | `bash` in `/mnt/data` |
+| Browser | Not available / not tested in this environment |
+| Fork location chosen | Local-only clone first |
+| Fork / clone URL | `https://github.com/Azgaar/Fantasy-Map-Generator.git` |
 | Upstream remote URL | `https://github.com/Azgaar/Fantasy-Map-Generator.git` |
-| Branch tested | Not recorded |
-| Commit or tag tested | Not recorded |
-| Node version | Not recorded |
-| Package manager | Not recorded |
+| Branch tested | Not reached |
+| Commit or tag tested | Not reached because clone failed before commit resolution |
+| Node version | `v22.16.0`, below required `>=24.0.0` |
+| Package manager | `npm 10.9.2` |
 | Dependency command used | Not run |
 | Dev server command used | Not run |
-| Local app URL | Not recorded |
+| Local app URL | Not created |
 | Production build command used | Not run |
-| Save/load test file | Not recorded |
-| Overall result | Not run |
+| Save/load test file | Not created |
+| Overall result | Blocked |
 
 ---
 
@@ -61,16 +61,16 @@ Record the chosen fork strategy here.
 
 | Option | Selected? | Notes |
 |---|---|---|
-| Direct fork under user account | Not selected |  |
-| Fork under project organization | Not selected |  |
-| Local-only clone first | Not selected |  |
-| Mirror into custom Meridian Prime repo later | Not selected |  |
+| Direct fork under user account | No | Deferred until the unmodified baseline can be run in a suitable local environment. |
+| Fork under project organization | No | Deferred. |
+| Local-only clone first | Yes | Chosen as the safest first baseline path because it avoids creating a premature project fork. |
+| Mirror into custom Meridian Prime repo later | Not yet | Revisit only after the unmodified baseline passes. |
 
 ### Decision Notes
 
-- **Chosen path:** Not chosen.
-- **Reason:** Not recorded.
-- **Date decided:** Not recorded.
+- **Chosen path:** Local-only clone first.
+- **Reason:** Safest first test. It preserves the modification gate and avoids committing to a fork location before the plain app runs.
+- **Date decided:** 2026-06-20.
 - **Canon effect:** None. Tooling only.
 
 ---
@@ -79,14 +79,14 @@ Record the chosen fork strategy here.
 
 | Check | Result | Notes |
 |---|---|---|
-| OS name/version | Not recorded | Example: Windows 11, macOS, Ubuntu. |
-| CPU architecture | Not recorded | Example: x64, arm64. |
-| Terminal/shell | Not recorded | Example: PowerShell, Git Bash, zsh, bash. |
-| Git version | Not recorded |  |
-| Node version | Not recorded | Required by current `package.json`: `>=24.0.0`. |
-| npm version | Not recorded |  |
-| Browser/version | Not recorded |  |
-| Disk location of clone | Not recorded |  |
+| OS name/version | Linux `0725cb61a07b 4.4.0 #1 SMP Sun Jan 10 15:06:54 PST 2016 x86_64 GNU/Linux` | Runtime container environment. |
+| CPU architecture | x86_64 |  |
+| Terminal/shell | bash |  |
+| Git version | `git version 2.47.3` |  |
+| Node version | `v22.16.0` | Fails current Azgaar requirement of `>=24.0.0`. |
+| npm version | `10.9.2` |  |
+| Browser/version | Not available / not tested | App behavior and save/load could not be browser-tested. |
+| Disk location of attempted clone | `/mnt/data/azgaar-baseline` | Clone failed before repo checkout. |
 
 ### Environment Commands
 
@@ -94,6 +94,19 @@ Record the chosen fork strategy here.
 git --version
 node --version
 npm --version
+python3 --version
+uname -a
+```
+
+### Recorded Output
+
+```text
+/mnt/data
+v22.16.0
+10.9.2
+git version 2.47.3
+Python 3.13.5
+Linux 0725cb61a07b 4.4.0 #1 SMP Sun Jan 10 15:06:54 PST 2016 x86_64 GNU/Linux
 ```
 
 ---
@@ -103,29 +116,27 @@ npm --version
 ### Commands Attempted
 
 ```bash
-# Replace placeholder before use
-git clone https://github.com/<your-account>/Fantasy-Map-Generator.git
-cd Fantasy-Map-Generator
-git remote add upstream https://github.com/Azgaar/Fantasy-Map-Generator.git
-git remote -v
-git status
-git rev-parse HEAD
+rm -rf /mnt/data/azgaar-baseline
+mkdir -p /mnt/data/azgaar-baseline
+cd /mnt/data/azgaar-baseline
+git clone --depth 1 https://github.com/Azgaar/Fantasy-Map-Generator.git
 ```
 
 ### Results
 
 | Check | Result | Notes |
 |---|---|---|
-| Clone completed | Not tested |  |
-| `origin` remote correct | Not tested |  |
-| `upstream` remote added | Not tested |  |
-| Working tree clean before install | Not tested |  |
-| Commit SHA recorded | Not tested |  |
+| Clone completed | Failed | Runtime shell could not resolve `github.com`. |
+| `origin` remote correct | Not reached | Clone failed before repo was created. |
+| `upstream` remote added | Not reached | Clone failed. |
+| Working tree clean before install | Not reached | No working tree. |
+| Commit SHA recorded | Not reached | No checkout. |
 
 ### Recorded Output
 
 ```text
-Paste relevant terminal output here.
+Cloning into 'Fantasy-Map-Generator'...
+fatal: unable to access 'https://github.com/Azgaar/Fantasy-Map-Generator.git/': Could not resolve host: github.com
 ```
 
 ---
@@ -150,16 +161,16 @@ npm install
 
 | Check | Result | Notes |
 |---|---|---|
-| Install command used | Not run |  |
-| Install completed | Not tested |  |
-| Warnings encountered | Not recorded |  |
-| Errors encountered | Not recorded |  |
-| Files changed after install | Not checked | Run `git status`. |
+| Install command used | Not run | Clone failed before dependencies could be installed. |
+| Install completed | Not tested | Blocked by failed clone and Node version below requirement. |
+| Warnings encountered | Not recorded | Not reached. |
+| Errors encountered | Not recorded | Not reached. |
+| Files changed after install | Not checked | No working tree. |
 
 ### Recorded Output
 
 ```text
-Paste relevant terminal output here.
+Dependency installation was not attempted because the repository clone failed and the available Node version is below the required >=24.0.0.
 ```
 
 ---
@@ -176,16 +187,16 @@ npm run dev
 
 | Check | Result | Notes |
 |---|---|---|
-| Dev server started | Not tested |  |
-| Local URL shown | Not recorded | Example: `http://localhost:5173/`. |
-| Terminal errors | Not recorded |  |
-| Browser opened app | Not tested |  |
-| Browser console errors | Not checked |  |
+| Dev server started | Not tested | Blocked by failed clone and Node version below requirement. |
+| Local URL shown | Not recorded | No dev server. |
+| Terminal errors | Not recorded | Not reached. |
+| Browser opened app | Not tested | No dev server and no browser test available. |
+| Browser console errors | Not checked | Not reached. |
 
 ### Recorded Output
 
 ```text
-Paste relevant terminal and browser-console output here.
+Development server was not attempted.
 ```
 
 ---
@@ -196,33 +207,33 @@ Do not add Meridian Prime changes during this test.
 
 | Behavior | Result | Notes |
 |---|---|---|
-| App loads locally | Not tested |  |
-| New map generates | Not tested |  |
-| Map UI responds | Not tested | Pan/zoom/edit basics if practical. |
-| Layers menu opens | Not tested |  |
-| Markers layer visible / available | Not tested |  |
-| Routes layer visible / available | Not tested |  |
-| Zones layer visible / available | Not tested |  |
-| Save `.map` works | Not tested |  |
-| Reload `.map` works | Not tested |  |
-| Export image/data works | Not tested | Optional if available. |
-| No major console errors | Not checked |  |
+| App loads locally | Not tested | Blocked before dev server. |
+| New map generates | Not tested | Blocked before app launch. |
+| Map UI responds | Not tested | Blocked before app launch. |
+| Layers menu opens | Not tested | Blocked before app launch. |
+| Markers layer visible / available | Not tested | Blocked before app launch. |
+| Routes layer visible / available | Not tested | Blocked before app launch. |
+| Zones layer visible / available | Not tested | Blocked before app launch. |
+| Save `.map` works | Not tested | Blocked before app launch. |
+| Reload `.map` works | Not tested | Blocked before app launch. |
+| Export image/data works | Not tested | Optional, not reached. |
+| No major console errors | Not checked | Browser console unavailable. |
 
 ### Save / Load Details
 
 | Field | Value |
 |---|---|
-| Test map name | Not recorded |
-| Saved file name | Not recorded |
-| Save method used | Not recorded |
-| Reload method used | Not recorded |
+| Test map name | Not created |
+| Saved file name | Not created |
+| Save method used | Not reached |
+| Reload method used | Not reached |
 | Reload result | Not tested |
 | Data loss noticed | Not checked |
 
 ### Notes
 
 ```text
-Record app behavior here.
+App behavior could not be tested in this runtime because the repository could not be cloned, Node is below the required version, and no browser-based app session was available.
 ```
 
 ---
@@ -239,17 +250,17 @@ npm run build
 
 | Check | Result | Notes |
 |---|---|---|
-| Build command completed | Not tested |  |
-| TypeScript completed | Not tested | Expected script includes `tsc`. |
-| Vite build completed | Not tested |  |
-| Build output created | Not checked |  |
-| Warnings encountered | Not recorded |  |
-| Errors encountered | Not recorded |  |
+| Build command completed | Not tested | Blocked by failed clone and Node version below requirement. |
+| TypeScript completed | Not tested | Not reached. |
+| Vite build completed | Not tested | Not reached. |
+| Build output created | Not checked | No working tree. |
+| Warnings encountered | Not recorded | Not reached. |
+| Errors encountered | Not recorded | Not reached. |
 
 ### Recorded Output
 
 ```text
-Paste relevant build output here.
+Production build was not attempted.
 ```
 
 ---
@@ -266,11 +277,11 @@ npm run preview
 
 | Check | Result | Notes |
 |---|---|---|
-| Preview server started | Not tested |  |
-| Preview URL opened | Not tested |  |
-| Built app loads | Not tested |  |
-| New map generates in preview | Not tested |  |
-| Save/load works in preview | Not tested | Optional. |
+| Preview server started | Not tested | Build was not run. |
+| Preview URL opened | Not tested | No preview server. |
+| Built app loads | Not tested | No build output. |
+| New map generates in preview | Not tested | No preview server. |
+| Save/load works in preview | Not tested | Optional, not reached. |
 
 ---
 
@@ -302,12 +313,12 @@ Warning: current setup notes say `npm run lint` maps to `biome check --write`, s
 
 | Check | Result | Notes |
 |---|---|---|
-| Unit tests run | Not run |  |
+| Unit tests run | Not run | Blocked before dependency install. |
 | Unit tests pass | Not tested |  |
-| E2E tests run | Not run |  |
+| E2E tests run | Not run | Blocked before dependency install. |
 | E2E tests pass | Not tested |  |
-| Lint run | Not run |  |
-| Lint changed files | Not checked |  |
+| Lint run | Not run | Blocked before dependency install. |
+| Lint changed files | Not checked | No working tree. |
 
 ---
 
@@ -323,14 +334,14 @@ git status --short
 
 | Check | Result | Notes |
 |---|---|---|
-| Working tree clean after baseline | Not checked |  |
-| Expected generated files only | Not checked |  |
-| Unexpected source changes | Not checked |  |
+| Working tree clean after baseline | Not checked | No repo checkout. |
+| Expected generated files only | Not checked | No repo checkout. |
+| Unexpected source changes | Not checked | No repo checkout. |
 
 ### Recorded Output
 
 ```text
-Paste `git status --short` output here.
+git status was not available because clone failed before a working tree was created.
 ```
 
 ---
@@ -339,7 +350,10 @@ Paste `git status --short` output here.
 
 | ID | Severity | Area | Description | Status |
 |---|---|---|---|---|
-| SETUP-001 | TBD | TBD | No baseline run has been performed yet. | Open |
+| SETUP-001 | Blocker | Baseline | Baseline could not complete in this runtime. | Open |
+| SETUP-002 | Blocker | Node | Runtime Node version is `v22.16.0`, below current Azgaar requirement `>=24.0.0`. | Open |
+| SETUP-003 | Blocker | Network / Git | Shell `git clone` failed because `github.com` could not be resolved. | Open |
+| SETUP-004 | Blocker | Browser app test | No app/browser session was available, so map generation and save/load could not be tested. | Open |
 
 ---
 
@@ -352,12 +366,12 @@ Choose one after the test:
 - **Blocked:** install or dev server cannot run yet.
 - **Not Run:** baseline has not been attempted.
 
-**Current verdict:** Not Run
+**Current verdict:** Blocked
 
 ### Verdict Notes
 
 ```text
-Record final baseline verdict here.
+Local-only clone first was chosen as the fork strategy, but the baseline could not proceed in this runtime. The shell environment cannot resolve github.com for git clone, and the installed Node version is v22.16.0 while current Azgaar package metadata requires >=24.0.0. No install, dev server, map generation, save/load, build, preview, tests, or lint commands were run. The Meridian Prime modification gate remains locked.
 ```
 
 ---
@@ -370,9 +384,9 @@ Required before customization:
 
 | Requirement | Status |
 |---|---|
-| Fork location chosen | Not done |
-| Local clone works | Not tested |
-| Node requirement met | Not tested |
+| Fork location chosen | Done: local-only clone first |
+| Local clone works | Blocked: DNS/network failure resolving `github.com` |
+| Node requirement met | Failed: available Node `v22.16.0`, required `>=24.0.0` |
 | Dependencies install | Not tested |
 | Dev server runs | Not tested |
 | App opens locally | Not tested |
@@ -390,10 +404,27 @@ First allowed Meridian Prime code change after gate:
 
 ## Next Action
 
-Choose the fork location and run the unmodified local baseline. Then update this file with exact results.
+Run the unmodified local baseline in an environment with:
 
-Recommended next documentation update after test:
+1. GitHub network access from the shell.
+2. Node `>=24.0.0`.
+3. A browser available for manual or automated app testing.
+
+Then update this file with exact results for:
+
+- clone / remote setup
+- dependency install
+- dev server
+- map generation
+- save `.map`
+- reload `.map`
+- production build
+- preview, if tested
+- tests, if run
+- final git status
+
+Recommended next documentation update after a successful or partial local run:
 
 `docs/cartography/azgaar-fork/schema/schema-notes.md`
 
-Only start schema orientation after the baseline result is recorded.
+Only start schema orientation after a baseline result is recorded from a suitable local environment.
