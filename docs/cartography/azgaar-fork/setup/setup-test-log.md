@@ -1,6 +1,6 @@
 # Meridian Prime Cartography Engine Setup Test Log
 
-**Status:** Baseline Attempt 2 / Blocked  
+**Status:** Baseline Attempt 3 / Passed  
 **Project:** Azgaar Fork / Meridian Prime Cartography Engine  
 **Repository Scope:** `Discontent2/Discontent2-meridian-prime-comic-sandbox` documentation only  
 **Related Roadmap:** `docs/cartography/azgaar-fork/meridian-prime-cartography-engine-roadmap.md`  
@@ -30,7 +30,7 @@ No Meridian Prime source changes should happen until this baseline is complete.
 
 ---
 
-## Baseline Attempt 2 Summary
+## Baseline Attempt 3 Summary
 
 | Field | Value |
 |---|---|
@@ -38,26 +38,26 @@ No Meridian Prime source changes should happen until this baseline is complete.
 | Tester | User on local Pop!_OS machine with ChatGPT guidance |
 | Host OS | Pop!_OS / Linux, exact version not recorded |
 | Shell / terminal | bash terminal |
-| Browser | Available, but app not reached yet |
+| Browser | Firefox or Chromium-family browser, exact version not recorded |
 | Fork location chosen | Local-only source baseline first |
-| Folder used | `/home/tenet/meridian-cartography-baseline` |
+| Folder used | `/home/tenet/meridian-cartography-baseline/Fantasy-Map-Generator` |
 | Git clone URL | `https://github.com/Azgaar/Fantasy-Map-Generator.git` |
-| Source ZIP URL attempted | `https://codeload.github.com/Azgaar/Fantasy-Map-Generator/zip/refs/heads/master` |
-| Branch tested | Not reached |
-| Commit or tag tested | Not reached because source download failed before checkout/extract |
+| Branch tested | Local clone branch, exact branch name not recorded |
+| Commit tested | `9d14cf78791484ea23936aff26807fc2503b3252` |
 | Node version | `v24.17.0`, meets required `>=24.0.0` |
 | Package manager | `npm 11.13.0` |
 | Git version | `git version 2.34.1` from earlier screenshot |
-| Dependency command used | Not run |
-| Dev server command used | Not run |
-| Local app URL | Not created |
-| Production build command used | Not run |
-| Save/load test file | Not created |
-| Overall result | Blocked |
+| Dependency command used | `npm ci`, implied successful enough for dev/build; full output not captured |
+| Dev server command used | `npm run dev` |
+| Local app URL | `http://localhost:5173/Fantasy-Map-Generator/` |
+| Production build command used | `npm run build` |
+| Save/load test file | `.map` file saved and reloaded; filename not recorded |
+| Final `git status --short` | Clean / returned no output |
+| Overall result | Passed |
 
 ---
 
-## Attempt 2 Progress
+## Attempt 3 Progress
 
 | Check | Result | Notes |
 |---|---|---|
@@ -65,15 +65,22 @@ No Meridian Prime source changes should happen until this baseline is complete.
 | Node requirement met | Pass | `node --version` reported `v24.17.0`. |
 | npm available | Pass | `npm --version` reported `11.13.0`. |
 | Baseline folder created | Pass | `/home/tenet/meridian-cartography-baseline`. |
-| Direct `git clone` | Blocked | Could not connect to `github.com` port 443. |
-| `curl -I https://github.com` | Blocked | Could not connect to `github.com` port 443. |
-| `curl -4 -I https://github.com` | Blocked | IPv4-only request also failed, so this is not just an IPv6 preference issue. |
-| Source ZIP via `codeload.github.com` | Blocked | Could not connect to `codeload.github.com` port 443. |
-| Dependency install | Not tested | Source tree unavailable. |
-| Dev server | Not tested | Source tree unavailable. |
-| Map generation | Not tested | App not launched. |
-| Save/load | Not tested | App not launched. |
-| Production build | Not tested | Source tree unavailable. |
+| Direct `git clone` | Pass | Source acquired from GitHub after phone/laptop restart and restored GitHub access. |
+| Commit recorded | Pass | `git rev-parse HEAD` returned `9d14cf78791484ea23936aff26807fc2503b3252`. |
+| Dependency install | Pass | `npm ci` was part of the successful baseline flow; exact output not captured. |
+| Dev server | Pass | `npm run dev` launched local app. |
+| App opens locally | Pass | Browser displayed Azgaar at `localhost:5173/Fantasy-Map-Generator/`. |
+| New map generates | Pass | Generated map visible in browser. |
+| Map UI responds | Pass | Layers panel opened and map displayed. |
+| Markers layer visible / available | Pass | Markers visible in layer panel. |
+| Routes layer visible / available | Pass | Routes visible in layer panel. |
+| Zones layer visible / available | Pass | Zones visible in layer panel. |
+| Save `.map` works | Pass | User confirmed save/reload flow. |
+| Reload `.map` works | Pass | User confirmed reload. |
+| Production build | Pass | `npm run build` completed and `echo $?` returned `0`. |
+| Final git status | Pass | `git status --short` returned nothing. |
+| Lint | Not run | Intentionally skipped because current lint script may write changes. |
+| Unit/E2E tests | Not run | Optional for this baseline; not required to unlock Phase 2 orientation. |
 
 ---
 
@@ -81,15 +88,15 @@ No Meridian Prime source changes should happen until this baseline is complete.
 
 | Option | Selected? | Notes |
 |---|---|---|
-| Direct fork under user account | No | Deferred until the unmodified baseline can be run. |
+| Direct fork under user account | No | Deferred until after unmodified baseline passed. |
 | Fork under project organization | No | Deferred. |
 | Local-only clone/source baseline first | Yes | Chosen as the safest first baseline path because it avoids creating a premature project fork. |
-| Mirror into custom Meridian Prime repo later | Not yet | Revisit only after the unmodified baseline passes. |
+| Mirror into custom Meridian Prime repo later | Not yet | Revisit after Phase 2 source orientation. |
 
 ### Decision Notes
 
 - **Chosen path:** Local-only baseline first.
-- **Reason:** Safest first test. It preserves the modification gate and avoids committing to a fork location before the plain app runs.
+- **Reason:** Safest first test. It preserved the modification gate and avoided committing to a fork location before the plain app ran.
 - **Date decided:** 2026-06-20.
 - **Canon effect:** None. Tooling only.
 
@@ -105,8 +112,8 @@ No Meridian Prime source changes should happen until this baseline is complete.
 | Git version | `git version 2.34.1` | From earlier local screenshot. |
 | Node version | `v24.17.0` | Meets current Azgaar requirement `>=24.0.0`. |
 | npm version | `11.13.0` | Installed with Node through nvm. |
-| Browser/version | Available, not recorded | App not reached yet. |
-| Disk location of attempted baseline | `/home/tenet/meridian-cartography-baseline` | Folder exists. |
+| Browser/version | Browser available, exact version not recorded | Successfully opened local app. |
+| Disk location of successful baseline | `/home/tenet/meridian-cartography-baseline/Fantasy-Map-Generator` |  |
 
 ### Environment Commands Used
 
@@ -136,37 +143,35 @@ git --version -> git version 2.34.1
 
 ```bash
 cd "$HOME/meridian-cartography-baseline"
+rm -rf Fantasy-Map-Generator Fantasy-Map-Generator-master azgaar.zip
 git clone https://github.com/Azgaar/Fantasy-Map-Generator.git
-curl -I https://github.com
-curl -4 -I https://github.com
-curl -L -o azgaar.zip https://codeload.github.com/Azgaar/Fantasy-Map-Generator/zip/refs/heads/master
+cd Fantasy-Map-Generator
+git status
+git rev-parse HEAD
 ```
 
 ### Results
 
 | Check | Result | Notes |
 |---|---|---|
-| `git clone` completed | Failed | Direct `github.com` connection blocked. |
-| `origin` remote correct | Not reached | Clone failed before repo was created. |
-| `upstream` remote added | Not reached | Clone failed. |
-| Source ZIP downloaded | Failed | `codeload.github.com` also blocked. |
-| Working tree clean before install | Not reached | No working tree. |
-| Commit SHA recorded | Not reached | No checkout or extracted source tree. |
+| `git clone` completed | Pass | GitHub access worked after phone/laptop restart. |
+| `origin` remote correct | Not explicitly recorded | Source URL was direct Azgaar repo clone. |
+| `upstream` remote added | Not needed yet | Local baseline only. |
+| Working tree clean before install | Pass | `git status --short` returned no output in visible terminal. |
+| Commit SHA recorded | Pass | `9d14cf78791484ea23936aff26807fc2503b3252`. |
 
 ### Recorded Output
 
 ```text
-fatal: unable to access 'https://github.com/Azgaar/Fantasy-Map-Generator.git/': Failed to connect to github.com port 443: Network is unreachable
-curl: (7) Failed to connect to github.com port 443 after 45 ms: Network is unreachable
-curl: (7) Failed to connect to github.com port 443 after 35 ms: Network is unreachable
-curl: (7) Failed to connect to codeload.github.com port 443 after 47 ms: Network is unreachable
+git rev-parse HEAD
+9d14cf78791484ea23936aff26807fc2503b3252
 ```
 
 ---
 
 ## Dependency Install Test
 
-### Intended command
+### Command
 
 ```bash
 npm ci
@@ -176,17 +181,17 @@ npm ci
 
 | Check | Result | Notes |
 |---|---|---|
-| Install command used | Not run | Source tree unavailable. |
-| Install completed | Not tested | Blocked by GitHub/codeload network access. |
-| Warnings encountered | Not recorded | Not reached. |
-| Errors encountered | Not recorded | Not reached. |
-| Files changed after install | Not checked | No working tree. |
+| Install command used | Pass | `npm ci` was used in the successful baseline flow. |
+| Install completed | Pass | App and production build ran afterward, so dependencies were available. |
+| Warnings encountered | Not recorded | Exact install output not captured. |
+| Errors encountered | None recorded | No blocking install error reported. |
+| Files changed after install | Pass | Final `git status --short` returned no output. |
 
 ---
 
 ## Development Server Test
 
-### Intended command
+### Command
 
 ```bash
 npm run dev
@@ -196,11 +201,11 @@ npm run dev
 
 | Check | Result | Notes |
 |---|---|---|
-| Dev server started | Not tested | Source tree unavailable. |
-| Local URL shown | Not recorded | No dev server. |
-| Terminal errors | Not recorded | Not reached. |
-| Browser opened app | Not tested | No dev server. |
-| Browser console errors | Not checked | Not reached. |
+| Dev server started | Pass | Local app opened in browser. |
+| Local URL shown | Pass | `http://localhost:5173/Fantasy-Map-Generator/`. |
+| Terminal errors | None blocking observed | Exact dev-server output not captured. |
+| Browser opened app | Pass | Screenshot showed Azgaar running. |
+| Browser console errors | Not checked | Not required for Phase 1 baseline unless visible/blocking. |
 
 ---
 
@@ -210,23 +215,34 @@ Do not add Meridian Prime changes during this test.
 
 | Behavior | Result | Notes |
 |---|---|---|
-| App loads locally | Not tested | Blocked before source acquisition. |
-| New map generates | Not tested | Blocked before app launch. |
-| Map UI responds | Not tested | Blocked before app launch. |
-| Layers menu opens | Not tested | Blocked before app launch. |
-| Markers layer visible / available | Not tested | Blocked before app launch. |
-| Routes layer visible / available | Not tested | Blocked before app launch. |
-| Zones layer visible / available | Not tested | Blocked before app launch. |
-| Save `.map` works | Not tested | Blocked before app launch. |
-| Reload `.map` works | Not tested | Blocked before app launch. |
-| Export image/data works | Not tested | Optional, not reached. |
-| No major console errors | Not checked | Browser console not reached. |
+| App loads locally | Pass | Browser showed local Azgaar instance. |
+| New map generates | Pass | Map visible in browser. |
+| Map UI responds | Pass | Layers menu opened. |
+| Layers menu opens | Pass | Layer panel visible. |
+| Markers layer visible / available | Pass | Markers listed in layer panel. |
+| Routes layer visible / available | Pass | Routes listed in layer panel. |
+| Zones layer visible / available | Pass | Zones listed in layer panel. |
+| Save `.map` works | Pass | User confirmed. |
+| Reload `.map` works | Pass | User confirmed reload. |
+| Export image/data works | Not tested | Optional and not required for Phase 1 baseline. |
+| No major console errors | Not checked | No blocking browser issue observed. |
+
+### Save / Load Details
+
+| Field | Value |
+|---|---|
+| Test map name | Not recorded |
+| Saved file name | Not recorded |
+| Save method used | Azgaar UI Save button |
+| Reload method used | Azgaar UI Load button |
+| Reload result | Pass |
+| Data loss noticed | None reported |
 
 ---
 
 ## Production Build Test
 
-### Intended command
+### Command
 
 ```bash
 npm run build
@@ -236,12 +252,23 @@ npm run build
 
 | Check | Result | Notes |
 |---|---|---|
-| Build command completed | Not tested | Source tree unavailable. |
-| TypeScript completed | Not tested | Not reached. |
-| Vite build completed | Not tested | Not reached. |
-| Build output created | Not checked | No working tree. |
-| Warnings encountered | Not recorded | Not reached. |
-| Errors encountered | Not recorded | Not reached. |
+| Build command completed | Pass | `echo $?` returned `0`. |
+| TypeScript completed | Pass | Script is `tsc && vite build`; exit code was `0`. |
+| Vite build completed | Pass | Exit code was `0`. |
+| Build output created | Not directly inspected | Exit code indicates success. |
+| Warnings encountered | Yes | Vite printed script-bundling warnings for non-module scripts. |
+| Errors encountered | None blocking | Exit code was `0`. |
+
+### Recorded Output
+
+```text
+npm run build
+fantasy-map-generator@2.0.0 build
+tsc && vite build
+vite v8.0.16 building client environment for production...
+[Warnings about scripts in index.html that cannot be bundled without type="module" attribute]
+echo $? -> 0
+```
 
 ---
 
@@ -257,11 +284,11 @@ npm run preview
 
 | Check | Result | Notes |
 |---|---|---|
-| Preview server started | Not tested | Build was not run. |
-| Preview URL opened | Not tested | No preview server. |
-| Built app loads | Not tested | No build output. |
-| New map generates in preview | Not tested | No preview server. |
-| Save/load works in preview | Not tested | Optional, not reached. |
+| Preview server started | Not tested | Optional for Phase 1 baseline. |
+| Preview URL opened | Not tested |  |
+| Built app loads | Not tested |  |
+| New map generates in preview | Not tested |  |
+| Save/load works in preview | Not tested | Optional. |
 
 ---
 
@@ -281,18 +308,18 @@ Warning: current setup notes say `npm run lint` maps to `biome check --write`, s
 
 | Check | Result | Notes |
 |---|---|---|
-| Unit tests run | Not run | Source tree unavailable. |
+| Unit tests run | Not run | Optional for this baseline. |
 | Unit tests pass | Not tested |  |
-| E2E tests run | Not run | Source tree unavailable. |
+| E2E tests run | Not run | Optional for this baseline. |
 | E2E tests pass | Not tested |  |
-| Lint run | Not run | Source tree unavailable. |
-| Lint changed files | Not checked | No working tree. |
+| Lint run | Not run | Intentionally skipped because it may modify files. |
+| Lint changed files | Not checked | Lint not run. |
 
 ---
 
 ## Git Status After Baseline
 
-### Intended command
+### Command
 
 ```bash
 git status --short
@@ -302,9 +329,15 @@ git status --short
 
 | Check | Result | Notes |
 |---|---|---|
-| Working tree clean after baseline | Not checked | No repo checkout. |
-| Expected generated files only | Not checked | No repo checkout. |
-| Unexpected source changes | Not checked | No repo checkout. |
+| Working tree clean after baseline | Pass | Command returned no output. |
+| Expected generated files only | Pass | No files shown. |
+| Unexpected source changes | Pass | None. |
+
+### Recorded Output
+
+```text
+git status --short -> [no output]
+```
 
 ---
 
@@ -312,11 +345,12 @@ git status --short
 
 | ID | Severity | Area | Description | Status |
 |---|---|---|---|---|
-| SETUP-001 | Blocker | Baseline | Baseline could not complete yet. | Open |
+| SETUP-001 | Resolved | Baseline | Baseline completed successfully on Attempt 3. | Closed |
 | SETUP-002 | Resolved | Node | Node was upgraded to `v24.17.0`, satisfying current Azgaar requirement `>=24.0.0`. | Closed |
-| SETUP-003 | Blocker | Network / Git | Direct `github.com:443` is unreachable from the local machine. | Open |
-| SETUP-004 | Blocker | Network / Source ZIP | `codeload.github.com:443` is unreachable from the local machine. | Open |
-| SETUP-005 | Blocker | Browser app test | No app/browser session was available because source acquisition failed. | Open |
+| SETUP-003 | Resolved | Network / Git | Direct GitHub access recovered after phone/laptop restart. | Closed |
+| SETUP-004 | Resolved | Network / Source ZIP | ZIP fallback no longer needed because direct clone worked. | Closed |
+| SETUP-005 | Resolved | Browser app test | Local app opened, generated a map, saved, and reloaded. | Closed |
+| SETUP-006 | Warning | Build | Vite printed non-blocking warnings about scripts in `index.html` that cannot be bundled without `type="module"`. | Open / Watch |
 
 ---
 
@@ -329,13 +363,35 @@ Choose one after the test:
 - **Blocked:** install or dev server cannot run yet.
 - **Not Run:** baseline has not been attempted.
 
-**Current verdict:** Blocked
+**Current verdict:** Pass
 
 ### Verdict Notes
 
 ```text
-Attempt 2 improved the environment by installing Node v24.17.0 and npm 11.13.0 through nvm, satisfying the current Azgaar Node requirement. The baseline remains blocked because both direct git clone from github.com and source ZIP download from codeload.github.com fail with network-unreachable errors. No dependency install, dev server, map generation, save/load, build, preview, tests, or lint commands were run. The Meridian Prime modification gate remains locked.
+Attempt 3 passed. The user restored GitHub access by restarting phone and laptop, cloned the unmodified Azgaar repository, confirmed Node v24.17.0 and npm 11.13.0, opened the local Vite app at localhost:5173/Fantasy-Map-Generator/, generated a map, confirmed marker/route/zone layers are available, saved and reloaded a .map file, ran npm run build with exit code 0, and confirmed git status --short returned no output. The unmodified baseline is now good enough to unlock Phase 2: Source Code Orientation. No Meridian Prime source customization has been made yet.
 ```
+
+---
+
+## Baseline Attempt 2 Archive
+
+Attempt 2 ran on the user's local Pop!_OS machine before restarting phone/laptop.
+
+| Field | Value |
+|---|---|
+| Test date | 2026-06-20 |
+| Host OS | Pop!_OS / Linux, exact version not recorded |
+| Folder used | `/home/tenet/meridian-cartography-baseline` |
+| Node version | `v24.17.0` |
+| npm version | `11.13.0` |
+| Overall result | Blocked |
+
+Attempt 2 blockers:
+
+- Direct `github.com:443` was unreachable.
+- IPv4-only GitHub request also failed.
+- `codeload.github.com:443` was unreachable.
+- Source tree could not be acquired.
 
 ---
 
@@ -365,25 +421,25 @@ Attempt 1 blockers:
 
 ## Meridian Prime Modification Gate
 
-Do not modify source code for Meridian Prime until all required baseline checks are complete.
+The Phase 1 baseline gate is now **passed**, but source customization should still wait until Phase 2 orientation identifies the safest modification points.
 
 Required before customization:
 
 | Requirement | Status |
 |---|---|
 | Fork location chosen | Done: local-only baseline first |
-| Local/source checkout works | Blocked: `github.com` and `codeload.github.com` unreachable |
+| Local/source checkout works | Done |
 | Node requirement met | Done: `v24.17.0` |
-| Dependencies install | Not tested |
-| Dev server runs | Not tested |
-| App opens locally | Not tested |
-| New map generates | Not tested |
-| Save/load works | Not tested |
-| Build works | Not tested |
+| Dependencies install | Done enough for dev/build; exact output not captured |
+| Dev server runs | Done |
+| App opens locally | Done |
+| New map generates | Done |
+| Save/load works | Done |
+| Build works | Done |
 | Source-orientation notes started | Not started |
-| Clean baseline commit or branch exists | Not done |
+| Clean baseline commit or branch exists | Done: clean working tree at commit `9d14cf78791484ea23936aff26807fc2503b3252` |
 
-First allowed Meridian Prime code change after gate:
+First allowed Meridian Prime code change after Phase 2 orientation:
 
 > Add a Meridian Prime marker/index layer without breaking existing markers or save/load behavior.
 
@@ -391,33 +447,31 @@ First allowed Meridian Prime code change after gate:
 
 ## Next Action
 
-Source acquisition must be solved before the baseline can continue.
+Begin Phase 2: Source Code Orientation.
 
-Recommended next route:
+Create or update:
 
-1. Use a different network temporarily, such as a phone hotspot, Ethernet, or VPN.
-2. Retry direct clone:
+`docs/cartography/azgaar-fork/schema/schema-notes.md`
 
-```bash
-cd "$HOME/meridian-cartography-baseline"
-git clone https://github.com/Azgaar/Fantasy-Map-Generator.git
-```
+and/or:
 
-3. If direct clone remains blocked but browser download works, manually download the source ZIP in the browser and extract it into `/home/tenet/meridian-cartography-baseline`.
-4. Only after the source tree exists, run:
+`docs/cartography/azgaar-fork/source-map-notes.md`
 
-```bash
-cd "$HOME/meridian-cartography-baseline/Fantasy-Map-Generator"
-npm ci
-npm run dev
-```
+Phase 2 should identify where Azgaar stores or renders:
 
-If using a ZIP extraction, the directory may be:
+- map data
+- markers
+- notes
+- routes
+- rivers
+- burgs / towns
+- states
+- cultures
+- biomes
+- heightmap
+- save/load logic
+- UI editors
+- layer rendering
+- export functions
 
-```bash
-cd "$HOME/meridian-cartography-baseline/Fantasy-Map-Generator-master"
-```
-
-Then test map generation, save `.map`, reload `.map`, and run `npm run build`.
-
-Only start schema orientation after a baseline result is recorded from a source tree that actually runs.
+Do not customize yet. First learn where the bones are.
