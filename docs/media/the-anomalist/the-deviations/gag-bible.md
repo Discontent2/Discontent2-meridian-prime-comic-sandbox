@@ -323,6 +323,12 @@ one sentence that makes the image funny
 
 The reader should stare for three seconds, then realize the trapdoor has opened beneath them.
 
+## Addenda
+
+Additional Deviations generation engines and style modes:
+
+- `surreal-naturalist-gag-logic-d20-table.md` - d20 generator for single-panel surreal naturalist gags built around deadpan animal logic, scientific absurdity, ordinary institutions inside impossible situations, cosmic accidents treated like errands, and nature having opinions.
+
 ## Production Format Per Gag
 
 Use this structure:
