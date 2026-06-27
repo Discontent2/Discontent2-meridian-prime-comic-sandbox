@@ -5,7 +5,7 @@
 
 | Character | File | People / Species | Role | Primary Setting Tie | Status | Key Tags |
 |---|---|---|---|---|---|---|
-| Dragulies, Crown Stonebound | `docs/characters/aeonolacertians/dragulies-crown-stonebound.md` | Aeonolacertian / Tyranosapien / Tyrannosauroid | Famous Crown Stonebound, Geodeum fighter, trial-by-stone survivor, the Verdict-Breaker | Craton Geodeums | Canon Reference Mirror / Use For Development | `dragulies`, `crown-stonebound`, `verdict-breaker`, `stonebound`, `tyranosapien`, `aeonolacertian`, `craton-geodeum`, `trial-by-stone` |
+| Dragulies, Crown Stonebound | `docs/characters/aeonolacertians/dragulies-crown-stonebound.md` | Aeonolacertian / Tyranosapien / Tyrannosauroid | Famous Crown Stonebound, Geodeum fighter, trial-by-stone survivor, the Verdict-Breaker; associated with Stonejaw's Lift Rig | Craton Geodeums / Mech Geodeum | Canon Reference Mirror / Use For Development | `dragulies`, `crown-stonebound`, `verdict-breaker`, `stonebound`, `tyranosapien`, `aeonolacertian`, `craton-geodeum`, `mech-geodeum`, `stonejaws-lift-rig`, `dragulies-mech`, `trial-by-stone` |
 
 ## Search Terms
 
@@ -30,6 +30,16 @@ Craton Geodeum
 Arena Geodeum
 Judgment Geodeum
 Crown Geodeum
+Mech Geodeum
+Stonejaw's Lift Rig
+Stonejaws Lift Rig
+Stonejaw Lift Rig
+Dragulies mech
+Dragulies loader mech
+loader-type Geodeum mech
+Crown Stonebound mech
+Stonejaw
+previous Crown holder Stonejaw
 trial by stone
 public contest chamber
 stone witness
