@@ -45,6 +45,25 @@
 | `craton-industrial-arena` | Mech Geodeum | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | Industrial public contest space |
 | `craton-arena-mech` | Craton arena mechs | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | Modified heavy equipment in Geodeum use |
 | `craton-mech` | Craton arena mechs | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | General Craton mech search tag |
+| `craton-mech-culture` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Industrial mech culture and machine tradition framework |
+| `craton-mechs` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | General Craton mech culture search tag |
+| `craton-arena-mechs` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Arena machine tradition |
+| `mech-geodeum-tradition` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Geodeum-adjacent mech culture |
+| `stonebound-machine-culture` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Stonebound machine tradition |
+| `rig-crew` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Machine crew culture |
+| `rigwright` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Story-facing crew role |
+| `pressure-keeper` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Story-facing crew role |
+| `chain-tender` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Story-facing crew role |
+| `plate-fitter` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Story-facing crew role |
+| `balance-caller` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Story-facing crew role |
+| `cradle-fitter` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Story-facing crew role |
+| `machine-inheritance` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Public legacy transfer concept |
+| `crown-rig` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Crown-associated machine category |
+| `gate-setter` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Mech type / source machine category |
+| `haul-frame` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Mech type / source machine category |
+| `brace-engine` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Mech type / source machine category |
+| `scaffolder` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Mech type / source machine category |
+| `aeonolacertian-mech-design` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Non-human operator design framework |
 | `stonejaws-lift-rig` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Dragulies's loader-type Geodeum mech |
 | `stonejaw-lift-rig` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Alternate apostrophe-free tag |
 | `stonejaw` | Stonejaw | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | Previous Crown holder; source of Stonejaw's Lift Rig |
@@ -54,25 +73,26 @@
 | `lift-rig` | Craton arena mechs | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Heavy labor frame terminology |
 | `construction-mech` | Craton arena mechs | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Modified construction equipment |
 | `modified-heavy-equipment` | Craton arena mechs | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | Core design rule |
-| `modified-heavy-labor-frame` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Rig-specific machine class |
+| `modified-heavy-labor-frame` | Stonejaw's Lift Rig / Craton Mech Culture | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Rig-specific machine class and culture tag |
 | `modified-construction-equipment` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Construction-born source identity |
 | `construction-born-arena-rig` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Design identity |
-| `quarry-walker` | Craton arena mechs | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | Heavy labor source form |
+| `quarry-walker` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Mech type / source machine category |
 | `stone-yard-heavy-equipment` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Stone-yard / quarry source identity |
-| `industrial-stonebound-machine` | Craton arena mechs | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | Stonebound machine culture tag |
+| `industrial-stonebound-machine` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Stonebound machine culture tag |
 | `crown-stonebound-mech` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Crown Stonebound machine legacy |
-| `tyranosapien-operator-cradle` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Cockpit/operator fit for Tyranosapien anatomy |
+| `tyranosapien-operator-cradle` | Stonejaw's Lift Rig / Craton Mech Culture | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Cockpit/operator fit for Tyranosapien anatomy |
 | `tyranosapien-mech` | Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Tyranosapien-operated mech design |
-| `steampunk-craton-technology` | Craton mech culture | `docs/worldbuilding/craton/geodeum-mech-arenas-and-stonejaws-lift-rig.md` | Steampunk as style, not tech ceiling |
-| `steampunk-industrial-styling` | Craton mech culture / Stonejaw's Lift Rig | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Visual design language |
+| `steampunk-craton-technology` | Craton mech culture | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Steampunk as style, not tech ceiling |
+| `steampunk-industrial-styling` | Craton mech culture / Stonejaw's Lift Rig | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Visual design language |
 | `canon-design-document` | Stonejaw's Lift Rig Full Design | `docs/worldbuilding/craton/stonejaws-lift-rig-full-design.md` | Full design document status |
+| `canon-addendum` | Craton Mech Culture Addendum | `docs/worldbuilding/craton/craton-mech-culture-addendum.md` | Canon addendum status |
 
 ## Protected Boundary Tags
 
 | Tag | Applies To | Boundary |
 |---|---|---|
-| `craton-law-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig | Does not define complete Craton law or sovereignty |
-| `protected-route-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig | Does not define protected route topology |
-| `dry-gate-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig | Does not define Dry Gate truth |
-| `core-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig | Does not define the Core |
-| `book-one-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig | Does not define Book One answers |
+| `craton-law-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define complete Craton law or sovereignty |
+| `protected-route-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define protected route topology |
+| `dry-gate-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define Dry Gate truth |
+| `core-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define the Core |
+| `book-one-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define Book One answers |
