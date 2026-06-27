@@ -8,6 +8,7 @@ The master index is for fast set selection. Full cards live in pool files.
 |---|---|---|---|---|---|---|---|---|---|---|
 | The Name-Silt Ledger House | `pools/hydropolis-locations.md` | Hydropolis dry body / low-water street level | Hydropolis registry / Antisapian community-adjacent refuge / black-market pressure | Identity shelter / registry annex / bad-paperwork refuge | Refuge / faction negotiation / questionable dealings | Dry season / low-water Hydropolis | Damp ledgers, name-silt, black-glass chamber, dry-body registry grime | Low to Moderate | Medium | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion |
 | The Low Road Roadhouse | `pools/black-market-locations.md` | NCI / Prime Ops edge, unofficial low-road spur outside protected Book One route unless reviewed | Contested NCI / Prime Ops edge; black-market route economy | Wet-season dock roadhouse / pirate radio relay / black-market map counter / medical salvage corner | Faction negotiation site / bad decision location / pirate radio scene | Wet season | Crooked floating roadhouse, red dust, salt crust, pirate radio booth, avoided doorway | Book One Risk | Medium | Sandbox Location Seed; Non-Canon; Requires Canon Review Before Promotion; Hold in sandbox |
+| Craton Geodeum | `pools/craton-locations.md` | Craton / Craton-adjacent threshold spaces | Craton authority or Craton-adjacent custom | Stone-governed public contest and judgment chamber | Arena Geodeum / Judgment Geodeum / trial-by-stone / passage-right ordeal / public contest | Any | Geode colosseum or stone judgment chamber where the crowd watches and the stone listens | Moderate; Protected if used to define Craton law or protected mechanics | Medium to Hard | Canon Concept / Owner-Approved; Primary Canon Source: `Discontent2/meridian-prime/docs/worldbuilding/craton/craton-geodeums.md` |
 
 ## Index Maintenance Notes
 
@@ -25,4 +26,4 @@ None yet.
 
 ## Promoted-to-Canon Location Seeds
 
-None yet.
+- Craton Geodeum: owner-approved canon concept; full canon source lives in `Discontent2/meridian-prime/docs/worldbuilding/craton/craton-geodeums.md`.
