@@ -32,6 +32,7 @@ Meridian Prime music lookup
 | The Snifters | Growlers Style | Sandbox style card exists | `docs/music/bad-influence/style-cards/growlers-style.md` | TBD | Surf-goth garage rock, beach-noir roadhouse psych, smoky slacker croon, raw vintage looseness. |
 | Time Bastard | Zombie Style | Sandbox style card exists | `docs/music/bad-influence/style-cards/zombie-style.md` | `Live from the Low Road Road House`; `Route to Hell-Wreck Deluxe` | Low Road industrial horror-boogie, groove metal, stop-start monster riffs, roadhouse-dirty shock rock. |
 | Gentrification | Underground Beach Goth | Sandbox style card exists | `docs/music/bad-influence/style-cards/gentrification-style.md` | Creature Tracks | Underproduced cassette surf-goth, haunted beach carnival, trash-can melancholy, backyard CD-R murk. |
+| Dead Mile Cipher | Underground backpack rap | Sandbox collective profile and style card exist | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | `Annotations from the Low Road` | Abstract boom-bap field-tape rap collective with core members Shame, Blue Tapetum, Burn Notice, and Discontent One. |
 
 ---
 
@@ -43,6 +44,7 @@ Meridian Prime music lookup
 | `growlers-style.md` | The Snifters | Growlers Style, surf-goth, beach-noir, slacker croon, garage psych, The Snifters |
 | `zombie-style.md` | Time Bastard | Zombie Style, Low Road, horror-boogie metal, groove metal, shock rock, Time Bastard |
 | `gentrification-style.md` | Gentrification | Gentrification, Beach Goth, underground Beach Goth, creature tracks, cassette surf-goth, Tin Grin format |
+| `dead-mile-cipher-style.md` | Dead Mile Cipher | Dead Mile Cipher, DMC, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Annotations from the Low Road |
 
 ---
 
@@ -53,6 +55,7 @@ Meridian Prime music lookup
 | Creature Tracks | Gentrification | Working song cycle | `docs/music/song-index.md` |
 | Route to Hell-Wreck Deluxe | Time Bastard | Working studio album concept | `docs/music/album-registry.md` |
 | Live from the Low Road Road House | Time Bastard | Existing style-card album context | `docs/music/album-registry.md` |
+| Annotations from the Low Road | Dead Mile Cipher | Working studio album concept | `docs/music/album-registry.md` |
 
 ---
 
@@ -75,14 +78,24 @@ The Snifters
 Time Bastard
 Time Bastards
 Gentrification
+Dead Mile Cipher
+DMC
+Shame
+Blue Tapetum
+Burn Notice
+Discontent One
 Pink Style
 Growlers Style
 Zombie Style
 Beach Goth
 Underground Beach Goth
+underground backpack rap
+abstract boom-bap
+field-tape rap
 Creature Tracks
 Route to Hell-Wreck Deluxe
 Live from the Low Road Road House
+Annotations from the Low Road
 ```
 
 ---
