@@ -38,7 +38,7 @@ The core group has four fixed members. Others may drift in and out later as gues
 
 | Member | Faction Representation | Role | Core Function |
 |---|---|---|---|
-| Shame | Meridian human | Emotional center / survivor poet | Plainspoken pain, work debt, motel guilt, road survival, moral exhaustion. |
+| Shame | Meridian human | Emotional center / survivor poet | Raspy warm everyman witness. Plainspoken pain, work debt, motel guilt, road survival, moral exhaustion. |
 | Blue Tapetum | Absconditian / Antisapian | Stealth verse specialist / encrypted hook writer | Night-run precision, surveillance grief, cyberpunk elegance, quiet menace. |
 | Burn Notice | World Works defector with Lodestar exposure | Corporate-invoice satirist / glossy-corruption narrator | Combines the receipt-prophet and solarpunk-rot roles; turns paperwork, contracts, branding, and clean lies into curses. |
 | Discontent One | Aeonolacertian Velocisapien | Producer-MC / abstract tactician / field-tape architect | Combines the producer, steam-machine scholar, and route-ghost functions; builds beats from service tones, old route hum, machine breath, and impossible map fragments. |
@@ -51,9 +51,14 @@ The core group has four fixed members. Others may drift in and out later as gues
 
 **Faction:** Meridian human  
 **Role:** emotional center, survivor poet, ground-level witness  
-**Style:** direct, literate, wounded, stubborn, quotable
+**Style:** raspy warm spoken-rap, gravelly everyman voice, conversational cadence, emotionally clear lower-register storyteller  
+**Member Card:** `docs/music/collectives/dead-mile-cipher/shame.md`
 
 Shame is the collective’s human anchor. He writes like someone still clocking in after the world has already admitted it is broken. His verses are about work, debt, dead friends, cheap rooms, guilt, bad luck, false shelter, survival, and refusing to become useful to the wrong people.
+
+His voice is raspy, rhythmic, and deeply expressive. It carries a warm lived-in human quality that prioritizes emotional clarity over technical perfection. He blurs rapping and spoken word through natural pauses, sighs, and conversational inflection. His delivery can move from soft muffled near-whisper to desperate full-throated yell when anger or memory breaks through.
+
+He has two usable vocal era variants: early Shame, with a higher raspy register and breathless rapid-fire urgency; and modern Shame, with a lower raspy register, patient storyteller cadence, restrained anger, and heavier emotional weight.
 
 He is not the loudest member. He is the one listeners believe.
 
@@ -65,6 +70,15 @@ Meridian human
 survivor poet
 emotional center
 backpack rap
+raspy warm spoken-rap
+gravelly everyman voice
+conversational cadence
+Midwestern warmth
+emotional clarity
+whisper-to-yell dynamics
+modern lower-register storyteller
+early Shame
+modern Shame
 Dead Mile Cipher
 ```
 
