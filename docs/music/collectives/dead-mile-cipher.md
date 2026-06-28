@@ -41,7 +41,7 @@ The core group has four fixed members. Others may drift in and out later as gues
 | Shame | Meridian human | Emotional center / survivor poet | Raspy warm everyman witness. Plainspoken pain, work debt, motel guilt, road survival, moral exhaustion. |
 | Blue Tapetum | Absconditian / Antisapian | Stealth verse specialist / encrypted hook writer | Night-run precision, surveillance grief, cyberpunk elegance, quiet menace. |
 | Burn Notice | World Works defector with Lodestar exposure | Corporate-invoice satirist / glossy-corruption narrator | Combines the receipt-prophet and solarpunk-rot roles; turns paperwork, contracts, branding, and clean lies into curses. |
-| Discontent One | Aeonolacertian Velocisapien | Producer-MC / abstract tactician / field-tape architect | Combines the producer, steam-machine scholar, and route-ghost functions; builds beats from service tones, old route hum, machine breath, and impossible map fragments. |
+| Discontent One | Aeonolacertian Velocisapien | Producer-MC / abstract tactician / field-tape architect | Melancholic saurian producer-MC and sonic architect. Muffled breathy deadpan drawl, submerged tape voice, psychedelic lo-fi collage production, machine-map logic. |
 
 ---
 
@@ -136,12 +136,17 @@ Dead Mile Cipher
 ### Discontent One
 
 **Faction:** Aeonolacertian / Saurasapien / Velocisapien  
-**Role:** producer-MC, abstract tactician, route-field architect  
-**Style:** technical, percussive, fragmented, philosophical, machine-wise
+**Role:** producer-MC, abstract tactician, route-field architect, sonic architect  
+**Style:** melancholic saurian abstract rap, muffled breathy drawl, submerged tape voice, psychedelic lo-fi collage production, machine-map logic  
+**Member Card:** `docs/music/collectives/dead-mile-cipher/discontent-one.md`
 
 Discontent One combines the old Static Parish, Steamjaw Method, and Kilometer Ghost functions into one central figure.
 
 He is an Aeonolacertian Velocisapien: a fully saurian person, not a human with scales. He has upright tool-user posture, velociraptoroid anatomy, saurian head and snout structure, tail balance, clawed hands and feet, and culturally complex Aeonolacertian presence.
+
+His MC voice is melancholic, lethargic, deadpan, and deeply intimate. He uses muffled breathy spoken-rap, fragile off-kilter half-singing, submerged tape vocals, and poetic stream-of-consciousness. Under the softness, his cadence remains percussive and saurian: dry clicks, clipped consonants, pressure-valve timing, tail-balanced pauses, fragmented route-map logic, and machine-wise phrasing.
+
+His production is caustic, psychedelic, nostalgic, and deeply textural. He builds dense hypnagogic hip-hop from analog hiss, vinyl crackle, magnetic tape distortion, warped pitch-drifted melodies, field recordings, obscure dialogue fragments, ambient drones, metallic clanks, industrial basement percussion, and muddy warm decay.
 
 He builds beats from pirate-radio scraps, broken service tones, old route buzz, pressure valves, field cassettes, tollbooth hum, sanctuary-adjacent bells, creature clicks, and map fragments that should not line up.
 
@@ -157,6 +162,16 @@ Velocisapien
 producer MC
 field-tape architect
 abstract tactician
+sonic architect
+melancholic saurian producer-MC
+muffled breathy spoken-rap
+lethargic deadpan drawl
+submerged tape voice
+psychedelic lo-fi collage production
+machine-map logic
+hypnagogic sound collage
+field recordings
+metallic decay
 Dead Mile Cipher
 ```
 
