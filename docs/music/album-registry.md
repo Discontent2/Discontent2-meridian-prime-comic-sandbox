@@ -29,7 +29,9 @@ Suno album prompt lookup
 | Creature Tracks | Gentrification | Song cycle / creature-track project | Working sandbox project | Underground Beach Goth | Creature songs based on Collab intake encounter-fauna concepts. Dirty cassette surf-goth, haunted beach carnival, trash humor, roadside dread. |
 | Route to Hell-Wreck Deluxe | Time Bastard | Studio album concept | Working sandbox project | Zombie Style / horror-boogie rock | Studio-album lane for Time Bastard. Low Road myth, Hell-Wreck imagery, Rob Holliday / Horus song material, no live crowd baked into prompts unless specifically useful. |
 | Live from the Low Road Road House | Time Bastard | Live album / style-card context | Existing sandbox style context | Zombie Style | Existing album context from `zombie-style.md`. Live roadhouse crowd energy belongs here, not automatically on studio tracks. |
-| Annotations from the Low Road | Dead Mile Cipher | Studio album / underground tape mythology | Working sandbox project | Underground backpack rap / abstract boom-bap | Illegal field notes, route graffiti, false shelter rumors, corporate receipts, survivor testimony, faction arguments, and pirate-radio samples. |
+| Annotations from the Low Road | Dead Mile Cypher / Dead Mile Cipher | Studio album / underground tape mythology | Working sandbox project | Underground backpack rap / abstract boom-bap | Public/performance artist name is `Dead Mile Cypher`; archive/search spelling is `Dead Mile Cipher`. Illegal field notes, route graffiti, false shelter rumors, corporate receipts, survivor testimony, faction arguments, pirate-radio samples. Group history file: `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`. |
+| S.A.D. | Shame and Discontent One | Early collaboration / pre-DMC project | Group-history stage | Sparse field-tape rap / grief tapes | Early Shame and Discontent One collaboration. Search under group-history file. |
+| Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
 
@@ -60,7 +62,7 @@ Suno album prompt lookup
 
 ---
 
-## Annotations from the Low Road: Dead Mile Cipher
+## Annotations from the Low Road: Dead Mile Cypher / Dead Mile Cipher
 
 | Track | Subject | Status | Notes |
 |---|---|---|---|
@@ -69,6 +71,16 @@ Suno album prompt lookup
 | Map Wrong, Miles Right | Route contradiction / crew chant | Candidate | Full-crew chant concept. |
 | The Blacktop Thesis | Low Road philosophy | Candidate | Abstract Discontent One-forward concept. |
 | Blue Light in the Footnote | Absconditian stealth testimony | Candidate | Blue Tapetum-forward concept. |
+
+---
+
+## Pre-DMC Group History Projects
+
+| Project | Lineup | Function | Reference |
+|---|---|---|---|
+| S.A.D. | Shame and Discontent One | First collaboration / grief tapes | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
+| Down Pour | Shame, Discontent One, Burn Notice | Intermediate trio stage / evidence made heavy | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
+| Arrestthemall Records | Dead Mile Cypher | DIY label / mission statement | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
 
 ---
 
@@ -88,8 +100,13 @@ Gentrification Creature Tracks
 Route to Hell-Wreck Deluxe
 Live from the Low Road Road House
 Annotations from the Low Road
+Dead Mile Cypher
 Dead Mile Cipher
 DMC
+S.A.D.
+Shame and Discontent
+Down Pour
+Arrestthemall Records
 Shame
 Blue Tapetum
 Burn Notice
