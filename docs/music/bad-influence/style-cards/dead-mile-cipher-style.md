@@ -15,7 +15,7 @@
 **Search Aliases:** Dead Mile Cipher, DMC, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Low Road rap, map wrong miles right  
 **Related Albums / Projects:** Annotations from the Low Road  
 **Core Members:** Shame, Blue Tapetum, Burn Notice, Discontent One  
-**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`, `docs/music/collectives/dead-mile-cipher/shame.md`
+**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`, `docs/music/collectives/dead-mile-cipher/shame.md`, `docs/music/collectives/dead-mile-cipher/discontent-one.md`
 
 ---
 
@@ -50,10 +50,10 @@ Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, dusty 
 
 ## Suno Style Box Under 1000 Characters
 
-Use when Suno's style field is limited.
+Use when Suno's style field is limited. This version is 986 characters.
 
 ```text
-Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, four distinct MC voices, alternating verses, call-and-response hook. Shame: raspy warm Meridian human spoken-rap, gravelly everyman, conversational pauses, emotional clarity, whisper-to-yell dynamics, lower storyteller register. Discontent One: technical Aeonolacertian Velocisapien producer-MC, percussive saurian cadence, fragmented route-map logic, machine-wise phrasing. Blue Tapetum: cold precise Absconditian/Antisapian stealth rapper, clipped rhymes, low-lit cyberpunk, encrypted hooks. Burn Notice: World Works/Lodestar defector, satirical corporate-document rap, invoice venom, clean-lie narration. Dusty boom-bap drums, chopped field recordings, pirate-radio samples, cracked jazz loop, cold piano stabs, dry bassline, scratches, low-bit service tones, tape hiss, muddy basement compression, dense internal rhyme, surreal route storytelling, false shelter rumors, no glossy trap, no pop rap polish, no real artist names.
+Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, four distinct MC voices, alternating verses, call-and-response hook. Shame: raspy warm human spoken-rap, gravel everyman, emotional clarity, lower storyteller flow. Discontent One: melancholic Aeonolacertian Velocisapien producer-MC, muffled breathy deadpan drawl, submerged tape voice, percussive machine-map logic, psychedelic lo-fi collage production, warped nostalgia, field recordings, metallic decay. Blue Tapetum: cold precise Absconditian/Antisapian stealth rapper, clipped rhymes, low-lit cyberpunk, encrypted hooks. Burn Notice: World Works/Lodestar defector, satirical corporate-document rap, invoice venom, clean-lie narration. Dusty boom-bap drums, chopped field recordings, pirate-radio samples, cracked jazz loop, cold piano stabs, dry bassline, scratches, low-bit service tones, tape hiss, muddy basement compression, false shelter rumors, no glossy trap, no pop rap polish, no real artist names.
 ```
 
 ---
@@ -104,10 +104,36 @@ satirical corporate-document rap, venomous invoice language, clean-lie narration
 
 ### Discontent One
 
-Use for Aeonolacertian Velocisapien producer-MC verses.
+Use for Aeonolacertian Velocisapien producer-MC verses and tracks where he shapes the whole sonic world.
+
+MC full tag:
 
 ```text
-technical abstract boom-bap flow, percussive saurian cadence, pressure-valve rhythm logic, route-map fragmentation, pirate-radio producer tags, machine-wise phrasing, field-tape architecture, no human-with-scales imagery
+Discontent One: melancholic Aeonolacertian Velocisapien producer-MC, muffled breathy wet spoken-rap, lethargic deadpan drawl, fragile off-kilter half-singing, lo-fi existential bedroom-rap tone, submerged tape-saturated vocals, poetic stream-of-consciousness, percussive saurian cadence, fragmented route-map logic, machine-wise phrasing
+```
+
+MC short tag:
+
+```text
+Discontent One: melancholic saurian producer-MC, muffled breathy spoken-rap, lethargic deadpan drawl, fragile half-sung cadence, submerged tape vocals, percussive machine-map logic
+```
+
+Producer full tag:
+
+```text
+Discontent One production: caustic psychedelic lo-fi hip-hop, dense hypnagogic sound collage, analog hiss, vinyl crackle, magnetic tape distortion, red-lined grit, warped pitch-drifted melodies, ambient drones, field recordings, obscure dialogue snippets, metallic clanks, abrasive DIY post-punk textures, industrial basement percussion, nostalgic fever-dream atmosphere, muddy warm decay
+```
+
+Producer short tag:
+
+```text
+Discontent One production: caustic psychedelic lo-fi hip-hop, tape-saturated sound collage, warped nostalgic melodies, field recordings, ambient drones, metallic clanks, muddy warm decay
+```
+
+Combined short tag:
+
+```text
+Discontent One: melancholic saurian producer-MC, muffled breathy deadpan drawl, submerged tape voice, percussive machine-map logic, psychedelic lo-fi collage production, warped nostalgia, field recordings, metallic decay
 ```
 
 ---
@@ -118,6 +144,12 @@ Use:
 
 ```text
 dusty SP-style drums without naming gear, chopped service tones, cracked jazz loop, warped route-radio sample, old field cassette, dry upright bass loop, static scratches, tollbooth hum, low-bit intercom fragment, sanctuary-adjacent bell hit, paper receipt tear percussion, map-fold snare, cold minor piano, muddy basement compression
+```
+
+For Discontent One-forward production, also use:
+
+```text
+caustic psychedelic lo-fi hip-hop, dense hypnagogic sound collage, analog hiss, vinyl crackle, magnetic tape distortion, red-lined grit, warped pitch-drifted melodies, ambient drones, field recordings, obscure dialogue snippets, metallic clanks, abrasive DIY post-punk textures, industrial basement percussion, nostalgic fever-dream atmosphere, muddy warm decay
 ```
 
 Avoid:
@@ -146,6 +178,8 @@ Use:
 - member-labeled verses when useful
 - short interlude samples from fictional route-radio, invoices, or service tones
 - direct emotional line after abstract bars so the listener has a handrail
+
+For Discontent One verses, use jagged four-beat chunks, hard pivots, compressed metaphors, physical fragments, moldy apartments, roadkill, dental work, service tones, wrong maps, hinge memory, machine breath, and submerged diary-like language.
 
 Avoid:
 
@@ -210,6 +244,14 @@ modern Shame
 Blue Tapetum
 Burn Notice
 Discontent One
+melancholic saurian producer-MC
+muffled breathy spoken-rap
+lethargic deadpan drawl
+submerged tape voice
+psychedelic lo-fi collage production
+hypnagogic sound collage
+field recordings
+metallic decay
 Meridian Prime music
 Suno
 style-card
