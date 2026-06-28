@@ -40,7 +40,7 @@ The core group has four fixed members. Others may drift in and out later as gues
 |---|---|---|---|
 | Shame | Meridian human | Emotional center / survivor poet | Raspy warm everyman witness. Plainspoken pain, work debt, motel guilt, road survival, moral exhaustion. |
 | Blue Tapetum | Absconditian / Antisapian | Stealth verse specialist / encrypted hook writer | Night-run precision, surveillance grief, cyberpunk elegance, quiet menace. |
-| Burn Notice | World Works defector with Lodestar exposure | Corporate-invoice satirist / glossy-corruption narrator | Combines the receipt-prophet and solarpunk-rot roles; turns paperwork, contracts, branding, and clean lies into curses. |
+| Burn Notice | World Works defector with Lodestar exposure | MC / live beat producer / corporate-invoice satirist | Manic nasal corporate-satire MC and rhythm executioner. Live finger-drummed mechanical boom-bap, cracking snares, invoice venom, clipped samples, metallic percussion. |
 | Discontent One | Aeonolacertian Velocisapien | Producer-MC / abstract tactician / field-tape architect | Melancholic saurian producer-MC and sonic architect. Muffled breathy deadpan drawl, submerged tape voice, psychedelic lo-fi collage production, machine-map logic. |
 
 ---
@@ -110,14 +110,21 @@ Dead Mile Cipher
 ### Burn Notice
 
 **Faction:** World Works defector with Lodestar exposure  
-**Role:** corporate-invoice satirist, document thief, clean-lie narrator  
-**Style:** funny, furious, procedural, luxurious on the surface and rotten underneath
+**Role:** MC, live beat producer, corporate-invoice satirist, rhythm executioner  
+**Style:** manic nasal theatrical defector MC, rapid-fire invoice-venom rap, aggressive mechanical boom-bap, finger-drummed cracking snares, clipped samples, metallic percussion  
+**Member Card:** `docs/music/collectives/dead-mile-cipher/burn-notice.md`
 
 Burn Notice combines the old Receipt God and Glass Orchard functions into one sharper member.
 
-They know how World Works hides violence in forms, invoices, claims, routing language, repair orders, security memos, and public-safety scripts. They also know how Lodestar turns beauty into a sales contract and comfort into a lock.
+He knows how World Works hides violence in forms, invoices, claims, routing language, repair orders, security memos, and public-safety scripts. He also knows how Lodestar turns beauty into a sales contract and comfort into a lock.
 
-Burn Notice makes polished corruption sound guilty.
+His MC voice is frenetic, nasal, theatrical, and high-pitched. He uses manic rapid-fire stammer flow, absurd character switching, warped yelps and whispers, cybernetic corporate anxiety, and clipped invoice-venom rap. He sounds like a legal document caught in a fax machine during a panic attack.
+
+His production is aggressive, mechanical, rhythmically virtuosic, and surgically hostile. During live group sessions, Discontent One usually handles atmosphere through sampler haze while Burn Notice handles live beats: finger-drummed kicks and snares, chopped breaks, metallic found percussion, hard transitions, rhythmic switches, and jagged drum mosaics.
+
+He is the crisp, hard-hitting spine of Dead Mile Cipher: cracking snares, tight knocking kicks, clipped choppy sample edits, metallic found percussion, machine whirs, dark minimal loops, and aggressive clean drum mixes.
+
+Burn Notice makes polished corruption sound guilty, then finger-drums the receipt into shrapnel.
 
 Search tags:
 
@@ -128,6 +135,22 @@ Lodestar exposure
 corporate satire
 receipt rap
 clean lie narrator
+invoice venom
+frenetic nasal theatrical MC
+high-pitched piercing rap voice
+manic rapid-fire stammer
+absurd character switching
+cybernetic corporate anxiety
+live beat producer
+finger-drumming
+aggressive mechanical boom-bap
+boom-bap industrialism
+cracking snares
+tight knocking kicks
+clipped choppy samples
+metallic found percussion
+machine whirs
+sharp drum mosaics
 Dead Mile Cipher
 ```
 
@@ -204,6 +227,21 @@ Burn Notice wants truth weaponized into a bill nobody can pay.
 Discontent One wants truth pressure-tested until it either becomes structure or breaks.
 
 They argue constantly. The albums are better for it.
+
+---
+
+## Live Production Dynamic
+
+During live group sessions:
+
+```text
+Discontent One handles atmosphere through sampler haze: field recordings, ambient drones, warped route-radio, tape decay, room tone, and machine breath.
+Burn Notice handles live beats: finger-drummed kicks and snares, chopped breaks, metallic found percussion, hard transitions, rhythmic switches, and jagged drum mosaics.
+```
+
+Discontent One builds the haunted environment.
+
+Burn Notice installs the teeth.
 
 ---
 
