@@ -19,6 +19,7 @@ which style card belongs to Gentrification
 which style card belongs to Mergenta
 which style card belongs to Time Bastard
 which style card belongs to The Snifters
+which style card belongs to Dead Mile Cipher
 Meridian Prime style card lookup
 ```
 
@@ -32,6 +33,7 @@ Meridian Prime style card lookup
 | Growlers Style | The Snifters | Surf-goth garage rock / beach-noir psych | `docs/music/bad-influence/style-cards/growlers-style.md` | TBD Surf-Goth Garage Material | Empty Routes |
 | Zombie Style | Time Bastard | Low Road horror-boogie / industrial groove metal | `docs/music/bad-influence/style-cards/zombie-style.md` | Live from the Low Road Road House; Route to Hell-Wreck Deluxe | The Ballad of Resurrection Rob and the Coward Horus, Meridian Prime Fever |
 | Gentrification Style | Gentrification | Underground Beach Goth / cassette surf-goth | `docs/music/bad-influence/style-cards/gentrification-style.md` | Creature Tracks | The Second Light That Follows, The Soft Alarm, Virus Lizard, Look-Away Walker, Hush-Teeth, Lizard Suit, Cloud Spine, Tin Grin, Wreck Rex |
+| Dead Mile Cipher Style | Dead Mile Cipher | Underground backpack rap / abstract boom-bap | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | Annotations from the Low Road | Receipts Burn Clean, No Shelter in the Margins, Map Wrong, Miles Right, The Blacktop Thesis, Blue Light in the Footnote |
 
 ---
 
@@ -77,6 +79,18 @@ Style Card: docs/music/bad-influence/style-cards/gentrification-style.md
 Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md
 ```
 
+### Dead Mile Cipher
+
+```text
+Band Identity: Dead Mile Cipher
+Primary Style: Underground backpack rap
+Search Aliases: Dead Mile Cipher, DMC, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Low Road rap, map wrong miles right, Annotations from the Low Road
+Style Card: docs/music/bad-influence/style-cards/dead-mile-cipher-style.md
+Collective Profile: docs/music/collectives/dead-mile-cipher.md
+Core Members: Shame, Blue Tapetum, Burn Notice, Discontent One
+Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md
+```
+
 ---
 
 ## Search Tags
@@ -94,12 +108,22 @@ The Snifters
 Time Bastard
 Time Bastards
 Gentrification
+Dead Mile Cipher
+DMC
+Shame
+Blue Tapetum
+Burn Notice
+Discontent One
 Pink Style
 Growlers Style
 Zombie Style
 Gentrification Style
+Dead Mile Cipher Style
 Underground Beach Goth
 Beach Goth
+underground backpack rap
+abstract boom-bap
 Creature Tracks
 Route to Hell-Wreck Deluxe
+Annotations from the Low Road
 ```
