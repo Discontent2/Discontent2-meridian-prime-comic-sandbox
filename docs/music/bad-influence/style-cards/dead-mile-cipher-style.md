@@ -15,7 +15,7 @@
 **Search Aliases:** Dead Mile Cipher, DMC, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Low Road rap, map wrong miles right  
 **Related Albums / Projects:** Annotations from the Low Road  
 **Core Members:** Shame, Blue Tapetum, Burn Notice, Discontent One  
-**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`
+**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`, `docs/music/collectives/dead-mile-cipher/shame.md`
 
 ---
 
@@ -48,6 +48,16 @@ Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, dusty 
 
 ---
 
+## Suno Style Box Under 1000 Characters
+
+Use when Suno's style field is limited.
+
+```text
+Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, four distinct MC voices, alternating verses, call-and-response hook. Shame: raspy warm Meridian human spoken-rap, gravelly everyman, conversational pauses, emotional clarity, whisper-to-yell dynamics, lower storyteller register. Discontent One: technical Aeonolacertian Velocisapien producer-MC, percussive saurian cadence, fragmented route-map logic, machine-wise phrasing. Blue Tapetum: cold precise Absconditian/Antisapian stealth rapper, clipped rhymes, low-lit cyberpunk, encrypted hooks. Burn Notice: World Works/Lodestar defector, satirical corporate-document rap, invoice venom, clean-lie narration. Dusty boom-bap drums, chopped field recordings, pirate-radio samples, cracked jazz loop, cold piano stabs, dry bassline, scratches, low-bit service tones, tape hiss, muddy basement compression, dense internal rhyme, surreal route storytelling, false shelter rumors, no glossy trap, no pop rap polish, no real artist names.
+```
+
+---
+
 ## Core Member Delivery Palette
 
 ### Shame
@@ -55,7 +65,25 @@ Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, dusty 
 Use for emotionally grounded Meridian human verses.
 
 ```text
-plainspoken underground rap delivery, literate survivor-poet cadence, tired but steady flow, confessional work-debt imagery, motel guilt, road survival, direct hooks, no glossy pop polish
+raspy warm Meridian human spoken-rap, gravelly everyman voice, conversational pauses and sighs, emotional clarity over technical perfection, soft muffled whispers to desperate full-throated yells, modern lower-register storyteller flow, work debt, motel guilt, direct hooks, no glossy pop polish
+```
+
+Short tag:
+
+```text
+Shame: raspy warm human spoken-rap, gravel everyman, emotional clarity, lower storyteller flow
+```
+
+Early Shame variant:
+
+```text
+early Shame voice, higher raspy register, breathless rapid-fire urgency, raw strained delivery, anxious conversational rap, youthful panic, emotional clarity over polish
+```
+
+Modern Shame variant:
+
+```text
+modern Shame voice, lower raspy register, warm gravelly spoken-rap delivery, patient storyteller cadence, intimate pauses, sighs, restrained anger, emotionally clear everyman voice
 ```
 
 ### Blue Tapetum
@@ -171,6 +199,14 @@ pirate radio rap
 Low Road rap
 Annotations from the Low Road
 Shame
+raspy warm spoken-rap
+gravelly everyman voice
+conversational cadence
+Midwestern warmth
+emotional clarity
+whisper-to-yell dynamics
+early Shame
+modern Shame
 Blue Tapetum
 Burn Notice
 Discontent One
