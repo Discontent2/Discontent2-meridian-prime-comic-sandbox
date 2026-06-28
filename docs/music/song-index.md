@@ -40,6 +40,11 @@ Suno song index
 | Meridian Prime Fever | Time Bastard / Gentrification crossover candidate | Route to Hell-Wreck Deluxe candidate / standalone | Drafted in chat | Low Road horror-boogie with Beach Goth grime | General Meridian Prime mood song. |
 | Eden Nurse | Mergenta | TBD Singles / Horror-Pop Tests | Drafted in chat | Pink Style | Verdant Chimera-inspired song using Softmouth, Velvet Leech, Eden Nurse, Pearlmouth, Mercy Snail. |
 | Kymera | Gentrification | TBD | Drafted in chat | Pink / Growlers hybrid | Ildi-adjacent song treated as a protected-name pressure point, not an explanation. |
+| Receipts Burn Clean | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Burn Notice-forward single concept about corporate records, route debt, and paperwork curses. |
+| No Shelter in the Margins | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Shame-forward album statement about false shelter and survivor testimony. |
+| Map Wrong, Miles Right | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Full-crew chant concept and possible collective motto track. |
+| The Blacktop Thesis | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Discontent One-forward abstract route philosophy concept. |
+| Blue Light in the Footnote | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Blue Tapetum-forward stealth testimony concept. |
 
 ---
 
@@ -72,6 +77,22 @@ dirty direct road-ballad imagery
 no real artist names
 ```
 
+### Dead Mile Cipher Format
+
+Use `Annotations from the Low Road` as the underground backpack rap lane:
+
+```text
+compact rap verses
+member-labeled verses when useful
+abstract boom-bap and field-tape atmosphere
+crew mythology without lore exposition
+one chantable hook
+dense internal rhyme plus direct emotional handrails
+no glossy trap
+no polished pop-rap
+no real artist names
+```
+
 ---
 
 ## Search Tags
@@ -91,6 +112,12 @@ Time Bastard
 Time Bastards
 Mergenta
 The Snifters
+Dead Mile Cipher
+DMC
+Shame
+Blue Tapetum
+Burn Notice
+Discontent One
 The Second Light That Follows
 The Soft Alarm
 Virus Lizard
@@ -106,4 +133,9 @@ Coward Horus
 Meridian Prime Fever
 Eden Nurse
 Kymera
+Receipts Burn Clean
+No Shelter in the Margins
+Map Wrong, Miles Right
+The Blacktop Thesis
+Blue Light in the Footnote
 ```
