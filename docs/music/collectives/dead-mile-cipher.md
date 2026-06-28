@@ -39,7 +39,7 @@ The core group has four fixed members. Others may drift in and out later as gues
 | Member | Faction Representation | Role | Core Function |
 |---|---|---|---|
 | Shame | Meridian human | Emotional center / survivor poet | Raspy warm everyman witness. Plainspoken pain, work debt, motel guilt, road survival, moral exhaustion. |
-| Blue Tapetum | Absconditian / Antisapian | Stealth verse specialist / encrypted hook writer | Night-run precision, surveillance grief, cyberpunk elegance, quiet menace. |
+| Blue Tapetum | Absconditian / Antisapian | MC / turntablist / philosophical competitive lyricist | Sharp higher-register perception specialist. Breathless rapid-fire clarity, intense vulnerability, existential lyrics, virtuoso melodic scratches, boom-bap futurism. |
 | Burn Notice | World Works defector with Lodestar exposure | MC / live beat producer / corporate-invoice satirist | Manic nasal corporate-satire MC and rhythm executioner. Live finger-drummed mechanical boom-bap, cracking snares, invoice venom, clipped samples, metallic percussion. |
 | Discontent One | Aeonolacertian Velocisapien | Producer-MC / abstract tactician / field-tape architect | Melancholic saurian producer-MC and sonic architect. Muffled breathy deadpan drawl, submerged tape voice, psychedelic lo-fi collage production, machine-map logic. |
 
@@ -87,12 +87,18 @@ Dead Mile Cipher
 ### Blue Tapetum
 
 **Faction:** Absconditian / Antisapian  
-**Role:** stealth verse specialist, encrypted hook writer, night-run witness  
-**Style:** cold, precise, low-lit, fast when needed, elegant but dangerous
+**Pronouns:** he/him  
+**Role:** MC, turntablist, philosophical competitive lyricist, stealth signal  
+**Style:** sharp philosophical competitive MC, strained high-register voice, breathless rapid-fire clarity, intense vulnerability, virtuoso melodic scratching, boom-bap futurism  
+**Member Card:** `docs/music/collectives/dead-mile-cipher/blue-tapetum.md`
 
-Blue Tapetum carries Absconditian / Antisapian presence without turning it into fantasy shorthand. Blue skin, black iris, magenta pupils, teal tapetum glow. Her verses feel like a security camera learned grief and then deleted the footage.
+Blue Tapetum carries Absconditian / Antisapian presence without turning it into fantasy shorthand. He is blue-skinned, with black irises, magenta pupils, and teal tapetum lucidum glow. He is not elf-coded, orc-coded, zombie-coded, or generic fantasy-coded.
 
-She prefers coded hooks, layered meaning, and quiet delivery that cuts late.
+His MC style blends elite competitive-rap precision with existential philosophy. He treats songwriting like an inquiry into perception, ego, memory, time, selfhood, solipsism, surveillance, and emotional reality. His delivery is breathless, strained, sharp, high-register, and surgically articulate, with rapid-fire clarity and dynamic shifts from icy spoken-word cadence to emotional peaks.
+
+His turntablism is frenetic, high-intensity, and symphonic. He treats the turntable as a lead instrument: lightning-fast melodic scratches, dramatic beat dropouts, dirty rock breaks, eerie minimalist synth edges, industrial pressure, and scratch flurries that answer dense vocals.
+
+Blue Tapetum believes the music is perception critique.
 
 Search tags:
 
@@ -100,8 +106,23 @@ Search tags:
 Blue Tapetum
 Absconditian
 Antisapian
-stealth verse
-night-runner
+MC
+turntablist
+philosophical competitive MC
+stealth signal
+perception critique
+sharp higher-register strained voice
+breathless rapid-fire articulation
+flawless multi-syllable rhyme precision
+intense vulnerability
+icy spoken-word to emotional peak dynamics
+virtuoso scratching
+frenetic high-intensity symphonic scratching
+melodic scratches
+boom-bap futurism
+dirty rock breaks
+industrial edge
+beat dropouts
 Dead Mile Cipher
 ```
 
@@ -220,7 +241,7 @@ This does not mean the group is politically unified. Their chemistry comes from 
 
 Shame wants truth plain enough to survive court.
 
-Blue Tapetum wants truth encrypted enough to survive interception.
+Blue Tapetum wants truth precise enough to survive perception.
 
 Burn Notice wants truth weaponized into a bill nobody can pay.
 
@@ -237,11 +258,14 @@ During live group sessions:
 ```text
 Discontent One handles atmosphere through sampler haze: field recordings, ambient drones, warped route-radio, tape decay, room tone, and machine breath.
 Burn Notice handles live beats: finger-drummed kicks and snares, chopped breaks, metallic found percussion, hard transitions, rhythmic switches, and jagged drum mosaics.
+Blue Tapetum handles lead turntable response: melodic scratches, dramatic beat dropouts, dirty rock breaks, and scratch flurries that answer dense vocals.
 ```
 
 Discontent One builds the haunted environment.
 
 Burn Notice installs the teeth.
+
+Blue Tapetum cuts the light into angles.
 
 ---
 
@@ -328,6 +352,8 @@ Lodestar exposure
 Low Road rap
 field-tape rap
 pirate radio rap
+turntablism
+perception critique
 Suno
 music
 collective
