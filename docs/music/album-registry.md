@@ -29,6 +29,7 @@ Suno album prompt lookup
 | Creature Tracks | Gentrification | Song cycle / creature-track project | Working sandbox project | Underground Beach Goth | Creature songs based on Collab intake encounter-fauna concepts. Dirty cassette surf-goth, haunted beach carnival, trash humor, roadside dread. |
 | Route to Hell-Wreck Deluxe | Time Bastard | Studio album concept | Working sandbox project | Zombie Style / horror-boogie rock | Studio-album lane for Time Bastard. Low Road myth, Hell-Wreck imagery, Rob Holliday / Horus song material, no live crowd baked into prompts unless specifically useful. |
 | Live from the Low Road Road House | Time Bastard | Live album / style-card context | Existing sandbox style context | Zombie Style | Existing album context from `zombie-style.md`. Live roadhouse crowd energy belongs here, not automatically on studio tracks. |
+| Annotations from the Low Road | Dead Mile Cipher | Studio album / underground tape mythology | Working sandbox project | Underground backpack rap / abstract boom-bap | Illegal field notes, route graffiti, false shelter rumors, corporate receipts, survivor testimony, faction arguments, and pirate-radio samples. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
 
@@ -59,6 +60,18 @@ Suno album prompt lookup
 
 ---
 
+## Annotations from the Low Road: Dead Mile Cipher
+
+| Track | Subject | Status | Notes |
+|---|---|---|---|
+| Receipts Burn Clean | Corporate records / route debt | Candidate | Burn Notice-forward single concept. |
+| No Shelter in the Margins | False shelter / survivor testimony | Candidate | Shame-forward album statement. |
+| Map Wrong, Miles Right | Route contradiction / crew chant | Candidate | Full-crew chant concept. |
+| The Blacktop Thesis | Low Road philosophy | Candidate | Abstract Discontent One-forward concept. |
+| Blue Light in the Footnote | Absconditian stealth testimony | Candidate | Blue Tapetum-forward concept. |
+
+---
+
 ## Search Tags
 
 ```text
@@ -74,6 +87,13 @@ Creature Tracks
 Gentrification Creature Tracks
 Route to Hell-Wreck Deluxe
 Live from the Low Road Road House
+Annotations from the Low Road
+Dead Mile Cipher
+DMC
+Shame
+Blue Tapetum
+Burn Notice
+Discontent One
 Time Bastard
 Time Bastards
 Mergenta
@@ -90,4 +110,9 @@ Wreck Rex
 Resurrection Rob
 Coward Horus
 Meridian Prime Fever
+Receipts Burn Clean
+No Shelter in the Margins
+Map Wrong, Miles Right
+The Blacktop Thesis
+Blue Light in the Footnote
 ```
