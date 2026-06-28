@@ -15,7 +15,7 @@
 **Search Aliases:** Dead Mile Cipher, DMC, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Low Road rap, map wrong miles right  
 **Related Albums / Projects:** Annotations from the Low Road  
 **Core Members:** Shame, Blue Tapetum, Burn Notice, Discontent One  
-**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`, `docs/music/collectives/dead-mile-cipher/shame.md`, `docs/music/collectives/dead-mile-cipher/discontent-one.md`
+**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`, `docs/music/collectives/dead-mile-cipher/shame.md`, `docs/music/collectives/dead-mile-cipher/burn-notice.md`, `docs/music/collectives/dead-mile-cipher/discontent-one.md`
 
 ---
 
@@ -50,10 +50,10 @@ Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, dusty 
 
 ## Suno Style Box Under 1000 Characters
 
-Use when Suno's style field is limited. This version is 986 characters.
+Use when Suno's style field is limited. This version is 997 characters.
 
 ```text
-Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, four distinct MC voices, alternating verses, call-and-response hook. Shame: raspy warm human spoken-rap, gravel everyman, emotional clarity, lower storyteller flow. Discontent One: melancholic Aeonolacertian Velocisapien producer-MC, muffled breathy deadpan drawl, submerged tape voice, percussive machine-map logic, psychedelic lo-fi collage production, warped nostalgia, field recordings, metallic decay. Blue Tapetum: cold precise Absconditian/Antisapian stealth rapper, clipped rhymes, low-lit cyberpunk, encrypted hooks. Burn Notice: World Works/Lodestar defector, satirical corporate-document rap, invoice venom, clean-lie narration. Dusty boom-bap drums, chopped field recordings, pirate-radio samples, cracked jazz loop, cold piano stabs, dry bassline, scratches, low-bit service tones, tape hiss, muddy basement compression, false shelter rumors, no glossy trap, no pop rap polish, no real artist names.
+Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, four distinct MC voices, alternating verses, call-and-response hook. Shame: raspy warm human spoken-rap, gravel everyman, emotional clarity, lower storyteller flow. Discontent One: melancholic saurian producer-MC, muffled breathy deadpan drawl, submerged tape voice, psychedelic lo-fi collage production, warped nostalgia, field recordings, metallic decay. Burn Notice: manic nasal corporate-satire MC and live beat producer, rapid-fire invoice-venom rap, aggressive mechanical boom-bap, finger-drummed cracking snares, clipped samples, metallic percussion. Blue Tapetum: cold precise Absconditian/Antisapian stealth rapper, clipped rhymes, low-lit cyberpunk, encrypted hooks. Dusty boom-bap drums, chopped route-radio samples, cracked jazz loop, cold piano stabs, dry bassline, scratches, low-bit service tones, tape hiss, muddy compression, false shelter rumors, no glossy trap, no pop rap polish, no real artist names.
 ```
 
 ---
@@ -96,10 +96,36 @@ cold precise stealth-rap delivery, low-lit cyberpunk atmosphere, encrypted hook 
 
 ### Burn Notice
 
-Use for World Works / Lodestar corruption verses.
+Use for World Works / Lodestar corruption verses and tracks where he supplies live beat impact.
+
+MC full tag:
 
 ```text
-satirical corporate-document rap, venomous invoice language, clean-lie narration, public-safety script flips, luxury rot imagery, funny and furious flow, contract-as-curse metaphors, no polished pop hook
+Burn Notice: frenetic nasal theatrical World Works/Lodestar defector MC, high-pitched piercing rap voice, manic rapid-fire stammer, avant-garde abstract wordplay, absurd character switching, warped melodic yelps and whispers, cybernetic corporate anxiety, clipped invoice-venom rap
+```
+
+MC short tag:
+
+```text
+Burn Notice: manic nasal theatrical defector MC, rapid-fire stammer flow, absurd character switches, cybernetic invoice-venom rap, warped yelps and whispers
+```
+
+Producer full tag:
+
+```text
+Burn Notice production: aggressive mechanical boom-bap industrialism, live finger-drummed beats, cracking snares, tight knocking kicks, clipped choppy sample edits, metallic found percussion, machine whirs, sharp drum mosaics, dark minimal loops, aggressive clean drum mix
+```
+
+Producer short tag:
+
+```text
+Burn Notice production: aggressive mechanical boom-bap, live finger-drummed beats, cracking snares, tight knocking kicks, clipped choppy samples, metallic found percussion, dark minimal loops, aggressive clean drum mix
+```
+
+Combined short tag:
+
+```text
+Burn Notice: manic nasal corporate-satire MC and live beat producer, rapid-fire invoice-venom rap, aggressive mechanical boom-bap, finger-drummed cracking snares, clipped samples, metallic percussion
 ```
 
 ### Discontent One
@@ -152,6 +178,12 @@ For Discontent One-forward production, also use:
 caustic psychedelic lo-fi hip-hop, dense hypnagogic sound collage, analog hiss, vinyl crackle, magnetic tape distortion, red-lined grit, warped pitch-drifted melodies, ambient drones, field recordings, obscure dialogue snippets, metallic clanks, abrasive DIY post-punk textures, industrial basement percussion, nostalgic fever-dream atmosphere, muddy warm decay
 ```
 
+For Burn Notice-forward production, also use:
+
+```text
+aggressive mechanical boom-bap industrialism, live finger-drummed beats, cracking snares, tight knocking kicks, clipped choppy sample edits, metallic found percussion, machine whirs, sharp drum mosaics, dark minimal loops, aggressive clean drum mix, staple clicks, copy machine slams, time clock punches, file cabinet thuds, shredder teeth, receipt printer chatter, rubber stamp hits
+```
+
 Avoid:
 
 ```text
@@ -179,6 +211,8 @@ Use:
 - short interlude samples from fictional route-radio, invoices, or service tones
 - direct emotional line after abstract bars so the listener has a handrail
 
+For Burn Notice verses, use jagged panicked flow, repetition, stutters, bureaucratic rhyme chains, fast internal flips, sudden character changes, claim language, denial scripts, wellness slogans, redacted names, and clipped procedural fragments.
+
 For Discontent One verses, use jagged four-beat chunks, hard pivots, compressed metaphors, physical fragments, moldy apartments, roadkill, dental work, service tones, wrong maps, hinge memory, machine breath, and submerged diary-like language.
 
 Avoid:
@@ -188,6 +222,21 @@ Avoid:
 - using real-world artist names
 - citations inside lyrics
 - long sung choruses unless the user requests a crossover
+
+---
+
+## Live Production Dynamic
+
+During live group sessions:
+
+```text
+Discontent One handles atmosphere through sampler haze: field recordings, ambient drones, warped route-radio, tape decay, room tone, and machine breath.
+Burn Notice handles live beats: finger-drummed kicks and snares, chopped breaks, metallic found percussion, hard transitions, rhythmic switches, and jagged drum mosaics.
+```
+
+Discontent One builds the haunted environment.
+
+Burn Notice installs the teeth.
 
 ---
 
@@ -243,6 +292,15 @@ early Shame
 modern Shame
 Blue Tapetum
 Burn Notice
+frenetic nasal theatrical MC
+manic rapid-fire stammer
+invoice venom
+live beat producer
+finger-drumming
+aggressive mechanical boom-bap
+boom-bap industrialism
+cracking snares
+metallic found percussion
 Discontent One
 melancholic saurian producer-MC
 muffled breathy spoken-rap
