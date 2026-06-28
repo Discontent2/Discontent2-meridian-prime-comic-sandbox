@@ -15,7 +15,7 @@
 **Search Aliases:** Dead Mile Cipher, DMC, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Low Road rap, map wrong miles right  
 **Related Albums / Projects:** Annotations from the Low Road  
 **Core Members:** Shame, Blue Tapetum, Burn Notice, Discontent One  
-**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`, `docs/music/collectives/dead-mile-cipher/shame.md`, `docs/music/collectives/dead-mile-cipher/burn-notice.md`, `docs/music/collectives/dead-mile-cipher/discontent-one.md`
+**Registry Files:** `docs/music/band-registry.md`, `docs/music/album-registry.md`, `docs/music/song-index.md`, `docs/music/collectives/dead-mile-cipher.md`, `docs/music/collectives/dead-mile-cipher/shame.md`, `docs/music/collectives/dead-mile-cipher/blue-tapetum.md`, `docs/music/collectives/dead-mile-cipher/burn-notice.md`, `docs/music/collectives/dead-mile-cipher/discontent-one.md`
 
 ---
 
@@ -50,10 +50,10 @@ Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, dusty 
 
 ## Suno Style Box Under 1000 Characters
 
-Use when Suno's style field is limited. This version is 997 characters.
+Use when Suno's style field is limited. This version is 990 characters.
 
 ```text
-Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, four distinct MC voices, alternating verses, call-and-response hook. Shame: raspy warm human spoken-rap, gravel everyman, emotional clarity, lower storyteller flow. Discontent One: melancholic saurian producer-MC, muffled breathy deadpan drawl, submerged tape voice, psychedelic lo-fi collage production, warped nostalgia, field recordings, metallic decay. Burn Notice: manic nasal corporate-satire MC and live beat producer, rapid-fire invoice-venom rap, aggressive mechanical boom-bap, finger-drummed cracking snares, clipped samples, metallic percussion. Blue Tapetum: cold precise Absconditian/Antisapian stealth rapper, clipped rhymes, low-lit cyberpunk, encrypted hooks. Dusty boom-bap drums, chopped route-radio samples, cracked jazz loop, cold piano stabs, dry bassline, scratches, low-bit service tones, tape hiss, muddy compression, false shelter rumors, no glossy trap, no pop rap polish, no real artist names.
+Dead Mile Cipher, underground backpack rap collective, abstract boom-bap, four distinct MC voices, alternating verses, call-and-response hook. Shame: raspy warm human spoken-rap, gravel everyman, emotional clarity, lower storyteller flow. Discontent One: melancholic saurian producer-MC, muffled breathy drawl, submerged tape voice, psychedelic lo-fi collage, warped field recordings, metallic decay. Burn Notice: manic nasal corporate-satire MC and live beat producer, rapid-fire invoice venom, aggressive mechanical boom-bap, finger-drummed cracking snares, clipped samples. Blue Tapetum: Absconditian/Antisapian philosophical battle MC and turntablist, strained high-register rapid-fire clarity, aggressive vulnerability, icy spoken-word to scream dynamics, virtuoso melodic scratches, boom-bap futurism, dirty rock breaks, industrial edge. Dusty drums, chopped route-radio, cold piano, dry bassline, tape hiss, muddy compression, no glossy trap, no pop rap polish, no real artist names.
 ```
 
 ---
@@ -88,10 +88,36 @@ modern Shame voice, lower raspy register, warm gravelly spoken-rap delivery, pat
 
 ### Blue Tapetum
 
-Use for Absconditian / Antisapian stealth verses and coded hooks.
+Use for Absconditian / Antisapian MC verses, philosophical competitive rap, coded hooks, and lead turntable response.
+
+MC full tag:
 
 ```text
-cold precise stealth-rap delivery, low-lit cyberpunk atmosphere, encrypted hook phrasing, clipped internal rhyme, quiet menace, surveillance grief, blue-night imagery, no fantasy elf coding, no glossy club polish
+Blue Tapetum: Absconditian/Antisapian philosophical competitive MC, sharp higher-register strained voice, breathless rapid-fire articulation, flawless multi-syllable rhyme precision, intense vulnerability, existential dread, icy spoken-word to emotional peak dynamics, perception and ego themes
+```
+
+MC short tag:
+
+```text
+Blue Tapetum: sharp philosophical competitive MC, strained high-register voice, breathless rapid-fire clarity, intense vulnerability, icy spoken-word to emotional peak dynamics
+```
+
+Turntablist full tag:
+
+```text
+Blue Tapetum turntablism: frenetic high-intensity symphonic scratching, lightning-fast crisp melodic cuts, boom-bap futurism, dirty rock breaks, distorted guitar stabs, eerie minimalist synths, industrial edge, dramatic beat dropouts, scratch flurries answering dense vocals
+```
+
+Turntablist short tag:
+
+```text
+Blue Tapetum: virtuoso turntablist, frenetic melodic scratching, high-intensity boom-bap futurism, dirty rock breaks, industrial edge, dramatic beat dropouts
+```
+
+Combined short tag:
+
+```text
+Blue Tapetum: philosophical competitive MC and virtuoso turntablist, strained rapid-fire clarity, intense vulnerability, existential lyrics, frenetic melodic scratches, boom-bap futurism
 ```
 
 ### Burn Notice
@@ -172,6 +198,12 @@ Use:
 dusty SP-style drums without naming gear, chopped service tones, cracked jazz loop, warped route-radio sample, old field cassette, dry upright bass loop, static scratches, tollbooth hum, low-bit intercom fragment, sanctuary-adjacent bell hit, paper receipt tear percussion, map-fold snare, cold minor piano, muddy basement compression
 ```
 
+For Blue Tapetum-forward turntablism, also use:
+
+```text
+frenetic high-intensity symphonic scratching, lightning-fast crisp melodic cuts, boom-bap futurism, dirty rock breaks, distorted guitar stabs, eerie minimalist synths, industrial edge, dramatic beat dropouts, scratch flurries answering dense vocals
+```
+
 For Discontent One-forward production, also use:
 
 ```text
@@ -211,6 +243,8 @@ Use:
 - short interlude samples from fictional route-radio, invoices, or service tones
 - direct emotional line after abstract bars so the listener has a handrail
 
+For Blue Tapetum verses, use dense philosophical phrasing, multi-syllable rhyme chains, breathless rapid-fire clarity, perception themes, ego traps, time distortion, surveillance, selfhood, and icy spoken-word to emotional peak dynamics.
+
 For Burn Notice verses, use jagged panicked flow, repetition, stutters, bureaucratic rhyme chains, fast internal flips, sudden character changes, claim language, denial scripts, wellness slogans, redacted names, and clipped procedural fragments.
 
 For Discontent One verses, use jagged four-beat chunks, hard pivots, compressed metaphors, physical fragments, moldy apartments, roadkill, dental work, service tones, wrong maps, hinge memory, machine breath, and submerged diary-like language.
@@ -232,11 +266,14 @@ During live group sessions:
 ```text
 Discontent One handles atmosphere through sampler haze: field recordings, ambient drones, warped route-radio, tape decay, room tone, and machine breath.
 Burn Notice handles live beats: finger-drummed kicks and snares, chopped breaks, metallic found percussion, hard transitions, rhythmic switches, and jagged drum mosaics.
+Blue Tapetum handles lead turntable response: melodic scratches, dramatic beat dropouts, dirty rock breaks, and scratch flurries that answer dense vocals.
 ```
 
 Discontent One builds the haunted environment.
 
 Burn Notice installs the teeth.
+
+Blue Tapetum cuts the light into angles.
 
 ---
 
@@ -291,6 +328,12 @@ whisper-to-yell dynamics
 early Shame
 modern Shame
 Blue Tapetum
+philosophical competitive MC
+rapid-fire articulation
+virtuoso turntablist
+frenetic melodic scratches
+boom-bap futurism
+perception critique
 Burn Notice
 frenetic nasal theatrical MC
 manic rapid-fire stammer
