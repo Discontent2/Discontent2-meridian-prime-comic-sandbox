@@ -33,7 +33,8 @@ Meridian Prime music lookup
 | Time Bastard | Zombie Style | Sandbox style card exists | `docs/music/bad-influence/style-cards/zombie-style.md` | `Live from the Low Road Road House`; `Route to Hell-Wreck Deluxe` | Low Road industrial horror-boogie, groove metal, stop-start monster riffs, roadhouse-dirty shock rock. |
 | Gentrification | Underground Beach Goth | Sandbox style card exists | `docs/music/bad-influence/style-cards/gentrification-style.md` | Creature Tracks | Underproduced cassette surf-goth, haunted beach carnival, trash-can melancholy, backyard CD-R murk. |
 | Dead Mile Cypher / Dead Mile Cipher | Underground backpack rap | Sandbox collective profile, style card, member cards, and group-history file exist | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | `Annotations from the Low Road`; early projects `S.A.D.` and `Down Pour`; label `Arrestthemall Records` | Public/performance name is `Dead Mile Cypher`; archive/search spelling is `Dead Mile Cipher`. Abstract boom-bap field-tape rap collective with core members Shame, Blue Tapetum, Burn Notice, and Discontent One. Group history and live identity: `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`. |
-| Gloomed Vug | Saurian grave-trap / haunted dirt rap | Sandbox collective profile, style card, and member cards exist | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Arrestthemall Records signing. Young Aeonolacertian underground duo: Tumulus, an Ankylosapien MC/producer and runt of his clutch; Shade Masiff, a cloaked Bajadrasapien MC/producer. Profile: `docs/music/collectives/gloomed-vug.md`. |
+| Gloomed Vug | Saurian grave-trap / haunted dirt rap | Sandbox collective profile, style card, member cards, and song drafts exist | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Arrestthemall Records signing. Young Aeonolacertian underground duo: Tumulus, an Ankylosapien MC/producer and runt of his clutch; Shade Masiff, a cloaked Bajadrasapien MC/producer. Profile: `docs/music/collectives/gloomed-vug.md`. |
+| morosecodeclique | Antisapian cyber-emo rap / blacklight heartbreak | Sandbox collective profile, style card, and member cards exist | `docs/music/bad-influence/style-cards/morosecodeclique-style.md` | TBD morosecodeclique debut material | Arrestthemall Records signing. Antisapian cyber-sad group with Inspect, Program State Loop Deamon, and Phish Lint. Profile: `docs/music/collectives/morosecodeclique.md`. |
 
 ---
 
@@ -47,6 +48,7 @@ Meridian Prime music lookup
 | `gentrification-style.md` | Gentrification | Gentrification, Beach Goth, underground Beach Goth, creature tracks, cassette surf-goth, Tin Grin format |
 | `dead-mile-cipher-style.md` | Dead Mile Cypher / Dead Mile Cipher | Dead Mile Cypher, Dead Mile Cipher, DMC, S.A.D., Shame and Discontent, Down Pour, Arrestthemall Records, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Annotations from the Low Road |
 | `gloomed-vug-style.md` | Gloomed Vug | Gloomed Vug, Arrestthemall Records, Tumulus, Shade Masiff, Ankylosapien, Bajadrasapien, young Aeonolacertian underground, saurian grave-trap, haunted dirt rap, mineral-cave reverb, blown-out bass |
+| `morosecodeclique-style.md` | morosecodeclique | morosecodeclique, Arrestthemall Records, Inspect, Program State Loop Deamon, Phish Lint, Beast Jaw, Antisapian cyber-emo rap, blacklight heartbreak, glitch-sad trap, cold synthetic guitars, voicemail ghosts |
 
 ---
 
@@ -60,8 +62,9 @@ Meridian Prime music lookup
 | Annotations from the Low Road | Dead Mile Cypher / Dead Mile Cipher | Working studio album concept | `docs/music/album-registry.md` |
 | S.A.D. | Shame and Discontent One | Early collaboration / group-history stage | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / group-history stage | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
-| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug | DIY label / group-history identity / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md` |
+| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug; morosecodeclique | DIY label / group-history identity / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md`; `docs/music/collectives/morosecodeclique.md` |
 | TBD Gloomed Vug debut material | Gloomed Vug | Working sandbox material | `docs/music/album-registry.md` |
+| TBD morosecodeclique debut material | morosecodeclique | Working sandbox material | `docs/music/album-registry.md` |
 
 ---
 
@@ -99,6 +102,16 @@ Bajadrasapien
 saurian grave-trap
 haunted dirt rap
 young Aeonolacertian underground
+morosecodeclique
+Inspect
+Program State Loop Deamon
+Phish Lint
+Beast Jaw
+Antisapian
+Absconditian
+cyber-emo rap
+blacklight heartbreak
+glitch-sad trap
 Shame
 Blue Tapetum
 Burn Notice
