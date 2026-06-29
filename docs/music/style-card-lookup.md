@@ -22,6 +22,7 @@ which style card belongs to The Snifters
 which style card belongs to Dead Mile Cipher
 which style card belongs to Gloomed Vug
 which style card belongs to morosecodeclique
+which style card belongs to Enum Rage Engine
 Meridian Prime style card lookup
 ```
 
@@ -37,7 +38,8 @@ Meridian Prime style card lookup
 | Gentrification Style | Gentrification | Underground Beach Goth / cassette surf-goth | `docs/music/bad-influence/style-cards/gentrification-style.md` | Creature Tracks | The Second Light That Follows, The Soft Alarm, Virus Lizard, Look-Away Walker, Hush-Teeth, Lizard Suit, Cloud Spine, Tin Grin, Wreck Rex |
 | Dead Mile Cipher Style | Dead Mile Cipher | Underground backpack rap / abstract boom-bap | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | Annotations from the Low Road | Receipts Burn Clean, No Shelter in the Margins, Map Wrong, Miles Right, The Blacktop Thesis, Blue Light in the Footnote |
 | Gloomed Vug Style | Gloomed Vug | Saurian grave-trap / haunted dirt rap | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Ravenous, Loxian, Skin Suit, Small Shield Curse |
-| morosecodeclique Style | morosecodeclique | Antisapian cyber-emo rap / blacklight heartbreak | `docs/music/bad-influence/style-cards/morosecodeclique-style.md` | TBD morosecodeclique debut material | 404heart, password reset cemetery, teal eyes offline, inspect element |
+| morosecodeclique Style | morosecodeclique | Antisapian cyber-emo rap / blacklight heartbreak | `docs/music/bad-influence/style-cards/morosecodeclique-style.md` | TBD morosecodeclique debut material | 404heart, password reset cemetery, teal eyes offline, inspect element, Explicit |
+| Enum Rage Engine Style | Enum Rage Engine | Lo-fi 16-bit industrial EBM / corrupted cartridge music | `docs/music/bad-influence/style-cards/enum-rage-engine-style.md` | TBD Enum Rage Engine Cartridge Material | Buried Pulse / Dumb Terminal Crawl |
 
 ---
 
@@ -123,6 +125,17 @@ Member Cards: docs/music/collectives/morosecodeclique/inspect.md, docs/music/col
 Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md
 ```
 
+### Enum Rage Engine
+
+```text
+Band Identity: Enum Rage Engine
+Primary Style: Lo-fi 16-bit industrial EBM / corrupted cartridge music
+Search Aliases: Enum Rage Engine, Antisapian console music, Absconditian console music, industrial chiptune, 16-bit industrial EBM, corrupted cartridge music, beat-em-up cartridge music, lo-fi chiptune, raw FM synth, square-wave bass, chip drums, Buried Pulse, Dumb Terminal Crawl
+Style Card: docs/music/bad-influence/style-cards/enum-rage-engine-style.md
+Artist Profile: docs/music/collectives/enum-rage-engine.md
+Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md
+```
+
 ---
 
 ## Search Tags
@@ -151,6 +164,19 @@ Inspect
 Program State Loop Deamon
 Phish Lint
 Beast Jaw
+Enum Rage Engine
+Antisapian console music
+Absconditian console music
+industrial chiptune
+16-bit industrial EBM
+lo-fi chiptune
+corrupted cartridge music
+beat-em-up cartridge music
+raw FM synth
+square-wave bass
+chip drums
+Buried Pulse
+Dumb Terminal Crawl
 Arrestthemall Records
 Antisapien
 Antisapian
@@ -174,6 +200,7 @@ Gentrification Style
 Dead Mile Cipher Style
 Gloomed Vug Style
 morosecodeclique Style
+Enum Rage Engine Style
 Underground Beach Goth
 Beach Goth
 underground backpack rap
