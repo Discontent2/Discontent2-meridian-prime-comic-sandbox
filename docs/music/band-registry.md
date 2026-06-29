@@ -35,6 +35,7 @@ Meridian Prime music lookup
 | Dead Mile Cypher / Dead Mile Cipher | Underground backpack rap | Sandbox collective profile, style card, member cards, and group-history file exist | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | `Annotations from the Low Road`; early projects `S.A.D.` and `Down Pour`; label `Arrestthemall Records` | Public/performance name is `Dead Mile Cypher`; archive/search spelling is `Dead Mile Cipher`. Abstract boom-bap field-tape rap collective with core members Shame, Blue Tapetum, Burn Notice, and Discontent One. Group history and live identity: `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`. |
 | Gloomed Vug | Saurian grave-trap / haunted dirt rap | Sandbox collective profile, style card, member cards, and song drafts exist | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Arrestthemall Records signing. Young Aeonolacertian underground duo: Tumulus, an Ankylosapien MC/producer and runt of his clutch; Shade Masiff, a cloaked Bajadrasapien MC/producer. Profile: `docs/music/collectives/gloomed-vug.md`. |
 | morosecodeclique | Antisapian cyber-emo rap / blacklight heartbreak | Sandbox collective profile, style card, and member cards exist | `docs/music/bad-influence/style-cards/morosecodeclique-style.md` | TBD morosecodeclique debut material | Arrestthemall Records signing. Antisapian cyber-sad group with Inspect, Program State Loop Deamon, and Phish Lint. Profile: `docs/music/collectives/morosecodeclique.md`. |
+| Enum Rage Engine | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Sandbox artist profile, style card, and first song draft exist | `docs/music/bad-influence/style-cards/enum-rage-engine-style.md` | TBD Enum Rage Engine Cartridge Material | Antisapian solo console-music producer. Broken beat-em-up cartridge loops, fixed BPM, fixed key center, raw FM synths, square-wave bass, fake chip drums, no voices. Profile: `docs/music/collectives/enum-rage-engine.md`. |
 
 ---
 
@@ -49,6 +50,7 @@ Meridian Prime music lookup
 | `dead-mile-cipher-style.md` | Dead Mile Cypher / Dead Mile Cipher | Dead Mile Cypher, Dead Mile Cipher, DMC, S.A.D., Shame and Discontent, Down Pour, Arrestthemall Records, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Annotations from the Low Road |
 | `gloomed-vug-style.md` | Gloomed Vug | Gloomed Vug, Arrestthemall Records, Tumulus, Shade Masiff, Ankylosapien, Bajadrasapien, young Aeonolacertian underground, saurian grave-trap, haunted dirt rap, mineral-cave reverb, blown-out bass |
 | `morosecodeclique-style.md` | morosecodeclique | morosecodeclique, Arrestthemall Records, Inspect, Program State Loop Deamon, Phish Lint, Beast Jaw, Antisapian cyber-emo rap, blacklight heartbreak, glitch-sad trap, cold synthetic guitars, voicemail ghosts |
+| `enum-rage-engine-style.md` | Enum Rage Engine | Enum Rage Engine, Antisapian console music, 16-bit industrial EBM, industrial chiptune, corrupted cartridge music, beat-em-up cartridge music, raw FM synth, square-wave bass, chip drums, no voices |
 
 ---
 
@@ -65,6 +67,7 @@ Meridian Prime music lookup
 | Arrestthemall Records | Dead Mile Cypher; Gloomed Vug; morosecodeclique | DIY label / group-history identity / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md`; `docs/music/collectives/morosecodeclique.md` |
 | TBD Gloomed Vug debut material | Gloomed Vug | Working sandbox material | `docs/music/album-registry.md` |
 | TBD morosecodeclique debut material | morosecodeclique | Working sandbox material | `docs/music/album-registry.md` |
+| TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Working sandbox material | `docs/music/album-registry.md` |
 
 ---
 
@@ -112,6 +115,18 @@ Absconditian
 cyber-emo rap
 blacklight heartbreak
 glitch-sad trap
+Enum Rage Engine
+Antisapian console music
+16-bit industrial EBM
+industrial chiptune
+corrupted cartridge music
+beat-em-up cartridge music
+lo-fi chiptune
+raw FM synth
+square-wave bass
+chip drums
+Buried Pulse
+Dumb Terminal Crawl
 Shame
 Blue Tapetum
 Burn Notice
