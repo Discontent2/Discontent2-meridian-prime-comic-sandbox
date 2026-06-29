@@ -33,6 +33,7 @@ Suno album prompt lookup
 | S.A.D. | Shame and Discontent One | Early collaboration / pre-DMC project | Group-history stage | Sparse field-tape rap / grief tapes | Early Shame and Discontent One collaboration. Search under group-history file. |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
 | TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
+| TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Antisapian cyber-sad group with Inspect, Program State Loop Deamon, and Phish Lint. Candidate titles include `404heart`, `password reset cemetery`, and `delete my reflection`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
 
@@ -91,13 +92,28 @@ Suno album prompt lookup
 
 ---
 
+## morosecodeclique Debut Material
+
+| Track | Subject | Status | Notes |
+|---|---|---|---|
+| 404heart | Inspect / instantly quotable heartbreak | Candidate | Lead-vocal hook track. Blue-lit bedroom sadness and cracked-phone chorus. |
+| password reset cemetery | Group identity / remembered grief | Candidate | Cyber-emo grief track. Machines remember the relationship after the people stop speaking. |
+| teal eyes offline | Antisapian visual identity / absence | Candidate | Uses teal tapetum glow and offline-status imagery. |
+| inspect element | Inspect / self-audit | Candidate | Inspect-forward title. Searchable pun should remain in-world, not technical instruction. |
+| program state funeral | Program State Loop Deamon / looped grief | Candidate | Founder-forward dark refrain track with Beast Jaw residue. |
+| beast jaw summer | Program State Loop Deamon / prior band | Candidate | Backstory song about the earlier emo-band era. |
+| phishhook valentine | Phish Lint / corrupted romance production | Candidate | Producer-forward track with broken ringtone melodies and voicemail ghosts. |
+| delete my reflection | Group / digital self-image grief | Candidate | Cyber-sad mirror song. |
+
+---
+
 ## Pre-DMC Group History Projects
 
 | Project | Lineup | Function | Reference |
 |---|---|---|---|
 | S.A.D. | Shame and Discontent One | First collaboration / grief tapes | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate trio stage / evidence made heavy | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
-| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug | DIY label / mission statement / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md` |
+| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug; morosecodeclique | DIY label / mission statement / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md`; `docs/music/collectives/morosecodeclique.md` |
 
 ---
 
@@ -140,6 +156,24 @@ Vug Mouth
 Cloak Over the Tailgate
 Armor Never Fit
 Ridge Ghosts Don't Sleep
+morosecodeclique
+Inspect
+Program State Loop Deamon
+Phish Lint
+Beast Jaw
+Antisapian
+Absconditian
+cyber-emo rap
+blacklight heartbreak
+glitch-sad trap
+404heart
+password reset cemetery
+teal eyes offline
+inspect element
+program state funeral
+beast jaw summer
+phishhook valentine
+delete my reflection
 Shame
 Blue Tapetum
 Burn Notice
