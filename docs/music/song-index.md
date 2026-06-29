@@ -48,6 +48,11 @@ Suno song index
 | Ravenous | Tumulus | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / haunted dirt rap | Tumulus solo track. Compact Ankylosapien runt hunger anthem, clutch-shame, blown-out bass, grave-bell hook. File: `docs/music/songs/gloomed-vug/ravenous.md`. |
 | Loxian | Shade Masiff | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / spectral ridge hook | Shade Masiff solo track. Cloaked Bajadrasapien ridge myth, mournful hook, shadow testimony. File: `docs/music/songs/gloomed-vug/loxian.md`. |
 | Skin Suit | Gloomed Vug | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / haunted dirt rap | Duo track about wrong body-story and forced shape. Tumulus low-end rage plus Shade Masiff spectral distance. File: `docs/music/songs/gloomed-vug/skin-suit.md`. |
+| blacklight brightside | Inspect | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / blacklight heartbreak | Inspect solo track. Catchy blue-light heartbreak, cracked-phone hook, magenta pupil and teal tapetum imagery. File: `docs/music/songs/morosecodeclique/blacklight-brightside.md`. |
+| Code | Inspect | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / screen-sick heartbreak | Inspect solo track. `16 lines of code` as emotional metaphor, late-night looped grief, no executable code. File: `docs/music/songs/morosecodeclique/code.md`. |
+| Embed Me in Archives | Program State Loop Deamon | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / blacklight founder grief | Program State Loop Deamon solo track. Former Beast Jaw residue, archive grief, cold synthetic guitar loop. File: `docs/music/songs/morosecodeclique/embed-me-in-archives.md`. |
+| Absolute Nested Null | morosecodeclique | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / blacklight heartbreak | Group track featuring Inspect and Program State Loop Deamon. Saved clean version removes flagged producer-name language from style and lyrics. File: `docs/music/songs/morosecodeclique/absolute-nested-null.md`. |
+| Blue Light Burial | morosecodeclique x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | Antisapian cyber-emo rap x saurian grave-trap | Crossover track. Blue-light heartbreak meets grave-bell low-end, featuring Inspect, Program State Loop Deamon, Tumulus, and Shade Masiff. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
 
 ---
 
@@ -115,6 +120,37 @@ no real artist names
 no glossy trap polish
 ```
 
+### morosecodeclique Format
+
+Use `TBD morosecodeclique Debut Material` as the Antisapian cyber-emo rap lane:
+
+```text
+short catchy heartbreak hooks
+blue-light bedroom imagery
+cracked phone / voice memo / unread message imagery
+black iris, magenta pupil, teal tapetum details
+cold synthetic guitars
+overcompressed bedroom drums
+speakerphone vocal texture
+romantic fallout
+looped grief
+no real artist names
+no executable code or technical instructions
+```
+
+### Arrestthemall Crossover Format
+
+Use `Arrestthemall Records crossover singles` for label-crossover tracks:
+
+```text
+let each group keep its own emotional physics
+use clear member-labeled verses
+combine textures without erasing species identity
+avoid making one band a feature pasted onto the other
+no real artist names
+no protected mystery explanations
+```
+
 ---
 
 ## Search Tags
@@ -147,6 +183,22 @@ Ankylosapien
 Bajadrasapien
 saurian grave-trap
 haunted dirt rap
+morosecodeclique
+Inspect
+Program State Loop Deamon
+Lint
+Antisapian
+Absconditian
+cyber-emo rap
+blacklight heartbreak
+glitch-sad trap
+blacklight brightside
+Code
+sixteen lines of code
+Embed Me in Archives
+Absolute Nested Null
+Blue Light Burial
+Arrestthemall Records crossover singles
 Shame
 Blue Tapetum
 Burn Notice
