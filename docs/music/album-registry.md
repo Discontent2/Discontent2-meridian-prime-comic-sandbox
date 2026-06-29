@@ -32,7 +32,7 @@ Suno album prompt lookup
 | Annotations from the Low Road | Dead Mile Cypher / Dead Mile Cipher | Studio album / underground tape mythology | Working sandbox project | Underground backpack rap / abstract boom-bap | Public/performance artist name is `Dead Mile Cypher`; archive/search spelling is `Dead Mile Cipher`. Illegal field notes, route graffiti, false shelter rumors, corporate receipts, survivor testimony, faction arguments, pirate-radio samples. Group history file: `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`. |
 | S.A.D. | Shame and Discontent One | Early collaboration / pre-DMC project | Group-history stage | Sparse field-tape rap / grief tapes | Early Shame and Discontent One collaboration. Search under group-history file. |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
-| TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Blown-out bass, grave-bell melodies, mineral-cave reverb, mud-caked vocals, cloak drones, and depressive saurian underground energy. |
+| TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
 
@@ -79,6 +79,9 @@ Suno album prompt lookup
 
 | Track | Subject | Status | Notes |
 |---|---|---|---|
+| Ravenous | Tumulus / clutch shame and hunger | Drafted and saved | Tumulus solo track. Compact Ankylosapien runt hunger anthem, blown-out bass, grave-bell hook. File: `docs/music/songs/gloomed-vug/ravenous.md`. |
+| Loxian | Shade Masiff / cloaked ridge myth | Drafted and saved | Shade Masiff solo track. Mournful spectral hook, ridge wind, shadow testimony. File: `docs/music/songs/gloomed-vug/loxian.md`. |
+| Skin Suit | Duo identity / wrong body-story | Drafted and saved | Gloomed Vug duo track. Forced shape, clutch shame, cloak myth, mineral-cave dread. File: `docs/music/songs/gloomed-vug/skin-suit.md`. |
 | Small Shield Curse | Tumulus / clutch shame | Candidate | Compact Ankylosapien runt anthem. Heavy blown-out bass and grave-bell hook. |
 | Clutch Runt Gospel | Tumulus / self-invention | Candidate | Turns being underestimated into low-end weight. |
 | Vug Mouth | Duo identity / mineral cavity | Candidate | Core band mythology track. Dark hollow in stone, cave-mouth wound, mineral reverb. |
@@ -128,6 +131,9 @@ Ankylosapien
 Bajadrasapien
 saurian grave-trap
 haunted dirt rap
+Ravenous
+Loxian
+Skin Suit
 Small Shield Curse
 Clutch Runt Gospel
 Vug Mouth
