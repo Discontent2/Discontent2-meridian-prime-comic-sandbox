@@ -30,11 +30,11 @@ Suno album prompt lookup
 | Route to Hell-Wreck Deluxe | Time Bastard | Studio album concept | Working sandbox project | Zombie Style / horror-boogie rock | Studio-album lane for Time Bastard. Low Road myth, Hell-Wreck imagery, Rob Holliday / Horus song material, no live crowd baked into prompts unless specifically useful. |
 | Live from the Low Road Road House | Time Bastard | Live album / style-card context | Existing sandbox style context | Zombie Style | Existing album context from `zombie-style.md`. Live roadhouse crowd energy belongs here, not automatically on studio tracks. |
 | Annotations from the Low Road | Dead Mile Cypher / Dead Mile Cipher | Studio album / underground tape mythology | Working sandbox project | Underground backpack rap / abstract boom-bap | Public/performance artist name is `Dead Mile Cypher`; archive/search spelling is `Dead Mile Cipher`. Illegal field notes, route graffiti, false shelter rumors, corporate receipts, survivor testimony, faction arguments, pirate-radio samples. Group history file: `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`. |
-| S.A.D. | Shame and Discontent One | Early collaboration / pre-DMC project | Group-history stage | Sparse field-tape rap / grief tapes | Early Shame and Discontent One collaboration. Search under group-history file. |
+| S.A.D. | Shame and Discontent One | Early collaboration / pre-DMC project | Working sandbox material | Sparse field-tape rap / grief tapes | Early Shame and Discontent One collaboration. Saved draft: `Decelerator`. Search under group-history file and song index. |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
 | TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
-| TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, and `Absolute Nested Null`. |
-| Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved draft: `Blue Light Burial` by morosecodeclique x Gloomed Vug. |
+| TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, `Absolute Nested Null`, and `Explicit`. |
+| Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved drafts include `Blue Light Burial` and `Rain in the Vug Mouth`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
 
@@ -77,6 +77,14 @@ Suno album prompt lookup
 
 ---
 
+## S.A.D. / Early Grief Tapes
+
+| Track | Subject | Status | Notes |
+|---|---|---|---|
+| Decelerator | no-brakes momentum / system slowdown dread | Drafted and saved | Old-school S.A.D. track with Shame and Discontent One only. File: `docs/music/songs/sad/decelerator.md`. |
+
+---
+
 ## Gloomed Vug Debut Material
 
 | Track | Subject | Status | Notes |
@@ -101,6 +109,7 @@ Suno album prompt lookup
 | Code | Inspect / screen-sick looped grief | Drafted and saved | Inspect solo track. `16 lines of code` as emotional metaphor, no executable code. File: `docs/music/songs/morosecodeclique/code.md`. |
 | Embed Me in Archives | Program State Loop Deamon / archive grief | Drafted and saved | Founder-forward solo track with Beast Jaw residue, cold guitar, and looped grief. File: `docs/music/songs/morosecodeclique/embed-me-in-archives.md`. |
 | Absolute Nested Null | Group / romantic doubt and looped grief | Drafted and saved | morosecodeclique group track featuring Inspect and Program State Loop Deamon. Clean producer-name-safe version. File: `docs/music/songs/morosecodeclique/absolute-nested-null.md`. |
+| Explicit | Program State Loop Deamon / darkwave rap urgency | Drafted and saved | Solo track with flat monotone baritone, heavy distorted guitar, crisp hi-hats, and spelled-out hook. File: `docs/music/songs/morosecodeclique/explicit.md`. |
 | 404heart | Inspect / instantly quotable heartbreak | Candidate | Lead-vocal hook track. Blue-lit bedroom sadness and cracked-phone chorus. |
 | password reset cemetery | Group identity / remembered grief | Candidate | Cyber-emo grief track. Machines remember the relationship after the people stop speaking. |
 | teal eyes offline | Antisapian visual identity / absence | Candidate | Uses teal tapetum glow and offline-status imagery. |
@@ -117,6 +126,7 @@ Suno album prompt lookup
 | Track | Artists | Status | Notes |
 |---|---|---|---|
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Drafted and saved | Antisapian blue-light heartbreak fused with Aeonolacertian grave-trap. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
+| Rain in the Vug Mouth | Down Pour x Gloomed Vug | Drafted and saved | Cleaned all-male crossover track with no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
 
 ---
 
@@ -124,7 +134,7 @@ Suno album prompt lookup
 
 | Project | Lineup | Function | Reference |
 |---|---|---|---|
-| S.A.D. | Shame and Discontent One | First collaboration / grief tapes | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
+| S.A.D. | Shame and Discontent One | First collaboration / grief tapes | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/songs/sad/decelerator.md` |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate trio stage / evidence made heavy | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
 | Arrestthemall Records | Dead Mile Cypher; Gloomed Vug; morosecodeclique | DIY label / mission statement / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md`; `docs/music/collectives/morosecodeclique.md` |
 
@@ -150,7 +160,9 @@ Dead Mile Cypher
 Dead Mile Cipher
 DMC
 S.A.D.
+Decelerator
 Shame and Discontent
+Shame and Discontent One
 Down Pour
 Arrestthemall Records
 Arrestthemall Records crossover singles
@@ -185,7 +197,12 @@ Code
 sixteen lines of code
 Embed Me in Archives
 Absolute Nested Null
+Explicit
+darkwave rap energy
 Blue Light Burial
+Rain in the Vug Mouth
+no female vocals
+no spoken samples
 404heart
 password reset cemetery
 teal eyes offline
