@@ -45,6 +45,7 @@ Suno song index
 | Map Wrong, Miles Right | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Full-crew chant concept and possible collective motto track. |
 | The Blacktop Thesis | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Discontent One-forward abstract route philosophy concept. |
 | Blue Light in the Footnote | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Blue Tapetum-forward stealth testimony concept. |
+| Decelerator | S.A.D. | S.A.D. / early grief tapes | Drafted and saved | old-school underground abstract rap / sparse field-tape grief tape | Shame and Discontent One only. No Burn Notice, no Blue Tapetum, no full DMC. File: `docs/music/songs/sad/decelerator.md`. |
 | Ravenous | Tumulus | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / haunted dirt rap | Tumulus solo track. Compact Ankylosapien runt hunger anthem, clutch-shame, blown-out bass, grave-bell hook. File: `docs/music/songs/gloomed-vug/ravenous.md`. |
 | Loxian | Shade Masiff | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / spectral ridge hook | Shade Masiff solo track. Cloaked Bajadrasapien ridge myth, mournful hook, shadow testimony. File: `docs/music/songs/gloomed-vug/loxian.md`. |
 | Skin Suit | Gloomed Vug | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / haunted dirt rap | Duo track about wrong body-story and forced shape. Tumulus low-end rage plus Shade Masiff spectral distance. File: `docs/music/songs/gloomed-vug/skin-suit.md`. |
@@ -52,7 +53,9 @@ Suno song index
 | Code | Inspect | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / screen-sick heartbreak | Inspect solo track. `16 lines of code` as emotional metaphor, late-night looped grief, no executable code. File: `docs/music/songs/morosecodeclique/code.md`. |
 | Embed Me in Archives | Program State Loop Deamon | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / blacklight founder grief | Program State Loop Deamon solo track. Former Beast Jaw residue, archive grief, cold synthetic guitar loop. File: `docs/music/songs/morosecodeclique/embed-me-in-archives.md`. |
 | Absolute Nested Null | morosecodeclique | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / blacklight heartbreak | Group track featuring Inspect and Program State Loop Deamon. Saved clean version removes flagged producer-name language from style and lyrics. File: `docs/music/songs/morosecodeclique/absolute-nested-null.md`. |
+| Explicit | Program State Loop Deamon | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / darkwave rap energy | Solo Program State Loop Deamon track. Flat monotone baritone, urgent melodic hook, heavy distorted guitar, crisp hi-hats, 808-style bass. File: `docs/music/songs/morosecodeclique/explicit.md`. |
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | Antisapian cyber-emo rap x saurian grave-trap | Crossover track. Blue-light heartbreak meets grave-bell low-end, featuring Inspect, Program State Loop Deamon, Tumulus, and Shade Masiff. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
+| Rain in the Vug Mouth | Down Pour x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | pre-DMC field-tape rap x young Aeonolacertian grave-trap | Cleaned crossover track. All-male vocals only, no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
 
 ---
 
@@ -101,6 +104,22 @@ no polished pop-rap
 no real artist names
 ```
 
+### S.A.D. Format
+
+Use `S.A.D. / early grief tapes` as the earliest Shame and Discontent One lane:
+
+```text
+Shame and Discontent One only
+no Burn Notice
+no Blue Tapetum
+no full Dead Mile Cypher roster
+sparse field-tape grief-tape pressure
+old-school underground abstract rap
+raw survivor testimony plus route-map logic
+no real artist names
+no spoken samples unless explicitly requested
+```
+
 ### Gloomed Vug Format
 
 Use `TBD Gloomed Vug Debut Material` as the young Aeonolacertian grave-trap lane:
@@ -138,6 +157,22 @@ no real artist names
 no executable code or technical instructions
 ```
 
+### Program State Loop Deamon Solo Format
+
+Use for Deamon-forward morosecodeclique solo tracks:
+
+```text
+haunting flat monotone baritone croon
+raw unpolished natural pitch
+thick layered reverb
+low-register spoken-word tension
+sudden intense melodic urgency in hooks
+cold synthetic guitar or heavy distorted guitar
+former Beast Jaw residue
+no heavy pitch correction
+no real artist names
+```
+
 ### Arrestthemall Crossover Format
 
 Use `Arrestthemall Records crossover singles` for label-crossover tracks:
@@ -172,6 +207,10 @@ Mergenta
 The Snifters
 Dead Mile Cipher
 DMC
+S.A.D.
+Decelerator
+Shame and Discontent One
+old-school underground rap
 Gloomed Vug
 Tumulus
 Shade Masiff
@@ -197,7 +236,14 @@ Code
 sixteen lines of code
 Embed Me in Archives
 Absolute Nested Null
+Explicit
+darkwave rap energy
+flat monotone baritone
 Blue Light Burial
+Rain in the Vug Mouth
+Down Pour
+no female vocals
+no spoken samples
 Arrestthemall Records crossover singles
 Shame
 Blue Tapetum
