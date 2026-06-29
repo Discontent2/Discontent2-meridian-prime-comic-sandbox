@@ -54,6 +54,7 @@ Suno song index
 | Embed Me in Archives | Program State Loop Deamon | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / blacklight founder grief | Program State Loop Deamon solo track. Former Beast Jaw residue, archive grief, cold synthetic guitar loop. File: `docs/music/songs/morosecodeclique/embed-me-in-archives.md`. |
 | Absolute Nested Null | morosecodeclique | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / blacklight heartbreak | Group track featuring Inspect and Program State Loop Deamon. Saved clean version removes flagged producer-name language from style and lyrics. File: `docs/music/songs/morosecodeclique/absolute-nested-null.md`. |
 | Explicit | Program State Loop Deamon | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / darkwave rap energy | Solo Program State Loop Deamon track. Flat monotone baritone, urgent melodic hook, heavy distorted guitar, crisp hi-hats, 808-style bass. File: `docs/music/songs/morosecodeclique/explicit.md`. |
+| Buried Pulse / Dumb Terminal Crawl | Enum Rage Engine | TBD Enum Rage Engine Cartridge Material | Drafted and saved | extremely lo-fi 16-bit industrial EBM crawl | First saved Enum Rage Engine track. 82 BPM fixed, no voices, no realistic drums, no samples, ultra-crushed cartridge grime. File: `docs/music/songs/enum-rage-engine/buried-pulse-dumb-terminal-crawl.md`. |
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | Antisapian cyber-emo rap x saurian grave-trap | Crossover track. Blue-light heartbreak meets grave-bell low-end, featuring Inspect, Program State Loop Deamon, Tumulus, and Shade Masiff. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
 | Rain in the Vug Mouth | Down Pour x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | pre-DMC field-tape rap x young Aeonolacertian grave-trap | Cleaned crossover track. All-male vocals only, no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
 
@@ -173,6 +174,43 @@ no heavy pitch correction
 no real artist names
 ```
 
+### Enum Rage Engine Format
+
+Use `TBD Enum Rage Engine Cartridge Material` for Antisapian console-music tracks:
+
+```text
+instrumental only
+no voices
+no vocals
+no speech
+fixed BPM
+fixed key center
+extremely lo-fi 16-bit industrial EBM
+cheap cartridge sound
+raw FM synths
+one dirty square-wave bass pattern
+fake chip kick
+digital snare tick
+metallic chip hi-hat tick
+slow simple FM arp
+hostile FM lead phrase
+mono or near-mono feel
+bitcrushed tiny-speaker dynamics
+no hi-fi mix
+no modern polish
+no realistic drums
+no fills
+no breakdowns
+no drops
+no risers
+no pitch bends
+no modulation
+no samples
+no choir
+no melody changes
+no real artist names
+```
+
 ### Arrestthemall Crossover Format
 
 Use `Arrestthemall Records crossover singles` for label-crossover tracks:
@@ -239,6 +277,22 @@ Absolute Nested Null
 Explicit
 darkwave rap energy
 flat monotone baritone
+Enum Rage Engine
+Buried Pulse
+Dumb Terminal Crawl
+16-bit industrial EBM
+industrial chiptune
+lo-fi chiptune
+corrupted cartridge music
+beat-em-up cartridge music
+raw FM synth
+square-wave bass
+chip drums
+fixed BPM
+82 BPM
+no voices
+no vocals
+no realistic drums
 Blue Light Burial
 Rain in the Vug Mouth
 Down Pour
