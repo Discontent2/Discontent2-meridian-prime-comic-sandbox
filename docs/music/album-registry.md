@@ -32,6 +32,7 @@ Suno album prompt lookup
 | Annotations from the Low Road | Dead Mile Cypher / Dead Mile Cipher | Studio album / underground tape mythology | Working sandbox project | Underground backpack rap / abstract boom-bap | Public/performance artist name is `Dead Mile Cypher`; archive/search spelling is `Dead Mile Cipher`. Illegal field notes, route graffiti, false shelter rumors, corporate receipts, survivor testimony, faction arguments, pirate-radio samples. Group history file: `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`. |
 | S.A.D. | Shame and Discontent One | Early collaboration / pre-DMC project | Group-history stage | Sparse field-tape rap / grief tapes | Early Shame and Discontent One collaboration. Search under group-history file. |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
+| TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Blown-out bass, grave-bell melodies, mineral-cave reverb, mud-caked vocals, cloak drones, and depressive saurian underground energy. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
 
@@ -74,13 +75,26 @@ Suno album prompt lookup
 
 ---
 
+## Gloomed Vug Debut Material
+
+| Track | Subject | Status | Notes |
+|---|---|---|---|
+| Small Shield Curse | Tumulus / clutch shame | Candidate | Compact Ankylosapien runt anthem. Heavy blown-out bass and grave-bell hook. |
+| Clutch Runt Gospel | Tumulus / self-invention | Candidate | Turns being underestimated into low-end weight. |
+| Vug Mouth | Duo identity / mineral cavity | Candidate | Core band mythology track. Dark hollow in stone, cave-mouth wound, mineral reverb. |
+| Cloak Over the Tailgate | Shade Masiff / cloaked ridge presence | Candidate | Mournful hook track with cloak-rustle percussion and canyon-night atmosphere. |
+| Armor Never Fit | Ankylosapien body shame | Candidate | Tumulus-forward depressive dirt rap. |
+| Ridge Ghosts Don't Sleep | Shade Masiff / distance | Candidate | Spectral hook and ridge-wind production lane. |
+
+---
+
 ## Pre-DMC Group History Projects
 
 | Project | Lineup | Function | Reference |
 |---|---|---|---|
 | S.A.D. | Shame and Discontent One | First collaboration / grief tapes | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate trio stage / evidence made heavy | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
-| Arrestthemall Records | Dead Mile Cypher | DIY label / mission statement | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
+| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug | DIY label / mission statement / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md` |
 
 ---
 
@@ -107,6 +121,19 @@ S.A.D.
 Shame and Discontent
 Down Pour
 Arrestthemall Records
+Gloomed Vug
+Tumulus
+Shade Masiff
+Ankylosapien
+Bajadrasapien
+saurian grave-trap
+haunted dirt rap
+Small Shield Curse
+Clutch Runt Gospel
+Vug Mouth
+Cloak Over the Tailgate
+Armor Never Fit
+Ridge Ghosts Don't Sleep
 Shame
 Blue Tapetum
 Burn Notice
