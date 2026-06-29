@@ -21,6 +21,7 @@ which style card belongs to Time Bastard
 which style card belongs to The Snifters
 which style card belongs to Dead Mile Cipher
 which style card belongs to Gloomed Vug
+which style card belongs to morosecodeclique
 Meridian Prime style card lookup
 ```
 
@@ -35,7 +36,8 @@ Meridian Prime style card lookup
 | Zombie Style | Time Bastard | Low Road horror-boogie / industrial groove metal | `docs/music/bad-influence/style-cards/zombie-style.md` | Live from the Low Road Road House; Route to Hell-Wreck Deluxe | The Ballad of Resurrection Rob and the Coward Horus, Meridian Prime Fever |
 | Gentrification Style | Gentrification | Underground Beach Goth / cassette surf-goth | `docs/music/bad-influence/style-cards/gentrification-style.md` | Creature Tracks | The Second Light That Follows, The Soft Alarm, Virus Lizard, Look-Away Walker, Hush-Teeth, Lizard Suit, Cloud Spine, Tin Grin, Wreck Rex |
 | Dead Mile Cipher Style | Dead Mile Cipher | Underground backpack rap / abstract boom-bap | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | Annotations from the Low Road | Receipts Burn Clean, No Shelter in the Margins, Map Wrong, Miles Right, The Blacktop Thesis, Blue Light in the Footnote |
-| Gloomed Vug Style | Gloomed Vug | Saurian grave-trap / haunted dirt rap | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Small Shield Curse, Clutch Runt Gospel, Vug Mouth, Cloak Over the Tailgate |
+| Gloomed Vug Style | Gloomed Vug | Saurian grave-trap / haunted dirt rap | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Ravenous, Loxian, Skin Suit, Small Shield Curse |
+| morosecodeclique Style | morosecodeclique | Antisapian cyber-emo rap / blacklight heartbreak | `docs/music/bad-influence/style-cards/morosecodeclique-style.md` | TBD morosecodeclique debut material | 404heart, password reset cemetery, teal eyes offline, inspect element |
 
 ---
 
@@ -107,6 +109,20 @@ Member Cards: docs/music/collectives/gloomed-vug/tumulus.md, docs/music/collecti
 Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md
 ```
 
+### morosecodeclique
+
+```text
+Band Identity: morosecodeclique
+Label: Arrestthemall Records
+Primary Style: Antisapian cyber-emo rap / blacklight heartbreak / glitch-sad trap
+Search Aliases: morosecodeclique, Arrestthemall Records, Inspect, Program State Loop Deamon, Phish Lint, Beast Jaw, Antisapian, Absconditian, cyber-emo rap, blacklight heartbreak, glitch-sad trap, cold synthetic guitars, voicemail ghosts, cracked-phone hooks
+Style Card: docs/music/bad-influence/style-cards/morosecodeclique-style.md
+Collective Profile: docs/music/collectives/morosecodeclique.md
+Core Members: Inspect, Program State Loop Deamon, Phish Lint
+Member Cards: docs/music/collectives/morosecodeclique/inspect.md, docs/music/collectives/morosecodeclique/program-state-loop-deamon.md, docs/music/collectives/morosecodeclique/phish-lint.md
+Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md
+```
+
 ---
 
 ## Search Tags
@@ -130,7 +146,18 @@ DMC
 Gloomed Vug
 Tumulus
 Shade Masiff
+morosecodeclique
+Inspect
+Program State Loop Deamon
+Phish Lint
+Beast Jaw
 Arrestthemall Records
+Antisapien
+Antisapian
+Absconditian
+cyber-emo rap
+blacklight heartbreak
+glitch-sad trap
 Ankylosapien
 Bajadrasapien
 saurian grave-trap
@@ -146,6 +173,7 @@ Zombie Style
 Gentrification Style
 Dead Mile Cipher Style
 Gloomed Vug Style
+morosecodeclique Style
 Underground Beach Goth
 Beach Goth
 underground backpack rap
