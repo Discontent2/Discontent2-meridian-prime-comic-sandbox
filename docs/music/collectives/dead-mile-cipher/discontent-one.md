@@ -35,6 +35,173 @@ He rarely looks relaxed. He looks calibrated.
 
 ---
 
+## Visual Development Lock
+
+Discontent One should read as a **fully saurian producer-MC** before he reads as a costume, mascot, monster, or human performer with reptile styling.
+
+Core anatomy lock:
+
+- Aeonolacertian / Saurasapien / Velocisapien body plan.
+- Saurian-first anatomy, not human anatomy with reptile traits.
+- Upright intelligent tool-user posture.
+- Velociraptoroid head and snout.
+- Lean build, quick posture, alert predatory stillness.
+- Long balancing tail visible when composition allows.
+- Clawed hands capable of working samplers, pads, cables, recorders, and switches.
+- Clawed feet / saurian stance if shown below waist.
+- Personhood first, saurian always, artist by necessity.
+
+### Current Approved Performance Look
+
+The strongest current visual read is:
+
+```text
+Discontent One in a dark underground field-recording room / performance basement, standing behind a sampler and microphone, wearing a battered black trucker mesh hat with an Arrestthemall broken-badge mark on the front patch, a smooth chrome saurian-adapted Venetian-inspired mask, custom field-recording chest gear, route tags, cassette parts, scavenged electronics, and machine fragments.
+```
+
+Mood:
+
+- melancholic underground hip-hop
+- analog tape decay
+- basement air
+- route-radio static
+- metallic clanks
+- warm fuzz
+- machine breath
+- damaged but intimate
+- muddy lo-fi atmosphere
+
+Composition:
+
+- three-quarter portrait or waist-up stage portrait
+- sampler visible
+- microphone visible
+- custom gear visible
+- tail visible behind him when possible
+- old electronics, cables, field recorders, samplers, cassette decks, route tags, graffiti, and signal notes in the environment
+
+### Hat Lock
+
+Default hat:
+
+```text
+battered black trucker mesh hat with Arrestthemall broken-badge mark on the front patch
+```
+
+The hat should feel practical, cheap, field-worn, beloved, and underground-label specific.
+
+Hat details:
+
+- black or charcoal trucker cap
+- worn front panel
+- frayed brim
+- mesh back
+- modified fit for saurian skull / brow ridge
+- patch should evoke the Arrestthemall Records broken badge / cracked shield mark
+- patch may include tiny scorpion / broken badge / warning-stamp logic if readable
+- avoid generic sports logos or random heraldry
+
+The trucker hat works because it makes the chrome mask less theatrical and more Dead Mile Cypher: ritual anonymity under gas-station workwear.
+
+### Mask Lock
+
+Primary mask direction:
+
+```text
+smooth chrome saurian-adapted Venetian-inspired half-mask
+```
+
+The mask must obey the snout.
+
+Mask anatomy rules:
+
+- fitted to velociraptoroid snout geometry
+- not human-shaped
+- not a human masquerade mask pasted onto a saurian face
+- smooth chrome surface preferred over busy mechanical detail
+- covers the brow / eye-frame area and the upper snout bridge
+- comes down enough to cover or frame the nostrils
+- leaves the lower jaw natural and visibly saurian
+- lower jaw must not be chrome
+- no canine fangs on the mask
+- no mask teeth unless later explicitly requested
+- jaw should remain organic so he can read as a living saurian person, not a robot or armored statue
+
+Mask meaning:
+
+- stage persona
+- anti-surveillance ritual
+- field-recording relic
+- identity interruption
+- refusal of easy classification
+
+The mask does not hide his species. It interrupts how others try to classify him.
+
+### Color / Image Style Lock
+
+A strong successful image lane is:
+
+```text
+color Polaroid-style image without white borders
+```
+
+Use this as a visual flavor, not a literal bordered photo.
+
+Style notes:
+
+- muted desaturated color
+- warm tungsten basement light
+- greenish/amber tape-machine glow
+- dusty lens texture
+- analog grain
+- scuffed color cast
+- documentary / found-photo intimacy
+- no clean glossy studio polish
+- no white Polaroid border unless explicitly requested
+
+Black-and-white remains valid for some Dead Mile Cypher assets, but the current preferred Discontent One portrait direction is **color Polaroid-style, borderless, grimy, intimate, and analog-warm**.
+
+### Studio / Gear Lock
+
+Discontent One's gear should feel like a wearable archive and field-recording rig, not costume jewelry.
+
+Include:
+
+- sampler / beat pad
+- microphone
+- field recorder modules
+- old cassette parts
+- wire-wrapped microphones
+- route tags
+- pressure fittings
+- Meridian electronics
+- small machine fragments
+- mnemonic charms
+- cables
+- worn patch labels
+- scratched control surfaces
+
+The sampler should look used, labeled, patched, and physically handled by clawed saurian hands.
+
+### Do Not Show
+
+Avoid:
+
+- human face under the mask
+- human-shaped Venetian mask
+- chrome lower jaw
+- mask fangs
+- generic plague-doctor reptile
+- sleek cyberpunk robot helmet
+- fantasy carnival mask
+- full armor mask that erases personhood
+- clean EDM DJ styling
+- generic alien DJ club imagery
+- lizardfolk rapper parody
+- dinosaur animal at a DJ table
+
+---
+
 ## Private Wound
 
 Discontent One is tired of being translated incorrectly.
@@ -257,6 +424,12 @@ magnetic tape distortion
 vinyl crackle
 metallic clanks
 warm decay
+chrome mask
+trucker mesh hat
+broken badge patch
+Arrestthemall mark
+sampler pads
+field recorder rig
 ```
 
 ---
@@ -351,6 +524,10 @@ Avoid making Discontent One:
 - a gimmick voice
 - a clean studio beatmaker
 - a front-and-center pop vocalist
+- a human wearing a reptile mask
+- a reptile wearing a human Venetian mask
+- a sleek chrome robot head
+- a mascot in DJ gear
 
 He should be person first, saurian always, artist by necessity.
 
@@ -398,4 +575,15 @@ Suno
 rap voice
 producer style
 member card
+visual development
+chrome mask
+smooth chrome saurian mask
+snout-obeying mask
+trucker mesh hat
+Arrestthemall broken-badge mark
+sampler
+microphone
+field-recording gear
+color Polaroid style
+borderless Polaroid look
 ```
