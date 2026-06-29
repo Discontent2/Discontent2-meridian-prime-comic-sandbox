@@ -33,7 +33,8 @@ Suno album prompt lookup
 | S.A.D. | Shame and Discontent One | Early collaboration / pre-DMC project | Group-history stage | Sparse field-tape rap / grief tapes | Early Shame and Discontent One collaboration. Search under group-history file. |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
 | TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
-| TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Antisapian cyber-sad group with Inspect, Program State Loop Deamon, and Phish Lint. Candidate titles include `404heart`, `password reset cemetery`, and `delete my reflection`. |
+| TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, and `Absolute Nested Null`. |
+| Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved draft: `Blue Light Burial` by morosecodeclique x Gloomed Vug. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
 
@@ -96,14 +97,26 @@ Suno album prompt lookup
 
 | Track | Subject | Status | Notes |
 |---|---|---|---|
+| blacklight brightside | Inspect / bright cyber-heartbreak | Drafted and saved | Inspect solo track. Catchy blue-light heartbreak and cracked-phone hook. File: `docs/music/songs/morosecodeclique/blacklight-brightside.md`. |
+| Code | Inspect / screen-sick looped grief | Drafted and saved | Inspect solo track. `16 lines of code` as emotional metaphor, no executable code. File: `docs/music/songs/morosecodeclique/code.md`. |
+| Embed Me in Archives | Program State Loop Deamon / archive grief | Drafted and saved | Founder-forward solo track with Beast Jaw residue, cold guitar, and looped grief. File: `docs/music/songs/morosecodeclique/embed-me-in-archives.md`. |
+| Absolute Nested Null | Group / romantic doubt and looped grief | Drafted and saved | morosecodeclique group track featuring Inspect and Program State Loop Deamon. Clean producer-name-safe version. File: `docs/music/songs/morosecodeclique/absolute-nested-null.md`. |
 | 404heart | Inspect / instantly quotable heartbreak | Candidate | Lead-vocal hook track. Blue-lit bedroom sadness and cracked-phone chorus. |
 | password reset cemetery | Group identity / remembered grief | Candidate | Cyber-emo grief track. Machines remember the relationship after the people stop speaking. |
 | teal eyes offline | Antisapian visual identity / absence | Candidate | Uses teal tapetum glow and offline-status imagery. |
 | inspect element | Inspect / self-audit | Candidate | Inspect-forward title. Searchable pun should remain in-world, not technical instruction. |
 | program state funeral | Program State Loop Deamon / looped grief | Candidate | Founder-forward dark refrain track with Beast Jaw residue. |
 | beast jaw summer | Program State Loop Deamon / prior band | Candidate | Backstory song about the earlier emo-band era. |
-| phishhook valentine | Phish Lint / corrupted romance production | Candidate | Producer-forward track with broken ringtone melodies and voicemail ghosts. |
+| phishhook valentine | Lint / corrupted romance production | Candidate | Producer-forward track with broken ringtone melodies and voicemail ghosts. Rename if prompt filters dislike the title. |
 | delete my reflection | Group / digital self-image grief | Candidate | Cyber-sad mirror song. |
+
+---
+
+## Arrestthemall Records Crossover Singles
+
+| Track | Artists | Status | Notes |
+|---|---|---|---|
+| Blue Light Burial | morosecodeclique x Gloomed Vug | Drafted and saved | Antisapian blue-light heartbreak fused with Aeonolacertian grave-trap. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
 
 ---
 
@@ -140,6 +153,7 @@ S.A.D.
 Shame and Discontent
 Down Pour
 Arrestthemall Records
+Arrestthemall Records crossover singles
 Gloomed Vug
 Tumulus
 Shade Masiff
@@ -159,13 +173,19 @@ Ridge Ghosts Don't Sleep
 morosecodeclique
 Inspect
 Program State Loop Deamon
-Phish Lint
+Lint
 Beast Jaw
 Antisapian
 Absconditian
 cyber-emo rap
 blacklight heartbreak
 glitch-sad trap
+blacklight brightside
+Code
+sixteen lines of code
+Embed Me in Archives
+Absolute Nested Null
+Blue Light Burial
 404heart
 password reset cemetery
 teal eyes offline
