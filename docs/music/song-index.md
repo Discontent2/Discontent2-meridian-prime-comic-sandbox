@@ -45,6 +45,9 @@ Suno song index
 | Map Wrong, Miles Right | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Full-crew chant concept and possible collective motto track. |
 | The Blacktop Thesis | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Discontent One-forward abstract route philosophy concept. |
 | Blue Light in the Footnote | Dead Mile Cipher | Annotations from the Low Road | Candidate | Underground backpack rap / abstract boom-bap | Blue Tapetum-forward stealth testimony concept. |
+| Ravenous | Tumulus | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / haunted dirt rap | Tumulus solo track. Compact Ankylosapien runt hunger anthem, clutch-shame, blown-out bass, grave-bell hook. File: `docs/music/songs/gloomed-vug/ravenous.md`. |
+| Loxian | Shade Masiff | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / spectral ridge hook | Shade Masiff solo track. Cloaked Bajadrasapien ridge myth, mournful hook, shadow testimony. File: `docs/music/songs/gloomed-vug/loxian.md`. |
+| Skin Suit | Gloomed Vug | TBD Gloomed Vug Debut Material | Drafted and saved | Saurian grave-trap / haunted dirt rap | Duo track about wrong body-story and forced shape. Tumulus low-end rage plus Shade Masiff spectral distance. File: `docs/music/songs/gloomed-vug/skin-suit.md`. |
 
 ---
 
@@ -93,6 +96,25 @@ no polished pop-rap
 no real artist names
 ```
 
+### Gloomed Vug Format
+
+Use `TBD Gloomed Vug Debut Material` as the young Aeonolacertian grave-trap lane:
+
+```text
+short repeated cursed hooks
+blown-out bass
+mud-caked doubled vocals
+cemetery synths
+cracked bell melodies
+mineral-cave reverb
+clutch shame
+cloak myth
+night-road dread
+species-class alienation
+no real artist names
+no glossy trap polish
+```
+
 ---
 
 ## Search Tags
@@ -114,6 +136,17 @@ Mergenta
 The Snifters
 Dead Mile Cipher
 DMC
+Gloomed Vug
+Tumulus
+Shade Masiff
+Arrestthemall Records
+Ravenous
+Loxian
+Skin Suit
+Ankylosapien
+Bajadrasapien
+saurian grave-trap
+haunted dirt rap
 Shame
 Blue Tapetum
 Burn Notice
