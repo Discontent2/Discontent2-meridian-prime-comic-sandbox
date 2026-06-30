@@ -7,7 +7,7 @@
 **Primary Artist:** Enum Rage Engine  
 **Guest / Contrast Cue:** Wet Signal District on Track 5, `Blue Hole Reef BGM`  
 **Secret Collaboration Cue:** Wet Signal District x Enum Rage Engine on Secret Track 5B, `Into the Blue: Senote Layer`  
-**Expanded Game Audio Cues:** Enum Rage Engine on Track 9, `Worldskin Title Screen BGM`; Track 10, `Worldskin File Select BGM`  
+**Expanded Game Audio Cues:** Enum Rage Engine on Track 9, `Worldskin Title Screen BGM`; Track 10, `Worldskin File Select BGM`; Track 11, `Worldskin Biome Select BGM`  
 **Adaptation Type:** Gamified Worldskin / Project Green Glove Interpretation  
 **Related Charter:** `docs/game-continuity/worldskin/worldskin-game-continuity-charter.md`  
 **Related Biome Map:** `docs/game-continuity/worldskin/worldskin-8-level-gamified-biome-map.md`  
@@ -121,6 +121,18 @@ quiet Null Cavern motif fragment
 fragile comfort inside machine dread
 ```
 
+Track 11 turns the world map into a selectable threat lattice:
+
+```text
+slow lo-fi 16-bit map-screen industrial ambience
+76 BPM fixed
+world-map and biome-select cue
+green lattice shimmer
+faint rotating node glow
+fragmented hints of all eight biome motifs
+eight wounds arranged as a selectable lattice
+```
+
 ---
 
 ## BGM Safety Rule
@@ -146,6 +158,8 @@ cursor sounds
 select sounds
 save sounds
 save confirmation sounds
+map pings
+waypoint sounds
 alarms
 sirens
 doors
@@ -208,6 +222,7 @@ cave drip sounds
 |---|---|---|---|---|
 | 9 | Worldskin Title Screen BGM | Title screen / attract mode / pre-start dread | Drafted and saved | Internal subtitle: `Cartridge Awake`. 72 BPM title-screen ambience, dead CRT pad, green membrane shimmer, buried hint of Null Cavern motif. File: `docs/music/songs/enum-rage-engine/worldskin-title-screen-bgm.md`. |
 | 10 | Worldskin File Select BGM | File select / save screen / memory-slot atmosphere | Drafted and saved | Internal subtitle: `Memory Slot Shrine`. 68 BPM memory-screen ambience, soft square bass, green memory-slot shimmer, quiet Null Cavern motif fragment, no menu/cursor/select/save sounds. File: `docs/music/songs/enum-rage-engine/worldskin-file-select-bgm.md`. |
+| 11 | Worldskin Biome Select BGM | World map / biome select / level-node screen | Drafted and saved | Internal subtitle: `Biome Select Lattice`. 76 BPM map-screen industrial ambience, green lattice shimmer, rotating node glow, fragmented hints of all eight biome motifs, no map pings or waypoint sounds. File: `docs/music/songs/enum-rage-engine/worldskin-biome-select-bgm.md`. |
 
 ---
 
@@ -299,6 +314,14 @@ Enum Rage Engine, Worldskin File Select BGM, Memory Slot Shrine. Expanded Worlds
 
 ---
 
+## Saved Track 11 Prompt Reference
+
+```text
+Enum Rage Engine, Worldskin Biome Select BGM, Biome Select Lattice. Expanded Worldskin 16-bit soundtrack world-map and biome-select cue. Instrumental only, no vocals, no speech. Full-length music-only front-end ambience, non-interactive BGM, no gameplay cues, no event sounds, no menu beeps, no cursor sounds, no select sounds, no map ping sounds, no waypoint sounds. Slow lo-fi 16-bit map-screen industrial ambience, 76 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, steady square-wave map bass pulse, cold FM sub layer, dead CRT pad, green lattice shimmer, faint rotating node glow, soft metallic FM bells, tiny FM arpeggio fragments, low cartridge hum, distant biome silhouettes under glass, fractured hints of Null Cavern, Rust Marsh, Relay Spires, Furnace District, Blue Hole Reef, Graveyard Arcade, Orbital Rootworks, and Enum Core motifs, never fully revealing any motif. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Ominous but navigable, hypnotic, low-distraction, map screen dread, eight wounds arranged as a selectable lattice. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no coin sound, no menu beep, no cursor sound, no select sound, no map ping, no waypoint sound, no UI chirp, no start sound, no power-up sound, no alarm, no siren, no laser, no real artist names, no direct imitation.
+```
+
+---
+
 ## Album Cover Direction
 
 Cover should look like a lost 16-bit soundtrack insert, not clean modern synthwave.
@@ -352,8 +375,10 @@ Orbital Rootworks BGM
 Enum Core BGM
 Worldskin Title Screen BGM
 Worldskin File Select BGM
+Worldskin Biome Select BGM
 Cartridge Awake
 Memory Slot Shrine
+Biome Select Lattice
 Slow Core Reprise
 Worldskin Game Realm
 Meridian Prime Interactive Canon
@@ -372,16 +397,20 @@ cold alien 16-bit EBM
 very slow deep 16-bit industrial doom EBM
 slow lo-fi 16-bit industrial cartridge ambience
 slow lo-fi 16-bit memory-screen ambience
+slow lo-fi 16-bit map-screen industrial ambience
 64 BPM
 68 BPM
 72 BPM
 74 BPM
+76 BPM
 lo-fi chiptune
 raw FM synth
 background music
 title screen music
 file select music
 save screen music
+biome select music
+world map music
 secret sublevel music
 Meridian Prime music
 Suno
