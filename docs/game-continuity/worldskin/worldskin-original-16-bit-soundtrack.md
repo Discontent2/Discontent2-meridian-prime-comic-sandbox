@@ -70,6 +70,17 @@ sterile pad pressure
 gravity-shift atmosphere without gameplay signals
 ```
 
+Track 8 descends into the core as a dark Null Cavern reprise:
+
+```text
+deep 16-bit industrial doom EBM
+Null Cavern dark reprise
+brutal crushing cartridge pressure
+overdriven square-wave bass wall
+inverted 4-note Null Cavern motif
+final machine-stomach atmosphere without gameplay signals
+```
+
 ---
 
 ## BGM Safety Rule
@@ -121,7 +132,7 @@ hi-fi polish
 | 5 | Blue Hole Reef BGM | Blue Hole Reef / Blueglass Reef | WS-05 Flooded Crystal Sample | Drafted and saved | Wet Signal District 16-bit reef cue. Beautiful reef that remembers a train station, glassy FM marimba lead, warm liquid square bass. File: `docs/music/songs/wet-signal-district/blue-hole-reef-bgm.md`. |
 | 6 | Graveyard Arcade BGM | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Drafted and saved | Broken console funk without coin/menu/power-up sounds. Ghostly FM organ stab, rubbery square bass, cemetery arcade pressure. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | 7 | Orbital Rootworks BGM | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Drafted and saved | Cold alien EBM, sterile pad pressure, gravity-shift mood without scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
-| 8 | Enum Core BGM | The Enum Core | WS-08 Core Membrane Nexus | Planned | Minimal industrial trance and darker reprise of Null Cavern. |
+| 8 | Enum Core BGM | The Enum Core | WS-08 Core Membrane Nexus | Drafted and saved | Deep, dark, brutal Null Cavern reprise. Crushing square-wave bass wall, inverted Null motif, final machine-stomach pressure. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
 
 ---
 
@@ -181,6 +192,14 @@ Enum Rage Engine, Orbital Rootworks BGM. Worldskin original 16-bit soundtrack cu
 
 ---
 
+## Saved Track 8 Prompt Reference
+
+```text
+Enum Rage Engine, Enum Core BGM. Worldskin original 16-bit soundtrack finale cue. Instrumental only, no vocals, no speech. Full-length music-only background cue, non-interactive BGM, no gameplay cues, no event sounds. Deep 16-bit industrial doom EBM, Null Cavern dark reprise, brutal crushing cartridge pressure, 80 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, overdriven square-wave bass wall, cold FM sub layer, fake chip kick like a pressure piston, tiny digital snare tick, choked metallic FM hat, subharmonic FM drone, buried inverted 4-note Null Cavern motif, black core membrane pressure, dead CRT glow, wet stone memory, green interface membrane turning black, final machine-stomach atmosphere. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Deep, dark, brutal, crushing, low-distraction final area music. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no scan sound, no alarm, no siren, no laser, no UI chirp, no menu beep, no power-up sound, no real artist names, no direct imitation.
+```
+
+---
+
 ## Album Cover Direction
 
 Cover should look like a lost 16-bit soundtrack insert, not clean modern synthwave.
@@ -227,6 +246,7 @@ Blue Hole Reef BGM
 Blueglass Reef BGM
 Graveyard Arcade BGM
 Orbital Rootworks BGM
+Enum Core BGM
 Worldskin Game Realm
 Meridian Prime Interactive Canon
 Game Continuity OST
@@ -235,11 +255,11 @@ Null Cavern BGM
 Rust Marsh BGM
 Relay Spires BGM
 Furnace District BGM
-Enum Core BGM
 16-bit industrial EBM
 16-bit rainfield aquatic cartridge ambience
 lo-fi 16-bit broken console funk
 cold alien 16-bit EBM
+deep 16-bit industrial doom EBM
 lo-fi chiptune
 raw FM synth
 background music
