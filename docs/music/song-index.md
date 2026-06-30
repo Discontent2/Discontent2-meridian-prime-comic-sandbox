@@ -56,6 +56,7 @@ Suno song index
 | Explicit | Program State Loop Deamon | TBD morosecodeclique Debut Material | Drafted and saved | Antisapian cyber-emo rap / darkwave rap energy | Solo Program State Loop Deamon track. Flat monotone baritone, urgent melodic hook, heavy distorted guitar, crisp hi-hats, 808-style bass. File: `docs/music/songs/morosecodeclique/explicit.md`. |
 | Buried Pulse / Dumb Terminal Crawl | Enum Rage Engine | TBD Enum Rage Engine Cartridge Material | Drafted and saved | extremely lo-fi 16-bit industrial EBM crawl | First saved Enum Rage Engine track. 82 BPM fixed, no voices, no realistic drums, no samples, ultra-crushed cartridge grime. File: `docs/music/songs/enum-rage-engine/buried-pulse-dumb-terminal-crawl.md`. |
 | Null Cavern BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | First single / drafted and saved | slow 16-bit alien cavern EBM / music-only BGM | Track 1 for Worldskin Game Realm. 88 BPM fixed, non-interactive background cue, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
+| Rust Marsh BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit toxic swamp EBM / music-only BGM | Track 2 for Worldskin Game Realm. WS-02 Wetland Corrosion Patch, 86 BPM fixed, wet square/FM bass pulse, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/rust-marsh-bgm.md`. |
 | Relay Spires BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit vertical signal-tower EBM / music-only BGM | Track 3 for Worldskin Game Realm. WS-03 Vertical Signal Ecology, 90 BPM fixed, high cold FM arp, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
 | Furnace District BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit thermal foundry EBM / music-only BGM | Track 4 for Worldskin Game Realm. WS-04 Thermal Industrial Envelope, 92 BPM fixed, hot square/FM bass pulse, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | Antisapian cyber-emo rap x saurian grave-trap | Crossover track. Blue-light heartbreak meets grave-bell low-end, featuring Inspect, Program State Loop Deamon, Tumulus, and Shade Masiff. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
@@ -216,7 +217,7 @@ no real artist names
 
 ### Enum Rage Engine BGM Format
 
-Use for background-music-safe Enum tracks like `Null Cavern BGM`, `Relay Spires BGM`, and `Furnace District BGM`:
+Use for background-music-safe Enum tracks like `Null Cavern BGM`, `Rust Marsh BGM`, `Relay Spires BGM`, and `Furnace District BGM`:
 
 ```text
 music-only background cue
