@@ -7,11 +7,13 @@
 **Worldskin Track Number:** 8  
 **Level / Biome:** The Enum Core  
 **World Works Designation:** WS-08 Core Membrane Nexus  
-**Primary Style:** deep 16-bit industrial doom EBM / Null Cavern dark reprise / BGM-safe cartridge finale  
+**Primary Style:** very slow deep 16-bit industrial doom EBM / Null Cavern dark reprise / BGM-safe cartridge finale  
+**Version:** Version 2 / Slow Core Reprise / Primary Saved Version  
 **Related OST File:** `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`  
 **Related Artist Profile:** `docs/music/collectives/enum-rage-engine.md`  
 **Instrumental Protocol:** `docs/music/production-notes/suno-instrumental-arrangement-protocol.md`  
-**Created:** 2026-06-30
+**Created:** 2026-06-30  
+**Revised:** 2026-06-30
 
 ---
 
@@ -20,6 +22,8 @@
 `Enum Core BGM` is a working Worldskin game-continuity OST draft. It belongs to the Worldskin Game Realm continuity lane and does not override mainline prose canon.
 
 This track is designed as Track 8 of `Worldskin: Original 16-Bit Soundtrack`.
+
+Version 2 / Slow Core Reprise is the primary saved version.
 
 ---
 
@@ -38,7 +42,8 @@ Track 8 function:
 ```text
 final core descent
 Null Cavern dark reprise
-brutal cartridge pressure
+slower ominous machine-heart pressure
+brutal cartridge doom
 ```
 
 Worldskin function:
@@ -52,15 +57,16 @@ Enum Core is what the doorway was plugged into
 Sound target:
 
 ```text
-80 BPM fixed
-deep 16-bit industrial doom EBM
-crushing overdriven square-wave bass wall
+64 BPM fixed
+very slow deep 16-bit industrial doom EBM
+massive overdriven square-wave bass wall
 cold FM sub layer
-fake chip kick as pressure piston
-tiny digital snare tick
-choked metallic FM hat
+fake chip kick as slow pressure piston
+sparse tiny digital snare tick
+choked metallic FM hat used rarely
 subharmonic FM drone
-inverted 4-note Null Cavern motif
+buried inverted 4-note Null Cavern motif
+long silence between motif phrases
 black core membrane pressure
 no alarms
 no lasers
@@ -72,7 +78,13 @@ no UI sounds
 ## Core Concept
 
 ```text
-Null Cavern returns as a crushing core-room reprise. The familiar cave motif is buried under a heavier square-wave wall, as if the first level was only the echo leaking out of the machine's heart.
+Null Cavern is no longer a place. It is a memory being crushed inside the core.
+```
+
+Expanded concept:
+
+```text
+The machine heart below the first cave wakes slowly. The familiar Null Cavern motif returns, inverted and half buried, as if the opening level was only an echo leaking out of the core.
 ```
 
 ---
@@ -80,7 +92,7 @@ Null Cavern returns as a crushing core-room reprise. The familiar cave motif is 
 ## Suno Style / Prompt Box
 
 ```text
-Enum Rage Engine, Enum Core BGM. Worldskin original 16-bit soundtrack finale cue. Instrumental only, no vocals, no speech. Full-length music-only background cue, non-interactive BGM, no gameplay cues, no event sounds. Deep 16-bit industrial doom EBM, Null Cavern dark reprise, brutal crushing cartridge pressure, 80 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, overdriven square-wave bass wall, cold FM sub layer, fake chip kick like a pressure piston, tiny digital snare tick, choked metallic FM hat, subharmonic FM drone, buried inverted 4-note Null Cavern motif, black core membrane pressure, dead CRT glow, wet stone memory, green interface membrane turning black, final machine-stomach atmosphere. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Deep, dark, brutal, crushing, low-distraction final area music. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no scan sound, no alarm, no siren, no laser, no UI chirp, no menu beep, no power-up sound, no real artist names, no direct imitation.
+Enum Rage Engine, Enum Core BGM, Slow Core Reprise. Worldskin original 16-bit soundtrack finale cue. Instrumental only, no vocals, no speech. Full-length music-only background cue, non-interactive BGM, no gameplay cues, no event sounds. Very slow deep 16-bit industrial doom EBM, Null Cavern dark reprise, ominous final core ambience, brutal but restrained cartridge pressure, 64 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, massive overdriven square-wave bass wall, cold FM sub layer, fake chip kick as a slow pressure piston, sparse tiny digital snare tick, choked metallic FM hat used rarely, subharmonic FM drone, buried inverted 4-note Null Cavern motif, long silence between motif phrases, black core membrane pressure, dead CRT glow, wet stone memory, green interface membrane turning black, machine heart below the first cave. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Slower, darker, more ominous, more foreboding, brutal and crushing but low-distraction. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no scan sound, no alarm, no siren, no laser, no UI chirp, no menu beep, no power-up sound, no real artist names, no direct imitation.
 ```
 
 ---
@@ -97,52 +109,53 @@ Enum Rage Engine, Enum Core BGM. Worldskin original 16-bit soundtrack finale cue
 [NO VOCAL CHOPS]
 [NO SAMPLES]
 
-[0:00 CORE BOOT]
-[OVERDRIVEN SQUARE BASS WALL]
+[0:00 CORE WAKE]
+[MASSIVE OVERDRIVEN SQUARE BASS WALL]
 [COLD FM SUB LAYER]
 [SUBHARMONIC FM DRONE]
 [NO DRUMS]
-[MOOD: FINAL CORE DESCENT]
-[MOOD: NULL CAVERN BURIED DEEP]
+[MOOD: MACHINE HEART BELOW THE FIRST CAVE]
+[MOOD: OMINOUS FINAL DESCENT]
 
-[0:30 PRESSURE PISTON PULSE]
-[FAKE CHIP KICK ENTERS]
-[TINY DIGITAL SNARE TICK]
-[CHOKED METALLIC FM HAT]
-[STEADY 80 BPM]
+[0:45 SLOW PRESSURE PISTON]
+[FAKE CHIP KICK ENTERS SLOWLY]
+[SPARSE DIGITAL SNARE TICK]
+[CHOKED METALLIC FM HAT RARELY]
+[STEADY 64 BPM]
 [ONE MINOR KEY CENTER]
 [NO FILLS]
 [NO DROP]
 [NO RISER]
 
-[1:05 NULL MOTIF INVERTED]
+[1:35 NULL CAVERN MEMORY]
 [BURIED FM LEAD]
 [INVERTED 4 NOTE NULL CAVERN MOTIF]
-[REPEAT MOTIF SLOWLY]
+[PLAY MOTIF SLOWLY]
+[LONG SILENCE BETWEEN PHRASES]
 [DO NOT OVERDEVELOP]
-[BLACK CORE MEMBRANE PRESSURE]
-[MOOD: FIRST CAVE RETURNS WRONG]
+[MOOD: FIRST LEVEL RETURNS AS A WARNING]
 
-[1:45 MACHINE STOMACH LAYER]
+[2:30 BLACK MEMBRANE PRESSURE]
 [BASS WALL THICKENS]
+[SUBHARMONIC DRONE WIDENS]
 [DEAD CRT GLOW]
 [GREEN INTERFACE MEMBRANE TURNS BLACK]
 [WET STONE MEMORY]
 [NO VOCAL TEXTURE]
 [NO SPOKEN ANNOUNCEMENT]
-[NO CHOIR]
 
-[2:30 CRUSHING CORE PASS]
-[MAIN BASS PATTERN RETURNS HEAVIER]
-[FAKE CHIP KICK STAYS STEADY]
-[SUBHARMONIC DRONE WIDENS]
+[3:25 CORE GRAVITY LOCK]
+[MAIN BASS PATTERN RETURNS LOWER]
+[FAKE CHIP KICK STAYS SLOW]
+[SNARE TICK BECOMES SPARSER]
+[CHOKED HAT ALMOST DISAPPEARS]
 [DULL MONO CONSOLE MIX]
 [BITCRUSHED TINY SPEAKER TEXTURE]
-[MOOD: BRUTAL BUT BACKGROUND SAFE]
+[MOOD: BRUTAL AND FOREBODING]
 
-[3:15 FINAL MEMBRANE LOCK]
-[INVERTED NULL MOTIF RETURNS ONCE]
-[CHOKED FM HAT THINS OUT]
+[4:20 INVERTED NULL PASS]
+[INVERTED NULL MOTIF RETURNS DISTANT]
+[FM LEAD HALF BURIED]
 [CORE DRONE REMAINS LOW]
 [NO EVENT SOUNDS]
 [NO UI CHIRP]
@@ -150,12 +163,20 @@ Enum Rage Engine, Enum Core BGM. Worldskin original 16-bit soundtrack finale cue
 [NO LASER]
 [NO ALARM]
 
-[4:00 CLOSING CORE]
+[5:10 FINAL MACHINE STOMACH]
+[BASS WALL SWELLS ONCE]
+[SUBHARMONIC FM DRONE DEEPENS]
+[DEAD CRT GLOW FADES]
+[NO DRUM FILLS]
+[NO BREAKDOWN]
+[MOOD: THE CORE DOES NOT END]
+
+[6:00 CLOSING CORE]
 [DRUMS FADE]
-[BASS WALL SOFTENS]
+[BASS WALL SOFTENS SLOWLY]
 [FM MOTIF DISSOLVES]
 [SUBHARMONIC DRONE REMAINS]
-[DEAD CRT GLOW FADES]
+[WET STONE MEMORY REMAINS]
 [CLEAR ENDING]
 ```
 
@@ -175,16 +196,20 @@ vocals, voice, singing, spoken words, narrator, lyrics, vocal chops, choir, chan
 Enum Rage Engine
 Worldskin Track 8
 Enum Core BGM
+Version 2
+Slow Core Reprise
 The Enum Core
 WS-08 Core Membrane Nexus
-deep 16-bit industrial doom EBM
+64 BPM fixed
+very slow deep 16-bit industrial doom EBM
 Null Cavern dark reprise
-brutal crushing cartridge pressure
-overdriven square-wave bass wall
+slower ominous machine-heart pressure
+massive overdriven square-wave bass wall
 subharmonic FM drone
-inverted 4-note Null Cavern motif
+buried inverted 4-note Null Cavern motif
+long silence between motif phrases
 black core membrane pressure
-final machine-stomach atmosphere
+machine heart below the first cave
 no alarms
 no lasers
 no UI sounds
@@ -197,6 +222,8 @@ no gameplay cues
 
 ```text
 Enum Core BGM
+Enum Core BGM Version 2
+Slow Core Reprise
 Enum Rage Engine
 Worldskin
 Worldskin Original 16-Bit Soundtrack
@@ -204,12 +231,14 @@ Worldskin Track 8
 WS-08 Core Membrane Nexus
 Pulse Width Music
 PWM
-deep 16-bit industrial doom EBM
+64 BPM
+very slow deep 16-bit industrial doom EBM
 Null Cavern dark reprise
+slower ominous machine-heart pressure
 brutal cartridge pressure
-overdriven square-wave bass wall
+massive overdriven square-wave bass wall
 subharmonic FM drone
-inverted Null Cavern motif
+buried inverted Null Cavern motif
 black core membrane
 no alarms
 no lasers
