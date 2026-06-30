@@ -65,6 +65,7 @@ Suno song index
 | Orbital Rootworks BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | cold alien 16-bit EBM / sterile orbital root-machine ambience | Track 7 for Worldskin Game Realm. Orbital Rootworks / WS-07 Elevated Root-Machine Lattice, no scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
 | Enum Core BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | very slow deep 16-bit industrial doom EBM / Null Cavern dark reprise | Track 8 for Worldskin Game Realm. Version 2 primary: Slow Core Reprise, 64 BPM fixed, ominous machine-heart pressure. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
 | Worldskin Title Screen BGM | Enum Rage Engine | Expanded Worldskin Game Audio | Drafted and saved | slow lo-fi 16-bit industrial cartridge ambience / title-screen dread | Track 9 expanded game-audio cue. Internal subtitle: `Cartridge Awake`. 72 BPM fixed, buried hint of Null Cavern motif, no menu/start/UI sounds. File: `docs/music/songs/enum-rage-engine/worldskin-title-screen-bgm.md`. |
+| Worldskin File Select BGM | Enum Rage Engine | Expanded Worldskin Game Audio | Drafted and saved | slow lo-fi 16-bit memory-screen ambience / file-select dread | Track 10 expanded game-audio cue. Internal subtitle: `Memory Slot Shrine`. 68 BPM fixed, green memory-slot shimmer, quiet Null Cavern motif fragment, no menu/cursor/select/save sounds. File: `docs/music/songs/enum-rage-engine/worldskin-file-select-bgm.md`. |
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | Antisapian cyber-emo rap x saurian grave-trap | Crossover track. Blue-light heartbreak meets grave-bell low-end, featuring Inspect, Program State Loop Deamon, Tumulus, and Shade Masiff. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
 | Rain in the Vug Mouth | Down Pour x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | pre-DMC field-tape rap x young Aeonolacertian grave-trap | Cleaned crossover track. All-male vocals only, no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
 | Rain in the Transit Glass | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 1. Opening portal: dead station reboot, rain as memory system, no vocals, no samples. File: `docs/music/songs/wet-signal-district/rain-in-the-transit-glass.md`. |
@@ -228,7 +229,7 @@ no real artist names
 
 ### Enum Rage Engine BGM Format
 
-Use for background-music-safe Enum tracks like `Null Cavern BGM`, `Rust Marsh BGM`, `Relay Spires BGM`, `Furnace District BGM`, `Graveyard Arcade BGM`, `Orbital Rootworks BGM`, `Enum Core BGM`, and `Worldskin Title Screen BGM`:
+Use for background-music-safe Enum tracks like `Null Cavern BGM`, `Rust Marsh BGM`, `Relay Spires BGM`, `Furnace District BGM`, `Graveyard Arcade BGM`, `Orbital Rootworks BGM`, `Enum Core BGM`, `Worldskin Title Screen BGM`, and `Worldskin File Select BGM`:
 
 ```text
 music-only background cue
@@ -246,6 +247,11 @@ fixed BPM
 fixed key center
 primitive FM console audio
 clear ending after final pass
+no menu beeps
+no UI chirps
+no cursor sounds
+no select sounds
+no save sounds
 no real artist names
 ```
 
