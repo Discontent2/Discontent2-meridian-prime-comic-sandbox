@@ -18,6 +18,7 @@ what band made this song
 what style card belongs to this band
 what albums are in development
 where is the song index
+where is the label registry
 Suno band lookup
 Meridian Prime music lookup
 ```
@@ -35,7 +36,16 @@ Meridian Prime music lookup
 | Dead Mile Cypher / Dead Mile Cipher | Underground backpack rap | Sandbox collective profile, style card, member cards, and group-history file exist | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | `Annotations from the Low Road`; early projects `S.A.D.` and `Down Pour`; label `Arrestthemall Records` | Public/performance name is `Dead Mile Cypher`; archive/search spelling is `Dead Mile Cipher`. Abstract boom-bap field-tape rap collective with core members Shame, Blue Tapetum, Burn Notice, and Discontent One. Group history and live identity: `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`. |
 | Gloomed Vug | Saurian grave-trap / haunted dirt rap | Sandbox collective profile, style card, member cards, and song drafts exist | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Arrestthemall Records signing. Young Aeonolacertian underground duo: Tumulus, an Ankylosapien MC/producer and runt of his clutch; Shade Masiff, a cloaked Bajadrasapien MC/producer. Profile: `docs/music/collectives/gloomed-vug.md`. |
 | morosecodeclique | Antisapian cyber-emo rap / blacklight heartbreak | Sandbox collective profile, style card, and member cards exist | `docs/music/bad-influence/style-cards/morosecodeclique-style.md` | TBD morosecodeclique debut material | Arrestthemall Records signing. Antisapian cyber-sad group with Inspect, Program State Loop Deamon, and Phish Lint. Profile: `docs/music/collectives/morosecodeclique.md`. |
-| Enum Rage Engine | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Sandbox artist profile, style card, and first song draft exist | `docs/music/bad-influence/style-cards/enum-rage-engine-style.md` | TBD Enum Rage Engine Cartridge Material | Antisapian solo console-music producer. Broken beat-em-up cartridge loops, fixed BPM, fixed key center, raw FM synths, square-wave bass, fake chip drums, no voices. Profile: `docs/music/collectives/enum-rage-engine.md`. |
+| Enum Rage Engine | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Sandbox artist profile, style card, first song drafts, and label-founder role exist | `docs/music/bad-influence/style-cards/enum-rage-engine-style.md` | TBD Enum Rage Engine Cartridge Material; `Worldskin: Original 16-Bit Soundtrack`; label `Pulse Width Music` | Antisapian solo console-music producer and founder of Pulse Width Music / PWM. Broken cartridge loops, BGM-safe game music, fixed BPM, raw FM synths, square-wave bass, fake chip drums, no voices. Profile: `docs/music/collectives/enum-rage-engine.md`. Label profile: `docs/music/labels/pulse-width-music.md`. |
+
+---
+
+## Label / Imprint Index
+
+| Label / Imprint | Type | Founder / Anchor | Primary Lane | Profile / Registry |
+|---|---|---|---|---|
+| Arrestthemall Records | Underground DIY label identity | Dead Mile Cypher / Dead Mile Cipher ecosystem | Underground rap, field-tape testimony, grave-trap, cyber-emo, label crossovers | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/label-registry.md` |
+| Pulse Width Music / PWM | Electronic imprint / label identity | Enum Rage Engine | Cartridge soundtracks, lo-fi industrial EBM, Antisapian console music, cyber-ambient, route-signal electronics, game-continuity OSTs | `docs/music/labels/pulse-width-music.md`; `docs/music/label-registry.md` |
 
 ---
 
@@ -50,7 +60,7 @@ Meridian Prime music lookup
 | `dead-mile-cipher-style.md` | Dead Mile Cypher / Dead Mile Cipher | Dead Mile Cypher, Dead Mile Cipher, DMC, S.A.D., Shame and Discontent, Down Pour, Arrestthemall Records, underground backpack rap, abstract boom-bap, field-tape rap, pirate radio rap, Annotations from the Low Road |
 | `gloomed-vug-style.md` | Gloomed Vug | Gloomed Vug, Arrestthemall Records, Tumulus, Shade Masiff, Ankylosapien, Bajadrasapien, young Aeonolacertian underground, saurian grave-trap, haunted dirt rap, mineral-cave reverb, blown-out bass |
 | `morosecodeclique-style.md` | morosecodeclique | morosecodeclique, Arrestthemall Records, Inspect, Program State Loop Deamon, Phish Lint, Beast Jaw, Antisapian cyber-emo rap, blacklight heartbreak, glitch-sad trap, cold synthetic guitars, voicemail ghosts |
-| `enum-rage-engine-style.md` | Enum Rage Engine | Enum Rage Engine, Antisapian console music, 16-bit industrial EBM, industrial chiptune, corrupted cartridge music, beat-em-up cartridge music, raw FM synth, square-wave bass, chip drums, no voices |
+| `enum-rage-engine-style.md` | Enum Rage Engine | Enum Rage Engine, Pulse Width Music, PWM, Antisapian console music, 16-bit industrial EBM, industrial chiptune, corrupted cartridge music, beat-em-up cartridge music, raw FM synth, square-wave bass, chip drums, no voices |
 
 ---
 
@@ -64,10 +74,12 @@ Meridian Prime music lookup
 | Annotations from the Low Road | Dead Mile Cypher / Dead Mile Cipher | Working studio album concept | `docs/music/album-registry.md` |
 | S.A.D. | Shame and Discontent One | Early collaboration / group-history stage | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / group-history stage | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
-| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug; morosecodeclique | DIY label / group-history identity / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md`; `docs/music/collectives/morosecodeclique.md` |
+| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug; morosecodeclique | DIY label / group-history identity / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md`; `docs/music/collectives/morosecodeclique.md`; `docs/music/label-registry.md` |
+| Pulse Width Music / PWM | Enum Rage Engine | Electronic imprint / label identity / founder role | `docs/music/labels/pulse-width-music.md`; `docs/music/label-registry.md`; `docs/music/collectives/enum-rage-engine.md` |
 | TBD Gloomed Vug debut material | Gloomed Vug | Working sandbox material | `docs/music/album-registry.md` |
 | TBD morosecodeclique debut material | morosecodeclique | Working sandbox material | `docs/music/album-registry.md` |
 | TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Working sandbox material | `docs/music/album-registry.md` |
+| Worldskin: Original 16-Bit Soundtrack | Enum Rage Engine | Meridian Prime Interactive Canon / Game Continuity OST | `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`; `docs/music/album-registry.md` |
 
 ---
 
@@ -85,6 +97,9 @@ album
 song
 song-index
 band-registry
+label
+label-registry
+music label
 Mergenta
 The Snifters
 Time Bastard
@@ -97,6 +112,18 @@ S.A.D.
 Shame and Discontent
 Down Pour
 Arrestthemall Records
+Pulse Width Music
+PWM
+Pulse Width
+Enum Rage Engine
+Antisapian console music
+electronic imprint
+cartridge soundtracks
+Worldskin OST
+Worldskin Original 16-Bit Soundtrack
+Blue Hole Reef
+Into the Blue
+Discontent One collaboration
 Gloomed Vug
 Tumulus
 Shade Masiff
@@ -115,8 +142,6 @@ Absconditian
 cyber-emo rap
 blacklight heartbreak
 glitch-sad trap
-Enum Rage Engine
-Antisapian console music
 16-bit industrial EBM
 industrial chiptune
 corrupted cartridge music
@@ -150,6 +175,12 @@ Annotations from the Low Road
 ## Maintenance Notes
 
 When a new fictional band is created, add it here first or immediately after the first usable style card is created.
+
+When a new label or imprint is created, add it to:
+
+```text
+docs/music/label-registry.md
+```
 
 When a new album is created, add it to:
 
