@@ -60,6 +60,7 @@ Suno song index
 | Relay Spires BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit vertical signal-tower EBM / music-only BGM | Track 3 for Worldskin Game Realm. WS-03 Vertical Signal Ecology, 90 BPM fixed, high cold FM arp, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
 | Furnace District BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit thermal foundry EBM / music-only BGM | Track 4 for Worldskin Game Realm. WS-04 Thermal Industrial Envelope, 92 BPM fixed, hot square/FM bass pulse, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | Blue Hole Reef BGM | Wet Signal District | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | 16-bit rainfield aquatic cartridge ambience / Wet Signal console translation | Track 5 for Worldskin Game Realm. Blue Hole Reef / Blueglass Reef, WS-05 Flooded Crystal Sample, beautiful reef that remembers a train station. File: `docs/music/songs/wet-signal-district/blue-hole-reef-bgm.md`. |
+| Into the Blue: Senote Layer | Wet Signal District x Enum Rage Engine | Expanded Worldskin Game Audio / Secret Track 5B | Drafted and saved | slow 16-bit aquifer and cenote ambience / secret Blue Hole Reef descent | Wet Signal x Enum collaboration. 74 BPM fixed, slowed broken Blue Hole Reef motif, submerged square-wave bass undertow, no literal water effects. File: `docs/music/songs/worldskin-collaborations/into-the-blue-senote-layer.md`. |
 | Graveyard Arcade BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | lo-fi 16-bit broken console funk / cemetery arcade EBM | Track 6 for Worldskin Game Realm. Graveyard Arcade / WS-06 Civic Debris Interface Zone, no coin/menu/power-up sounds. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | Orbital Rootworks BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | cold alien 16-bit EBM / sterile orbital root-machine ambience | Track 7 for Worldskin Game Realm. Orbital Rootworks / WS-07 Elevated Root-Machine Lattice, no scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
 | Enum Core BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | very slow deep 16-bit industrial doom EBM / Null Cavern dark reprise | Track 8 for Worldskin Game Realm. Version 2 primary: Slow Core Reprise, 64 BPM fixed, ominous machine-heart pressure. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
@@ -69,7 +70,7 @@ Suno song index
 | Rain in the Transit Glass | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 1. Opening portal: dead station reboot, rain as memory system, no vocals, no samples. File: `docs/music/songs/wet-signal-district/rain-in-the-transit-glass.md`. |
 | Shelter Sign Still Lit | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 2. Emotional shelter piece: warmth without safety, false shelter glow, no vocals, no samples. File: `docs/music/songs/wet-signal-district/shelter-sign-still-lit.md`. |
 | Blue Window Overpass | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / Antisapian night-color city-walk | Track 3. City-walk environment: Blue Window's Antisapian overpass piece, teal shimmer, magenta puddles. File: `docs/music/songs/wet-signal-district/blue-window-overpass.md`. |
-| Civic Sorrow Loop | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / fluorescent civic melancholy | Track 4. Deep sorrow pool: public space grieving in fluorescent silence, almost no drums. File: `docs/music/songs/wet-signal-district/civic-sorrow-loop.md`. |
+| Civic Sorrow Loop | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / fluorescent civic melancholy | Track 4. Deep sorrow pool. Public space grieving in fluorescent silence, almost no drums. File: `docs/music/songs/wet-signal-district/civic-sorrow-loop.md`. |
 | Platform Nine Without Arrivals | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / warm romantic memory | Track 5. Romantic glow: memory and architecture, tender but stranded, no vocals, no samples. File: `docs/music/songs/wet-signal-district/platform-nine-without-arrivals.md`. |
 
 ---
@@ -297,6 +298,39 @@ no gameplay cues
 no event sounds
 no power-up sounds
 no coin sounds
+no UI sounds
+no realistic drums
+no real artist names
+no direct imitation
+```
+
+### Worldskin Collaboration / Secret Cue Format
+
+Use for hybrid Worldskin cues such as `Into the Blue: Senote Layer`:
+
+```text
+instrumental only
+no vocals
+no speech
+no samples
+secret sublevel cue
+music-only background cue
+non-interactive BGM
+Wet Signal atmosphere plus Enum cartridge pressure
+fixed BPM
+fixed key center
+primitive FM console texture
+square-wave undertow
+soft chip drums
+glassy FM fragments
+motif mutation from a nearby main biome cue
+no literal water effects
+no bubbles
+no splashes
+no sonar
+no cave drip sounds
+no gameplay cues
+no event sounds
 no UI sounds
 no realistic drums
 no real artist names
