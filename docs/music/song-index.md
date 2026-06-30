@@ -65,6 +65,7 @@ Suno song index
 | Shelter Sign Still Lit | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 2. Emotional shelter piece: warmth without safety, false shelter glow, no vocals, no samples. File: `docs/music/songs/wet-signal-district/shelter-sign-still-lit.md`. |
 | Blue Window Overpass | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / Antisapian night-color city-walk | Track 3. City-walk environment: Blue Window's Antisapian overpass piece, teal shimmer, magenta puddles. File: `docs/music/songs/wet-signal-district/blue-window-overpass.md`. |
 | Civic Sorrow Loop | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / fluorescent civic melancholy | Track 4. Deep sorrow pool: public space grieving in fluorescent silence, almost no drums. File: `docs/music/songs/wet-signal-district/civic-sorrow-loop.md`. |
+| Platform Nine Without Arrivals | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / warm romantic memory | Track 5. Romantic glow: memory and architecture, tender but stranded, no vocals, no samples. File: `docs/music/songs/wet-signal-district/platform-nine-without-arrivals.md`. |
 
 ---
 
