@@ -36,7 +36,7 @@ Suno album prompt lookup
 | TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, `Absolute Nested Null`, and `Explicit`. |
 | TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. First single: `Null Cavern BGM`. Game-continuity OST lane: `Worldskin: Original 16-Bit Soundtrack`. |
 | Worldskin: Original 16-Bit Soundtrack | Enum Rage Engine | Game-continuity OST / 8-level BGM collection | Meridian Prime Interactive Canon / Game Continuity OST | Lo-fi 16-bit industrial EBM / music-only BGM | OST for the Worldskin Game Realm. Saved tracks include `Null Cavern BGM`, `Rust Marsh BGM`, `Relay Spires BGM`, and `Furnace District BGM`. File: `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`. |
-| After the Terminals Closed | Wet Signal District | Studio album concept / ambient electronic album | Working sandbox project | Rainfield ambient electronic / neon transit ambience | Pulse Width Music first non-Enum signing. Long-form rainlit synth ambience, original instrumentation, empty transit platforms, teal tapetum shimmer, and low-resolution city haze. Profile: `docs/music/collectives/wet-signal-district.md`. |
+| After the Terminals Closed | Wet Signal District | Studio album concept / ambient electronic album | Working sandbox project | Rainfield ambient electronic / neon transit ambience | Pulse Width Music first non-Enum signing. Roadmap file: `docs/music/collectives/wet-signal-district/after-the-terminals-closed-roadmap.md`. Long-form rainlit synth ambience, original instrumentation, empty transit platforms, teal tapetum shimmer, and low-resolution city haze. Profile: `docs/music/collectives/wet-signal-district.md`. |
 | Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved drafts include `Blue Light Burial` and `Rain in the Vug Mouth`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
@@ -153,16 +153,22 @@ Suno album prompt lookup
 
 ## Wet Signal District: After the Terminals Closed
 
+Roadmap file:
+
+```text
+docs/music/collectives/wet-signal-district/after-the-terminals-closed-roadmap.md
+```
+
 | Track # | Track | Status | Notes |
 |---|---|---|---|
-| 1 | Rain in the Transit Glass | Candidate | Opening rainfield ambient piece. Shelter glass, soft FM bells, distant station chords. |
-| 2 | Shelter Sign Still Lit | Candidate | False shelter warmth, neon civic loneliness, low-resolution glow. |
-| 3 | Teal Eyes Over Platform Nine | Candidate | Blue Window-forward Antisapian night-color piece. Teal tapetum shimmer and magenta reflections. |
-| 4 | City Sleeps in Error Light | Candidate | CRT station-board ambience, civic systems glowing after closure. |
-| 5 | Soft Architecture for No One | Candidate | Long-form pad piece about empty public space and comfort without audience. |
-| 6 | Last Train Through the Contact Fog | Candidate | Darker transit drift, contact haze, slow sub-bass warmth. |
-| 7 | The Overpass Remembered You | Candidate | Melancholic elevated-road ambience, wet concrete, memory in infrastructure. |
-| 8 | After the Terminals Closed | Candidate | Title track. Closing city drift, rainlit calm, no sample-based nostalgia. |
+| 1 | Rain in the Transit Glass | Candidate | Opening restoration. Dead station reboot, no voice sample, rain as memory system, restored but empty. |
+| 2 | Shelter Sign Still Lit | Candidate | Emotional shelter. Warmth without safety, false shelter glow, someone waited here. |
+| 3 | Blue Window Overpass | Candidate | City-walk environment. Blue Window's Antisapian overpass piece, teal shimmer, magenta puddles. |
+| 4 | Civic Sorrow Loop | Candidate | Deep sorrow pool. Public space grieving in fluorescent silence, almost no drums. |
+| 5 | Platform Nine Without Arrivals | Candidate | Warm romantic memory. Romance between memory and architecture, tender but stranded. |
+| 6 | Signal Mercy | Candidate | Duo identity / signal language. Station Mercy's synth field-recordist identity track, no real-world samples. |
+| 7 | Temple of the Last Rain | Candidate | Spiritual rain monument. Sacred terminal, empty congregation, no choir or vocal pad. |
+| 8 | After the Terminals Closed | Candidate | Long skyline closer. City continues after listener leaves, not hope but continuity. |
 
 ---
 
