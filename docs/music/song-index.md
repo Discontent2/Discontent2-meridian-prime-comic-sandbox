@@ -59,6 +59,7 @@ Suno song index
 | Rust Marsh BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit toxic swamp EBM / music-only BGM | Track 2 for Worldskin Game Realm. WS-02 Wetland Corrosion Patch, 86 BPM fixed, wet square/FM bass pulse, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/rust-marsh-bgm.md`. |
 | Relay Spires BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit vertical signal-tower EBM / music-only BGM | Track 3 for Worldskin Game Realm. WS-03 Vertical Signal Ecology, 90 BPM fixed, high cold FM arp, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
 | Furnace District BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit thermal foundry EBM / music-only BGM | Track 4 for Worldskin Game Realm. WS-04 Thermal Industrial Envelope, 92 BPM fixed, hot square/FM bass pulse, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
+| Blue Hole Reef BGM | Wet Signal District | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | 16-bit rainfield aquatic cartridge ambience / Wet Signal console translation | Track 5 for Worldskin Game Realm. Blue Hole Reef / Blueglass Reef, WS-05 Flooded Crystal Sample, beautiful reef that remembers a train station. File: `docs/music/songs/wet-signal-district/blue-hole-reef-bgm.md`. |
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | Antisapian cyber-emo rap x saurian grave-trap | Crossover track. Blue-light heartbreak meets grave-bell low-end, featuring Inspect, Program State Loop Deamon, Tumulus, and Shade Masiff. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
 | Rain in the Vug Mouth | Down Pour x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | pre-DMC field-tape rap x young Aeonolacertian grave-trap | Cleaned crossover track. All-male vocals only, no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
 | Rain in the Transit Glass | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 1. Opening portal: dead station reboot, rain as memory system, no vocals, no samples. File: `docs/music/songs/wet-signal-district/rain-in-the-transit-glass.md`. |
@@ -267,5 +268,33 @@ strong sense of place
 bracket-only lyrics-box arrangement map when using Suno lyrics field
 no real artist names
 no real song titles
+no direct imitation
+```
+
+### Wet Signal District 16-Bit Worldskin Format
+
+Use for Wet Signal District contributions to the Worldskin OST lane:
+
+```text
+instrumental only
+no vocals
+no speech
+no samples
+16-bit rainfield ambience
+primitive console texture
+warm liquid square-wave bass
+soft chip drums
+glassy FM lead or FM marimba
+rippling FM bell fragments
+tiny speaker warmth
+low-resolution shimmer
+BGM-safe arrangement
+no gameplay cues
+no event sounds
+no power-up sounds
+no coin sounds
+no UI sounds
+no realistic drums
+no real artist names
 no direct imitation
 ```
