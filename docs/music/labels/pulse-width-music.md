@@ -5,7 +5,7 @@
 **Type:** Electronic imprint / label identity  
 **Founder:** Enum Rage Engine  
 **Relationship:** Arrestthemall-adjacent electronic imprint  
-**Primary Lane:** cartridge soundtracks, lo-fi industrial EBM, Antisapian console music, cyber-ambient, route-signal electronics, and experimental game-continuity releases  
+**Primary Lane:** cartridge soundtracks, lo-fi industrial EBM, Antisapian console music, cyber-ambient, route-signal electronics, rainfield ambient, and experimental game-continuity releases  
 **Created:** 2026-06-30
 
 ---
@@ -14,7 +14,7 @@
 
 Pulse Width Music is a working sandbox label identity. It is not mainline canon unless explicitly promoted.
 
-It may be used immediately as a music-production label for Enum Rage Engine releases, electronic collaborations, game-continuity OST material, and experimental electronic acts in the Meridian Prime workspace.
+It may be used immediately as a music-production label for Enum Rage Engine releases, Wet Signal District releases, electronic collaborations, game-continuity OST material, and experimental electronic acts in the Meridian Prime workspace.
 
 ---
 
@@ -22,7 +22,7 @@ It may be used immediately as a music-production label for Enum Rage Engine rele
 
 Pulse Width Music is an Arrestthemall-adjacent electronic imprint founded by Enum Rage Engine.
 
-It exists for electronic music that feels built from signal damage, waveform pressure, cartridge failure, dead CRT glow, and low-resolution voltage.
+It exists for electronic music that feels built from signal damage, waveform pressure, cartridge failure, dead CRT glow, low-resolution voltage, and rainlit machine weather.
 
 Core phrase:
 
@@ -84,17 +84,20 @@ a specialist home for non-vocal machine music
 
 Arrestthemall Records remains the wider underground label ecosystem for rap, spoken testimony, grave-trap, cyber-emo, and crossover material.
 
-Pulse Width Music handles the colder voltage shelf: cartridge soundtracks, BGM, industrial chiptune, electronic route-murk, cyber-ambient, console experiments, and game-realm OSTs.
+Pulse Width Music handles the colder voltage shelf: cartridge soundtracks, BGM, industrial chiptune, electronic route-murk, cyber-ambient, console experiments, game-realm OSTs, and rainfield synth ambience.
 
 ---
 
 ## Roster / Release Lane
 
-Initial anchor artist:
+Signed roster:
 
 ```text
-Enum Rage Engine
+Enum Rage Engine - founder / first artist / Antisapian console music
+Wet Signal District - first non-Enum signing / rainfield ambient electronic duo
 ```
+
+Wet Signal District proves Pulse Width Music is not only Enum Rage Engine's chiptune bunker. It gives the label a dream wing: neon transit ambience, rainfield synth albums, slow cinematic pads, and original electronic atmosphere.
 
 Likely release lanes:
 
@@ -103,10 +106,12 @@ Worldskin: Original 16-Bit Soundtrack
 Enum Rage Engine cartridge singles
 Blue Hole Reef / Into the Blue secret-level material
 Discontent One electronic collaborations
+Wet Signal District rainfield ambient albums
 Antisapian console music
 route-signal electronics
 cyber-ambient EPs
 industrial chiptune compilations
+neon transit ambience releases
 ```
 
 Possible imprint series:
@@ -135,6 +140,7 @@ industrial but small-speaker
 melodic when needed
 ugly when useful
 BGM-safe when tied to games
+rainlit when the voltage softens
 ```
 
 Common musical materials:
@@ -153,6 +159,10 @@ CRT hum
 route-field haze
 cyber-ambient pads
 industrial EBM pulse
+slow cinematic pads
+soft FM bells
+wet pavement reverb
+neon transit chords
 ```
 
 ---
@@ -172,6 +182,8 @@ oscilloscope lines
 corrupted cartridge labels
 low-resolution sticker art
 black socket / wet cable imagery
+rain on shelter glass
+empty transit platform glow
 ```
 
 Logo concept:
@@ -229,6 +241,10 @@ Pulse Width Music
 PWM
 Pulse Width
 Enum Rage Engine
+Wet Signal District
+Blue Window
+Station Mercy
+After the Terminals Closed
 Arrestthemall-adjacent
 Arrestthemall Records
 Antisapian console music
@@ -239,6 +255,10 @@ lo-fi industrial EBM
 industrial chiptune
 route-signal electronics
 cyber-ambient
+rainfield ambient electronic
+neon transit ambience
+dreampunk-adjacent
+original synth instrumentation
 Worldskin OST
 Worldskin Original 16-Bit Soundtrack
 Blue Hole Reef
