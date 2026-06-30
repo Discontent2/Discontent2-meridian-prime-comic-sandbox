@@ -63,6 +63,7 @@ Suno song index
 | Rain in the Vug Mouth | Down Pour x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | pre-DMC field-tape rap x young Aeonolacertian grave-trap | Cleaned crossover track. All-male vocals only, no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
 | Rain in the Transit Glass | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 1. Opening portal: dead station reboot, rain as memory system, no vocals, no samples. File: `docs/music/songs/wet-signal-district/rain-in-the-transit-glass.md`. |
 | Shelter Sign Still Lit | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 2. Emotional shelter piece: warmth without safety, false shelter glow, no vocals, no samples. File: `docs/music/songs/wet-signal-district/shelter-sign-still-lit.md`. |
+| Blue Window Overpass | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience / Antisapian night-color city-walk | Track 3. City-walk environment: Blue Window's Antisapian overpass piece, teal shimmer, magenta puddles. File: `docs/music/songs/wet-signal-district/blue-window-overpass.md`. |
 
 ---
 
