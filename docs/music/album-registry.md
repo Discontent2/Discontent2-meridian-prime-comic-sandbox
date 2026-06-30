@@ -34,7 +34,7 @@ Suno album prompt lookup
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
 | TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
 | TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, `Absolute Nested Null`, and `Explicit`. |
-| TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. |
+| TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. First single: `Null Cavern BGM`. |
 | Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved drafts include `Blue Light Burial` and `Rain in the Vug Mouth`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
@@ -127,6 +127,7 @@ Suno album prompt lookup
 | Track | Subject | Status | Notes |
 |---|---|---|---|
 | Buried Pulse / Dumb Terminal Crawl | slow broken-console industrial loop | Drafted and saved | 82 BPM fixed, no voices, no vocals, no speech, no realistic drums, no samples, extremely lo-fi 16-bit industrial EBM crawl. File: `docs/music/songs/enum-rage-engine/buried-pulse-dumb-terminal-crawl.md`. |
+| Null Cavern BGM | alien cavern background music | First single / drafted and saved | 88 BPM fixed, music-only BGM, no gameplay cues, no event sounds, no voices, no vocals, no speech. File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
 
 ---
 
@@ -212,6 +213,11 @@ Enum Rage Engine
 TBD Enum Rage Engine Cartridge Material
 Buried Pulse
 Dumb Terminal Crawl
+Null Cavern BGM
+first single
+BGM
+background music
+music-only background cue
 16-bit industrial EBM
 industrial chiptune
 corrupted cartridge music
