@@ -6,6 +6,7 @@
 **OST Title:** Worldskin: Original 16-Bit Soundtrack  
 **Primary Artist:** Enum Rage Engine  
 **Guest / Contrast Cue:** Wet Signal District on Track 5, `Blue Hole Reef BGM`  
+**Expanded Game Audio Cue:** Enum Rage Engine on Track 9, `Worldskin Title Screen BGM`  
 **Adaptation Type:** Gamified Worldskin / Project Green Glove Interpretation  
 **Related Charter:** `docs/game-continuity/worldskin/worldskin-game-continuity-charter.md`  
 **Related Biome Map:** `docs/game-continuity/worldskin/worldskin-8-level-gamified-biome-map.md`  
@@ -83,6 +84,18 @@ long silence between motif phrases
 final machine-stomach atmosphere without gameplay signals
 ```
 
+Track 9 opens the expanded game-audio lane as title-screen dread:
+
+```text
+slow lo-fi 16-bit industrial cartridge ambience
+72 BPM fixed
+attract mode atmosphere
+buried hint of Null Cavern motif
+dead CRT pad
+green membrane shimmer
+the cartridge is awake before the player is
+```
+
 ---
 
 ## BGM Safety Rule
@@ -123,7 +136,7 @@ hi-fi polish
 
 ---
 
-## Current Tracklist
+## Current 8-Level Tracklist
 
 | # | Track | Level / Biome | World Works Designation | Status | Notes |
 |---|---|---|---|---|---|
@@ -135,6 +148,14 @@ hi-fi polish
 | 6 | Graveyard Arcade BGM | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Drafted and saved | Broken console funk without coin/menu/power-up sounds. Ghostly FM organ stab, rubbery square bass, cemetery arcade pressure. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | 7 | Orbital Rootworks BGM | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Drafted and saved | Cold alien EBM, sterile pad pressure, gravity-shift mood without scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
 | 8 | Enum Core BGM | The Enum Core | WS-08 Core Membrane Nexus | Drafted and saved | Version 2 primary. Slow 64 BPM Null Cavern reprise: ominous machine-heart pressure, massive square bass wall, buried inverted Null motif. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
+
+---
+
+## Expanded Game Audio Cues
+
+| # | Track | Function | Status | Notes |
+|---|---|---|---|---|
+| 9 | Worldskin Title Screen BGM | Title screen / attract mode / pre-start dread | Drafted and saved | Internal subtitle: `Cartridge Awake`. 72 BPM title-screen ambience, dead CRT pad, green membrane shimmer, buried hint of Null Cavern motif. File: `docs/music/songs/enum-rage-engine/worldskin-title-screen-bgm.md`. |
 
 ---
 
@@ -202,6 +223,14 @@ Enum Rage Engine, Enum Core BGM, Slow Core Reprise. Worldskin original 16-bit so
 
 ---
 
+## Saved Track 9 Prompt Reference
+
+```text
+Enum Rage Engine, Worldskin Title Screen BGM, Cartridge Awake. Expanded Worldskin 16-bit soundtrack title-screen cue. Instrumental only, no vocals, no speech. Full-length music-only title screen ambience, attract mode atmosphere, no gameplay cues, no event sounds, no menu beeps, no start-game sounds. Slow lo-fi 16-bit industrial cartridge ambience, 72 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, low square-wave bass pulse, cold FM sub layer, distant dead CRT pad, faint green membrane shimmer, soft metallic FM bell, buried hint of the Null Cavern 4-note motif, slow breathing console hum, black cave-mouth atmosphere, pearl node glow, title-screen dread. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Ominous but restrained, hypnotic, waiting, low-distraction, the game silently awake before the player presses anything. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no coin sound, no menu beep, no UI chirp, no start sound, no power-up sound, no alarm, no siren, no laser, no real artist names, no direct imitation.
+```
+
+---
+
 ## Album Cover Direction
 
 Cover should look like a lost 16-bit soundtrack insert, not clean modern synthwave.
@@ -249,10 +278,13 @@ Blueglass Reef BGM
 Graveyard Arcade BGM
 Orbital Rootworks BGM
 Enum Core BGM
+Worldskin Title Screen BGM
+Cartridge Awake
 Slow Core Reprise
 Worldskin Game Realm
 Meridian Prime Interactive Canon
 Game Continuity OST
+Expanded Worldskin Game Audio
 BGM-safe soundtrack
 Null Cavern BGM
 Rust Marsh BGM
@@ -263,10 +295,13 @@ Furnace District BGM
 lo-fi 16-bit broken console funk
 cold alien 16-bit EBM
 very slow deep 16-bit industrial doom EBM
+slow lo-fi 16-bit industrial cartridge ambience
 64 BPM
+72 BPM
 lo-fi chiptune
 raw FM synth
 background music
+title screen music
 Meridian Prime music
 Suno
 ```
