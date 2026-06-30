@@ -34,7 +34,8 @@ Suno album prompt lookup
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
 | TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
 | TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, `Absolute Nested Null`, and `Explicit`. |
-| TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. First single: `Null Cavern BGM`. |
+| TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. First single: `Null Cavern BGM`. Game-continuity OST lane: `Worldskin: Original 16-Bit Soundtrack`. |
+| Worldskin: Original 16-Bit Soundtrack | Enum Rage Engine | Game-continuity OST / 8-level BGM collection | Meridian Prime Interactive Canon / Game Continuity OST | Lo-fi 16-bit industrial EBM / music-only BGM | OST for the Worldskin Game Realm. Saved tracks include `Null Cavern BGM`, `Relay Spires BGM`, and `Furnace District BGM`; `Rust Marsh BGM` drafted in chat / ready to save. File: `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`. |
 | Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved drafts include `Blue Light Burial` and `Rain in the Vug Mouth`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
@@ -127,7 +128,24 @@ Suno album prompt lookup
 | Track | Subject | Status | Notes |
 |---|---|---|---|
 | Buried Pulse / Dumb Terminal Crawl | slow broken-console industrial loop | Drafted and saved | 82 BPM fixed, no voices, no vocals, no speech, no realistic drums, no samples, extremely lo-fi 16-bit industrial EBM crawl. File: `docs/music/songs/enum-rage-engine/buried-pulse-dumb-terminal-crawl.md`. |
-| Null Cavern BGM | alien cavern background music | First single / drafted and saved | 88 BPM fixed, music-only BGM, no gameplay cues, no event sounds, no voices, no vocals, no speech. File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
+| Null Cavern BGM | Worldskin / WS-01 Subterranean Contact Patch | First single / drafted and saved | Track 1. 88 BPM fixed, music-only BGM, no gameplay cues, no event sounds, no voices, no vocals, no speech. File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
+| Relay Spires BGM | Worldskin / WS-03 Vertical Signal Ecology | Drafted and saved | Track 3. 90 BPM fixed, vertical signal-tower EBM, thin square/FM bass pulse, high cold FM arp. File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
+| Furnace District BGM | Worldskin / WS-04 Thermal Industrial Envelope | Drafted and saved | Track 4. 92 BPM fixed, thermal foundry EBM, hot square/FM bass pulse, harsh FM arp. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
+
+---
+
+## Worldskin: Original 16-Bit Soundtrack
+
+| Track # | Track | Level / Biome | Status | Notes |
+|---|---|---|---|---|
+| 1 | Null Cavern BGM | Null Cavern / WS-01 Subterranean Contact Patch | First single / drafted and saved | File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
+| 2 | Rust Marsh BGM | Rust Marsh / WS-02 Wetland Corrosion Patch | Drafted in chat / ready to save | Toxic swamp follow-up, wet FM bass, muffled chip percussion. |
+| 3 | Relay Spires BGM | Relay Spires / WS-03 Vertical Signal Ecology | Drafted and saved | File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
+| 4 | Furnace District BGM | Furnace District / WS-04 Thermal Industrial Envelope | Drafted and saved | File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
+| 5 | Blueglass Reef BGM | Blueglass Reef / WS-05 Flooded Crystal Sample | Planned | Slow liquid FM pads, glassy but lo-fi bass pulse. |
+| 6 | Graveyard Arcade BGM | Graveyard Arcade / WS-06 Civic Debris Interface Zone | Planned | Broken console funk, BGM-safe, no arcade-cue clutter. |
+| 7 | Orbital Rootworks BGM | Orbital Rootworks / WS-07 Elevated Root-Machine Lattice | Planned | Cold alien EBM, sterile pad pressure. |
+| 8 | Enum Core BGM | The Enum Core / WS-08 Core Membrane Nexus | Planned | Minimal industrial trance and darker reprise of Null Cavern. |
 
 ---
 
@@ -137,129 +155,3 @@ Suno album prompt lookup
 |---|---|---|---|
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Drafted and saved | Antisapian blue-light heartbreak fused with Aeonolacertian grave-trap. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
 | Rain in the Vug Mouth | Down Pour x Gloomed Vug | Drafted and saved | Cleaned all-male crossover track with no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
-
----
-
-## Pre-DMC Group History Projects
-
-| Project | Lineup | Function | Reference |
-|---|---|---|---|
-| S.A.D. | Shame and Discontent One | First collaboration / grief tapes | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/songs/sad/decelerator.md` |
-| Down Pour | Shame, Discontent One, Burn Notice | Intermediate trio stage / evidence made heavy | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
-| Arrestthemall Records | Dead Mile Cypher; Gloomed Vug; morosecodeclique | DIY label / mission statement / label roster | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md`; `docs/music/collectives/gloomed-vug.md`; `docs/music/collectives/morosecodeclique.md` |
-
----
-
-## Search Tags
-
-```text
-album
-albums
-album-registry
-music
-Meridian Prime music
-Suno
-song cycle
-tracklist
-Creature Tracks
-Gentrification Creature Tracks
-Route to Hell-Wreck Deluxe
-Live from the Low Road Road House
-Annotations from the Low Road
-Dead Mile Cypher
-Dead Mile Cipher
-DMC
-S.A.D.
-Decelerator
-Shame and Discontent
-Shame and Discontent One
-Down Pour
-Arrestthemall Records
-Arrestthemall Records crossover singles
-Gloomed Vug
-Tumulus
-Shade Masiff
-Ankylosapien
-Bajadrasapien
-saurian grave-trap
-haunted dirt rap
-Ravenous
-Loxian
-Skin Suit
-Small Shield Curse
-Clutch Runt Gospel
-Vug Mouth
-Cloak Over the Tailgate
-Armor Never Fit
-Ridge Ghosts Don't Sleep
-morosecodeclique
-Inspect
-Program State Loop Deamon
-Lint
-Beast Jaw
-Antisapian
-Absconditian
-cyber-emo rap
-blacklight heartbreak
-glitch-sad trap
-blacklight brightside
-Code
-sixteen lines of code
-Embed Me in Archives
-Absolute Nested Null
-Explicit
-darkwave rap energy
-Enum Rage Engine
-TBD Enum Rage Engine Cartridge Material
-Buried Pulse
-Dumb Terminal Crawl
-Null Cavern BGM
-first single
-BGM
-background music
-music-only background cue
-16-bit industrial EBM
-industrial chiptune
-corrupted cartridge music
-beat-em-up cartridge music
-raw FM synth
-square-wave bass
-chip drums
-Blue Light Burial
-Rain in the Vug Mouth
-no female vocals
-no spoken samples
-404heart
-password reset cemetery
-teal eyes offline
-inspect element
-program state funeral
-beast jaw summer
-phishhook valentine
-delete my reflection
-Shame
-Blue Tapetum
-Burn Notice
-Discontent One
-Time Bastard
-Time Bastards
-Mergenta
-The Snifters
-The Second Light That Follows
-The Soft Alarm
-Virus Lizard
-Look-Away Walker
-Hush-Teeth
-Lizard Suit
-Cloud Spine
-Tin Grin
-Wreck Rex
-Resurrection Rob
-Coward Horus
-Meridian Prime Fever
-Receipts Burn Clean
-No Shelter in the Margins
-Map Wrong, Miles Right
-The Blacktop Thesis
-Blue Light in the Footnote
-```
