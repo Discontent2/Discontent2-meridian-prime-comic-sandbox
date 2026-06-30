@@ -35,7 +35,7 @@ Suno album prompt lookup
 | TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
 | TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, `Absolute Nested Null`, and `Explicit`. |
 | TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. First single: `Null Cavern BGM`. Game-continuity OST lane: `Worldskin: Original 16-Bit Soundtrack`. |
-| Worldskin: Original 16-Bit Soundtrack | Enum Rage Engine | Game-continuity OST / 8-level BGM collection | Meridian Prime Interactive Canon / Game Continuity OST | Lo-fi 16-bit industrial EBM / music-only BGM | OST for the Worldskin Game Realm. Saved tracks include `Null Cavern BGM`, `Relay Spires BGM`, and `Furnace District BGM`; `Rust Marsh BGM` drafted in chat / ready to save. File: `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`. |
+| Worldskin: Original 16-Bit Soundtrack | Enum Rage Engine | Game-continuity OST / 8-level BGM collection | Meridian Prime Interactive Canon / Game Continuity OST | Lo-fi 16-bit industrial EBM / music-only BGM | OST for the Worldskin Game Realm. Saved tracks include `Null Cavern BGM`, `Rust Marsh BGM`, `Relay Spires BGM`, and `Furnace District BGM`. File: `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`. |
 | Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved drafts include `Blue Light Burial` and `Rain in the Vug Mouth`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
 | TBD Surf-Goth Garage Material | The Snifters | Singles / style tests | Working sandbox material | Growlers Style | Surf-goth garage, beach-noir roadhouse psych, smoky slacker croon. |
@@ -129,6 +129,7 @@ Suno album prompt lookup
 |---|---|---|---|
 | Buried Pulse / Dumb Terminal Crawl | slow broken-console industrial loop | Drafted and saved | 82 BPM fixed, no voices, no vocals, no speech, no realistic drums, no samples, extremely lo-fi 16-bit industrial EBM crawl. File: `docs/music/songs/enum-rage-engine/buried-pulse-dumb-terminal-crawl.md`. |
 | Null Cavern BGM | Worldskin / WS-01 Subterranean Contact Patch | First single / drafted and saved | Track 1. 88 BPM fixed, music-only BGM, no gameplay cues, no event sounds, no voices, no vocals, no speech. File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
+| Rust Marsh BGM | Worldskin / WS-02 Wetland Corrosion Patch | Drafted and saved | Track 2. 86 BPM fixed, toxic swamp EBM, wet square/FM bass pulse, muffled chip percussion. File: `docs/music/songs/enum-rage-engine/rust-marsh-bgm.md`. |
 | Relay Spires BGM | Worldskin / WS-03 Vertical Signal Ecology | Drafted and saved | Track 3. 90 BPM fixed, vertical signal-tower EBM, thin square/FM bass pulse, high cold FM arp. File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
 | Furnace District BGM | Worldskin / WS-04 Thermal Industrial Envelope | Drafted and saved | Track 4. 92 BPM fixed, thermal foundry EBM, hot square/FM bass pulse, harsh FM arp. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 
@@ -139,7 +140,7 @@ Suno album prompt lookup
 | Track # | Track | Level / Biome | Status | Notes |
 |---|---|---|---|---|
 | 1 | Null Cavern BGM | Null Cavern / WS-01 Subterranean Contact Patch | First single / drafted and saved | File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
-| 2 | Rust Marsh BGM | Rust Marsh / WS-02 Wetland Corrosion Patch | Drafted in chat / ready to save | Toxic swamp follow-up, wet FM bass, muffled chip percussion. |
+| 2 | Rust Marsh BGM | Rust Marsh / WS-02 Wetland Corrosion Patch | Drafted and saved | File: `docs/music/songs/enum-rage-engine/rust-marsh-bgm.md`. |
 | 3 | Relay Spires BGM | Relay Spires / WS-03 Vertical Signal Ecology | Drafted and saved | File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
 | 4 | Furnace District BGM | Furnace District / WS-04 Thermal Industrial Envelope | Drafted and saved | File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | 5 | Blueglass Reef BGM | Blueglass Reef / WS-05 Flooded Crystal Sample | Planned | Slow liquid FM pads, glassy but lo-fi bass pulse. |
