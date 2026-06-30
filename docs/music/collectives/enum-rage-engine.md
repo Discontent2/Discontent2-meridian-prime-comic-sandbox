@@ -149,10 +149,42 @@ First saved draft:
 Buried Pulse / Dumb Terminal Crawl
 ```
 
-Song file:
+First single:
+
+```text
+Null Cavern BGM
+```
+
+Song files:
 
 ```text
 docs/music/songs/enum-rage-engine/buried-pulse-dumb-terminal-crawl.md
+docs/music/songs/enum-rage-engine/null-cavern-bgm.md
+```
+
+---
+
+## BGM Production Note
+
+`Null Cavern BGM` marks Enum Rage Engine's shift into background-music-safe console cues.
+
+BGM-safe Enum tracks should avoid sounds that could be mistaken for gameplay information:
+
+```text
+power-up sounds
+item sounds
+coin sounds
+menu beeps
+UI chirps
+alarms
+sirens
+doors
+weapons
+impacts
+creatures
+footsteps
+scanning sounds
+laser zaps
 ```
 
 ---
@@ -169,6 +201,9 @@ industrial chiptune
 corrupted cartridge music
 beat-em-up cartridge music
 lo-fi chiptune
+BGM
+background music
+music-only background cue
 fixed BPM
 fixed key
 raw FM synth
@@ -176,6 +211,8 @@ square-wave bass
 chip drums
 Buried Pulse
 Dumb Terminal Crawl
+Null Cavern BGM
+first single
 Meridian Prime music
 Suno
 ```
