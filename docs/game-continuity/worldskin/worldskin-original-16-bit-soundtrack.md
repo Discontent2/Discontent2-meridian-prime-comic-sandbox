@@ -59,6 +59,17 @@ ghostly FM organ stab
 arcade atmosphere without gameplay signals
 ```
 
+Track 7 lifts the palette into cold vertical root infrastructure:
+
+```text
+cold alien 16-bit EBM
+sterile orbital root-machine ambience
+thin orbital square-wave bass
+slow root-machine FM arp
+sterile pad pressure
+gravity-shift atmosphere without gameplay signals
+```
+
 ---
 
 ## BGM Safety Rule
@@ -109,7 +120,7 @@ hi-fi polish
 | 4 | Furnace District BGM | Furnace District | WS-04 Thermal Industrial Envelope | Drafted and saved | Heavy slow EBM pulse, hot low-end, dull metal rhythm. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | 5 | Blue Hole Reef BGM | Blue Hole Reef / Blueglass Reef | WS-05 Flooded Crystal Sample | Drafted and saved | Wet Signal District 16-bit reef cue. Beautiful reef that remembers a train station, glassy FM marimba lead, warm liquid square bass. File: `docs/music/songs/wet-signal-district/blue-hole-reef-bgm.md`. |
 | 6 | Graveyard Arcade BGM | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Drafted and saved | Broken console funk without coin/menu/power-up sounds. Ghostly FM organ stab, rubbery square bass, cemetery arcade pressure. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
-| 7 | Orbital Rootworks BGM | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Planned | Cold alien EBM, sterile pad pressure, gravity-shift mood. |
+| 7 | Orbital Rootworks BGM | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Drafted and saved | Cold alien EBM, sterile pad pressure, gravity-shift mood without scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
 | 8 | Enum Core BGM | The Enum Core | WS-08 Core Membrane Nexus | Planned | Minimal industrial trance and darker reprise of Null Cavern. |
 
 ---
@@ -162,6 +173,14 @@ Enum Rage Engine, Graveyard Arcade BGM. Worldskin original 16-bit soundtrack cue
 
 ---
 
+## Saved Track 7 Prompt Reference
+
+```text
+Enum Rage Engine, Orbital Rootworks BGM. Worldskin original 16-bit soundtrack cue. Instrumental only, no vocals, no speech. Full-length music-only background cue, non-interactive BGM, no gameplay cues, no event sounds. Cold alien 16-bit EBM, sterile orbital root-machine ambience, 96 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, thin orbital square-wave bass pulse, cold FM sub layer, fake chip kick, tiny digital snare tick, narrow metallic FM hat, slow root-machine FM arp, sterile non-vocal pad pressure, distant lattice hum, gravity-shift atmosphere, elevated root infrastructure, clean wrong vertical space. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Memorable simple 5-note orbital root motif, repeats steadily, cold and suspended, low-distraction. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no scan sound, no alarm, no siren, no laser, no UI chirp, no menu beep, no power-up sound, no real artist names, no direct imitation.
+```
+
+---
+
 ## Album Cover Direction
 
 Cover should look like a lost 16-bit soundtrack insert, not clean modern synthwave.
@@ -207,6 +226,7 @@ Wet Signal District
 Blue Hole Reef BGM
 Blueglass Reef BGM
 Graveyard Arcade BGM
+Orbital Rootworks BGM
 Worldskin Game Realm
 Meridian Prime Interactive Canon
 Game Continuity OST
@@ -215,11 +235,11 @@ Null Cavern BGM
 Rust Marsh BGM
 Relay Spires BGM
 Furnace District BGM
-Orbital Rootworks BGM
 Enum Core BGM
 16-bit industrial EBM
 16-bit rainfield aquatic cartridge ambience
 lo-fi 16-bit broken console funk
+cold alien 16-bit EBM
 lo-fi chiptune
 raw FM synth
 background music
