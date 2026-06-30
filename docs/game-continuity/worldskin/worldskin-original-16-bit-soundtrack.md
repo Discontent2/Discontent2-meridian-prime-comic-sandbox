@@ -7,7 +7,7 @@
 **Primary Artist:** Enum Rage Engine  
 **Guest / Contrast Cue:** Wet Signal District on Track 5, `Blue Hole Reef BGM`  
 **Secret Collaboration Cue:** Wet Signal District x Enum Rage Engine on Secret Track 5B, `Into the Blue: Senote Layer`  
-**Expanded Game Audio Cue:** Enum Rage Engine on Track 9, `Worldskin Title Screen BGM`  
+**Expanded Game Audio Cues:** Enum Rage Engine on Track 9, `Worldskin Title Screen BGM`; Track 10, `Worldskin File Select BGM`  
 **Adaptation Type:** Gamified Worldskin / Project Green Glove Interpretation  
 **Related Charter:** `docs/game-continuity/worldskin/worldskin-game-continuity-charter.md`  
 **Related Biome Map:** `docs/game-continuity/worldskin/worldskin-8-level-gamified-biome-map.md`  
@@ -109,6 +109,18 @@ green membrane shimmer
 the cartridge is awake before the player is
 ```
 
+Track 10 turns the front-end into a memory shrine:
+
+```text
+slow lo-fi 16-bit memory-screen ambience
+68 BPM fixed
+file-select and save-screen cue
+soft square-wave bass pulse
+faint green memory-slot shimmer
+quiet Null Cavern motif fragment
+fragile comfort inside machine dread
+```
+
 ---
 
 ## BGM Safety Rule
@@ -130,6 +142,10 @@ item sounds
 coin sounds
 menu beeps
 UI chirps
+cursor sounds
+select sounds
+save sounds
+save confirmation sounds
 alarms
 sirens
 doors
@@ -191,6 +207,7 @@ cave drip sounds
 | # | Track | Function | Status | Notes |
 |---|---|---|---|---|
 | 9 | Worldskin Title Screen BGM | Title screen / attract mode / pre-start dread | Drafted and saved | Internal subtitle: `Cartridge Awake`. 72 BPM title-screen ambience, dead CRT pad, green membrane shimmer, buried hint of Null Cavern motif. File: `docs/music/songs/enum-rage-engine/worldskin-title-screen-bgm.md`. |
+| 10 | Worldskin File Select BGM | File select / save screen / memory-slot atmosphere | Drafted and saved | Internal subtitle: `Memory Slot Shrine`. 68 BPM memory-screen ambience, soft square bass, green memory-slot shimmer, quiet Null Cavern motif fragment, no menu/cursor/select/save sounds. File: `docs/music/songs/enum-rage-engine/worldskin-file-select-bgm.md`. |
 
 ---
 
@@ -274,6 +291,14 @@ Enum Rage Engine, Worldskin Title Screen BGM, Cartridge Awake. Expanded Worldski
 
 ---
 
+## Saved Track 10 Prompt Reference
+
+```text
+Enum Rage Engine, Worldskin File Select BGM, Memory Slot Shrine. Expanded Worldskin 16-bit soundtrack file-select and save-screen cue. Instrumental only, no vocals, no speech. Full-length music-only front-end ambience, non-interactive BGM, no gameplay cues, no event sounds, no menu beeps, no cursor sounds, no select sounds, no save confirmation sounds. Slow lo-fi 16-bit memory-screen ambience, 68 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, soft square-wave bass pulse, warm cold FM sub layer, distant dead CRT pad, faint green memory-slot shimmer, soft FM bell tones, tiny glassy FM key fragments, low cartridge hum, pearl save-node glow, worn plastic cartridge warmth, quiet Null Cavern motif fragment hidden in the background, gentle sanctuary pressure, file-select dread with fragile comfort. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Ominous but calm, reflective, low-distraction, memory suspended inside the cartridge. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no coin sound, no menu beep, no cursor sound, no select sound, no save sound, no UI chirp, no start sound, no power-up sound, no alarm, no siren, no laser, no real artist names, no direct imitation.
+```
+
+---
+
 ## Album Cover Direction
 
 Cover should look like a lost 16-bit soundtrack insert, not clean modern synthwave.
@@ -326,7 +351,9 @@ Graveyard Arcade BGM
 Orbital Rootworks BGM
 Enum Core BGM
 Worldskin Title Screen BGM
+Worldskin File Select BGM
 Cartridge Awake
+Memory Slot Shrine
 Slow Core Reprise
 Worldskin Game Realm
 Meridian Prime Interactive Canon
@@ -344,13 +371,17 @@ lo-fi 16-bit broken console funk
 cold alien 16-bit EBM
 very slow deep 16-bit industrial doom EBM
 slow lo-fi 16-bit industrial cartridge ambience
+slow lo-fi 16-bit memory-screen ambience
 64 BPM
+68 BPM
 72 BPM
 74 BPM
 lo-fi chiptune
 raw FM synth
 background music
 title screen music
+file select music
+save screen music
 secret sublevel music
 Meridian Prime music
 Suno
