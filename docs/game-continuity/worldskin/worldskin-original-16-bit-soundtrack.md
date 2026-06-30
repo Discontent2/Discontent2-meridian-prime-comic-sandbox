@@ -6,6 +6,7 @@
 **OST Title:** Worldskin: Original 16-Bit Soundtrack  
 **Primary Artist:** Enum Rage Engine  
 **Guest / Contrast Cue:** Wet Signal District on Track 5, `Blue Hole Reef BGM`  
+**Secret Collaboration Cue:** Wet Signal District x Enum Rage Engine on Secret Track 5B, `Into the Blue: Senote Layer`  
 **Expanded Game Audio Cue:** Enum Rage Engine on Track 9, `Worldskin Title Screen BGM`  
 **Adaptation Type:** Gamified Worldskin / Project Green Glove Interpretation  
 **Related Charter:** `docs/game-continuity/worldskin/worldskin-game-continuity-charter.md`  
@@ -48,6 +49,18 @@ warm liquid square-wave bass
 glassy FM marimba lead
 playful but lonely reef mood
 Wet Signal District emotional place-music compressed into console hardware
+```
+
+Secret Track 5B pulls Track 5 downward into a hidden aquifer/cenote layer:
+
+```text
+Wet Signal District x Enum Rage Engine
+secret Blue Hole Reef descent
+74 BPM fixed
+slow 16-bit aquifer and cenote ambience
+submerged square-wave bass undertow
+Blue Hole Reef 5-note motif slowed and broken
+no literal water effects
 ```
 
 Track 6 returns to Enum Rage Engine through broken console funk:
@@ -134,6 +147,20 @@ realistic drums
 hi-fi polish
 ```
 
+For aquatic / secret-water cues, also avoid:
+
+```text
+literal water sounds
+water drops
+bubbles
+splashes
+wave sounds
+sonar
+submarine sounds
+scuba sounds
+cave drip sounds
+```
+
 ---
 
 ## Current 8-Level Tracklist
@@ -148,6 +175,14 @@ hi-fi polish
 | 6 | Graveyard Arcade BGM | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Drafted and saved | Broken console funk without coin/menu/power-up sounds. Ghostly FM organ stab, rubbery square bass, cemetery arcade pressure. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | 7 | Orbital Rootworks BGM | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Drafted and saved | Cold alien EBM, sterile pad pressure, gravity-shift mood without scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
 | 8 | Enum Core BGM | The Enum Core | WS-08 Core Membrane Nexus | Drafted and saved | Version 2 primary. Slow 64 BPM Null Cavern reprise: ominous machine-heart pressure, massive square bass wall, buried inverted Null motif. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
+
+---
+
+## Secret / Optional Sublevel Cues
+
+| # | Track | Function | Status | Notes |
+|---|---|---|---|---|
+| 5B | Into the Blue: Senote Layer | Hidden aquifer / cenote descent beneath Blue Hole Reef | Drafted and saved | Wet Signal District x Enum Rage Engine collaboration. 74 BPM secret Blue Hole Reef descent, submerged square bass undertow, slowed broken Blue Hole Reef motif, no literal water effects. File: `docs/music/songs/worldskin-collaborations/into-the-blue-senote-layer.md`. |
 
 ---
 
@@ -195,6 +230,14 @@ Enum Rage Engine, Furnace District BGM. Full-length music-only background cue, i
 
 ```text
 Wet Signal District, Blue Hole Reef BGM. 16-bit rainfield aquatic cartridge ambience, instrumental only, no vocals, no speech. Original synth instrumentation, no samples. Slow underwater 16-bit ambient electronic, 82 BPM, warm liquid square-wave bass, soft chip kick, tiny digital snare tick, gentle metallic FM hat, glassy FM marimba lead, rippling FM bell fragments, low-pass ocean haze, wet cavern reverb, soft sub-bass warmth, distant CRT glow, teal tapetum shimmer, magenta reef-light reflections. Melodic but restrained, beautiful tropical alien reef, playful but lonely, sunken transit-station mood, neon water over pearl nodes, 16-bit console texture, tiny speaker warmth, low-resolution shimmer. Memorable simple 5-note reef motif, repeats slowly, no overdevelopment. No pop vocals, no spoken sample, no choir, no vocal pad, no EDM drop, no synthwave gloss, no realistic drums, no real artist names, no direct imitation.
+```
+
+---
+
+## Saved Secret Track 5B Prompt Reference
+
+```text
+Wet Signal District x Enum Rage Engine, Into the Blue: Senote Layer. Expanded Worldskin 16-bit soundtrack secret sublevel cue. Instrumental only, no vocals, no speech. Full-length music-only background cue, non-interactive BGM, no gameplay cues, no event sounds. Slow 16-bit aquifer and cenote ambience, secret Blue Hole Reef descent, 74 BPM fixed, one minor key center, no tempo changes, no key changes. Original synth instrumentation, no samples. Primitive FM console texture, low-pass freshwater haze, submerged square-wave bass undertow, cold FM sub layer, soft chip kick, sparse digital snare tick, barely present metallic FM hat, distant glassy FM marimba fragments, colder soft FM bells, mineral reverb, deep cenote drone, dead CRT glow underwater, green membrane shimmer under blue water, teal tapetum reflection in black freshwater, magenta reef light fading far above. Blue Hole Reef 5-note motif returns slowed and broken, last two notes falling lower, beautiful but foreboding, sacred flooded cavern mood, too clear to be safe. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. No voices, no vocals, no speech, no choir, no samples, no literal water sound effects, no bubbles, no splashes, no sonar, no cave drip sounds, no realistic drums, no UI sounds, no menu beeps, no power-up sounds, no real artist names, no direct imitation.
 ```
 
 ---
@@ -275,6 +318,10 @@ Enum Rage Engine
 Wet Signal District
 Blue Hole Reef BGM
 Blueglass Reef BGM
+Into the Blue
+Into the Blue Senote Layer
+Senote Layer
+Secret Track 5B
 Graveyard Arcade BGM
 Orbital Rootworks BGM
 Enum Core BGM
@@ -292,16 +339,19 @@ Relay Spires BGM
 Furnace District BGM
 16-bit industrial EBM
 16-bit rainfield aquatic cartridge ambience
+slow 16-bit aquifer and cenote ambience
 lo-fi 16-bit broken console funk
 cold alien 16-bit EBM
 very slow deep 16-bit industrial doom EBM
 slow lo-fi 16-bit industrial cartridge ambience
 64 BPM
 72 BPM
+74 BPM
 lo-fi chiptune
 raw FM synth
 background music
 title screen music
+secret sublevel music
 Meridian Prime music
 Suno
 ```
