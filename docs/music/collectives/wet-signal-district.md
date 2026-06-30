@@ -152,10 +152,29 @@ Working album:
 After the Terminals Closed
 ```
 
+Roadmap file:
+
+```text
+docs/music/collectives/wet-signal-district/after-the-terminals-closed-roadmap.md
+```
+
 Concept:
 
 ```text
-A full-length ambient electronic album about rainlit transit spaces, false shelter, civic loneliness, Antisapian glow, and the strange comfort of a city that keeps its lights on for people who are not coming back.
+A rainfield ambient album about a transit system that keeps performing comfort after the people it served have disappeared.
+```
+
+Album shape:
+
+```text
+1. Opening restoration
+2. Emotional shelter
+3. City-walk environment
+4. Deep sorrow pool
+5. Warm romantic memory
+6. Duo identity / signal language
+7. Spiritual rain monument
+8. Long skyline closer
 ```
 
 Candidate tracklist:
@@ -163,11 +182,11 @@ Candidate tracklist:
 ```text
 1. Rain in the Transit Glass
 2. Shelter Sign Still Lit
-3. Teal Eyes Over Platform Nine
-4. City Sleeps in Error Light
-5. Soft Architecture for No One
-6. Last Train Through the Contact Fog
-7. The Overpass Remembered You
+3. Blue Window Overpass
+4. Civic Sorrow Loop
+5. Platform Nine Without Arrivals
+6. Signal Mercy
+7. Temple of the Last Rain
 8. After the Terminals Closed
 ```
 
@@ -248,6 +267,15 @@ first non-Enum signing
 Enum Rage Engine
 Blue Window
 Station Mercy
+After the Terminals Closed
+After the Terminals Closed roadmap
+Rain in the Transit Glass
+Shelter Sign Still Lit
+Blue Window Overpass
+Civic Sorrow Loop
+Platform Nine Without Arrivals
+Signal Mercy
+Temple of the Last Rain
 rainfield ambient electronic
 neon transit ambience
 dreampunk-adjacent
@@ -259,7 +287,6 @@ low-resolution city haze
 Antisapian night color
 teal tapetum shimmer
 magenta reflections
-After the Terminals Closed
 Meridian Prime music
 Suno
 ```
