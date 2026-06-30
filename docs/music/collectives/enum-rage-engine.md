@@ -1,7 +1,7 @@
 # Enum Rage Engine
 
 **Status:** Sandbox Music Artist / Non-Canon Until Promoted  
-**Label / Scene:** Arrestthemall-adjacent / Antisapian console music  
+**Label / Scene:** Pulse Width Music founder / Arrestthemall-adjacent / Antisapian console music  
 **Primary Style:** lo-fi 16-bit industrial EBM / corrupted beat-em-up cartridge music  
 **Species / Faction:** Antisapian / Absconditian  
 **Created:** 2026-06-29
@@ -10,7 +10,7 @@
 
 ## Canon / Sandbox Note
 
-Enum Rage Engine is a working sandbox music identity. This file does not canonize the artist, songs, albums, or lore references until explicitly promoted.
+Enum Rage Engine is a working sandbox music identity. This file does not canonize the artist, songs, albums, label identities, or lore references until explicitly promoted.
 
 ---
 
@@ -31,6 +31,34 @@ Core phrase:
 ```text
 Enum Rage Engine makes console music that sounds like the fight screen failed to load but kept swinging.
 ```
+
+---
+
+## Pulse Width Music / PWM
+
+Enum Rage Engine is the founder, first artist, house producer, waveform custodian, and corrupted A&R of Pulse Width Music.
+
+Pulse Width Music is an Arrestthemall-adjacent electronic imprint for cartridge soundtracks, lo-fi industrial EBM, Antisapian console music, cyber-ambient, route-signal electronics, experimental collaborations, and game-continuity OST material.
+
+Label profile:
+
+```text
+docs/music/labels/pulse-width-music.md
+```
+
+Label registry:
+
+```text
+docs/music/label-registry.md
+```
+
+Core phrase:
+
+```text
+Pulse Width Music is where the square wave learned to breathe.
+```
+
+Enum's label role should not be framed as a polished corporate executive position. He is better treated as the person who found the dead outlet behind the wall and started pressing cartridge shells into it.
 
 ---
 
@@ -63,6 +91,8 @@ exposed wires like nerves
 blue hands over damaged buttons
 magenta pupil reflection in dead glass
 teal tapetum flash in monitor black
+PWM block-letter logo
+square-wave waveform mark
 ```
 
 ---
@@ -129,9 +159,10 @@ morosecodeclique = heartbreak through cracked phones
 Enum Rage Engine = cartridge violence through broken sound chips
 Gloomed Vug = saurian grave-trap and mineral dirt
 Dead Mile Cypher = dangerous archive and testimony
+Pulse Width Music = the electronic voltage shelf where machine music gets catalogued
 ```
 
-Enum Rage Engine can score fight screens, menus, corrupted arcade interludes, chiptune industrial EPs, and non-vocal console tracks.
+Enum Rage Engine can score fight screens, menus, corrupted arcade interludes, chiptune industrial EPs, non-vocal console tracks, game-realm OSTs, and Pulse Width Music releases.
 
 ---
 
@@ -155,11 +186,20 @@ First single:
 Null Cavern BGM
 ```
 
+Major game-continuity OST:
+
+```text
+Worldskin: Original 16-Bit Soundtrack
+```
+
 Song files:
 
 ```text
 docs/music/songs/enum-rage-engine/buried-pulse-dumb-terminal-crawl.md
 docs/music/songs/enum-rage-engine/null-cavern-bgm.md
+docs/music/songs/enum-rage-engine/rust-marsh-bgm.md
+docs/music/songs/enum-rage-engine/relay-spires-bgm.md
+docs/music/songs/enum-rage-engine/furnace-district-bgm.md
 ```
 
 ---
@@ -193,6 +233,9 @@ laser zaps
 
 ```text
 Enum Rage Engine
+Pulse Width Music
+PWM
+Pulse Width
 Antisapian
 Absconditian
 console music
@@ -212,7 +255,17 @@ chip drums
 Buried Pulse
 Dumb Terminal Crawl
 Null Cavern BGM
+Rust Marsh BGM
+Relay Spires BGM
+Furnace District BGM
+Worldskin
+Worldskin Original 16-Bit Soundtrack
+Blue Hole Reef
+Into the Blue
+Discontent One collaboration
 first single
+label founder
+electronic imprint
 Meridian Prime music
 Suno
 ```
