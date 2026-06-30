@@ -81,8 +81,8 @@ docs/game-continuity/worldskin/worldskin-game-continuity-charter.md
 |---|---|---|---|---|---|
 | 1 | Null Cavern | WS-01 Subterranean Contact Patch | Alien cave, wet stone, dead console glow | Basic traversal, hidden passages, first membrane seams | Slow 16-bit alien cavern EBM. First single: `Null Cavern BGM`. |
 | 2 | Rust Marsh | WS-02 Wetland Corrosion Patch | Toxic swamp, metal reeds, sinking machinery | Slow platforms, poison pools, half-failed containment anchors | Murky pulse, wet FM bass, muffled chip drums. |
-| 3 | Relay Spires | WS-03 Vertical Signal Ecology | Vertical antenna forest, storm towers, signal ruins | Climbing, lifts, wind pressure, signal-vein exposure | Thin high FM arps, static tension, non-event background pressure. |
-| 4 | Furnace District | WS-04 Thermal Industrial Envelope | Industrial foundry, lava vents, conveyor ruins | Belts, heat gates, thermal timing pressure | Heavy EBM pulse, dull metal rhythm, hot low-end. |
+| 3 | Relay Spires | WS-03 Vertical Signal Ecology | Vertical antenna forest, storm towers, signal ruins | Climbing, lifts, wind pressure, signal-vein exposure | Thin high FM arps, static tension, non-event background pressure. Saved track: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
+| 4 | Furnace District | WS-04 Thermal Industrial Envelope | Industrial foundry, lava vents, conveyor ruins | Belts, heat gates, thermal timing pressure | Heavy EBM pulse, dull metal rhythm, hot low-end. Saved track: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | 5 | Blueglass Reef | WS-05 Flooded Crystal Sample | Submerged crystal biome, alien aquatic ruins | Swimming / low gravity, pressure gates, drifting hazards | Slow liquid FM pads, glassy but lo-fi bass pulse. |
 | 6 | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Dead cabinets, neon bones, shuttered entertainment district | Maze city, fake exits, corrupted signage | Broken console funk, BGM-safe, no arcade-cue clutter. |
 | 7 | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Organic space station, roots through machinery | Gravity shifts, branching routes, late-game movement mastery | Cold alien EBM, pulsing bass, sterile pad pressure. |
@@ -132,10 +132,10 @@ Siltjaw Clampbeast
 
 A vertical signal-tower biome. Broken antennas, storm towers, service platforms, magnetic lifts, wind pressure, and signal veins crawling over exposed height.
 
-Planned track:
+Saved track:
 
 ```text
-Relay Spires BGM
+docs/music/songs/enum-rage-engine/relay-spires-bgm.md
 ```
 
 Boss candidate:
@@ -150,10 +150,10 @@ The Weather Antenna
 
 A contact patch where heat, industry, and containment logic fuse into a playable foundry.
 
-Planned track:
+Saved track:
 
 ```text
-Furnace District BGM
+docs/music/songs/enum-rage-engine/furnace-district-bgm.md
 ```
 
 Boss candidate:
@@ -256,8 +256,8 @@ The Root Error
 ```text
 1. Null Cavern BGM - saved first single
 2. Rust Marsh BGM - drafted in chat
-3. Relay Spires BGM
-4. Furnace District BGM
+3. Relay Spires BGM - drafted and saved
+4. Furnace District BGM - drafted and saved
 5. Blueglass Reef BGM
 6. Graveyard Arcade BGM
 7. Orbital Rootworks BGM
@@ -281,8 +281,8 @@ background music
 music-only background cue
 Null Cavern BGM
 Rust Marsh BGM
-Relay Spires
-Furnace District
+Relay Spires BGM
+Furnace District BGM
 Blueglass Reef
 Graveyard Arcade
 Orbital Rootworks
