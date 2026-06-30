@@ -61,6 +61,7 @@ Suno song index
 | Furnace District BGM | Enum Rage Engine | Worldskin: Original 16-Bit Soundtrack | Drafted and saved | slow 16-bit thermal foundry EBM / music-only BGM | Track 4 for Worldskin Game Realm. WS-04 Thermal Industrial Envelope, 92 BPM fixed, hot square/FM bass pulse, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | Blue Light Burial | morosecodeclique x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | Antisapian cyber-emo rap x saurian grave-trap | Crossover track. Blue-light heartbreak meets grave-bell low-end, featuring Inspect, Program State Loop Deamon, Tumulus, and Shade Masiff. File: `docs/music/songs/arrestthemall-crossovers/blue-light-burial.md`. |
 | Rain in the Vug Mouth | Down Pour x Gloomed Vug | Arrestthemall Records crossover singles | Drafted and saved | pre-DMC field-tape rap x young Aeonolacertian grave-trap | Cleaned crossover track. All-male vocals only, no spoken samples, no dialogue samples, no field-tape voices. File: `docs/music/songs/arrestthemall-crossovers/rain-in-the-vug-mouth.md`. |
+| Shelter Sign Still Lit | Wet Signal District | After the Terminals Closed | Drafted and saved | rainfield ambient electronic / neon transit ambience | Track 2. Emotional shelter piece: warmth without safety, false shelter glow, no vocals, no samples. File: `docs/music/songs/wet-signal-district/shelter-sign-still-lit.md`. |
 
 ---
 
@@ -236,4 +237,31 @@ fixed key center
 primitive FM console audio
 clear ending after final pass
 no real artist names
+```
+
+### Wet Signal District Instrumental Format
+
+Use `After the Terminals Closed` as the rainfield ambient electronic album lane:
+
+```text
+instrumental only
+no vocals
+no speech
+no samples
+original synth instrumentation
+rainfield ambient electronic
+neon transit ambience
+slow cinematic pads
+soft FM bells
+low-pass rain haze
+wet pavement reverb
+sub-bass warmth
+recessed pulse
+cyclical chord progression
+gradual filter movement
+strong sense of place
+bracket-only lyrics-box arrangement map when using Suno lyrics field
+no real artist names
+no real song titles
+no direct imitation
 ```
