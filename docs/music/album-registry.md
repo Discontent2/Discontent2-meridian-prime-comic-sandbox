@@ -135,7 +135,7 @@ Suno album prompt lookup
 | Furnace District BGM | Worldskin / WS-04 Thermal Industrial Envelope | Drafted and saved | Track 4. 92 BPM fixed, thermal foundry EBM, hot square/FM bass pulse, no gameplay cues or event sounds. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | Graveyard Arcade BGM | Worldskin / WS-06 Civic Debris Interface Zone | Drafted and saved | Track 6. 94 BPM fixed, lo-fi broken console funk, no coin/menu/power-up sounds. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | Orbital Rootworks BGM | Worldskin / WS-07 Elevated Root-Machine Lattice | Drafted and saved | Track 7. 96 BPM fixed, cold alien 16-bit EBM, sterile pad pressure, no scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
-| Enum Core BGM | Worldskin / WS-08 Core Membrane Nexus | Drafted and saved | Track 8. 80 BPM fixed, deep 16-bit industrial doom EBM, brutal Null Cavern dark reprise. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
+| Enum Core BGM | Worldskin / WS-08 Core Membrane Nexus | Drafted and saved | Track 8. Version 2 primary: 64 BPM fixed, very slow deep 16-bit industrial doom EBM, slower ominous Null Cavern dark reprise. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
 
 ---
 
@@ -150,7 +150,7 @@ Suno album prompt lookup
 | 5 | Blue Hole Reef BGM | Blue Hole Reef / Blueglass Reef / WS-05 Flooded Crystal Sample | Drafted and saved | Wet Signal District 16-bit reef cue. File: `docs/music/songs/wet-signal-district/blue-hole-reef-bgm.md`. |
 | 6 | Graveyard Arcade BGM | Graveyard Arcade / WS-06 Civic Debris Interface Zone | Drafted and saved | Broken console funk without coin/menu/power-up sounds. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | 7 | Orbital Rootworks BGM | Orbital Rootworks / WS-07 Elevated Root-Machine Lattice | Drafted and saved | Cold alien EBM, sterile pad pressure, no scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
-| 8 | Enum Core BGM | The Enum Core / WS-08 Core Membrane Nexus | Drafted and saved | Deep, dark, brutal Null Cavern reprise. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
+| 8 | Enum Core BGM | The Enum Core / WS-08 Core Membrane Nexus | Drafted and saved | Version 2 primary. Slow 64 BPM Null Cavern reprise. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
 
 ---
 
