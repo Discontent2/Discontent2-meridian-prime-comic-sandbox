@@ -34,8 +34,8 @@ Suno album prompt lookup
 | Down Pour | Shame, Discontent One, Burn Notice | Intermediate collaboration / pre-DMC project | Group-history stage | Field-tape rap with live beat pressure | Shame and Discontent One became Down Pour after meeting Burn Notice. Search under group-history file. |
 | TBD Gloomed Vug Debut Material | Gloomed Vug | Singles / EP / debut concept | Working sandbox material | Saurian grave-trap / haunted dirt rap | Arrestthemall Records signing. Young Aeonolacertian duo with Tumulus and Shade Masiff. Saved drafts include `Ravenous`, `Loxian`, and `Skin Suit`. |
 | TBD morosecodeclique Debut Material | morosecodeclique | Singles / EP / debut concept | Working sandbox material | Antisapian cyber-emo rap / blacklight heartbreak | Arrestthemall Records signing. Saved drafts include `blacklight brightside`, `Code`, `Embed Me in Archives`, `Absolute Nested Null`, and `Explicit`. |
-| TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. Worldskin game-continuity OST lane now contains tracks 1-8 plus expanded game-audio cue `Worldskin Title Screen BGM`. |
-| Worldskin: Original 16-Bit Soundtrack | Enum Rage Engine with Wet Signal District guest cue | Game-continuity OST / 8-level BGM collection plus expanded game audio | Meridian Prime Interactive Canon / Game Continuity OST | Lo-fi 16-bit industrial EBM / music-only BGM plus Wet Signal 16-bit aquatic ambience | OST for the Worldskin Game Realm. Saved tracks include `Null Cavern BGM`, `Rust Marsh BGM`, `Relay Spires BGM`, `Furnace District BGM`, Wet Signal District's `Blue Hole Reef BGM`, `Graveyard Arcade BGM`, `Orbital Rootworks BGM`, `Enum Core BGM`, and expanded cue `Worldskin Title Screen BGM`. File: `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`. |
+| TBD Enum Rage Engine Cartridge Material | Enum Rage Engine | Singles / EP / console-music project | Working sandbox material | Lo-fi 16-bit industrial EBM / corrupted cartridge music | Antisapian solo console-music producer. First saved draft: `Buried Pulse / Dumb Terminal Crawl`. Worldskin game-continuity OST lane now contains tracks 1-8 plus secret cue `Into the Blue: Senote Layer` and expanded game-audio cue `Worldskin Title Screen BGM`. |
+| Worldskin: Original 16-Bit Soundtrack | Enum Rage Engine with Wet Signal District guest/collab cues | Game-continuity OST / 8-level BGM collection plus secret and expanded game audio | Meridian Prime Interactive Canon / Game Continuity OST | Lo-fi 16-bit industrial EBM / music-only BGM plus Wet Signal 16-bit aquatic ambience | OST for the Worldskin Game Realm. Saved tracks include `Null Cavern BGM`, `Rust Marsh BGM`, `Relay Spires BGM`, `Furnace District BGM`, Wet Signal District's `Blue Hole Reef BGM`, secret collaboration `Into the Blue: Senote Layer`, `Graveyard Arcade BGM`, `Orbital Rootworks BGM`, `Enum Core BGM`, and expanded cue `Worldskin Title Screen BGM`. File: `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`. |
 | After the Terminals Closed | Wet Signal District | Studio album concept / ambient electronic album | Working sandbox project | Rainfield ambient electronic / neon transit ambience | Pulse Width Music first non-Enum signing. Roadmap file: `docs/music/collectives/wet-signal-district/after-the-terminals-closed-roadmap.md`. Saved tracks: `Rain in the Transit Glass`, `Shelter Sign Still Lit`, `Blue Window Overpass`, `Civic Sorrow Loop`, `Platform Nine Without Arrivals`. Long-form rainlit synth ambience, original instrumentation, empty transit platforms, teal tapetum shimmer, and low-resolution city haze. Profile: `docs/music/collectives/wet-signal-district.md`. |
 | Arrestthemall Records crossover singles | Arrestthemall Records roster | Crossover singles | Working sandbox material | Label-crossover music | Crossover lane for tracks between Arrestthemall acts. Saved drafts include `Blue Light Burial` and `Rain in the Vug Mouth`. |
 | TBD Singles / Horror-Pop Tests | Mergenta | Singles / style tests | Working sandbox material | Pink Style | Haunted VHS horror-pop and creepy cassette bedroom-pop tracks. |
@@ -140,6 +140,14 @@ Suno album prompt lookup
 
 ---
 
+## Worldskin Collaborations / Secret Cues
+
+| Track | Artists | Function | Status | Notes |
+|---|---|---|---|---|
+| Into the Blue: Senote Layer | Wet Signal District x Enum Rage Engine | Secret Track 5B / hidden aquifer-cenote descent beneath Blue Hole Reef | Drafted and saved | 74 BPM fixed, slowed broken Blue Hole Reef motif, submerged square-wave bass undertow, no literal water effects. File: `docs/music/songs/worldskin-collaborations/into-the-blue-senote-layer.md`. |
+
+---
+
 ## Worldskin: Original 16-Bit Soundtrack
 
 | Track # | Track | Level / Biome / Function | Status | Notes |
@@ -149,6 +157,7 @@ Suno album prompt lookup
 | 3 | Relay Spires BGM | Relay Spires / WS-03 Vertical Signal Ecology | Drafted and saved | File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
 | 4 | Furnace District BGM | Furnace District / WS-04 Thermal Industrial Envelope | Drafted and saved | File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | 5 | Blue Hole Reef BGM | Blue Hole Reef / Blueglass Reef / WS-05 Flooded Crystal Sample | Drafted and saved | Wet Signal District 16-bit reef cue. File: `docs/music/songs/wet-signal-district/blue-hole-reef-bgm.md`. |
+| 5B | Into the Blue: Senote Layer | Secret aquifer-cenote descent beneath Blue Hole Reef | Drafted and saved | Wet Signal District x Enum Rage Engine collaboration. File: `docs/music/songs/worldskin-collaborations/into-the-blue-senote-layer.md`. |
 | 6 | Graveyard Arcade BGM | Graveyard Arcade / WS-06 Civic Debris Interface Zone | Drafted and saved | Broken console funk without coin/menu/power-up sounds. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | 7 | Orbital Rootworks BGM | Orbital Rootworks / WS-07 Elevated Root-Machine Lattice | Drafted and saved | Cold alien EBM, sterile pad pressure, no scan/alarm/laser sounds. File: `docs/music/songs/enum-rage-engine/orbital-rootworks-bgm.md`. |
 | 8 | Enum Core BGM | The Enum Core / WS-08 Core Membrane Nexus | Drafted and saved | Version 2 primary. Slow 64 BPM Null Cavern reprise. File: `docs/music/songs/enum-rage-engine/enum-core-bgm.md`. |
