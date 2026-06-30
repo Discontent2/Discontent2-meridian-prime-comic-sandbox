@@ -4,13 +4,14 @@
 **Artist:** Enum Rage Engine  
 **Related Style Card:** `docs/music/bad-influence/style-cards/enum-rage-engine-style.md`  
 **Related Profile:** `docs/music/collectives/enum-rage-engine.md`  
+**Related Protocol:** `docs/music/production-notes/suno-instrumental-arrangement-protocol.md`  
 **Created:** 2026-06-29
 
 ---
 
 ## Purpose
 
-This note patches lessons from Enum Rage Engine prompt testing into the music workspace so future Suno prompts stay aligned with the repo identity while avoiding unwanted short-loop behavior.
+This note patches lessons from Enum Rage Engine prompt testing into the music workspace so future Suno prompts stay aligned with the repo identity while avoiding unwanted short-loop behavior, unwanted vocals, and lyrics-box vocal leakage.
 
 Enum Rage Engine should remain:
 
@@ -146,7 +147,7 @@ live drummer feel
 
 ## Voice Control
 
-Voice prevention should appear in both the main prompt and the exclude field.
+Voice prevention should appear in the main prompt, the lyrics-box arrangement header when used, and the exclude field.
 
 Main prompt language:
 
@@ -169,6 +170,46 @@ chants
 sampled dialogue
 announcement samples
 field-tape voices
+```
+
+---
+
+## Instrumental Lyrics-Box Protocol
+
+For instrumentals, the Suno lyrics box can be used as an extended arrangement map only if every line is bracketed.
+
+Working protocol file:
+
+```text
+docs/music/production-notes/suno-instrumental-arrangement-protocol.md
+```
+
+Core rule:
+
+```text
+Every line must be bracketed.
+No prose outside brackets.
+No complete lyric-like sentences.
+Use short arrangement commands only.
+Repeat [INSTRUMENTAL ONLY] and [NO VOCALS] at the top.
+```
+
+Failure mode:
+
+```text
+Unbracketed lyrics-box prose can be interpreted as sung or spoken lyric content.
+```
+
+Safe header:
+
+```text
+[INSTRUMENTAL ONLY]
+[NO VOCALS]
+[NO SINGING]
+[NO SPOKEN WORDS]
+[NO LYRICS]
+[NO CHOIR]
+[NO VOCAL CHOPS]
 ```
 
 ---
@@ -215,6 +256,10 @@ Continue this same full-length Enum Rage Engine cue to at least 1:45. Keep 92 BP
 Enum Rage Engine
 Suno generation findings
 Suno prompt strategy
+Suno instrumental arrangement protocol
+instrumental lyrics box
+bracket-only lyrics box
+bracketed arrangement
 full-length instrumental cue
 minimum 1:30
 target 1:45
@@ -223,6 +268,8 @@ lo-fi chiptune
 industrial EBM
 no loopable cue
 no voices
+no vocals
+no spoken words
 no realistic drums
 fake chip drums
 raw FM synths
