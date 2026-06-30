@@ -1,16 +1,32 @@
-# Enum Rage Engine / 8-Level 16-Bit Game BGM Skeleton
+# Enum Rage Engine / Worldskin 8-Level 16-Bit Game BGM Skeleton
 
-**Status:** Sandbox Soundtrack Skeleton / Non-Canon Until Promoted  
+**Status:** Meridian Prime Interactive Canon / Game Continuity Soundtrack Skeleton  
+**Continuity Lane:** Worldskin Game Realm  
 **Artist:** Enum Rage Engine  
+**Game Title:** Worldskin  
+**OST Title:** Worldskin: Original 16-Bit Soundtrack  
 **Project:** TBD Enum Rage Engine Cartridge Material  
 **Primary Use:** 16-bit game background music map  
+**Related Charter:** `docs/game-continuity/worldskin/worldskin-game-continuity-charter.md`  
+**Related Biome Map:** `docs/game-continuity/worldskin/worldskin-8-level-gamified-biome-map.md`  
+**Related OST File:** `docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md`  
 **Created:** 2026-06-29
 
 ---
 
-## Canon / Sandbox Note
+## Continuity Note
 
-This file is a working soundtrack and biome-planning skeleton. It does not canonize the game, biomes, level order, bosses, or soundtrack titles until explicitly promoted.
+This soundtrack skeleton belongs to the Meridian Prime Interactive Canon / Worldskin Game Realm continuity lane.
+
+It is a gamified, game-continuity expression of Worldskin / Project Green Glove concepts. It does not override mainline prose canon, restricted Worldskin truth, Dry Gate material, Conjugate lore, or àæonos canon.
+
+Core rule:
+
+```text
+Worldskin is canon.
+Worldskin is gamified canon.
+Worldskin is not unrestricted mainline exposition.
+```
 
 ---
 
@@ -18,84 +34,67 @@ This file is a working soundtrack and biome-planning skeleton. It does not canon
 
 This is an 8-level 16-bit game soundtrack framework for Enum Rage Engine.
 
-The first established world is:
+Each level takes place inside a Worldskin-contained biome patch: a controlled contact ecology selected, wrapped, stabilized, monitored, and gamified into a readable stage.
+
+The first established level and single are:
 
 ```text
 Level 1: Null Cavern
 First single: Null Cavern BGM
 ```
 
-`Null Cavern BGM` defines the BGM-safe direction: music-only background cue, no gameplay cues, no event sounds, no voices, no realistic drums, and no extra sounds that could confuse players.
-
 ---
 
 ## BGM Safety Lock
 
-All tracks in this game soundtrack should follow this rule:
+All tracks should remain background-music-safe.
 
 ```text
 If it sounds like information, keep it out of the BGM.
 If it sounds like atmosphere, it can stay.
 ```
 
-Avoid in all BGM prompts:
+Use:
 
 ```text
-power-up sounds
-item sounds
-coin sounds
-menu beeps
-UI chirps
-alarms
-sirens
-doors
-weapons
-impacts
-creatures
-footsteps
-scanning sounds
-laser zaps
-voices
-vocals
-speech
-choir
-realistic drums
-hi-fi polish
+music-only background cue
+non-interactive BGM
+low-distraction area music
+fixed BPM
+fixed key center
+primitive FM console audio
+lo-fi 16-bit industrial EBM
+```
+
+Avoid cue-like audio and dramatic arrangement tricks that could confuse player feedback. Detailed prompt exclusions live in:
+
+```text
+docs/game-continuity/worldskin/worldskin-original-16-bit-soundtrack.md
+docs/game-continuity/worldskin/worldskin-game-continuity-charter.md
 ```
 
 ---
 
 ## 8-Level Biome Map
 
-| Level | Biome | Core Feel | Gameplay Identity | Enum BGM Direction |
-|---|---|---|---|---|
-| 1 | Null Cavern | Alien cave, wet stone, dead console glow | Basic traversal, first enemies, hidden passages | Slow 16-bit alien cavern EBM. First single: `Null Cavern BGM`. |
-| 2 | Rust Marsh | Toxic swamp, metal reeds, sinking machinery | Slow platforms, poison pools, lurking enemies | Murky pulse, wet FM bass, muffled chip drums, no alarm-like sounds. |
-| 3 | Relay Spires | Vertical antenna forest, storm towers, signal ruins | Climbing, elevators, wind/current hazards | Thin high FM arps, static tension, non-event background pressure. |
-| 4 | Furnace District | Industrial foundry, lava vents, conveyor ruins | Moving belts, heat gates, crushing machinery | Heavy EBM pulse, dull metal rhythm, hot low-end, no impact-like hits. |
-| 5 | Blueglass Reef | Submerged crystal biome, alien aquatic ruins | Swimming / low gravity, drifting enemies | Slow liquid FM pads, glassy but lo-fi bass pulse, no bubble/item cues. |
-| 6 | Graveyard Arcade | Abandoned game city, dead cabinets, neon bones | Maze-like city stage, fake exits, corrupted signage | Broken console funk, BGM-safe, no coin sounds, no menu beeps, no power-up blips. |
-| 7 | Orbital Rootworks | Organic space station, vines through machinery | Gravity shifts, biotech enemies, branching routes | Cold alien EBM, pulsing bass, sterile pad pressure, no scan/event sounds. |
-| 8 | The Enum Core | Final machine-organism, code cathedral, boss biome | Gauntlet, final locks, last boss, escape | Minimal industrial trance, fixed pulse, darker reprise of `Null Cavern BGM`. |
+| Level | Biome | World Works Designation | Core Feel | Gameplay Identity | Enum BGM Direction |
+|---|---|---|---|---|---|
+| 1 | Null Cavern | WS-01 Subterranean Contact Patch | Alien cave, wet stone, dead console glow | Basic traversal, hidden passages, first membrane seams | Slow 16-bit alien cavern EBM. First single: `Null Cavern BGM`. |
+| 2 | Rust Marsh | WS-02 Wetland Corrosion Patch | Toxic swamp, metal reeds, sinking machinery | Slow platforms, poison pools, half-failed containment anchors | Murky pulse, wet FM bass, muffled chip drums. |
+| 3 | Relay Spires | WS-03 Vertical Signal Ecology | Vertical antenna forest, storm towers, signal ruins | Climbing, lifts, wind pressure, signal-vein exposure | Thin high FM arps, static tension, non-event background pressure. |
+| 4 | Furnace District | WS-04 Thermal Industrial Envelope | Industrial foundry, lava vents, conveyor ruins | Belts, heat gates, thermal timing pressure | Heavy EBM pulse, dull metal rhythm, hot low-end. |
+| 5 | Blueglass Reef | WS-05 Flooded Crystal Sample | Submerged crystal biome, alien aquatic ruins | Swimming / low gravity, pressure gates, drifting hazards | Slow liquid FM pads, glassy but lo-fi bass pulse. |
+| 6 | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Dead cabinets, neon bones, shuttered entertainment district | Maze city, fake exits, corrupted signage | Broken console funk, BGM-safe, no arcade-cue clutter. |
+| 7 | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Organic space station, roots through machinery | Gravity shifts, branching routes, late-game movement mastery | Cold alien EBM, pulsing bass, sterile pad pressure. |
+| 8 | The Enum Core | WS-08 Core Membrane Nexus | Final machine-organism, code cathedral | Final locks, gauntlet, last boss, escape | Minimal industrial trance, fixed pulse, darker reprise of `Null Cavern BGM`. |
 
 ---
 
 ## Level Notes
 
-### 1. Null Cavern
+### 1. Null Cavern / WS-01 Subterranean Contact Patch
 
-The first breath underground. Wet stone, alien fungal glow, dead console green, black mineral walls. The player learns movement, combat spacing, doors, and hidden cracks.
-
-BGM identity:
-
-```text
-slow
-subterranean
-non-interactive
-low-distraction
-primitive 16-bit FM console audio
-alien cavern pressure
-```
+The first playable Worldskin patch. Wet stone, alien fungal glow, dead console green, black mineral walls, and ceramic contact nodes tucked into rock.
 
 Saved track:
 
@@ -111,19 +110,14 @@ The Blind Gate Larva
 
 ---
 
-### 2. Rust Marsh
+### 2. Rust Marsh / WS-02 Wetland Corrosion Patch
 
-A toxic swamp full of half-submerged industrial junk. Trees grow through old pipes. Water reflects magenta hazard lights, but the BGM must avoid actual alarm sounds.
+A toxic swamp full of half-submerged industrial junk, metal reeds, black water, sinking machinery, floating membrane pylons, and half-submerged monitoring pods.
 
-BGM identity:
+Working track:
 
 ```text
-slow murky EBM
-wet low FM bass
-muffled chip percussion
-sinking mechanical pulse
-no sirens
-no warning beeps
+Rust Marsh BGM
 ```
 
 Boss candidate:
@@ -134,19 +128,14 @@ Siltjaw Clampbeast
 
 ---
 
-### 3. Relay Spires
+### 3. Relay Spires / WS-03 Vertical Signal Ecology
 
-A vertical signal-tower biome. Broken antennas, lightning rods, service platforms, magnetic lifts, wind pressure, and distant storms.
+A vertical signal-tower biome. Broken antennas, storm towers, service platforms, magnetic lifts, wind pressure, and signal veins crawling over exposed height.
 
-BGM identity:
+Planned track:
 
 ```text
-thin high FM arps
-static-like synth texture without actual alerts
-vertical tension
-cold exposed height
-no UI chirps
-no scan sounds
+Relay Spires BGM
 ```
 
 Boss candidate:
@@ -157,19 +146,14 @@ The Weather Antenna
 
 ---
 
-### 4. Furnace District
+### 4. Furnace District / WS-04 Thermal Industrial Envelope
 
-A factory / foundry level with molten channels, conveyors, crushing pistons, smoke stacks, and old worker tunnels.
+A contact patch where heat, industry, and containment logic fuse into a playable foundry.
 
-BGM identity:
+Planned track:
 
 ```text
-heavy slow EBM pulse
-dull metal rhythm
-hot low-end pressure
-compressed cartridge grime
-no impact sounds
-no weapon-like hits
+Furnace District BGM
 ```
 
 Boss candidate:
@@ -180,18 +164,14 @@ Kilnback Executor
 
 ---
 
-### 5. Blueglass Reef
+### 5. Blueglass Reef / WS-05 Flooded Crystal Sample
 
-The beauty level. Alien underwater ruins, crystal coral, pressure doors, floating debris, and soft bioluminescence.
+A flooded Worldskin sample with alien aquatic ruins, crystal coral, pressure doors, floating debris, and pearl sensor nodes embedded in reef growth.
 
-BGM identity:
+Planned track:
 
 ```text
-slow liquid FM pads
-glassy but lo-fi bass pulse
-soft underwater pressure
-no bubble-pop item cues
-no sparkling pickup sounds
+Blueglass Reef BGM
 ```
 
 Boss candidate:
@@ -202,19 +182,14 @@ Pearl Circuit Leviathan
 
 ---
 
-### 6. Graveyard Arcade
+### 6. Graveyard Arcade / WS-06 Civic Debris Interface Zone
 
-A dead neon entertainment district. Broken cabinets, signboards, prize machines, shuttered malls, dead escalators, rain on blacktop.
+A dead civic / entertainment environment wrapped inside Worldskin logic. Broken cabinets, signboards, prize machines, shuttered malls, dead escalators, and rain on blacktop.
 
-BGM identity:
+Planned track:
 
 ```text
-broken console funk
-primitive FM bass
-low-distraction background groove
-no coin sounds
-no menu beeps
-no power-up blips
+Graveyard Arcade BGM
 ```
 
 Boss candidate:
@@ -225,19 +200,14 @@ Attract Mode Wraith
 
 ---
 
-### 7. Orbital Rootworks
+### 7. Orbital Rootworks / WS-07 Elevated Root-Machine Lattice
 
-A late-game biome where the player reaches an overgrown orbital structure or sky-machine. Roots through metal. Organic cables. Gravity tricks. Half garden, half server rack.
+A late-game Worldskin patch in an elevated or orbital structure. Roots through metal, organic cables, gravity tricks, solar ribs, and sterile pad pressure.
 
-BGM identity:
+Planned track:
 
 ```text
-cold alien EBM
-sterile pad pressure
-fixed pulse
-organic-machine unease
-no scan tones
-no alert tones
+Orbital Rootworks BGM
 ```
 
 Boss candidate:
@@ -248,20 +218,14 @@ The Photosynthetic Lock
 
 ---
 
-### 8. The Enum Core
+### 8. The Enum Core / WS-08 Core Membrane Nexus
 
-Final area. A code-cathedral machine buried inside the world's logic. Black glass, blue light, red status glyphs, pulsing organic circuits.
+The final game-realm expression of the Worldskin system: a code-cathedral machine-organism wrapped in black glass, blue light, red status glyphs, and pulsing organic circuits.
 
-The BGM should echo `Null Cavern BGM`, making the player realize the cave was the mouth of the whole system.
-
-BGM identity:
+Planned track:
 
 ```text
-minimal industrial trance
-fixed pulse
-slow 16-bit final-core EBM
-darker reprise of Null Cavern BGM
-no final-boss stingers unless used in a separate boss track
+Enum Core BGM
 ```
 
 Boss candidate:
@@ -289,11 +253,9 @@ The Root Error
 
 ## Soundtrack Development Order
 
-Recommended next track order:
-
 ```text
 1. Null Cavern BGM - saved first single
-2. Rust Marsh BGM
+2. Rust Marsh BGM - drafted in chat
 3. Relay Spires BGM
 4. Furnace District BGM
 5. Blueglass Reef BGM
@@ -308,13 +270,17 @@ Recommended next track order:
 
 ```text
 Enum Rage Engine
+Worldskin
+Worldskin Game Realm
+Meridian Prime Interactive Canon
+Game Continuity
 8-level game
 16-bit game soundtrack
 BGM skeleton
 background music
 music-only background cue
 Null Cavern BGM
-Rust Marsh
+Rust Marsh BGM
 Relay Spires
 Furnace District
 Blueglass Reef
