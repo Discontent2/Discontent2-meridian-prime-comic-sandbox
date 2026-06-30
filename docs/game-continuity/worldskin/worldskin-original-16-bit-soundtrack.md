@@ -49,6 +49,16 @@ playful but lonely reef mood
 Wet Signal District emotional place-music compressed into console hardware
 ```
 
+Track 6 returns to Enum Rage Engine through broken console funk:
+
+```text
+lo-fi 16-bit broken console funk
+cemetery arcade EBM
+rubbery square-wave bass groove
+ghostly FM organ stab
+arcade atmosphere without gameplay signals
+```
+
 ---
 
 ## BGM Safety Rule
@@ -98,7 +108,7 @@ hi-fi polish
 | 3 | Relay Spires BGM | Relay Spires | WS-03 Vertical Signal Ecology | Drafted and saved | Vertical signal-tower cue, high FM arps, cold exposed height. File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
 | 4 | Furnace District BGM | Furnace District | WS-04 Thermal Industrial Envelope | Drafted and saved | Heavy slow EBM pulse, hot low-end, dull metal rhythm. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | 5 | Blue Hole Reef BGM | Blue Hole Reef / Blueglass Reef | WS-05 Flooded Crystal Sample | Drafted and saved | Wet Signal District 16-bit reef cue. Beautiful reef that remembers a train station, glassy FM marimba lead, warm liquid square bass. File: `docs/music/songs/wet-signal-district/blue-hole-reef-bgm.md`. |
-| 6 | Graveyard Arcade BGM | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Planned | Broken console funk, no coin/menu/power-up sounds. |
+| 6 | Graveyard Arcade BGM | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Drafted and saved | Broken console funk without coin/menu/power-up sounds. Ghostly FM organ stab, rubbery square bass, cemetery arcade pressure. File: `docs/music/songs/enum-rage-engine/graveyard-arcade-bgm.md`. |
 | 7 | Orbital Rootworks BGM | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Planned | Cold alien EBM, sterile pad pressure, gravity-shift mood. |
 | 8 | Enum Core BGM | The Enum Core | WS-08 Core Membrane Nexus | Planned | Minimal industrial trance and darker reprise of Null Cavern. |
 
@@ -140,6 +150,14 @@ Enum Rage Engine, Furnace District BGM. Full-length music-only background cue, i
 
 ```text
 Wet Signal District, Blue Hole Reef BGM. 16-bit rainfield aquatic cartridge ambience, instrumental only, no vocals, no speech. Original synth instrumentation, no samples. Slow underwater 16-bit ambient electronic, 82 BPM, warm liquid square-wave bass, soft chip kick, tiny digital snare tick, gentle metallic FM hat, glassy FM marimba lead, rippling FM bell fragments, low-pass ocean haze, wet cavern reverb, soft sub-bass warmth, distant CRT glow, teal tapetum shimmer, magenta reef-light reflections. Melodic but restrained, beautiful tropical alien reef, playful but lonely, sunken transit-station mood, neon water over pearl nodes, 16-bit console texture, tiny speaker warmth, low-resolution shimmer. Memorable simple 5-note reef motif, repeats slowly, no overdevelopment. No pop vocals, no spoken sample, no choir, no vocal pad, no EDM drop, no synthwave gloss, no realistic drums, no real artist names, no direct imitation.
+```
+
+---
+
+## Saved Track 6 Prompt Reference
+
+```text
+Enum Rage Engine, Graveyard Arcade BGM. Worldskin original 16-bit soundtrack cue. Instrumental only, no vocals, no speech. Full-length music-only background cue, non-interactive BGM, no gameplay cues, no event sounds. Lo-fi 16-bit broken console funk, cemetery arcade EBM, 94 BPM fixed, one minor key center, no tempo changes, no key changes. Primitive FM console audio, rubbery square-wave bass groove, fake chip kick, tiny digital snare tick, muted metallic FM hat, ghostly FM organ stab, crooked chip-funk chord hits, dull arcade-cabinet hum, cracked neon ambience, cemetery pavement reverb, dead prize-counter glow, civic debris zone mood. Dull mono tiny-speaker mix, bitcrushed, low sample rate, no shiny highs, no modern polish. Memorable simple 4-note graveyard arcade motif, repeats steadily, funky but haunted, low-distraction. No voices, no vocals, no speech, no choir, no samples, no realistic drums, no coin sound, no menu beep, no UI chirp, no power-up sound, no arcade jingle, no real artist names, no direct imitation.
 ```
 
 ---
@@ -188,6 +206,7 @@ Enum Rage Engine
 Wet Signal District
 Blue Hole Reef BGM
 Blueglass Reef BGM
+Graveyard Arcade BGM
 Worldskin Game Realm
 Meridian Prime Interactive Canon
 Game Continuity OST
@@ -196,11 +215,11 @@ Null Cavern BGM
 Rust Marsh BGM
 Relay Spires BGM
 Furnace District BGM
-Graveyard Arcade BGM
 Orbital Rootworks BGM
 Enum Core BGM
 16-bit industrial EBM
 16-bit rainfield aquatic cartridge ambience
+lo-fi 16-bit broken console funk
 lo-fi chiptune
 raw FM synth
 background music
