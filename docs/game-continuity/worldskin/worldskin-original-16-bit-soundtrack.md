@@ -84,8 +84,8 @@ hi-fi polish
 |---|---|---|---|---|---|
 | 1 | Null Cavern BGM | Null Cavern | WS-01 Subterranean Contact Patch | Saved first single | Establishes the BGM-safe Enum direction. File: `docs/music/songs/enum-rage-engine/null-cavern-bgm.md`. |
 | 2 | Rust Marsh BGM | Rust Marsh | WS-02 Wetland Corrosion Patch | Drafted in chat / ready to save | Toxic swamp follow-up, wet FM bass, muffled chip percussion, no alarm-like sounds. |
-| 3 | Relay Spires BGM | Relay Spires | WS-03 Vertical Signal Ecology | Planned | Vertical signal-tower cue, high FM arps, cold exposed height. |
-| 4 | Furnace District BGM | Furnace District | WS-04 Thermal Industrial Envelope | Planned | Heavy slow EBM pulse, hot low-end, dull metal rhythm. |
+| 3 | Relay Spires BGM | Relay Spires | WS-03 Vertical Signal Ecology | Drafted and saved | Vertical signal-tower cue, high FM arps, cold exposed height. File: `docs/music/songs/enum-rage-engine/relay-spires-bgm.md`. |
+| 4 | Furnace District BGM | Furnace District | WS-04 Thermal Industrial Envelope | Drafted and saved | Heavy slow EBM pulse, hot low-end, dull metal rhythm. File: `docs/music/songs/enum-rage-engine/furnace-district-bgm.md`. |
 | 5 | Blueglass Reef BGM | Blueglass Reef | WS-05 Flooded Crystal Sample | Planned | Slow liquid FM pads, glassy but lo-fi bass pulse. |
 | 6 | Graveyard Arcade BGM | Graveyard Arcade | WS-06 Civic Debris Interface Zone | Planned | Broken console funk, no coin/menu/power-up sounds. |
 | 7 | Orbital Rootworks BGM | Orbital Rootworks | WS-07 Elevated Root-Machine Lattice | Planned | Cold alien EBM, sterile pad pressure, gravity-shift mood. |
@@ -105,6 +105,22 @@ Enum Rage Engine, Null Cavern BGM. Full-length music-only background cue, instru
 
 ```text
 Enum Rage Engine, Rust Marsh BGM. Full-length music-only background cue, instrumental only, no voices, vocals, or speech. Minimum 1:30, target 1:45. Slow 16-bit toxic swamp EBM, 86 BPM fixed, one minor key, no tempo/key changes. Primitive FM console audio, wet square/FM bass pulse, fake chip kick pulse, tiny digital snare tick, dull metallic FM hat tick, muffled chip percussion, no realistic drums. Extremely lo-fi, dull mono console mix, bitcrushed, low sample rate, tiny speaker, no shiny highs, no modern polish. Low-distraction area music, steady background layer, non-interactive BGM, no gameplay cues or event sounds. Structure: 0:00 swamp bass pulse, 0:20 main bass/drums, 0:50 slow murky FM arp, 1:15 cold toxic pad, 1:35 clear ending. Rust marsh, metal reeds, sinking machinery, black water glow. No power-up, item, coin, menu, UI, alarm, siren, door, weapon, impact, creature, footstep, scan, laser, riser, drop, fill, breakdown, pitch bend, modulation, sample, choir, real names, direct imitation.
+```
+
+---
+
+## Saved Track 3 Prompt Reference
+
+```text
+Enum Rage Engine, Relay Spires BGM. Full-length music-only background cue, instrumental only, no voices, vocals, or speech. Minimum 1:30, target 1:45. Slow 16-bit vertical signal-tower EBM, 90 BPM fixed, one minor key, no tempo/key changes. Primitive FM console audio, thin square/FM bass pulse, fake chip kick pulse, tiny digital snare tick, narrow metallic FM hat tick, no realistic drums. Extremely lo-fi, dull mono console mix, bitcrushed, low sample rate, tiny speaker, no shiny highs, no modern polish. Low-distraction area music, steady background layer, non-interactive BGM, no gameplay cues or event sounds. Structure: 0:00 thin tower pulse, 0:20 main bass/drums, 0:50 high cold FM arp, 1:15 distant static-like pad, 1:35 clear ending. Relay spires, antenna forest, storm towers, signal veins, exposed height. No power-up, item, coin, menu, UI, alarm, siren, door, weapon, impact, creature, footstep, scan, laser, riser, drop, fill, breakdown, pitch bend, modulation, sample, choir, real names, direct imitation.
+```
+
+---
+
+## Saved Track 4 Prompt Reference
+
+```text
+Enum Rage Engine, Furnace District BGM. Full-length music-only background cue, instrumental only, no voices, vocals, or speech. Minimum 1:30, target 1:45. Slow 16-bit thermal foundry EBM, 92 BPM fixed, one minor key, no tempo/key changes. Primitive FM console audio, hot square/FM bass pulse, fake chip kick pulse, tiny digital snare tick, dull metallic FM hat tick, no realistic drums. Extremely lo-fi, dull mono console mix, bitcrushed, low sample rate, tiny speaker, no shiny highs, no modern polish. Low-distraction area music, steady background layer, non-interactive BGM, no gameplay cues or event sounds. Structure: 0:00 furnace bass pulse, 0:20 main bass/drums, 0:50 slow harsh FM arp, 1:15 hot pressure pad, 1:35 clear ending. Furnace district, thermal ribs, conveyor ruins, molten channels, overheating green-glove clamps. No power-up, item, coin, menu, UI, alarm, siren, door, weapon, impact, creature, footstep, scan, laser, riser, drop, fill, breakdown, pitch bend, modulation, sample, choir, real names, direct imitation.
 ```
 
 ---
