@@ -30,7 +30,7 @@ Suno label context
 | Label / Imprint | Short Name | Type | Status | Founder / Anchor | Primary Lane | Profile |
 |---|---|---|---|---|---|---|
 | Arrestthemall Records | Arrestthemall | Underground label / DIY label identity | Existing sandbox label identity | Dead Mile Cypher / Dead Mile Cipher ecosystem | Underground rap, field-tape testimony, grave-trap, cyber-emo, label crossovers | `docs/music/collectives/dead-mile-cipher/group-history-live-identity.md` |
-| Pulse Width Music | PWM | Electronic imprint / label identity | Sandbox Music Label / Non-Canon Until Promoted | Enum Rage Engine | Cartridge soundtracks, lo-fi industrial EBM, Antisapian console music, cyber-ambient, route-signal electronics, game-continuity OSTs | `docs/music/labels/pulse-width-music.md` |
+| Pulse Width Music | PWM | Electronic imprint / label identity | Sandbox Music Label / Non-Canon Until Promoted | Enum Rage Engine | Cartridge soundtracks, lo-fi industrial EBM, Antisapian console music, rainfield ambient electronic, cyber-ambient, route-signal electronics, game-continuity OSTs | `docs/music/labels/pulse-width-music.md` |
 
 ---
 
@@ -48,6 +48,8 @@ industrial chiptune
 Antisapian console music
 cyber-ambient
 route-signal electronics
+rainfield ambient electronic
+neon transit ambience
 experimental electronic collaborations
 ```
 
@@ -56,6 +58,13 @@ Core phrase:
 ```text
 Pulse Width Music is where the square wave learned to breathe.
 ```
+
+Signed roster:
+
+| Artist | Role | Primary Lane | Profile |
+|---|---|---|---|
+| Enum Rage Engine | Founder / first artist / house producer | Antisapian console music, lo-fi 16-bit industrial EBM, cartridge soundtracks, game-continuity OSTs | `docs/music/collectives/enum-rage-engine.md` |
+| Wet Signal District | First non-Enum signing | Rainfield ambient electronic, neon transit ambience, dreampunk-adjacent original synth music | `docs/music/collectives/wet-signal-district.md` |
 
 ---
 
@@ -70,6 +79,10 @@ Arrestthemall Records
 Pulse Width Music
 PWM
 Enum Rage Engine
+Wet Signal District
+Blue Window
+Station Mercy
+After the Terminals Closed
 Dead Mile Cypher
 Dead Mile Cipher
 Antisapian console music
@@ -81,6 +94,10 @@ lo-fi industrial EBM
 industrial chiptune
 cyber-ambient
 route-signal electronics
+rainfield ambient electronic
+neon transit ambience
+dreampunk-adjacent
+original synth instrumentation
 ```
 
 ---
