@@ -23,6 +23,7 @@ which style card belongs to Dead Mile Cipher
 which style card belongs to Gloomed Vug
 which style card belongs to morosecodeclique
 which style card belongs to Enum Rage Engine
+which style card belongs to Wet Signal District
 Meridian Prime style card lookup
 ```
 
@@ -39,7 +40,8 @@ Meridian Prime style card lookup
 | Dead Mile Cipher Style | Dead Mile Cipher | Underground backpack rap / abstract boom-bap | `docs/music/bad-influence/style-cards/dead-mile-cipher-style.md` | Annotations from the Low Road | Receipts Burn Clean, No Shelter in the Margins, Map Wrong, Miles Right, The Blacktop Thesis, Blue Light in the Footnote |
 | Gloomed Vug Style | Gloomed Vug | Saurian grave-trap / haunted dirt rap | `docs/music/bad-influence/style-cards/gloomed-vug-style.md` | TBD Gloomed Vug debut material | Ravenous, Loxian, Skin Suit, Small Shield Curse |
 | morosecodeclique Style | morosecodeclique | Antisapian cyber-emo rap / blacklight heartbreak | `docs/music/bad-influence/style-cards/morosecodeclique-style.md` | TBD morosecodeclique debut material | 404heart, password reset cemetery, teal eyes offline, inspect element, Explicit |
-| Enum Rage Engine Style | Enum Rage Engine | Lo-fi 16-bit industrial EBM / corrupted cartridge music | `docs/music/bad-influence/style-cards/enum-rage-engine-style.md` | TBD Enum Rage Engine Cartridge Material | Buried Pulse / Dumb Terminal Crawl |
+| Enum Rage Engine Style | Enum Rage Engine | Lo-fi 16-bit industrial EBM / corrupted cartridge music | `docs/music/bad-influence/style-cards/enum-rage-engine-style.md` | TBD Enum Rage Engine Cartridge Material; Worldskin: Original 16-Bit Soundtrack | Buried Pulse / Dumb Terminal Crawl, Null Cavern BGM |
+| Wet Signal District Style | Wet Signal District | Rainfield ambient electronic / neon transit ambience | `docs/music/bad-influence/style-cards/wet-signal-district-style.md` | After the Terminals Closed | Rain in the Transit Glass, Shelter Sign Still Lit, After the Terminals Closed |
 
 ---
 
@@ -129,11 +131,25 @@ Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/
 
 ```text
 Band Identity: Enum Rage Engine
+Label: Pulse Width Music / PWM
 Primary Style: Lo-fi 16-bit industrial EBM / corrupted cartridge music
-Search Aliases: Enum Rage Engine, Antisapian console music, Absconditian console music, industrial chiptune, 16-bit industrial EBM, corrupted cartridge music, beat-em-up cartridge music, lo-fi chiptune, raw FM synth, square-wave bass, chip drums, Buried Pulse, Dumb Terminal Crawl
+Search Aliases: Enum Rage Engine, Pulse Width Music, PWM, Antisapian console music, Absconditian console music, industrial chiptune, 16-bit industrial EBM, corrupted cartridge music, beat-em-up cartridge music, lo-fi chiptune, raw FM synth, square-wave bass, chip drums, Buried Pulse, Dumb Terminal Crawl, Worldskin OST
 Style Card: docs/music/bad-influence/style-cards/enum-rage-engine-style.md
 Artist Profile: docs/music/collectives/enum-rage-engine.md
-Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md
+Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/song-index.md, docs/music/label-registry.md
+```
+
+### Wet Signal District
+
+```text
+Band Identity: Wet Signal District
+Label: Pulse Width Music / PWM
+Primary Style: Rainfield ambient electronic / neon transit ambience / dreampunk-adjacent original synth music
+Search Aliases: Wet Signal District, Pulse Width Music, PWM, Blue Window, Station Mercy, rainfield ambient electronic, neon transit ambience, dreampunk-adjacent, original synth instrumentation, no samples, slow cinematic pads, soft FM bells, low-resolution city haze, Antisapian night color, teal tapetum shimmer, magenta reflections, After the Terminals Closed
+Style Card: docs/music/bad-influence/style-cards/wet-signal-district-style.md
+Collective Profile: docs/music/collectives/wet-signal-district.md
+Core Members: Blue Window, Station Mercy
+Registry Files: docs/music/band-registry.md, docs/music/album-registry.md, docs/music/label-registry.md
 ```
 
 ---
@@ -165,6 +181,23 @@ Program State Loop Deamon
 Phish Lint
 Beast Jaw
 Enum Rage Engine
+Wet Signal District
+Blue Window
+Station Mercy
+Pulse Width Music
+PWM
+After the Terminals Closed
+rainfield ambient electronic
+neon transit ambience
+dreampunk-adjacent
+original synth instrumentation
+no samples
+slow cinematic pads
+soft FM bells
+low-resolution city haze
+Antisapian night color
+teal tapetum shimmer
+magenta reflections
 Antisapian console music
 Absconditian console music
 industrial chiptune
@@ -201,6 +234,7 @@ Dead Mile Cipher Style
 Gloomed Vug Style
 morosecodeclique Style
 Enum Rage Engine Style
+Wet Signal District Style
 Underground Beach Goth
 Beach Goth
 underground backpack rap
