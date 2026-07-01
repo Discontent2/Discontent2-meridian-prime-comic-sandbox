@@ -8,6 +8,7 @@
 **Primary Purpose:** Generate stage-ready 16-bit video game BGM for Devilment Studio  
 **Core Style:** 16-bit crossover-thrash combat BGM / FM pit music / industrial chip loops  
 **Production Note:** `docs/music/production-notes/red-warrant-damaged-cartridge-bgm-findings.md`  
+**Track 2 Production Note:** `docs/music/production-notes/red-warrant-track-2-muted-command-findings.md`  
 **Created:** 2026-06-30  
 **Updated:** 2026-06-30
 
@@ -60,10 +61,18 @@ rotted cartridge grit
 uneven playback drift
 ```
 
+Track identity split after Track 2 testing:
+
+```text
+Track 1 is dirty descent.
+Track 2 is muted command violence.
+```
+
 See:
 
 ```text
 docs/music/production-notes/red-warrant-damaged-cartridge-bgm-findings.md
+docs/music/production-notes/red-warrant-track-2-muted-command-findings.md
 ```
 
 ---
@@ -118,7 +127,7 @@ direct imitation
 | # | Track | Function | Primary Artist | Status | Sound Target |
 |---|---|---|---|---|---|
 | 1 | Condemned Block Intro | Opening stage / first combat zone | Pit ROM | Drafted and Saved | Dark tracker-module combat BGM, damaged red-cartridge metal, square-wave bass descending in dark half steps, ugly mono CRT speaker mix. |
-| 2 | Riot Permit Office | Civic office combat stage | Pit ROM | Needs generation | Filing-cabinet percussion illusion, office-light buzz as FM pad, hardcore thrash riffing. |
+| 2 | Riot Permit Office | Civic office combat stage | Pit ROM | Drafted and Saved | Muted command violence, staccato command-riff bursts, muted square-wave bass strikes, lower FM saw-pulse lead, tribunal-engine mood. |
 | 3 | Underpass Tribunal | Underground road / improvised court zone | Pit ROM | Needs generation | Concrete tunnel echo, grinding square bass, slow breakdown section for enemy wave. |
 | 4 | Red Warrant Rooftops | Vertical pursuit / rooftop combat | Pit ROM | Needs generation | Faster FM lead, exposed-height tension, city siren energy without actual siren sounds. |
 | 5 | Evidence Furnace | Industrial disposal stage | Pit ROM | Needs generation | Hot chip bass, furnace pulse, burned-document atmosphere, no literal fire effects. |
@@ -136,6 +145,7 @@ direct imitation
 
 ```text
 1. Condemned Block Intro — docs/music/songs/pit-rom/condemned-block-intro.md
+2. Riot Permit Office — docs/music/songs/pit-rom/riot-permit-office.md
 ```
 
 ---
@@ -193,12 +203,58 @@ uneven playback drift
 
 ---
 
+## Track 2 Saved Direction
+
+```text
+Track 2: Riot Permit Office
+Internal Subtitle: Form 9-B: Authorized Disorder
+Function: civic office combat stage
+Core concept: the permit office pre-approves the damage
+Saved file: docs/music/songs/pit-rom/riot-permit-office.md
+```
+
+Track split:
+
+```text
+Track 1 is dirty descent.
+Track 2 is muted command violence.
+```
+
+Sound target:
+
+```text
+118 BPM fixed
+dark tracker-module combat BGM
+warped dirty red-cartridge civic-stage metal
+damaged computerized heavy-rock conversion
+staccato command-riff bursts
+muted square-wave bass strikes
+palm-muted low-bit guitar stabs
+hard stop-start thrash phrasing
+reverb-fogged lower FM saw-pulse lead
+short hostile lead answers
+stiff cartridge drum channel
+boxy fake double-kick thud
+flat digital snare crack
+dense downbeat hits
+low machine pressure
+dead civic interior
+red permit pressure
+tribunal-engine mood
+ugly mono CRT speaker mix
+rotted cartridge grit
+uneven playback drift
+experimental
+```
+
+---
+
 ## Reusable Pit ROM Style Seed
 
 For Red Warrant, prefer the damaged-cartridge version below over the earlier cleaner 16-bit metal seed.
 
 ```text
-Pit ROM, Red Warrant combat BGM. Dark instrumental 16-bit tracker-module combat BGM for Devilment Studio. Warped dirty red-cartridge beat-'em-up metal, damaged computerized heavy-rock conversion, fixed BPM, one minor key center. Genesis-style metallic FM synthesis fused with low-memory 16-bit console playback. Short repeating thrash riff cell, square-wave bass descending in dark half steps, detuned square bass grind, stiff cartridge drum channel, boxy fake double-kick thud, flat digital snare crack, dry metallic hat noise, crushed low-bit guitar stabs, distorted upper-register FM saw-pulse lead, call-and-response between low chug rhythm and warped lead. Ugly mono CRT speaker mix, muffled dark top end, dirty loop points, cramped memory, bad-speaker pressure, rotted cartridge grit, uneven playback drift.
+Pit ROM, Red Warrant combat BGM. Dark instrumental tracker-module combat BGM for Devilment Studio. Warped dirty red-cartridge beat-'em-up metal, damaged computerized heavy-rock conversion, fixed BPM, one minor key center. Genesis-style metallic FM synthesis fused with low-memory 16-bit console playback. Short repeating thrash riff cells or staccato command-riff bursts, square-wave bass descent or muted square-wave bass strikes, stiff cartridge drum channel, boxy fake double-kick thud, flat digital snare crack, dry metallic hat noise, crushed low-bit guitar stabs, lower FM saw-pulse lead, short hostile lead answers. Ugly mono CRT speaker mix, muffled dark top end, dirty loop points, cramped memory, bad-speaker pressure, rotted cartridge grit, uneven playback drift.
 ```
 
 ---
@@ -239,6 +295,7 @@ FM pit music
 industrial chip combat loops
 damaged cartridge playback
 dark tracker module combat BGM
+muted command violence
 Condemned Block Intro
 Riot Permit Office
 Underpass Tribunal
