@@ -1,6 +1,6 @@
 # Meridian Prime Reel 02
 
-**Status:** roadmap / reference-study stage.
+**Status:** active shot production; owner-approved shot decisions now exist beyond the original roadmap phase gates.
 **Sandbox label:** Format Prototype / Promo Exaggeration.
 **Canon status:** non-canon production experiment unless separately promoted.
 **Reference:** user-supplied screen recording of an Ozavry reel, approximately 59.44 seconds.
@@ -15,12 +15,21 @@ Build a Meridian Prime dream-itinerary reel that feels less like Reel 01's compr
 
 Borrow the reference reel's cinematic grammar, not its literal fantasy nouns.
 
-Do not make a Meridian unicorn, wizard, castle, troll, or knight reskin. Translate each reference shot by **dramatic function**: landmark, mundane impossibility, false beauty, empty threshold, watcher, human agency, destination/omen, activation, lull, contamination stinger.
+Do not make a Meridian unicorn, wizard, castle, troll, or knight reskin. Translate each reference shot by dramatic function, then allow explicit owner-approved production decisions to replace placeholder functions when a stronger Meridian-specific shot is selected.
+
+## Precedence / handoff rule
+
+The original `ROADMAP.md` preserves structural design intent. For slots that have since received explicit owner decisions, use `locked-shot-overrides.md`, the corresponding `shots/` record, and `current-status.md` as the active production source.
+
+Do not silently revert an approved shot to an earlier abstract placeholder.
 
 ## Files
 
 - `reference-study.md` = measured analysis of the supplied reference reel.
-- `ROADMAP.md` = production source of truth and phase gates.
-- `current-status.md` = next action / handoff record.
+- `ROADMAP.md` = original structural roadmap and production grammar.
+- `locked-shot-overrides.md` = explicit owner-approved slot changes that supersede older placeholders.
+- `current-status.md` = shortest current handoff / next-action record.
+- `shots/03-lindy-red-umbrielor.md` = approved Shot III still/motion/end-frame direction.
+- `shots/04-stone-heart.md` = selected Shot IV Thunder Egg / Stone Heart canon research, still directive and motion thesis.
 
-If a future chat becomes convoluted, return to `ROADMAP.md` and `current-status.md` before making new production decisions.
+If a future chat becomes convoluted, read `current-status.md` first, then `locked-shot-overrides.md`, then the active shot file before returning to the older roadmap.
