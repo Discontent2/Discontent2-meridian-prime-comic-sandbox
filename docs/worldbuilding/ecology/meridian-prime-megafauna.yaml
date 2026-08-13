@@ -1,0 +1,868 @@
+schema_version: "1.0"
+document_type: ecology_entity_index
+project: Meridian Prime
+repository_scope: sandbox_only
+source:
+  file: docs/worldbuilding/ecology/meridian-prime-megafauna.md
+  source_sha: c31dd1c04cfadc62c78634bc7df2dba2df13a794
+  title: Meridian Prime Megafauna
+  department: World Building Department / Mythic Cosmology Lab
+  canon_status:
+    - development_apocrypha
+    - candidate_canon_seeds
+  entity_count: 18
+  core_design_rule: "A Meridian Prime megafauna entry is not complete until it explains what the animal does when the roads drown."
+
+related_files:
+  - docs/worldbuilding/cartography/megafauna-seasonal-map-hazards.md
+  - docs/worldbuilding/ecology/seasonal-hydrology-and-altitude-zones.md
+  - docs/worldbuilding/cartography/seasonal-territories-boundaries-and-landmarks.md
+  - docs/worldbuilding/locations/prime-plateau.md
+  - docs/worldbuilding/ecology/prime-plateau-cloud-rainforest.md
+  - docs/worldbuilding/locations/eschar-slough.md
+  - docs/worldbuilding/locations/blackstep-province.md
+  - docs/worldbuilding/politics/dry-circuit-major-hazards.md
+
+retrieval_tags:
+  - ecology
+  - fauna
+  - megafauna
+  - seasonal_ecology
+  - wet_season
+  - dry_season
+  - route_hazards
+  - cartography
+  - migration
+  - hydrology
+  - candidate_canon
+
+megafauna:
+  - id: glassback-mammoths
+    name: Glassback Mammoths
+    section: "1A"
+    region: High Escarpment Continent
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - herbivore
+      - grazer
+      - herd_megafauna
+    habitat:
+      dry: high-elevation crystal desert
+      wet: snowfield / ice-locked highland
+    morphology:
+      scale: massive
+      body_plan: low-slung
+      surface_features:
+        - shaggy coat
+        - translucent mineral plates along spine and shoulders
+        - tusks / plated head
+      visual_anchor: "Massive shaggy low-slung herd animals with translucent mineral armor along the back and shoulders."
+    diet:
+      - crystal lichens
+      - wind-buried scrub
+      - salt-mineral outcrops
+      - snowline growth
+    dry_season_behavior:
+      - move in slow herds across crystal desert heights
+      - block highland convoy roads
+      - shatter fragile crystal crust with herd weight
+      - follow warm engine exhaust or salt spills
+      - mistake fuel depots and coolant stations for mineral lick sites
+    wet_season_strategy:
+      - grow dense insulating underfur
+      - migrate to wind-scoured ridgelines
+      - break ice crust for lichen access
+      - enter semi-torpor during long whiteouts
+      - shelter calves in leeward crystal hollows
+    map_hazard:
+      - seasonal herd corridors can close roads
+      - migration bands can force Prime Ops reroutes
+    cultural_associations:
+      Meridian_crews: stubborn road hazards
+      Bought_Nation_route_families: snowfield weather prophecy
+      World_Works: large ungulate obstruction events
+    visual_tags:
+      - shaggy
+      - translucent_plates
+      - herd
+      - tusked
+      - snowfield
+      - crystal_desert
+
+  - id: rime-condors
+    name: Rime Condors
+    section: "1B"
+    region: High Escarpment Continent
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - scavenger
+      - predator
+      - aerial_megafauna
+    habitat:
+      dry: high-altitude escarpments and cliffs above the Great Cut
+      wet: cliff-cave rookeries and snowstorm airspace
+    morphology:
+      scale: huge
+      surface_features:
+        - reflective wing membranes
+        - frost-resistant lungs
+      visual_anchor: "Huge high-altitude scavenger-predators with reflective wing membranes circling crystal cliffs."
+    dry_season_behavior:
+      - follow convoys expecting breakdowns
+      - circle repair stops and accident sites
+      - attack exposed crew during long stops
+      - drop stones, bones, or scavenged fragments onto smaller machines
+      - reach wreck sites before rescue teams
+    wet_season_strategy:
+      - ride snowstorm thermals
+      - retreat to cliff-cave rookeries
+      - feed on snowfield die-offs
+      - store carcasses in ice ledges
+      - huddle in communal frost roosts
+    map_hazard:
+      - circling patterns can reveal wrecks
+      - circling can indicate weak ice, hidden dead, or predator concentrations
+    cultural_associations:
+      Prime_Ops: failure-advertising nuisance
+      Traverse_crews: omen that the road already knows something is wrong
+    visual_tags:
+      - aerial
+      - reflective_wings
+      - cliff_rookery
+      - snowstorm
+      - scavenger
+
+  - id: cut-striders
+    name: Cut Striders
+    section: "2A"
+    region: Great Cut / Cataract Ladder
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - grazer
+      - cliff_megafauna
+    habitat:
+      dry: canyon descent system and switchback shelves
+      wet: high canyon caves and ledges above cataracts
+    morphology:
+      scale: tall
+      body_plan: many-jointed
+      surface_features:
+        - hooked feet adapted to basalt, crystal, cliff walls, and switchbacks
+      silhouette: walking scaffolds in fog
+      visual_anchor: "Tall many-jointed canyon animals with hooked feet and a scaffold-like silhouette in fog."
+    dry_season_behavior:
+      - cross switchbacks at dangerous times
+      - kick loose crystalfall or rockfall
+      - use road cuts as migration shelves
+      - spook crews and descent animals
+      - graze mineral moss from canyon walls
+    wet_season_strategy:
+      - climb above active cataracts
+      - shelter in high canyon caves
+      - feed on spray-fed lichens
+      - use cliffwall nesting ledges above floodline
+      - place young in mineral nests or vertical creches
+    map_hazard:
+      - crossing zones indicate cliff instability
+      - strider ledges double as animal paths and rockfall-warning bands
+    cultural_associations:
+      Prime_Ops: route obstructions
+      plateau_guides: living weather vanes for canyon stability
+    visual_tags:
+      - many_jointed
+      - hooked_feet
+      - canyon
+      - fog
+      - scaffold_silhouette
+
+  - id: cataract-eels
+    name: Cataract Eels
+    section: "2B"
+    region: Great Cut / Cataract Ladder
+    status:
+      - scientific_hypothesis
+      - development_apocrypha
+    ecological_role:
+      - amphibious_megafauna
+      - subsurface_predator
+    habitat:
+      dry: underground rivers and wet under-roads
+      wet: cataract pools, flood channels, and deep flow pockets
+    morphology:
+      scale: long
+      surface_features:
+        - armored body
+      visual_anchor: "Long armored amphibious megafauna emerging from underground rivers when the cataracts awaken."
+    evidence_note: Existence may be better documented by damage patterns than direct sightings.
+    dry_season_behavior:
+      - rarely seen above ground
+      - tunnel through wet under-roads and subsurface channels
+      - create underground vibration mistaken for machinery
+      - respond to coolant spills, warm drainage, or floodgate seepage
+      - collapse apparently dry route segments from beneath
+    wet_season_strategy:
+      - ride flood channels down the Great Cut
+      - spawn in temporary cataract pools
+      - hunt in high-energy runoff channels
+      - retreat underground or into deep flow pockets as waters stabilize
+    map_hazard:
+      - eel tunnels can undermine apparently dry roads
+      - suspected eel channels indicate collapse risk
+    cultural_associations:
+      World_Works: may deny direct evidence until road failure
+      NCI_mechanics: "the Cut's wiring with teeth"
+    visual_tags:
+      - armored
+      - eel_like
+      - subterranean
+      - cataract
+      - amphibious
+
+  - id: cloudwood-grazer-titans
+    name: Cloudwood Grazer-Titans
+    section: "3A"
+    region: Prime Plateau / National Park / Green Hell
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - browser
+      - grazer
+      - forest_megafauna
+    habitat:
+      dry: temperate cloud rainforest staging shelf
+      wet: upper fog ridges and snowline cloudforest
+    morphology:
+      scale: huge
+      visual_anchor: "Huge browsing animals moving through cloudforest canopy and understory beneath hanging lichens and fog-fed growth."
+    diet:
+      - hanging lichens
+      - moss mats
+      - soft crystal-bark growth
+      - fog-fed canopy fruit
+    dry_season_behavior:
+      - knock canopy limbs onto roads
+      - block fog routes
+      - trigger root slides
+      - attract predators near convoy camps
+      - create broad tracks that resemble alternate roads
+    wet_season_strategy:
+      - climb or migrate to upper fog ridges
+      - enter slow metabolic mist sleep
+      - feed on snow-bent canopy growth
+      - shelter young in hollow crystalwood trunks or root caverns
+    map_hazard:
+      - trails can function as alternate paths
+      - trails can also lead into root collapse
+    cultural_associations:
+      plateau_locals: forest road-makers
+      Prime_Ops: canopy-load hazards
+      World_Works: difficult-to-model movement problem
+    visual_tags:
+      - forest_titan
+      - cloudforest
+      - canopy
+      - fog
+      - browsing
+
+  - id: fogback-ambushers
+    name: Fogback Ambushers
+    section: "3B"
+    region: Prime Plateau / National Park / Green Hell
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - predator
+      - ambush_predator
+    habitat:
+      dry: fog belts and engine-warmth zones
+      wet: warm root-caves and geothermal pockets
+    morphology:
+      scale: large
+      body_plan: low
+      surface_features:
+        - soft feet
+        - heat-sensing facial pits
+        - mosslike dorsal camouflage
+      visual_anchor: "Large low soft-footed predators with heat-sensing facial pits and mosslike camouflage disappearing into cloudforest fog."
+    dry_season_behavior:
+      - stalk repair crews
+      - hide near idling vehicles
+      - follow oil, coolant, blood, and warm metal scent
+      - use foghorns, machinery, and cataract roar to mask approach
+      - occupy apparently excellent convoy camps
+    wet_season_strategy:
+      - retreat into warm root-caves
+      - hunt snow-stalled smaller fauna
+      - den near geothermal vents, decomposing vegetation, or old coolant dumps
+      - become less mobile but more territorial
+    map_hazard:
+      - territories can render otherwise useful camps unusable
+    cultural_associations:
+      Traverse_crews: proof that the Green Hell listens
+    visual_tags:
+      - moss_camouflage
+      - heat_sensing
+      - low_profile
+      - fog
+      - ambush_predator
+
+  - id: basin-rollers
+    name: Basin Rollers
+    section: "4A"
+    region: Mirror Basin / Dry Circuit Lowlands
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - grazer_or_scavenger
+      - armored_megafauna
+    habitat:
+      dry: exposed basin floor, dry washes, and Dry Circuit tracks
+      wet: shallow islands, ridges, and flood-bloom shallows
+    morphology:
+      scale: enormous
+      body_plan: low-profile
+      surface_features:
+        - heavy armor
+      posture_behavior:
+        - curl
+        - brace
+        - hunker against haboon winds
+      silhouette: living boulders
+      visual_anchor: "Enormous armored low-profile animals that hunker or roll across basin flats like living boulders."
+    dry_season_behavior:
+      - crush route markers
+      - collapse thin hydrocrystal crust
+      - wander onto Dry Circuit tracks
+      - resemble terrain on poor scans
+      - shelter in dry washes during heat extremes
+    wet_season_strategy:
+      - migrate to exposed ridges and shallow islands
+      - enter buoyant dormancy in mineral-mud wallows
+      - float like armored rafts until grounded
+      - feed on flood-bloom mats
+    map_hazard:
+      - apparent boulder fields can become mobile
+    cultural_associations:
+      Prime_Ops: moving terrain hazards
+      Free_Scabs: drifting cover for smuggling
+    visual_tags:
+      - armored
+      - boulder_like
+      - basin
+      - low_profile
+      - buoyant
+
+  - id: paleochannel-gulpers
+    name: Paleochannel Gulpers
+    section: "4B"
+    region: Mirror Basin / Dry Circuit Lowlands
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - amphibious_predator
+      - ambush_feeder
+    habitat:
+      dry: buried beneath dry riverbeds and paleochannels
+      wet: submerged Dry Circuit channels and inland-sea shallows
+    morphology:
+      scale: massive
+      surface_features:
+        - mineral mucus seal during dormancy
+      visual_anchor: "Massive amphibious ambush-feeders buried beneath dry river crust, waking into fully aquatic predators when the basin floods."
+    dry_season_behavior:
+      - lie dormant beneath dry river roads
+      - create soft sink zones
+      - wake from convoy vibration, coolant spills, or seepage
+      - expose breathing vents that resemble rock cracks
+      - open jaws beneath thin crust without warning
+    wet_season_strategy:
+      - become fully aquatic
+      - hunt in submerged Dry Circuit channels
+      - spawn in inland-sea shallows
+      - retreat into mud chambers during drawdown
+    map_hazard:
+      - buried animals create collapse and predation hazards
+      - some dry river roads are sleeping mouths
+    cultural_associations:
+      NCI_old_hands: "Never trust a riverbed that forgot how to echo."
+    visual_tags:
+      - buried_predator
+      - amphibious
+      - paleochannel
+      - mineral_mucus
+      - ambush
+
+  - id: mooring-leviathans
+    name: Mooring Leviathans
+    section: "5A"
+    region: Hydropolis / Mirror Basin Urban-Wet Zone
+    status:
+      - candidate_canon_seed
+      - development_apocrypha
+    ecological_role:
+      - aquatic_megafauna
+      - seasonal_migrant
+    habitat:
+      dry: absent from exposed city routes; possible deep-basin persistence unresolved
+      wet: deep water around Hydropolis mooring towers
+    morphology:
+      scale: huge
+      movement: slow
+      sensory_behavior:
+        - navigate by low-frequency vibration
+      visual_anchor: "Huge slow aquatic bodies circling the submerged foundations of Hydropolis towers, guided by low-frequency vibration."
+    dry_season_behavior:
+      - absent from exposed city routes
+      - leave skeletons, scars, warning markers, and foundation-damage records
+      - eggs, larvae, or juveniles may persist in deep depressions if later approved
+    wet_season_strategy:
+      - become fully aquatic
+      - circle deep tower foundations
+      - feed on basin bloom organisms
+      - use mooring hum, tower vibration, or city shadow as orientation
+      - may interpret engine resonance as mating or territorial signals
+    map_hazard:
+      - vessel routes must avoid leviathan drift paths
+    cultural_associations:
+      Hydropolis: seasonal civic condition rather than simple wildlife
+    visual_tags:
+      - leviathan
+      - aquatic
+      - tower_foundations
+      - low_frequency
+      - hydropolis
+
+  - id: glasswake-rays
+    name: Glasswake Rays
+    section: "5B"
+    region: Hydropolis / Mirror Basin Urban-Wet Zone
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - aquatic_filter_feeder
+      - seasonal_migrant
+    habitat:
+      dry: canal-bed nursery plates
+      wet: Mirror Basin shallows and submerged Hydropolis streets
+    morphology:
+      scale: megafauna
+      body_plan: broad kite-shaped ray
+      surface_features:
+        - translucent mineral cartilage
+      visual_anchor: "Broad kite-shaped rays with translucent mineral cartilage skimming flooded streets and basin shallows."
+    dry_season_behavior:
+      - adults absent from dry streets
+      - eggs or mineralized nursery plates remain in canal beds
+      - nursery disturbance may trigger legal or civic penalties
+      - dry-canal crews mark dormant nurseries before road use
+    wet_season_strategy:
+      - emerge with floodwaters
+      - migrate through Mirror Basin shallows
+      - orient by Hydropolis shadow, signal hum, or tower reflections
+      - feed on suspended bloom organisms and small channel fauna
+    map_hazard:
+      - nurseries create protected navigation exclusions and dry-season road restrictions
+    cultural_associations:
+      Hydropolis: protected seasonal citizens of water
+      World_Works: mobility interference fauna
+    visual_tags:
+      - ray
+      - translucent_cartilage
+      - flooded_streets
+      - shallow_water
+      - hydropolis
+
+  - id: blackwake-crocs
+    name: Blackwake Crocs
+    section: "6A"
+    region: Eschar Slough
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - semi_aquatic_predator
+      - ambush_predator
+    habitat:
+      dry: cracked slough pits and hidden water
+      wet: blackwater channels and floating reed-crystal mats
+    morphology:
+      scale: huge
+      surface_features:
+        - dark mineral plating
+        - pressure-sensitive jaw ridges
+      visual_anchor: "Huge armored semi-aquatic predators with dark mineral plating, half-hidden in blackwater or cracked mud."
+    dry_season_behavior:
+      - hide in cracked slough pits
+      - guard muddy cisterns
+      - ambush animals and people near hidden water
+      - resemble basalt debris or wreck fragments
+    wet_season_strategy:
+      - dominate blackwater channels
+      - follow pirate traffic for scraps
+      - nest in floating reed-crystal mats
+      - overturn small craft
+      - occupy channels used or avoided by Free Scabs
+    map_hazard:
+      - territories shape pirate lanes and can be deliberately weaponized
+    cultural_associations:
+      Free_Scabs: border guards that cannot be bribed
+      Prime_Ops: evidence that the Slough is not worth entering
+    visual_tags:
+      - armored_croc
+      - dark_mineral_plating
+      - blackwater
+      - ambush
+      - slough
+
+  - id: slough-humpbacks
+    name: Slough Humpbacks
+    section: "6B"
+    region: Eschar Slough
+    status:
+      - development_apocrypha
+      - candidate_canon_seed
+    ecological_role:
+      - amphibious_filter_feeder_or_mud_grazer
+      - terrain_mimic
+    habitat:
+      dry: exposed slough terrain and false-island rests
+      wet: blackwater channels and drawdown ridges
+    morphology:
+      scale: massive
+      silhouette: low island when resting
+      surface_features:
+        - reeds
+        - salt crust
+        - wreck debris
+        - mineral growth collected on back
+      visual_anchor: "Massive amphibious animals whose debris-covered backs resemble low islands until the terrain moves."
+    dry_season_behavior:
+      - mistaken for terrain
+      - rise beneath vehicles
+      - create false islands and false roads
+      - conceal wrecks, nests, or Free Scab stories
+    wet_season_strategy:
+      - become fully buoyant
+      - drift through blackwater channels
+      - feed on flood blooms
+      - ground on high ridges during drawdown
+      - become living navigation hazards
+    map_hazard:
+      - some mapped islands remain unconfirmed because they may be animals
+    cultural_associations:
+      Free_Scabs: deliberately exaggerated or possibly understated living-island legends
+    visual_tags:
+      - living_island
+      - debris_back
+      - amphibious
+      - blackwater
+      - terrain_mimic
+
+  - id: thunderback-behemoths
+    name: Thunderback Behemoths
+    section: "7A"
+    region: Anticlinal Craton Interior / Geode Mountain
+    status:
+      - religious_tradition
+      - candidate_canon_seed
+    ecological_role:
+      - craton_native_megafauna
+      - grazer
+      - sacred_megafauna
+    habitat:
+      dry: geode mountain pressure corridors
+      wet: geode terraces and pressure-warm caverns above floodline
+    morphology:
+      scale: huge
+      surface_features:
+        - resonant body cavities
+        - heavy skull crests
+        - pressure-sensitive footpads
+      acoustic_trait: ground-shaking calls
+      visual_anchor: "Huge heavy-crested Craton animals with resonant bodies and pressure-sensitive feet, moving like sacred geology."
+    dry_season_behavior:
+      - move along sacred pressure corridors
+      - block routes through weight rather than aggression
+      - trigger rockfalls if startled
+      - produce calls mistaken for geological events
+      - graze mineral lichens, pressure-warmed fungi, or geode-edge growth
+    wet_season_strategy:
+      - climb to geode terraces above floodline
+      - shelter in pressure-warm caverns
+      - enter low-movement resonance torpor
+      - rely on stored fat and mineral-rich lichens
+      - hide young in guarded resonance hollows
+    map_hazard:
+      - migration routes are sacred pressure corridors, not merely animal paths
+    cultural_associations:
+      Craton: elder weight and moving sacred geography
+      outsider_error: treating them as ordinary livestock-scale wildlife
+    visual_tags:
+      - heavy_skull_crest
+      - resonant
+      - sacred
+      - geode
+      - massive
+
+  - id: geode-crown-raptors
+    name: Geode Crown Raptors
+    section: "7B"
+    region: Anticlinal Craton Interior / Geode Mountain
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - pack_hunter
+      - aerial_or_gliding_predator
+      - saurian_predator
+    habitat:
+      dry: crystal cliffs, geode caverns, gates, and basalt updrafts
+      wet: high cliff nests and wet-season dock approaches
+    morphology:
+      scale: large
+      body_plan: saurian aerial or gliding predator
+      surface_features:
+        - reflective mineral crests used for pack signaling
+      visual_anchor: "Large pack-hunting saurian gliders with reflective mineral crowns riding basalt and geode updrafts."
+    dry_season_behavior:
+      - nest near gates and geode ledges
+      - attack drones, climbers, scouts, and survey teams
+      - may function as tolerated natural perimeter defense
+      - signal within packs using reflective mineral crests
+    wet_season_strategy:
+      - retreat to high cliff nests
+      - hunt wet-season dock approaches
+      - scavenge shipwrecks along Blackstep cliffs
+      - ride storm updrafts around basalt shelves
+      - prey on smaller birds, fish, and landing carrion
+    map_hazard:
+      - nesting zones create no-drone and no-climb areas
+    cultural_associations:
+      Craton_gate_guards: agitation can serve as warning
+      World_Works: drone-loss problem
+    visual_tags:
+      - saurian
+      - glider
+      - reflective_crest
+      - pack_hunter
+      - geode_cliff
+
+  - id: basalt-tuskers
+    name: Basalt Tuskers
+    section: "8A"
+    region: Blackstep Province / Craton Basalt Apron
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - herbivore_or_omnivore
+      - cliff_megafauna
+    habitat:
+      dry: exposed basalt terraces and threshold roads
+      wet: high basalt shelves, short channels, and wet docking reefs
+    morphology:
+      scale: massive
+      locomotion: cliff-footed
+      surface_features:
+        - tusks adapted for scraping mineral growth
+      visual_anchor: "Massive cliff-footed tusked animals scraping mineral growth from black basalt terraces and reef shelves."
+    diet:
+      - mineral algae
+      - basalt lichen
+      - reef growth
+      - step-shelf vegetation
+    dry_season_behavior:
+      - occupy basalt terraces
+      - damage dry docking roads
+      - charge at certain engine vibrations
+      - scrape pressure markers when stressed
+      - leave tusk scars that resemble tool marks
+    wet_season_strategy:
+      - retreat to high basalt shelves
+      - swim short channels between steps
+      - feed on wet basalt algae and reef mats
+      - raise young on inaccessible ledges
+      - use no-anchor zones as accidental refuges
+    map_hazard:
+      - occupied ledges can close usable wet gates
+    cultural_associations:
+      Craton: behavior may be read as pressure feedback
+      Prime_Ops: dock closure
+    visual_tags:
+      - tusked
+      - basalt
+      - cliff_footed
+      - massive
+      - reef
+
+  - id: reef-hammer-drakes
+    name: Reef-Hammer Drakes
+    section: "8B"
+    region: Blackstep Province / Craton Basalt Apron
+    status:
+      - development_apocrypha
+      - candidate_canon_seed
+    ecological_role:
+      - semi_aquatic_predator
+      - marine_predator
+      - reptilian_or_saurian
+    habitat:
+      dry: basalt caves, shaded pools, and lava tubes
+      wet: basalt reefs and flooded lava tubes
+    morphology:
+      scale: large
+      surface_features:
+        - hammerlike skull
+      visual_anchor: "Large semi-aquatic reptilian or saurian predators with hammerlike skulls patrolling jagged basalt reefs."
+    feeding_behavior:
+      - crack shell-creatures
+      - break reef armor
+      - strike small hulls
+    dry_season_behavior:
+      - remain dormant or sluggish in basalt caves
+      - guard shaded pools
+      - attack crews near wet-dock repairs
+      - occupy lava tubes mistaken for storage
+    wet_season_strategy:
+      - become active marine predators
+      - patrol basalt reefs
+      - follow ships toward docking terraces
+      - nest in flooded lava tubes
+      - use waves and basalt teeth to trap prey
+    map_hazard:
+      - wet-season docking charts must mark drake reefs
+    cultural_associations:
+      Free_Scabs: natural ambush wall
+      Craton: part of the dock's refusal rather than an external hazard
+    visual_tags:
+      - hammer_skull
+      - saurian
+      - semi_aquatic
+      - basalt_reef
+      - marine_predator
+
+  - id: shardhorn-waders
+    name: Shardhorn Waders
+    section: "9A"
+    region: Lower Basin River Corridors / Dry River Roads
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - wetland_grazer
+      - migratory_megafauna
+    habitat:
+      dry: dry river roads and old water traces
+      wet: rising channels and shallow inland waters
+    morphology:
+      scale: tall and heavy
+      surface_features:
+        - blade-like mineral horns
+        - long legs
+      visual_anchor: "Tall heavy wetland grazers with long legs and blade-like mineral horns moving in transition-season herds."
+    dry_season_behavior:
+      - remain rare or scattered
+      - leave skeleton trails that mark old water paths
+      - desperate individuals follow convoys for water
+      - horn scrapes indicate future channel routes
+    wet_season_strategy:
+      - migrate with rising channels
+      - browse submerged crystal reeds
+      - form defensive circles in shallow water
+      - break surface crust and floating mineral mats with horn fans
+    map_hazard:
+      - movement predicts which dry roads will become channels first
+    cultural_associations:
+      route_crews: living flood gauges
+      Hydropolis: wetland-cycle indicators
+    visual_tags:
+      - long_legged
+      - blade_horns
+      - wader
+      - herd
+      - flood_indicator
+
+  - id: mudvault-tortoises
+    name: Mudvault Tortoises
+    section: "9B"
+    region: Lower Basin River Corridors / Dry River Roads
+    status:
+      - candidate_canon_seed
+    ecological_role:
+      - shelled_basin_megafauna
+      - aquatic_grazer
+      - seasonal_dormant
+    habitat:
+      dry: sealed beneath mud / crystal crust
+      wet: inland seas and drawdown berms
+    morphology:
+      scale: gigantic
+      surface_features:
+        - massive shell
+      visual_anchor: "Gigantic shelled basin creatures buried beneath mineral mud like false ground, later swimming slowly through inland seas."
+    dry_season_behavior:
+      - shells create false stable ground
+      - vehicles can crack vaults and trigger sudden movement
+      - shell hum can indicate underground water
+      - buried bodies distort ground-penetrating radar readings
+    wet_season_strategy:
+      - emerge and swim slowly through inland seas
+      - feed on aquatic vegetation and mineral bloom
+      - lay eggs in high drawdown berms
+      - return to mud vaults as waters retreat
+    map_hazard:
+      - fields indicate water but also create collapse hazards
+    cultural_associations:
+      Prime_Ops: scan-confusion problem
+      Bought_Nation_route_families: inherited water knowledge
+    visual_tags:
+      - gigantic_tortoise
+      - buried
+      - false_ground
+      - inland_sea
+      - shell
+
+cross_region_patterns:
+  highland:
+    - ridgeline migration
+    - snow hollows
+    - torpor
+  canyon:
+    - vertical escape
+    - underground channels
+  cloudforest:
+    - fog use
+    - root systems
+    - canopy shelter
+  basin:
+    - dormancy
+    - buoyancy
+    - islanding
+    - amphibious phases
+  hydropolis:
+    - mooring-tower orientation
+    - signal hum
+    - basin bloom cycles
+  eschar_slough:
+    - pirate navigation
+    - concealment
+  craton:
+    - pressure interpretation
+    - threshold symbolism
+    - sacred weight
+  blackstep:
+    - living docking hazards
+
+canon_hold:
+  do_not_promote_without_review:
+    - exact biological taxonomy
+    - exact species count
+    - exact sizes
+    - exact reproductive cycles
+    - exact sentience or ritual status
+    - exact relationship to Aeonolacertian biology
+    - exact role in Book One
+    - exact location of every habitat range
+    - exact legal protections for each species
+    - whether Hydropolis or Craton names are final
+
+final_development_principle: "Meridian Prime megafauna are not monsters placed on a map. They are seasonal citizens of terrain that keeps changing its mind."
