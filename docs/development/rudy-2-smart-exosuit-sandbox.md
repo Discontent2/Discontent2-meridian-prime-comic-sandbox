@@ -1,3 +1,23 @@
+---
+title: "RUDY-2 Smart Exosuit Sandbox"
+status: "sandbox"
+canon_status: "candidate"
+type: "equipment"
+primary_association:
+  - "Rudy Calder"
+  - "MITE II"
+designation: "RUDY-2"
+crew_call_name: "Rudy"
+serial_marking_rule: "Do not use 287; 287 belongs to Discovery"
+tags:
+  - rudy-2
+  - exosuit
+  - smart-mechanic
+  - mite-ii
+  - traverse
+  - equipment
+---
+
 # RUDY-2 Smart Exosuit Sandbox
 
 **Repository status:** Sandbox development material  
