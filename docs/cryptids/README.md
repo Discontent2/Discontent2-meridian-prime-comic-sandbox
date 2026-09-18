@@ -1,0 +1,87 @@
+# Meridian Prime Cryptids
+
+**Status:** Sandbox Cryptid Development / Non-Canon Until Promoted  
+**Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
+**Created:** 2026-09-18  
+
+---
+
+## Purpose
+
+This folder collects Meridian Prime cryptid concepts as individual development files.
+
+Cryptids in this folder are **sandbox material** unless separately promoted through canon review.
+
+Cryptids may overlap with:
+
+- dangerous wildlife
+- route organisms
+- folklore creatures
+- threshold phenomena
+- signal-haunted fauna
+- local superstition wrapped around real ecology
+- cultural warning creatures
+
+Core operating principle:
+
+```text
+A Meridian Prime cryptid is not only a monster.
+It is a place where ecology, rumor, route knowledge, and fear disagree in public.
+```
+
+---
+
+## Entries
+
+| Entry | File | Name | Current Lane | Status |
+|---:|---|---|---|---|
+| 001 | `001-rookmask-jack.md` | Rookmask Jack | Aeonolacertian / Antisapien-adjacent folklore creature; route omen and scavenger-intellectual | Sandbox Cryptid Development |
+| 002 | `002-the-third-reflection.md` | The Third Reflection | Reflection-first drawdown basin apex predator; route-shaped ecological horror | Sandbox Ecology Seed / Cryptid Cross-Listing |
+
+---
+
+## Current Headliners
+
+### 001 — Rookmask Jack
+
+A human-sized, saurian-leaning, hooded threshold cryptid with tattered black robes, plague-mask-like cowl, old Traverse backpack, crooked walking staff, and scavenger-intellectual behavior.
+
+He is associated with dead relay masts, bad route reports, false manifests, black-flag roads, and moments when the road seems to know more than the crew.
+
+### 002 — The Third Reflection
+
+A night-glass predator of drawdown flood-reed basins beneath high escarpment routes. It is most often seen in reflection before anyone sees the body.
+
+Locals do not say, “There’s one ahead.”
+
+They say:
+
+```text
+The road is looking back.
+```
+
+---
+
+## Suggested Future Entries
+
+Possible future individual files:
+
+- Black-shell scavengers
+- Tinwing skiff-birds
+- Reed-crown grazers
+- Red-Beak Auditor cultural variant notes
+- Mast-Knocker route-worker folklore notes
+- Hydropolis signal cryptids
+- Craton threshold cryptids
+
+---
+
+## Canon Safety Note
+
+Unless a file states otherwise, entries here are:
+
+```text
+Sandbox / Non-Canon / Requires Canon Review Before Promotion
+```
+
+They may be used for visual development, side-story seeds, chance encounters, reel shots, image prompts, and sandbox comics.
