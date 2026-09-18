@@ -37,6 +37,7 @@ It is a place where ecology, rumor, route knowledge, and fear disagree in public
 |---:|---|---|---|---|
 | 001 | `001-rookmask-jack.md` | Rookmask Jack | Aeonolacertian / Antisapien-adjacent folklore creature; route omen and scavenger-intellectual | Sandbox Cryptid Development |
 | 002 | `002-the-third-reflection.md` | The Third Reflection | Reflection-first drawdown basin apex predator; route-shaped ecological horror | Sandbox Ecology Seed / Cryptid Cross-Listing |
+| 003 | `003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
 
 ---
 
@@ -59,6 +60,14 @@ They say:
 ```text
 The road is looking back.
 ```
+
+### 003 — Ol' Jasper
+
+A human-sized, lynx-eared, feline-sasquatch Jack-kin cryptid associated with Traverse camps, abandoned modules, crevasse country, and lonely shelter lights.
+
+Jasper wears scavenged Traverse gear, round goggles, a red headlamp, and a harness/yoke rig. His moving red lamp can be mistaken for a route marker by lost teams. He may accidentally lead crews toward crevasse country before frightening them away from danger.
+
+He is frightening, secretive, and poorly understood, but many field stories frame him as gentle and kind.
 
 ---
 
