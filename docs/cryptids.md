@@ -31,6 +31,31 @@ docs/cryptids/README.md
 | 002 | `docs/cryptids/002-the-third-reflection.md` | The Third Reflection | Reflection-first drawdown basin apex predator; route-shaped ecological horror | Sandbox Ecology Seed / Cryptid Cross-Listing |
 | 003 | `docs/cryptids/003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
 | 004 | `docs/cryptids/004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
+| 005 | `docs/cryptids/005-the-last-surveyor-flagstaff.md` | The Last Surveyor / Flagstaff | Damaged route-service robot cryptid; obsolete auxiliary route hazard | Sandbox Cryptid Development |
+
+---
+
+## Search Aliases
+
+Useful names and search phrases:
+
+```text
+Rookmask Jack
+The Third Reflection
+Ol' Jasper
+Isopod_X
+Isopod-X
+X
+Antidrill Louse
+The Last Surveyor
+Flagstaff
+The Flagger
+Flagwalker
+Old Wrong-Way
+ARSD-LM-47
+ARS-47
+The Machine With the Dead Map
+```
 
 ---
 
