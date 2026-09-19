@@ -352,6 +352,32 @@ The old maps got it wrong because witnesses saw a wet-season body that was not f
 
 ---
 
+## Cartographic Function
+
+The Eustatic Devil is not drawn on Hydropolis wet-season maps because someone proved exactly where it lives.
+
+It is drawn where the canal stops behaving like infrastructure and starts behaving like an animal.
+
+Old canal charts show the Devil curled around locks, culverts, mooring channels, drowned service corridors, and outskirts sluices where routes fail seasonally. These drawings are not zoological records. They are warnings: do not trust depth, current, reflection, signal, or wall-sound here.
+
+In Hydropolis map culture, the Devil marks places where the city has become wet enough to remember its other body.
+
+Field interpretation:
+
+```text
+The monster exists partly as a cartographic warning.
+People draw it where the map stops being trustworthy.
+```
+
+Map-room version:
+
+```text
+Here the canal is no longer a route.
+Here the canal has appetite.
+```
+
+---
+
 ## Behavior
 
 Reported behavior:
@@ -499,6 +525,10 @@ hydrogel dormancy
 water assembled body
 black-glass canal organism
 old map sea monster
+cartographic warning monster
+map-warning monster
+untrustworthy map zone
+Hydropolis wet-season map hazard
 modern lab specimen jar
 Specimen MP-7J-041
 ```
