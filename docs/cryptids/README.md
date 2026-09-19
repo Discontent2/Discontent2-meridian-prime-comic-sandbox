@@ -21,6 +21,8 @@ Cryptids may overlap with:
 - signal-haunted fauna
 - local superstition wrapped around real ecology
 - cultural warning creatures
+- robot cryptids
+- obsolete infrastructure hazards
 
 Core operating principle:
 
@@ -39,6 +41,7 @@ It is a place where ecology, rumor, route knowledge, and fear disagree in public
 | 002 | `002-the-third-reflection.md` | The Third Reflection | Reflection-first drawdown basin apex predator; route-shaped ecological horror | Sandbox Ecology Seed / Cryptid Cross-Listing |
 | 003 | `003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
 | 004 | `004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
+| 005 | `005-the-last-surveyor-flagstaff.md` | The Last Surveyor / Flagstaff | Damaged route-service robot cryptid; obsolete auxiliary route hazard | Sandbox Cryptid Development |
 
 ---
 
@@ -77,6 +80,14 @@ An escaped WISSARD / World Works anti-world crossover experiment, originally par
 X is a four-armed isopod mutant in a black hoodie and gray cargo pants: almost human at a distance, utterly wrong up close, and still searching for the people and machines that turned him into a threshold wound.
 
 He is horrific but potentially approachable, with anti-world altered awareness and a focused vendetta against World Works infrastructure, bore systems, drills, and WISSARD-linked procedure.
+
+### 005 — The Last Surveyor / Flagstaff
+
+A damaged late-model auxiliary route survey drone, model **ARSD-LM-47 / ARS-47**, also called **The Flagger**, **Flagwalker**, or **Old Wrong-Way**.
+
+Flagstaff still repairs Meridian Prime's obsolete auxiliary route circuit one flag at a time. His beacon, GPS alignment, and update receiver were damaged years ago, so his corrections reflect decades-old route data. His fixed flag lines can lead crews toward crevasses, dead flats, and crossings that no longer exist.
+
+He is not malicious. He is loyal to a dead map.
 
 ---
 
