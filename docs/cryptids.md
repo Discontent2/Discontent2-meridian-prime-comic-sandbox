@@ -30,6 +30,7 @@ docs/cryptids/README.md
 | 001 | `docs/cryptids/001-rookmask-jack.md` | Rookmask Jack | Aeonolacertian / Antisapien-adjacent folklore creature; route omen and scavenger-intellectual | Sandbox Cryptid Development |
 | 002 | `docs/cryptids/002-the-third-reflection.md` | The Third Reflection | Reflection-first drawdown basin apex predator; route-shaped ecological horror | Sandbox Ecology Seed / Cryptid Cross-Listing |
 | 003 | `docs/cryptids/003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
+| 004 | `docs/cryptids/004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
 
 ---
 
