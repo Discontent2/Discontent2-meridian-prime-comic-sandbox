@@ -32,6 +32,7 @@ docs/cryptids/README.md
 | 003 | `docs/cryptids/003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
 | 004 | `docs/cryptids/004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
 | 005 | `docs/cryptids/005-the-last-surveyor-flagstaff.md` | The Last Surveyor / Flagstaff | Damaged route-service robot cryptid; obsolete auxiliary route hazard | Sandbox Cryptid Development |
+| 006 | `docs/cryptids/006-the-eustatic-devil.md` | The Eustatic Devil | Hydropolis wet-season aquatic cryptid; flood-assembled hellbender/nudibranch devil | Sandbox Cryptid Development |
 
 ---
 
@@ -55,6 +56,24 @@ Old Wrong-Way
 ARSD-LM-47
 ARS-47
 The Machine With the Dead Map
+The Eustatic Devil
+Eustatic Devil
+Monsoon Devil
+Transgression Devil
+Sea Devil
+Sluice Devil
+Sluice Hellbender
+Canal Hellbender
+Flood Olm
+Gilled Devil
+Devil in the Locks
+Hydropolis Devil
+Monstrum Sluicium
+Diabolus Canalis
+Hydropolis aquatic cryptid
+Hydropolis wet-season cryptid
+Mirror Basin cryptid
+Specimen MP-7J-041
 ```
 
 ---
