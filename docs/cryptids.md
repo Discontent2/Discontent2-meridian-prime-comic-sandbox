@@ -33,6 +33,7 @@ docs/cryptids/README.md
 | 004 | `docs/cryptids/004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
 | 005 | `docs/cryptids/005-the-last-surveyor-flagstaff.md` | The Last Surveyor / Flagstaff | Damaged route-service robot cryptid; obsolete auxiliary route hazard | Sandbox Cryptid Development |
 | 006 | `docs/cryptids/006-the-eustatic-devil.md` | The Eustatic Devil | Hydropolis wet-season aquatic cryptid; flood-assembled hellbender/nudibranch devil | Sandbox Cryptid Development |
+| 007 | `docs/cryptids/007-the-cairn-hound-sparky.md` | The Cairn Hound / Sparky | W.A.S. Traverse mountaineer remnant; crystal dogman cave hermit and high-route warning cryptid | Sandbox Cryptid Development |
 
 ---
 
@@ -74,6 +75,39 @@ Hydropolis aquatic cryptid
 Hydropolis wet-season cryptid
 Mirror Basin cryptid
 Specimen MP-7J-041
+The Cairn Hound
+Cairn Hound
+Sparky
+Mara "Sparky" Cairn
+Mara Cairn
+Massif
+Massey
+Massif "Massey"
+Chupacobra
+Crystal Dogman
+Shard Hound
+Dog in the Geode
+Cave-Keeper Hound
+W.A.S. Traverse
+WAS Traverse
+WISSARD Traverse
+WISSARD first Core traverse
+W.A.S. Traverse mountaineer
+Core memory mesh
+mountaineer cryptid
+vertical route specialist
+mountain cave hermit
+crystal hound
+crystal dog cryptid
+redglass hound
+geode hound
+cairn marker cryptid
+high-route cryptid
+Meridian Prime mountain cryptid
+Mara Sparky Cairn cryptid
+Massif Massey dog memory
+Higher paths still remember
+Some climb some fall all belong
 ```
 
 ---
