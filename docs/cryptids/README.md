@@ -25,6 +25,9 @@ Cryptids may overlap with:
 - obsolete infrastructure hazards
 - aquatic cryptids
 - seasonal flood organisms
+- W.A.S. Traverse remnant folklore
+- Core-returned memory-mesh beings
+- mountain route warning creatures
 
 Core operating principle:
 
@@ -45,6 +48,7 @@ It is a place where ecology, rumor, route knowledge, and fear disagree in public
 | 004 | `004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
 | 005 | `005-the-last-surveyor-flagstaff.md` | The Last Surveyor / Flagstaff | Damaged route-service robot cryptid; obsolete auxiliary route hazard | Sandbox Cryptid Development |
 | 006 | `006-the-eustatic-devil.md` | The Eustatic Devil | Hydropolis wet-season aquatic cryptid; flood-assembled hellbender/nudibranch devil | Sandbox Cryptid Development |
+| 007 | `007-the-cairn-hound-sparky.md` | The Cairn Hound / Sparky | W.A.S. Traverse mountaineer remnant; crystal dogman cave hermit and high-route warning cryptid | Sandbox Cryptid Development |
 
 ---
 
@@ -100,6 +104,14 @@ The Eustatic Devil survives dry season as dormant hydrogel tissue, sponge-like n
 
 The water does not reveal the creature. The water assembles it.
 
+### 007 — The Cairn Hound / Sparky
+
+A W.A.S. Traverse remnant cryptid: **Mara "Sparky" Cairn**, the first Core traverse's mountaineer and vertical route specialist, returned through the forgotten memory of her dog **Massif "Massey"**.
+
+The Cairn Hound is a tall crystal-grown dogman hermit in tattered modern mountaineering garb, seen near high cairns, cave mouths, old traverse routes, avalanche bowls, and impossible ridgelines. Mountain rumors call her **Chupacobra** because she looks like something that might drain blood, but the story is wrong. She mostly keeps to herself, warns routes, and reacts badly to WISSARD metal.
+
+The Chupacobra does not drink blood. It remembers doors.
+
 ---
 
 ## Suggested Future Entries
@@ -113,6 +125,7 @@ Possible future individual files:
 - Mast-Knocker route-worker folklore notes
 - Hydropolis signal cryptids
 - Craton threshold cryptids
+- W.A.S. Traverse overview / unrecovered-team dossier
 
 ---
 
