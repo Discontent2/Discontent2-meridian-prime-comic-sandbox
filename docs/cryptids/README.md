@@ -23,6 +23,8 @@ Cryptids may overlap with:
 - cultural warning creatures
 - robot cryptids
 - obsolete infrastructure hazards
+- aquatic cryptids
+- seasonal flood organisms
 
 Core operating principle:
 
@@ -42,6 +44,7 @@ It is a place where ecology, rumor, route knowledge, and fear disagree in public
 | 003 | `003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
 | 004 | `004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
 | 005 | `005-the-last-surveyor-flagstaff.md` | The Last Surveyor / Flagstaff | Damaged route-service robot cryptid; obsolete auxiliary route hazard | Sandbox Cryptid Development |
+| 006 | `006-the-eustatic-devil.md` | The Eustatic Devil | Hydropolis wet-season aquatic cryptid; flood-assembled hellbender/nudibranch devil | Sandbox Cryptid Development |
 
 ---
 
@@ -88,6 +91,14 @@ A damaged late-model auxiliary route survey drone, model **ARSD-LM-47 / ARS-47**
 Flagstaff still repairs Meridian Prime's obsolete auxiliary route circuit one flag at a time. His beacon, GPS alignment, and update receiver were damaged years ago, so his corrections reflect decades-old route data. His fixed flag lines can lead crews toward crevasses, dead flats, and crossings that no longer exist.
 
 He is not malicious. He is loyal to a dead map.
+
+### 006 — The Eustatic Devil
+
+A Hydropolis wet-season aquatic cryptid also known as the **Monsoon Devil**, **Transgression Devil**, **Sea Devil**, and **Sluice Devil**.
+
+The Eustatic Devil survives dry season as dormant hydrogel tissue, sponge-like nodules, mineral slime, and dried biofilm embedded in black-glass canal seams, sluices, and drainage architecture. When floodwater returns, that tissue rehydrates into a giant pale hellbender/olm/nudibranch monster with sensory mouth tendrils, devil-horn-like nudibranch structures, frilled gills, porous skin, and low wet electrical abilities.
+
+The water does not reveal the creature. The water assembles it.
 
 ---
 
