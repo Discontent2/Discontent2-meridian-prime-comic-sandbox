@@ -38,6 +38,7 @@ It is a place where ecology, rumor, route knowledge, and fear disagree in public
 | 001 | `001-rookmask-jack.md` | Rookmask Jack | Aeonolacertian / Antisapien-adjacent folklore creature; route omen and scavenger-intellectual | Sandbox Cryptid Development |
 | 002 | `002-the-third-reflection.md` | The Third Reflection | Reflection-first drawdown basin apex predator; route-shaped ecological horror | Sandbox Ecology Seed / Cryptid Cross-Listing |
 | 003 | `003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
+| 004 | `004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
 
 ---
 
@@ -68,6 +69,14 @@ A human-sized, lynx-eared, feline-sasquatch Jack-kin cryptid associated with Tra
 Jasper wears scavenged Traverse gear, round goggles, a red headlamp, and a harness/yoke rig. His moving red lamp can be mistaken for a route marker by lost teams. He may accidentally lead crews toward crevasse country before frightening them away from danger.
 
 He is frightening, secretive, and poorly understood, but many field stories frame him as gentle and kind.
+
+### 004 — Isopod_X / X
+
+An escaped WISSARD / World Works anti-world crossover experiment, originally part of a crustacean-interface program abandoned after the Antidrill Incident.
+
+X is a four-armed isopod mutant in a black hoodie and gray cargo pants: almost human at a distance, utterly wrong up close, and still searching for the people and machines that turned him into a threshold wound.
+
+He is horrific but potentially approachable, with anti-world altered awareness and a focused vendetta against World Works infrastructure, bore systems, drills, and WISSARD-linked procedure.
 
 ---
 
