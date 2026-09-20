@@ -23,7 +23,8 @@ A Meridian Prime reel should feel like a recovered fragment: short enough to hau
 
 | File | Title | Lane | Status |
 |---|---|---|---|
-| `was-traverse-cryptid-reel-lighting-pass.md` | W.A.S. Traverse / Meridian Prime Cryptid Reel — Lighting Pass | Cryptids / W.A.S. Traverse / Visual Development | Sandbox Reel Treatment |
+| `was-traverse-cryptid-reel-lighting-pass.md` | W.A.S. Traverse / Meridian Prime Cryptid Reel - Lighting Pass | Cryptids / W.A.S. Traverse / Visual Development | Sandbox Reel Treatment |
+| `was-traverse-cryptid-reel-stills-production-notes.md` | W.A.S. Traverse / Meridian Prime Cryptid Reel - Stills Production Notes | Cryptids / W.A.S. Traverse / Image Generation Notes | Sandbox Production Notes |
 
 ---
 
@@ -42,6 +43,10 @@ Meridian Prime reel
 cryptid reel
 silent reel
 lighting pass
+stills production notes
+reel stills
+image generation notes
+visual continuity
 no white light
 artificial lighting
 reflection lighting
@@ -51,12 +56,16 @@ ethereal lighting
 saturated lighting
 strong shadows
 bold silhouettes
+bad 1980s sci-fi movie
+practical effects look
 Rookmask Jack
 Flagstaff
 The Flagger
+The Last Surveyor
 Ol' Jasper
 X
 Isopod_X
+Richard Jameson
 Sparky
 The Cairn Hound
 Mara Cairn
@@ -65,6 +74,8 @@ Sea Devil
 Monsoon Devil
 Sluice Devil
 Hydropolis route
+Chongqing cyberpunk Hydropolis
+four perimeter skyscrapers
 last crew picture
 still us for now
 future traveler stories
