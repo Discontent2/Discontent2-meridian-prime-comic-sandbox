@@ -25,6 +25,7 @@ A Meridian Prime reel should feel like a recovered fragment: short enough to hau
 |---|---|---|---|
 | `was-traverse-cryptid-reel-lighting-pass.md` | W.A.S. Traverse / Meridian Prime Cryptid Reel - Lighting Pass | Cryptids / W.A.S. Traverse / Visual Development | Sandbox Reel Treatment |
 | `was-traverse-cryptid-reel-stills-production-notes.md` | W.A.S. Traverse / Meridian Prime Cryptid Reel - Stills Production Notes | Cryptids / W.A.S. Traverse / Image Generation Notes | Sandbox Production Notes |
+| `was-traverse-reel-videography-style-lock.md` | W.A.S. Traverse / Meridian Prime Cryptid Reel - Videography Style Lock | Cryptids / W.A.S. Traverse / Videography | Sandbox Style Lock |
 
 ---
 
@@ -47,6 +48,15 @@ stills production notes
 reel stills
 image generation notes
 visual continuity
+videography style lock
+reel style lock
+haunted living stills
+slow cinematic reel
+vertical reel
+9:16 reel
+slow push-in
+subtle parallax
+fog drift
 no white light
 artificial lighting
 reflection lighting
@@ -57,6 +67,8 @@ saturated lighting
 strong shadows
 bold silhouettes
 bad 1980s sci-fi movie
+80s dark fantasy cinematic style
+vintage film look
 practical effects look
 Rookmask Jack
 Flagstaff
