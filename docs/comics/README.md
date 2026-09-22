@@ -24,7 +24,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | File | Title | Lane | Status |
 |---|---|---|---|
 | `was-traverse-comic-pitch.md` | W.A.S. Traverse: The Road That Came Back Wrong | W.A.S. Traverse / Comic Pitch / 5-Issue Arc | Sandbox Comic Pitch |
-| `was-traverse-issue-01-beat-sheet.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Beat Sheet | W.A.S. Traverse / Issue Beat Sheet / Page Budgeting | Sandbox Beat Sheet |
+| `was-traverse-issue-01-beat-sheet.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Beat Sheet | W.A.S. Traverse / Issue Beat Sheet / Page-by-Page Breakdown / Page Budgeting | Sandbox Beat Sheet |
 
 ---
 
@@ -40,11 +40,11 @@ The pitch is structured for monthly release with a trade-paperback shape: each 2
 
 ### Issue 01 Beat Sheet: The Route That Came Back Wrong
 
-A 22-page issue beat sheet for the opening installment of the W.A.S. Traverse comic arc.
+A revised 22-page page-by-page breakdown for the opening installment of the W.A.S. Traverse comic arc.
 
-The issue follows a present-day Traverse crew through a wrong-route survival incident involving Ol' Jasper, Flagstaff, a dead WISSARD relay, and Rookmask Jack before revealing that the cryptids may be Core-returned WISSARD personnel.
+The issue follows a present-day Traverse train after a rookie lead driver blindly follows obsolete physical flags while the Traverse Lead is in the galley module writing the daily SITREP. A rear tractor spots an old late-model survey drone, the rookie realizes they are off course, and a red light appears near the approved route. Jasper's frightening intervention forces the route mistake into the open, leading to stop-ops, a load check, deployment of a GPR tractor, discovery of a parallel subsurface crevasse, and a push toward an old relay tower and fuel cache where Rookmask Jack appears.
 
-The document protects page budget, page-turn reveals, splash usage, A/B/C plot weaving, and the Page 22 cliffhanger: `PHASE TWO AUTHORIZED`.
+The document protects page budget, page-turn reveals, Traverse operating procedure, equipment POV, limited crew exits, and the Page 22 cliffhanger: `PHASE TWO AUTHORIZED`.
 
 ---
 
@@ -65,6 +65,7 @@ comic beat sheet
 issue beat sheet
 page budget
 page budgeting
+page-by-page breakdown
 page turn reveal
 monthly comic
 five issue arc
@@ -108,8 +109,25 @@ future traveler stories
 cryptid folklore
 route horror
 wrong route
-red light in fog
 wrong flags
+Traverse train
+lead tractor
+rear tractor
+galley module
+SITREP
+stop ops
+load check
+GPR tractor
+ground penetrating radar tractor
+parallel crevasse
+subsurface crevasse
+late-model survey drone
+old survey drone
+red light correction
+Jasper chase
+relay tower
+fuel cache
+bridged path
 dead relay signal
 Phase Two Authorized
 Personnel Status Unresolved
