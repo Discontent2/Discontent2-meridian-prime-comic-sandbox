@@ -21,6 +21,7 @@ docs/comics/README.md
 
 ```text
 docs/comics/was-traverse-comic-pitch.md
+docs/comics/was-traverse-issue-01-beat-sheet.md
 ```
 
 ---
@@ -37,6 +38,12 @@ Core hook:
 The first WISSARD team sent into Meridian Prime's Core returns changed into the cryptids future travelers fear, pity, and quietly rely on.
 ```
 
+### Issue 01 Beat Sheet: The Route That Came Back Wrong
+
+A 22-page page-budgeting document for the first monthly issue.
+
+It breaks Issue #1 into exact scene blocks, protects odd-page reveals, reserves the Page 22 splash cliffhanger, and tracks A/B/C plot function before full script drafting.
+
 ---
 
 ## Search Tags
@@ -48,8 +55,19 @@ WAS Traverse comic
 WISSARD comic
 comic pitch
 comic arc
+comic beat sheet
+issue beat sheet
+page budget
+22 page comic
 5 issue arc
 The Road That Came Back Wrong
+The Route That Came Back Wrong
+Issue 01
+Issue 1
+red light in fog
+wrong flags
+dead relay signal
+Phase Two Authorized
 Rookmask Jack
 X
 Ol' Jasper
