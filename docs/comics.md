@@ -40,9 +40,11 @@ The first WISSARD team sent into Meridian Prime's Core returns changed into the 
 
 ### Issue 01 Beat Sheet: The Route That Came Back Wrong
 
-A 22-page page-budgeting document for the first monthly issue.
+A revised 22-page page-budgeting document and page-by-page breakdown for the first monthly issue.
 
-It breaks Issue #1 into exact scene blocks, protects odd-page reveals, reserves the Page 22 splash cliffhanger, and tracks A/B/C plot function before full script drafting.
+It now locks the Traverse operating logic: the crew remains inside equipment while underway, communication is mostly by radio, the rookie lead driver follows obsolete flags while the Traverse Lead writes the daily SITREP in the galley module, a rear tractor spots an old late-model survey drone, Jasper forces a bad correction into the open, the crew calls stop-ops, deploys a GPR tractor, discovers a parallel subsurface crevasse, and pushes to an old relay tower / fuel cache where Rookmask Jack appears.
+
+The document protects odd-page reveals, limited crew exits, vehicle POV, equipment procedure, and the Page 22 splash cliffhanger: `PHASE TWO AUTHORIZED`.
 
 ---
 
@@ -58,13 +60,31 @@ comic arc
 comic beat sheet
 issue beat sheet
 page budget
+page-by-page breakdown
 22 page comic
 5 issue arc
 The Road That Came Back Wrong
 The Route That Came Back Wrong
 Issue 01
 Issue 1
-red light in fog
+Traverse train
+lead tractor
+rear tractor
+galley module
+SITREP
+stop ops
+load check
+GPR tractor
+ground penetrating radar tractor
+parallel crevasse
+subsurface crevasse
+late-model survey drone
+old survey drone
+red light correction
+Jasper chase
+relay tower
+fuel cache
+bridged path
 wrong flags
 dead relay signal
 Phase Two Authorized
