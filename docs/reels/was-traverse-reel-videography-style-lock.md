@@ -4,7 +4,7 @@
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Category:** Reels / Cryptids / W.A.S. Traverse / Videography  
 **Working Title:** `W.A.S. Traverse / Meridian Prime Cryptid Reel`  
-**Source Basis:** User-provided reference reel studied during visual development session.  
+**Source Basis:** User-provided reference reel studied during visual development session, follow-up reel insights screenshots, and Meridian Prime aesthetic development discussion.  
 **Runtime Observed:** about 66 seconds, vertical 9:16 reel format.  
 
 ---
@@ -27,9 +27,24 @@ It drifts through remembered evidence.
 - Vertical 9:16.
 - Short-form reel pacing.
 - Each scene should behave like a cinematic tableau rather than a fast-cut action shot.
-- Shot duration should generally remain in the 5-8 second range.
+- Shot duration should generally remain in the 5-8 second range for full-transmission / mood reels.
 - Movement should be restrained: slow push-ins, subtle parallax, drifting mist, pulsing lights, faint camera creep.
 - Avoid frantic cuts, fast zooms, music-video whip motion, or action trailer pacing.
+
+### Discovery Cut Exception
+
+Audience insight review showed that long atmospheric reels can earn strong shares but lose cold viewers early.
+
+For discovery-targeted reels, use a shorter cut:
+
+```text
+ideal runtime: 18-28 seconds
+shot count: 5-7 shots
+shot duration: 2.5-4 seconds
+opening hook: first 1-2 seconds
+```
+
+The older 5-8 second tableau rhythm remains valid for longer full-transmission reels, archive reels, and follower-facing mood pieces. Discovery cuts should keep the same visual soul, but sharpen the front edge.
 
 ---
 
@@ -82,6 +97,15 @@ hold long enough for fear to soften into recognition
 cut before the scene explains itself
 ```
 
+Discovery cut shot grammar:
+
+```text
+open on danger or anomaly
+prove the world by the second shot
+show the beauty after the hook
+end with a question, not an explanation
+```
+
 ---
 
 ## Lighting Lock
@@ -121,6 +145,200 @@ Use:
 - ice, grime, rust, condensation, cables, stone, tarps, and metal
 
 The image should feel like a rediscovered fantasy-sci-fi VHS artifact cleaned just enough to haunt properly.
+
+---
+
+## Aesthetic Reference Stack
+
+Use the reference stack as translation guidance, not imitation. Do not recreate surface cliches, costumes, logos, or specific scenes. Each influence has a production job.
+
+### Core W.A.S. Traverse Reel Formula
+
+```text
+The X-Files + The Thing + Alien / Aliens + Lord of the Rings mythic travel + The Fifth Element color
+```
+
+### Primary Reference Jobs
+
+- **The X-Files**: field mystery, classified incident energy, lonely investigation, eerie evidence, strange encounters glimpsed rather than explained.
+- **The Thing**: expedition isolation, hostile environment, crew dread, practical horror, distant help, machinery under survival pressure.
+- **Alien / Aliens**: blue-collar sci-fi, believable utility gear, lived-in cabs, galley modules, repair logic, radio chatter feeling, industrial survival texture.
+- **The Lord of the Rings**: mythic road, fellowship under burden, ancient landscape memory, ruins older than the traveler, weathered grandeur. Use the journey shape, not medieval fantasy surface.
+- **The Fifth Element**: bold saturation, eccentric silhouette permission, weird beauty, neon civilization, strange color without apology.
+
+### Secondary Reference Jobs
+
+- **Blade Runner**: Hydropolis, wet neon density, urban melancholy, reflective city atmosphere.
+- **The Matrix**: hidden systems, machine reality, green-black dread, buried infrastructure, institutional unreality.
+- **Dark City**: noir impossibility, architecture as mood, memory wrongness, city spaces that feel rearranged by unseen hands.
+- **The Abyss**: wet machinery, pressure, blue-lit research awe, submerged or flooded infrastructure.
+- **12 Monkeys**: institutional grime, damaged future systems, unstable memory texture.
+
+### Application Split
+
+For **W.A.S. Traverse route / cryptid / convoy reels**:
+
+```text
+X-Files mystery first
+Thing-style expedition dread second
+Alien / Aliens machinery third
+Lord of the Rings road-myth underneath
+Fifth Element color as permission
+```
+
+For **Hydropolis / lab / archive / anomaly reels**:
+
+```text
+Blade Runner wet neon
+Matrix hidden system dread
+Fifth Element color weirdness
+The Abyss wet pressure
+Dark City memory distortion
+```
+
+### Translation Rules
+
+Do not copy the references directly. Convert them into Meridian Prime nouns:
+
+- route flags instead of fantasy banners
+- relay towers instead of ancient watchtowers
+- galley modules instead of starship lounges
+- frozen mineral fog instead of ordinary mist
+- specimen archives instead of generic laboratories
+- cryptids remembered by travelers instead of movie monsters attacking camera
+- red route lights and instrument glow instead of ordinary flashlights
+
+---
+
+## Audience Insights Lock
+
+User-provided insights from the previous 48-hour reel test show that the reel style is shareable but needs a sharper discovery cut.
+
+Observed data:
+
+```text
+views: 171
+viewers: 144
+average watch time: 11s
+follows: 0
+profile visits: 0
+likes: 8
+comments: 4
+reposts: 1
+shares: 14
+saves: 2
+skip rate: 66.9%
+share rate: 9.7%
+like rate: 5.5%
+save rate: 1.4%
+repost rate: 0.7%
+comment rate: 2.8%
+```
+
+Audience mix:
+
+```text
+followers: 18.5%
+non-followers: 81.5%
+men: 90.4%
+women: 9.6%
+```
+
+Age distribution visible in the screenshots:
+
+```text
+18-24: 14.3%
+25-34: 32.7%
+35-44: 28.6%
+45-54: 16.7%
+55-64: 4.8%
+65+: 3.0%
+```
+
+Top visible countries:
+
+```text
+United States: 36.3%
+India: 14.3%
+Iran: 8.3%
+Germany: 5.4%
+Russia: 4.8%
+```
+
+### Interpretation
+
+- The world and image language have strong share energy.
+- Non-follower reach is healthy.
+- Comments are promising for such a small sample.
+- The average watch time and skip rate show that cold viewers are leaving before the long reel pays off.
+- The reel needs a more immediate opening hook and a stronger series promise in captions / pinned comments.
+- Zero follows and zero profile visits mean the video itself is intriguing, but the account promise is not yet clear enough to send people onward.
+
+### Production Response
+
+Use two reel categories:
+
+1. **Discovery File**: 18-28 seconds, strong opening hook, built for non-followers.
+2. **Full Transmission**: 60-75 seconds, slower living-still rhythm, built for followers, archive mood, and world immersion.
+
+Protect the high share quality by keeping the strange cinematic artifact feeling. Reduce skips by making the first image immediately legible as danger, anomaly, or mystery.
+
+---
+
+## Caption and Series Identity Lock
+
+Because the video style avoids on-screen text and narration, series identity should live in captions, pinned comments, post sequencing, and profile language.
+
+Recommended caption header pattern:
+
+```text
+W.A.S. TRAVERSE FILE 001
+W.A.S. TRAVERSE FILE 002
+W.A.S. TRAVERSE FILE 003
+```
+
+Alternative broader pattern:
+
+```text
+MERIDIAN PRIME FIELD FILE 001
+MERIDIAN PRIME FIELD FILE 002
+MERIDIAN PRIME FIELD FILE 003
+```
+
+Use one simple viewer question per caption. Preferred question types:
+
+```text
+Would you follow the red light or stop the convoy?
+Which frame should become the next file: the red light, the relay tower, or the thing in the windshield?
+What would you do if the route marker started walking?
+```
+
+Pinned comment should carry the follow-series promise:
+
+```text
+Next file: the relay tower that answered a dead mission.
+Follow the Traverse log.
+```
+
+Do not clutter the video with explanatory text unless a later reel is explicitly designed as a file-screen or archive-screen piece.
+
+---
+
+## Discovery Reel Hook Rules
+
+Open with the strongest readable anomaly, not the prettiest establishing shot.
+
+Best first-frame / first-two-second hooks:
+
+- red light in windshield reflection
+- Traverse vehicle already stopped at a wrong angle
+- Rookmask Jack silhouette at a relay mast
+- Jasper crossing the headlights
+- old route flags leading into blackness
+- hairline crevasse visible in colored reflection
+- dead survey drone beside a too-clean flag line
+
+Avoid opening discovery cuts with slow, beautiful wide world shots unless something in the wide shot is immediately wrong.
 
 ---
 
@@ -200,6 +418,47 @@ Final distance shot. Hydropolis is visible but not welcoming. The camera should 
 
 ---
 
+## Next Discovery Test Recommendation
+
+Recommended next reel concept:
+
+```text
+W.A.S. TRAVERSE FILE 002:
+THE RED LIGHT WALKED
+```
+
+Suggested discovery-cut order:
+
+```text
+0:00-0:02  red light through windshield, too close
+0:02-0:06  convoy stopped at a bad angle
+0:06-0:10  Jasper shape crossing headlights
+0:10-0:14  old survey drone / wrong flags
+0:14-0:18  hairline crevasse revealed by light
+0:18-0:22  relay mast in fog
+0:22-0:25  one-frame Rookmask Jack silhouette
+```
+
+Caption draft:
+
+```text
+W.A.S. TRAVERSE FILE 002
+
+The crew thought the red light was a marker.
+Then it moved.
+
+Would you follow it or stop the convoy?
+```
+
+Pinned comment draft:
+
+```text
+Next file: the relay tower that answered a dead mission.
+Follow the Traverse log.
+```
+
+---
+
 ## Midjourney / Image Prompt Style Carryover
 
 Prompts for stills should preserve:
@@ -271,6 +530,25 @@ X
 Sparky
 The Eustatic Devil
 Hydropolis
+The X-Files
+The Thing
+Alien
+Aliens
+The Lord of the Rings
+The Fifth Element
+Blade Runner
+The Matrix
+Dark City
+The Abyss
+12 Monkeys
+audience insights
+share rate
+skip rate
+discovery cut
+full transmission
+field file
+W.A.S. Traverse File 002
+The Red Light Walked
 ```
 
 ---
