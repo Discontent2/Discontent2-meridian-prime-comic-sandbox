@@ -34,6 +34,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-page-22-art-direction.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Page 22 Art Direction Lock | W.A.S. Traverse / Page Art Direction / Rookmask Jack / Relay Test | Sandbox Page Art Direction |
 | `was-traverse-issue-01-art-direction-bible.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Art Direction Bible | W.A.S. Traverse / Issue-Wide Visual Bible / Page 22 Anchor | Sandbox Art Direction Bible |
 | `was-traverse-issue-01-page-01-art-direction.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Page 01 Art Direction Lock | W.A.S. Traverse / Page Art Direction / Lead Cab / Wrong Flags | Sandbox Page Art Direction |
+| `was-traverse-issue-01-page-01-finished-art.md` | W.A.S. Traverse Issue 01 Page 01 Finished Art Record | W.A.S. Traverse / Finished Page / Image and Continuity Handoff | User-Liked Sandbox Production Asset |
 
 ---
 
@@ -137,6 +138,10 @@ The lock translates the issue-wide art bible into a quiet cold-open page: lead c
 
 This file is the approved source for the Page 1 finished-art test.
 
+### Issue 01 Page 01 Finished Art
+
+The [Page 1 production record](was-traverse-issue-01-page-01-finished-art.md) links the [finished PNG](../../production/comics/was-traverse/issue-01/page-01-finished-art.png) and preserves its exact four-panel reading order, captions, route geography, shadow/palette rules, source-reference boundaries, integrity hash, and Page 2 handoff. The user liked this page on September 25, 2026. It is the current visual anchor, with print preparation still outstanding.
+
 ---
 
 ## Search Aliases
@@ -183,6 +188,10 @@ visual bible
 style bible
 Issue 01 art bible
 Page 01 art direction
+Page 01 finished art
+Page 1 finished comic page
+Page 1 production record
+page-01-finished-art.png
 Page 1 art direction
 Page 01 art test
 Page 1 art test

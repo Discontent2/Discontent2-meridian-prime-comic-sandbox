@@ -22,6 +22,8 @@ docs/comics/README.md
 ```text
 docs/comics/was-traverse-comic-pitch.md
 docs/comics/was-traverse-issue-01-beat-sheet.md
+docs/comics/was-traverse-issue-01-page-01-finished-art.md
+production/comics/was-traverse/issue-01/page-01-finished-art.png
 ```
 
 ---
@@ -46,6 +48,10 @@ It now locks the Traverse operating logic: the crew remains inside equipment whi
 
 The document protects odd-page reveals, limited crew exits, vehicle POV, equipment procedure, and the Page 22 splash cliffhanger: `PHASE TWO AUTHORIZED`.
 
+### Issue 01 Page 01 Finished Art
+
+The current [finished four-panel Page 1](../production/comics/was-traverse/issue-01/page-01-finished-art.png) opens in the lead crawler cab. Its [production record](comics/was-traverse-issue-01-page-01-finished-art.md) preserves the exact captions, image description, route contradiction, visual style, reference-use rule, and next-page handoff.
+
 ---
 
 ## Search Tags
@@ -67,6 +73,9 @@ The Road That Came Back Wrong
 The Route That Came Back Wrong
 Issue 01
 Issue 1
+Issue 01 Page 01 finished art
+W.A.S. Traverse Page 1
+page-01-finished-art.png
 Traverse train
 lead tractor
 rear tractor

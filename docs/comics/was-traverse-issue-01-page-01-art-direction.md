@@ -9,7 +9,7 @@
 **Related Page 22 Art Lock:** `docs/comics/was-traverse-issue-01-page-22-art-direction.md`  
 **Issue:** 01  
 **Page:** 01  
-**Art Test Status:** Ready for first Page 1 finished-art test  
+**Art Test Status:** Finished-page visual made; see `was-traverse-issue-01-page-01-finished-art.md`
 
 ---
 
@@ -589,7 +589,9 @@ finished art test
 ## Approval Status
 
 ```text
-Ready for first Page 1 finished-art test.
+The first finished-page visual was made and liked by the user on September 25, 2026.
+See was-traverse-issue-01-page-01-finished-art.md and the linked PNG.
+Print-resolution production review remains open.
 ```
 
 This is sandbox comic development material. It does not promote the W.A.S. Traverse, C.A.S.E. Traverse, or related Issue #1 visuals into main canon without separate canon review.
