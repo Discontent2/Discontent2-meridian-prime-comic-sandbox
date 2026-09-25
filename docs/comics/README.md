@@ -32,6 +32,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-script-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script v0.2 | W.A.S. Traverse / Full Comic Script / 22 Pages / v0.2 Rewrite | Sandbox Script Draft |
 | `was-traverse-issue-01-thumbnail-layout-pass.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Thumbnail Layout Pass | W.A.S. Traverse / Thumbnail Layout / 22 Pages / Panel Architecture | Sandbox Thumbnail Layout |
 | `was-traverse-issue-01-page-22-art-direction.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Page 22 Art Direction Lock | W.A.S. Traverse / Page Art Direction / Rookmask Jack / Relay Test | Sandbox Page Art Direction |
+| `was-traverse-issue-01-art-direction-bible.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Art Direction Bible | W.A.S. Traverse / Issue-Wide Visual Bible / Page 22 Anchor | Sandbox Art Direction Bible |
 
 ---
 
@@ -119,6 +120,14 @@ The lock preserves the Page 22 cliffhanger while approving a three-band test lay
 
 The file also locks a 409-type scout crawler rule for any visual using that rig: red compact tracked polar crawler, front blade, long forward-mounted GPR boom, round radar pod, no rails, no locomotive, and no passenger-train language.
 
+### Issue 01 Art Direction Bible
+
+An issue-wide visual bible derived from the approved Page 22 art-direction test.
+
+The bible turns the Page 22 discoveries into rules for the whole issue: heavy black spot inks, flat gothic comic shapes, cold blue snow, black-sky / pale-cloud atmosphere, dirty amber work lights, red signal lights, crawler convoy continuity, goggles instead of default helmets, mixed crew visibility, Jasper's warning-creature staging, Flagstaff's obsolete route-service logic, and Rookmask Jack's machine-body visual lock.
+
+This is the main style reference before creating page-specific art-direction files or finished-art tests for Page 1, Page 7, Page 15, Page 21, and the final Page 22 pass.
+
 ---
 
 ## Search Aliases
@@ -159,6 +168,11 @@ comic thumbnails
 panel layout
 panel architecture
 page layout
+art direction
+art direction bible
+visual bible
+style bible
+Issue 01 art bible
 Page 22 art direction
 Page 22 art test
 Page 22 art lock
@@ -235,9 +249,11 @@ X
 Isopod_X
 Buck
 Ol' Jasper
+Jasper reveal
 Flagstaff
 The Flagger
 The Last Surveyor
+survey drone
 Mara Cairn
 Sparky
 The Cairn Hound
@@ -253,6 +269,15 @@ route horror
 wrong route
 wrong flags
 Traverse train
+Traverse crawler
+crawler convoy
+tracked scout tractor
+red polar crawler
+409 style crawler
+GPR boom
+forward-mounted GPR
+front blade
+crevasse radar
 lead tractor
 rear tractor
 galley module
@@ -274,6 +299,10 @@ dead relay signal
 Phase Two Authorized
 Personnel Status Unresolved
 WISSARD black file
+not a train
+no rails
+no locomotive
+Saurasapien Traverse Lead not Jack
 ```
 
 ---
