@@ -29,6 +29,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-script-v0-1.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script v0.1 | W.A.S. Traverse / Full Comic Script / 22 Pages | Sandbox Script Draft |
 | `was-traverse-issue-01-script-polish-pass-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script Polish Pass v0.2 | W.A.S. Traverse / Script Polish / Pre-Art Review | Sandbox Polish Notes |
 | `was-traverse-issue-01-v0-2-revision-lock.md` | W.A.S. Traverse Issue 01 v0.2 Revision Lock | W.A.S. Traverse / Script v0.2 Revision / Crew and Rookmask Rules | Sandbox Revision Lock |
+| `was-traverse-issue-01-script-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script v0.2 | W.A.S. Traverse / Full Comic Script / 22 Pages / v0.2 Rewrite | Sandbox Script Draft |
 
 ---
 
@@ -92,6 +93,14 @@ It records three major v0.2 changes: routine Traverse crews normally use goggles
 
 The lock keeps the Rookmask truth hidden in Issue #1 while adding visual clues for Page 21 and Page 22.
 
+### Issue 01 Script v0.2
+
+A full 22-page rewrite of the Issue #1 script applying the v0.2 polish pass and revision lock.
+
+The draft keeps the present-day wrong-route survival structure while updating the crew and visual language: the Rookie Lead Driver is human, the Traverse Lead is Saurasapien, the Signal Tech is Antisapien, and the Load Tech is robotic. Routine exterior work uses goggles, route shades, work glasses, chest lamps, tool lamps, and cold-weather field gear rather than default helmets.
+
+The Page 21 and Page 22 Rookmask Jack beats now hint that Jack may be a machine-body / infrastructure-body witness connected to Mark Aggressive without explaining that reveal inside Issue #1.
+
 ---
 
 ## Search Aliases
@@ -120,9 +129,10 @@ comic script
 full script
 script draft
 script v0.1
+script v0.2
+script v0.2 full draft
 script polish
 script polish pass
-script v0.2
 v0.2 revision lock
 helmet rule
 goggles
