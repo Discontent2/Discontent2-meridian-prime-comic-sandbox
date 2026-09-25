@@ -43,6 +43,7 @@ It is a place where ecology, rumor, route knowledge, and fear disagree in public
 | Entry | File | Name | Current Lane | Status |
 |---:|---|---|---|---|
 | 001 | `001-rookmask-jack.md` | Rookmask Jack | Aeonolacertian / Antisapien-adjacent folklore creature; route omen and scavenger-intellectual | Sandbox Cryptid Development |
+| 001A | `001-rookmask-jack-infrastructure-body-revision.md` | Rookmask Jack Infrastructure-Body Revision | W.A.S. comic candidate; route-service machine body or WISSARD infrastructure shell Mark Aggressive can still reach | Sandbox Cryptid Revision Candidate |
 | 002 | `002-the-third-reflection.md` | The Third Reflection | Reflection-first drawdown basin apex predator; route-shaped ecological horror | Sandbox Ecology Seed / Cryptid Cross-Listing |
 | 003 | `003-ol-jasper.md` | Ol' Jasper | Jack-kin camp cryptid; gentle false-route-marker warning creature | Sandbox Cryptid Development |
 | 004 | `004-isopod-x.md` | Isopod_X / X | Escaped WISSARD anti-world crossover experiment; institutional horror cryptid | Sandbox Cryptid Development |
@@ -59,6 +60,19 @@ It is a place where ecology, rumor, route knowledge, and fear disagree in public
 A human-sized, saurian-leaning, hooded threshold cryptid with tattered black robes, plague-mask-like cowl, old Traverse backpack, crooked walking staff, and scavenger-intellectual behavior.
 
 He is associated with dead relay masts, bad route reports, false manifests, black-flag roads, and moments when the road seems to know more than the crew.
+
+### 001A — Rookmask Jack Infrastructure-Body Revision
+
+A W.A.S. Traverse comic revision candidate that reframes Rookmask Jack as a route-service machine body, relay robot, scavenged infrastructure shell, or WISSARD-linked body that Mark Aggressive can still reach from the Core.
+
+Core principle:
+
+```text
+Rookmask Jack is not Mark Aggressive's body.
+Rookmask Jack is what Mark Aggressive can still reach.
+```
+
+This does not delete the older folklore presentation. It gives the comic lane a stronger hidden truth beneath the field stories.
 
 ### 002 — The Third Reflection
 
