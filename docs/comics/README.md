@@ -25,6 +25,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 |---|---|---|---|
 | `was-traverse-comic-pitch.md` | W.A.S. Traverse: The Road That Came Back Wrong | W.A.S. Traverse / Comic Pitch / 5-Issue Arc | Sandbox Comic Pitch |
 | `was-traverse-issue-01-beat-sheet.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Beat Sheet | W.A.S. Traverse / Issue Beat Sheet / Page-by-Page Breakdown / Page Budgeting | Sandbox Beat Sheet |
+| `was-traverse-issue-01-hybrid-architecture-pass.md` | W.A.S. Traverse Issue 01 Hybrid Narrative Architecture Pass | W.A.S. Traverse / Issue Architecture / A-B Blend / W.A.S. Bleedthrough Layer | Sandbox Issue Architecture |
 
 ---
 
@@ -46,6 +47,24 @@ The issue follows a present-day Traverse train after a rookie lead driver blindl
 
 The document protects page budget, page-turn reveals, Traverse operating procedure, equipment POV, limited crew exits, and the Page 22 cliffhanger: `PHASE TWO AUTHORIZED`.
 
+### Issue 01 Hybrid Narrative Architecture Pass
+
+A companion architecture pass for the A/B blend version of Issue #1.
+
+The present-day wrong-route incident remains the readable survival story, while the older W.A.S. disaster bleeds through equipment, route memory, old telemetry, corrupted signal, cab reflections, and visual echoes.
+
+The document adds a page-by-page production table with:
+
+```text
+Page
+Present-day A-beat
+W.A.S. bleedthrough / echo
+Purpose
+Reveal risk
+```
+
+It also locks the Page 1 production implication: open inside the lead tractor cab, include the present-day route problem, add one subtle W.A.S. contamination, and avoid full W.A.S., C.A.S.E., Jasper, Jack, or Mark Aggressive reveals before their proper issue beats.
+
 ---
 
 ## Search Aliases
@@ -63,6 +82,13 @@ comic run
 comic arc
 comic beat sheet
 issue beat sheet
+hybrid architecture pass
+A B blend
+W.A.S. bleedthrough
+W.A.S. echo
+route memory
+old telemetry
+legacy route
 page budget
 page budgeting
 page-by-page breakdown
