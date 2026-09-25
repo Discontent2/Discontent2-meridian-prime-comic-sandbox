@@ -9,7 +9,7 @@
 **Related Revision Lock:** `docs/comics/was-traverse-issue-01-v0-2-revision-lock.md`  
 **Related Rookmask Revision:** `docs/cryptids/001-rookmask-jack-infrastructure-body-revision.md`  
 **Issue:** 01  
-**Art Direction Version:** v0.1  
+**Art Direction Version:** v0.2
 **Anchor Test:** Approved Page 22 art-direction test  
 
 ---
@@ -74,6 +74,27 @@ These rules should influence the entire issue, not only the last page.
 ---
 
 # Issue-Wide Style Lock
+
+## User Reference Lock — Color and Shadows
+
+The six supplied reference crops establish the Issue #1 color and shadow treatment. They are visual study references only: do not paste, trace, collage, or edit them into comic pages. Draw the Traverse crew, vehicles, terrain, relay, and cryptids from this comic's own designs.
+
+The requested Mike Mignola direction means a gothic graphic-comic finish built from deliberate black masses, bold silhouettes, restrained flat color, and selective pools of light. Use the observations below to make the result specific to W.A.S. Traverse rather than reproducing a reference composition or character.
+
+| Reference | Transfer to Issue #1 |
+| --- | --- |
+| Blue field below a descending black mass | Let black sky, shadow, or machinery swallow much of a panel; cut thin cold-blue seams and vertical marks into it. Save this strongest effect for the relay approach and Page 22. |
+| Red figure against muted purple and gray | Use a small, concentrated red signal against broad charcoal, dusty violet, and gray-blue fields. Red marks a warning or focal point, not general fill light. |
+| Blue stone and bare branches against pink-violet dusk | Use simplified black terrain silhouettes and limited cool-color planes. A muted lilac horizon can appear in a transitional exterior; it must still feel like Meridian Prime's frozen route. |
+| Pale forms emerging from nearly black space | Build threatening shapes from irregular black voids, spare blue-gray contours, and small pale highlights. Keep Jasper physically readable when his action matters. |
+| Amber windows inside a black building silhouette | Treat cab windows, work lamps, and the relay housing as isolated dirty-amber rectangles surrounded by black, with little spill. |
+| Violet forms with sharp orange and acid-green accents | Reserve rare saturated accent color for a deliberate visual beat; do not introduce green or orange as ambient color across the issue. |
+
+**Shadow rule:** establish the large silhouette first, then add only the contour, seam, or lit tool needed to read the action. Faces may fall partly into black, but hands, sightlines, vehicle direction, the route flags, and the dangerous edge must remain legible. Avoid airbrushed shading, glossy highlights, dense crosshatching, and uniformly detailed surfaces.
+
+**Color hierarchy:** black occupies the most area; cold cobalt, slate blue, and muted violet define terrain and atmosphere; dirty amber identifies human work light; signal red is scarce and narratively loaded. Pale blue is the snow or fog highlight. Maintain clear contrast around dialogue and critical screen information.
+
+**Continuity across the issue:** Pages 1–6 establish black cab interiors and isolated amber/cyan instruments; Pages 7–10 allow red to puncture the cold field around Jasper's warning; Pages 11–17 use broad blue-black terrain and selective GPR light; Pages 18–22 increase black sky mass, amber work-light islands, relay red, and the ink-drip motif. The Page 22 file text must remain readable inside this high-contrast treatment.
 
 ## Graphic Mode
 
