@@ -31,6 +31,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-v0-2-revision-lock.md` | W.A.S. Traverse Issue 01 v0.2 Revision Lock | W.A.S. Traverse / Script v0.2 Revision / Crew and Rookmask Rules | Sandbox Revision Lock |
 | `was-traverse-issue-01-script-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script v0.2 | W.A.S. Traverse / Full Comic Script / 22 Pages / v0.2 Rewrite | Sandbox Script Draft |
 | `was-traverse-issue-01-thumbnail-layout-pass.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Thumbnail Layout Pass | W.A.S. Traverse / Thumbnail Layout / 22 Pages / Panel Architecture | Sandbox Thumbnail Layout |
+| `was-traverse-issue-01-page-22-art-direction.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Page 22 Art Direction Lock | W.A.S. Traverse / Page Art Direction / Rookmask Jack / Relay Test | Sandbox Page Art Direction |
 
 ---
 
@@ -110,6 +111,14 @@ The document maps every page into panel count, rough page architecture, primary 
 
 The pass identifies key approval checkpoints before art: Page 1's windshield/monitor/reflection structure, Page 7's Jasper reveal, Page 15's parallel crevasse sensor map, Page 21's Jack reveal, and Page 22's W.A.S. file splash.
 
+### Issue 01 Page 22 Art Direction Lock
+
+A production-facing art direction lock for the first finished-art test of Page 22.
+
+The lock preserves the Page 22 cliffhanger while approving a three-band test layout: relay-site establishing panel, cab-reaction strip, and dominant Rookmask Jack reveal panel. It locks the visual solution from the approved image test: black sky with pale blue cloud banks and vertical black ink-drips, red relay beacons, dirty amber work lights, a tracked Traverse crawler convoy rather than a train, and Rookmask Jack as a one-eyed-in-profile black alloy machine-body witness wearing a hard black bird-beak mask.
+
+The file also locks a 409-type scout crawler rule for any visual using that rig: red compact tracked polar crawler, front blade, long forward-mounted GPR boom, round radar pod, no rails, no locomotive, and no passenger-train language.
+
 ---
 
 ## Search Aliases
@@ -150,6 +159,38 @@ comic thumbnails
 panel layout
 panel architecture
 page layout
+Page 22 art direction
+Page 22 art test
+Page 22 art lock
+Rookmask Jack art lock
+Rookmask Jack visual lock
+Rookmask Jack infrastructure body
+Rookmask Jack machine-body witness
+black alloy robot
+black bird-beak mask
+one red eye
+one eye profile
+old relay antenna staff
+relay antenna staff
+black sky
+pale blue clouds
+vertical black drips
+heavy black spot inks
+flat gothic comic shapes
+Mignola-adjacent
+retro animated sci-fi horror
+Traverse crawler
+tracked scout tractor
+red polar crawler
+GPR boom
+front blade
+forward-mounted GPR
+crevasse radar
+no train
+not a train
+no rails
+not locomotive
+Saurasapien Traverse Lead not Jack
 helmet rule
 goggles
 route shades
