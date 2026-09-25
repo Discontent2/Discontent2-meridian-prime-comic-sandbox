@@ -33,6 +33,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-thumbnail-layout-pass.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Thumbnail Layout Pass | W.A.S. Traverse / Thumbnail Layout / 22 Pages / Panel Architecture | Sandbox Thumbnail Layout |
 | `was-traverse-issue-01-page-22-art-direction.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Page 22 Art Direction Lock | W.A.S. Traverse / Page Art Direction / Rookmask Jack / Relay Test | Sandbox Page Art Direction |
 | `was-traverse-issue-01-art-direction-bible.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Art Direction Bible | W.A.S. Traverse / Issue-Wide Visual Bible / Page 22 Anchor | Sandbox Art Direction Bible |
+| `was-traverse-issue-01-page-01-art-direction.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Page 01 Art Direction Lock | W.A.S. Traverse / Page Art Direction / Lead Cab / Wrong Flags | Sandbox Page Art Direction |
 
 ---
 
@@ -128,6 +129,14 @@ The bible turns the Page 22 discoveries into rules for the whole issue: heavy bl
 
 This is the main style reference before creating page-specific art-direction files or finished-art tests for Page 1, Page 7, Page 15, Page 21, and the final Page 22 pass.
 
+### Issue 01 Page 01 Art Direction Lock
+
+A production-facing art direction lock for the first finished-art test of Page 1.
+
+The lock translates the issue-wide art bible into a quiet cold-open page: lead crawler cab interior, fogged windshield, route-worker props, unused helmet rack, work goggles, physical black route flags, route monitor disagreement, and one deniable older-cab reflection. It keeps the Page 22 visual language at low volume, using heavy black spot inks, cold blue exterior fog, dirty amber cab light, and industrial route machinery without revealing Jasper, Jack, Flagstaff, W.A.S. personnel names, C.A.S.E., or the relay tower too early.
+
+This file is the approved source for the Page 1 finished-art test.
+
 ---
 
 ## Search Aliases
@@ -173,6 +182,24 @@ art direction bible
 visual bible
 style bible
 Issue 01 art bible
+Page 01 art direction
+Page 1 art direction
+Page 01 art test
+Page 1 art test
+lead crawler cab
+lead tractor cab
+Traverse cab
+route monitor
+wrong flags
+GPS disagreement
+physical flags
+fogged windshield
+wiper streaks
+cab reflection
+older cab reflection
+unused helmet rack
+route-worker machinery
+not spaceship
 Page 22 art direction
 Page 22 art test
 Page 22 art lock
