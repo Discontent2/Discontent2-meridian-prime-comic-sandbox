@@ -26,6 +26,8 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-comic-pitch.md` | W.A.S. Traverse: The Road That Came Back Wrong | W.A.S. Traverse / Comic Pitch / 5-Issue Arc | Sandbox Comic Pitch |
 | `was-traverse-issue-01-beat-sheet.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Beat Sheet | W.A.S. Traverse / Issue Beat Sheet / Page-by-Page Breakdown / Page Budgeting | Sandbox Beat Sheet |
 | `was-traverse-issue-01-hybrid-architecture-pass.md` | W.A.S. Traverse Issue 01 Hybrid Narrative Architecture Pass | W.A.S. Traverse / Issue Architecture / A-B Blend / W.A.S. Bleedthrough Layer | Sandbox Issue Architecture |
+| `was-traverse-issue-01-script-v0-1.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script v0.1 | W.A.S. Traverse / Full Comic Script / 22 Pages | Sandbox Script Draft |
+| `was-traverse-issue-01-script-polish-pass-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script Polish Pass v0.2 | W.A.S. Traverse / Script Polish / Pre-Art Review | Sandbox Polish Notes |
 
 ---
 
@@ -65,6 +67,22 @@ Reveal risk
 
 It also locks the Page 1 production implication: open inside the lead tractor cab, include the present-day route problem, add one subtle W.A.S. contamination, and avoid full W.A.S., C.A.S.E., Jasper, Jack, or Mark Aggressive reveals before their proper issue beats.
 
+### Issue 01 Script v0.1
+
+A full 22-page script draft for Issue #1.
+
+The script stages the present-day wrong-route incident through equipment, radio procedure, route monitors, windshields, GPR returns, controlled exterior operations, Jasper's warning, the relay tower, Rookmask Jack's witness behavior, and the Page 22 W.A.S. file reveal.
+
+The script keeps C.A.S.E. buried for later and uses W.A.S. bleedthrough as equipment ghosts, reflections, route logic, old telemetry, warning cadence, and corrupted signal rather than full flashback.
+
+### Issue 01 Script Polish Pass v0.2
+
+A pre-art polish pass for the v0.1 script.
+
+The pass identifies specific improvements before thumbnails or page art: clearer radio voice texture, lower lettering load, cleaner Page 1 captions, a stronger Page 2 relay-grid setup, better exterior-operation boundaries on Page 19, and a tighter Page 22 caption option.
+
+The polish pass does not add new plot or reveal C.A.S.E. It preserves the script's core spine while preparing it for a future v0.2 rewrite.
+
 ---
 
 ## Search Aliases
@@ -89,6 +107,18 @@ W.A.S. echo
 route memory
 old telemetry
 legacy route
+comic script
+full script
+script draft
+script v0.1
+script polish
+script polish pass
+script v0.2
+pre-art polish
+thumbnail prep
+radio voice consistency
+lettering load
+caption restraint
 page budget
 page budgeting
 page-by-page breakdown
