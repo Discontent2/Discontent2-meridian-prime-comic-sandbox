@@ -28,6 +28,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-hybrid-architecture-pass.md` | W.A.S. Traverse Issue 01 Hybrid Narrative Architecture Pass | W.A.S. Traverse / Issue Architecture / A-B Blend / W.A.S. Bleedthrough Layer | Sandbox Issue Architecture |
 | `was-traverse-issue-01-script-v0-1.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script v0.1 | W.A.S. Traverse / Full Comic Script / 22 Pages | Sandbox Script Draft |
 | `was-traverse-issue-01-script-polish-pass-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script Polish Pass v0.2 | W.A.S. Traverse / Script Polish / Pre-Art Review | Sandbox Polish Notes |
+| `was-traverse-issue-01-v0-2-revision-lock.md` | W.A.S. Traverse Issue 01 v0.2 Revision Lock | W.A.S. Traverse / Script v0.2 Revision / Crew and Rookmask Rules | Sandbox Revision Lock |
 
 ---
 
@@ -83,6 +84,14 @@ The pass identifies specific improvements before thumbnails or page art: clearer
 
 The polish pass does not add new plot or reveal C.A.S.E. It preserves the script's core spine while preparing it for a future v0.2 rewrite.
 
+### Issue 01 v0.2 Revision Lock
+
+A user-approved revision lock for the next script draft.
+
+It records three major v0.2 changes: routine Traverse crews normally use goggles, shades, and work lamps rather than helmets; III-era Traverse teams should include at least one human, one robot, one Saurasapien, and one Antisapien; and Rookmask Jack should be treated as a possible route-service machine body or WISSARD infrastructure shell that Mark Aggressive can still reach from the Core.
+
+The lock keeps the Rookmask truth hidden in Issue #1 while adding visual clues for Page 21 and Page 22.
+
 ---
 
 ## Search Aliases
@@ -114,6 +123,16 @@ script v0.1
 script polish
 script polish pass
 script v0.2
+v0.2 revision lock
+helmet rule
+goggles
+route shades
+Traverse crew composition
+mixed Traverse crew
+human robot Saurasapien Antisapien
+Rookmask Jack infrastructure body
+ghost in the machine
+Mark Aggressive Core signal
 pre-art polish
 thumbnail prep
 radio voice consistency
