@@ -30,6 +30,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-script-polish-pass-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script Polish Pass v0.2 | W.A.S. Traverse / Script Polish / Pre-Art Review | Sandbox Polish Notes |
 | `was-traverse-issue-01-v0-2-revision-lock.md` | W.A.S. Traverse Issue 01 v0.2 Revision Lock | W.A.S. Traverse / Script v0.2 Revision / Crew and Rookmask Rules | Sandbox Revision Lock |
 | `was-traverse-issue-01-script-v0-2.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Script v0.2 | W.A.S. Traverse / Full Comic Script / 22 Pages / v0.2 Rewrite | Sandbox Script Draft |
+| `was-traverse-issue-01-thumbnail-layout-pass.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Thumbnail Layout Pass | W.A.S. Traverse / Thumbnail Layout / 22 Pages / Panel Architecture | Sandbox Thumbnail Layout |
 
 ---
 
@@ -101,6 +102,14 @@ The draft keeps the present-day wrong-route survival structure while updating th
 
 The Page 21 and Page 22 Rookmask Jack beats now hint that Jack may be a machine-body / infrastructure-body witness connected to Mark Aggressive without explaining that reveal inside Issue #1.
 
+### Issue 01 Thumbnail Layout Pass
+
+A full 22-page thumbnail layout pass for Issue #1 based on `was-traverse-issue-01-script-v0-2.md`.
+
+The document maps every page into panel count, rough page architecture, primary visual job, reading flow, lettering pressure, and reveal discipline. It carries forward the v0.2 locks: goggles and route-worker gear instead of default helmets, mixed III-era Traverse crew composition, no casual exterior wandering, C.A.S.E. hidden, and Rookmask Jack presented as a machine-body witness without full explanation.
+
+The pass identifies key approval checkpoints before art: Page 1's windshield/monitor/reflection structure, Page 7's Jasper reveal, Page 15's parallel crevasse sensor map, Page 21's Jack reveal, and Page 22's W.A.S. file splash.
+
 ---
 
 ## Search Aliases
@@ -134,6 +143,13 @@ script v0.2 full draft
 script polish
 script polish pass
 v0.2 revision lock
+thumbnail layout
+thumbnail pass
+22 page thumbnail pass
+comic thumbnails
+panel layout
+panel architecture
+page layout
 helmet rule
 goggles
 route shades
