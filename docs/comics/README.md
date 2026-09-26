@@ -36,6 +36,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-page-01-art-direction.md` | W.A.S. Traverse: The Route That Came Back Wrong - Issue 01 Page 01 Art Direction Lock | W.A.S. Traverse / Page Art Direction / Lead Cab / Wrong Flags | Sandbox Page Art Direction |
 | `was-traverse-issue-01-page-01-finished-art.md` | W.A.S. Traverse Issue 01 Page 01 Finished Art Record | W.A.S. Traverse / Finished Page / Image and Continuity Handoff | User-Liked Sandbox Production Asset |
 | `was-traverse-issue-01-page-02-finished-art.md` | W.A.S. Traverse Issue 01 Page 02 Finished Art Record | W.A.S. Traverse / Galley SITREP / Corrected Saurasapien Anatomy | User-Approved Sandbox Production Asset |
+| `was-traverse-issue-01-page-03-finished-art.md` | W.A.S. Traverse Issue 01 Page 03 Finished Art Record | W.A.S. Traverse / Old Survey Drone / Rear Feed Reveal | User-Approved Sandbox Production Asset |
 
 ---
 
@@ -147,6 +148,10 @@ The [Page 1 production record](was-traverse-issue-01-page-01-finished-art.md) li
 
 The [Page 2 production record](was-traverse-issue-01-page-02-finished-art.md) links the [corrected six-panel PNG](../../production/comics/was-traverse/issue-01/page-02-finished-art.png) and preserves the Galley SITREP script, crew introductions, legacy route flicker, lettering, continuity, file hash, and Page 3 handoff. The user approved a correction removing the Saurasapien Traverse Lead's external ear flap: Saurasapiens have internal or flush ears without pinnae. The issue-wide art bible now carries this rule.
 
+### Issue 01 Page 03 Finished Art
+
+The [Page 3 production record](was-traverse-issue-01-page-03-finished-art.md) links the [five-panel PNG](../../production/comics/was-traverse/issue-01/page-03-finished-art.png) and indexes the rear tractor's side-feed discovery, old yellow-white survey drone, ambiguous camera glitch, exact dialogue, and Rookie's silent recognition of the flag/GPS mismatch. It carries the Page 2 Saurasapien ear rule forward and hands the psychological reaction to Page 4.
+
 ---
 
 ## Search Aliases
@@ -201,6 +206,15 @@ Page 02 finished art
 Page 2 finished comic page
 Page 2 production record
 page-02-finished-art.png
+Page 03 finished art
+Page 3 finished comic page
+Page 3 production record
+page-03-finished-art.png
+The Old Survey Drone
+rear tractor side feed
+yellow-white survey drone
+bent flag staff
+Animal Machine Worse
 Galley SITREP
 Saurasapien ear correction
 Saurasapien no pinnae

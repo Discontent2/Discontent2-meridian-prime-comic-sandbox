@@ -26,6 +26,8 @@ docs/comics/was-traverse-issue-01-page-01-finished-art.md
 production/comics/was-traverse/issue-01/page-01-finished-art.png
 docs/comics/was-traverse-issue-01-page-02-finished-art.md
 production/comics/was-traverse/issue-01/page-02-finished-art.png
+docs/comics/was-traverse-issue-01-page-03-finished-art.md
+production/comics/was-traverse/issue-01/page-03-finished-art.png
 ```
 
 ---
@@ -58,6 +60,10 @@ The current [finished four-panel Page 1](../production/comics/was-traverse/issue
 
 The [corrected six-panel Page 2](../production/comics/was-traverse/issue-01/page-02-finished-art.png) follows the Galley SITREP across crew stations. Its [production record](comics/was-traverse-issue-01-page-02-finished-art.md) preserves dialogue, panel order, continuity, the legacy route flicker, and the approved Saurasapien rule: flush or internal ears with no external ear flaps.
 
+### Issue 01 Page 03 Finished Art
+
+The [five-panel Page 3](../production/comics/was-traverse/issue-01/page-03-finished-art.png) shows the rear tractor's side camera finding an old yellow-white survey drone by the flags. The [production record](comics/was-traverse-issue-01-page-03-finished-art.md) preserves the dialogue, uncertain glitch, exact reading order, continuity, and Rookie's silent discovery of the GPS/flag disagreement.
+
 ---
 
 ## Search Tags
@@ -87,6 +93,12 @@ W.A.S. Traverse Page 2
 Galley SITREP
 Saurasapien no pinnae
 page-02-finished-art.png
+Issue 01 Page 03 finished art
+W.A.S. Traverse Page 3
+The Old Survey Drone
+rear tractor side feed
+Flagstaff drone clue
+page-03-finished-art.png
 Traverse train
 lead tractor
 rear tractor
