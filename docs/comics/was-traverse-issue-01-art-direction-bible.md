@@ -406,6 +406,8 @@ short commands visually supported by still posture
 hands around rugged tablet, radio, or GPR controls
 ```
 
+**Anatomy correction, approved on Page 2:** Saurasapiens have internal or flush ears. Never draw projecting human-style ear flaps or pinnae. The Traverse Lead's visible side head stays smoothly reptilian; a small flush opening or scale-covered slit behind the eye and jaw is sufficient. The corrected [`Page 2 finished image`](../../production/comics/was-traverse/issue-01/page-02-finished-art.png) is the current visual example. Apply this rule to all later Saurasapien depictions in Issue 01.
+
 Do not over-design him into Jack.
 
 ## Antisapien Signal Tech

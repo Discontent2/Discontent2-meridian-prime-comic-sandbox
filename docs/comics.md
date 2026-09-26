@@ -24,6 +24,8 @@ docs/comics/was-traverse-comic-pitch.md
 docs/comics/was-traverse-issue-01-beat-sheet.md
 docs/comics/was-traverse-issue-01-page-01-finished-art.md
 production/comics/was-traverse/issue-01/page-01-finished-art.png
+docs/comics/was-traverse-issue-01-page-02-finished-art.md
+production/comics/was-traverse/issue-01/page-02-finished-art.png
 ```
 
 ---
@@ -52,6 +54,10 @@ The document protects odd-page reveals, limited crew exits, vehicle POV, equipme
 
 The current [finished four-panel Page 1](../production/comics/was-traverse/issue-01/page-01-finished-art.png) opens in the lead crawler cab. Its [production record](comics/was-traverse-issue-01-page-01-finished-art.md) preserves the exact captions, image description, route contradiction, visual style, reference-use rule, and next-page handoff.
 
+### Issue 01 Page 02 Finished Art
+
+The [corrected six-panel Page 2](../production/comics/was-traverse/issue-01/page-02-finished-art.png) follows the Galley SITREP across crew stations. Its [production record](comics/was-traverse-issue-01-page-02-finished-art.md) preserves dialogue, panel order, continuity, the legacy route flicker, and the approved Saurasapien rule: flush or internal ears with no external ear flaps.
+
 ---
 
 ## Search Tags
@@ -76,6 +82,11 @@ Issue 1
 Issue 01 Page 01 finished art
 W.A.S. Traverse Page 1
 page-01-finished-art.png
+Issue 01 Page 02 finished art
+W.A.S. Traverse Page 2
+Galley SITREP
+Saurasapien no pinnae
+page-02-finished-art.png
 Traverse train
 lead tractor
 rear tractor
