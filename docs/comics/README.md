@@ -39,6 +39,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-page-03-finished-art.md` | W.A.S. Traverse Issue 01 Page 03 Finished Art Record | W.A.S. Traverse / Old Survey Drone / Rear Feed Reveal | User-Approved Sandbox Production Asset |
 | `was-traverse-issue-01-page-07-finished-art.md` | W.A.S. Traverse Issue 01 Page 07 Finished Art Record | W.A.S. Traverse / Ol' Jasper / Fog Revision | User-Approved Sandbox Production Asset |
 | `was-traverse-issue-01-page-09-finished-art.md` | W.A.S. Traverse Issue 01 Page 09 Finished Art Record | W.A.S. Traverse / Jasper Warning / Frost Fracture Reveal | User-Approved Sandbox Production Asset |
+| `was-traverse-issue-01-page-10-finished-art.md` | W.A.S. Traverse Issue 01 Page 10 Finished Art Record | W.A.S. Traverse / Traverse Lead Command / Antisapien Rear Tractor Correction | User-Approved Sandbox Production Asset |
 
 ---
 
@@ -162,6 +163,10 @@ The [Page 7 production record](was-traverse-issue-01-page-07-finished-art.md) li
 
 The [Page 9 production record](was-traverse-issue-01-page-09-finished-art.md) links the [four-panel PNG](../../production/comics/was-traverse/issue-01/page-09-finished-art.png). It indexes Jasper striking the black frost to warn the Rookie, the hidden fracture opening beneath the crust, the tiny cat-shaped charm, the exact `Not chasing.` line, and the Page 10 command handoff.
 
+### Issue 01 Page 10 Finished Art
+
+The [Page 10 production record](was-traverse-issue-01-page-10-finished-art.md) links the [corrected five-panel PNG](../../production/comics/was-traverse/issue-01/page-10-finished-art.png). The Saurasapien Traverse Lead takes all-channel command from the galley while the Rookie holds the lead cab. The approved correction replaces the easily misread figure at the rear tractor controls in panel 3 with the blue-skinned Antisapien woman from Page 2. The page ends with `Stop ops in one mile.`
+
 ---
 
 ## Search Aliases
@@ -228,6 +233,14 @@ Jasper cat charm
 black frost fracture
 Not chasing
 page-09-finished-art.png
+Page 10 finished art
+Page 10 finished comic page
+Page 10 production record
+Saurasapien Traverse Lead command reset
+Antisapien female rear tractor driver correction
+Hold formation
+Stop ops in one mile
+page-10-finished-art.png
 The Old Survey Drone
 rear tractor side feed
 yellow-white survey drone
