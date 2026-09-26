@@ -37,6 +37,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-page-01-finished-art.md` | W.A.S. Traverse Issue 01 Page 01 Finished Art Record | W.A.S. Traverse / Finished Page / Image and Continuity Handoff | User-Liked Sandbox Production Asset |
 | `was-traverse-issue-01-page-02-finished-art.md` | W.A.S. Traverse Issue 01 Page 02 Finished Art Record | W.A.S. Traverse / Galley SITREP / Corrected Saurasapien Anatomy | User-Approved Sandbox Production Asset |
 | `was-traverse-issue-01-page-03-finished-art.md` | W.A.S. Traverse Issue 01 Page 03 Finished Art Record | W.A.S. Traverse / Old Survey Drone / Rear Feed Reveal | User-Approved Sandbox Production Asset |
+| `was-traverse-issue-01-page-07-finished-art.md` | W.A.S. Traverse Issue 01 Page 07 Finished Art Record | W.A.S. Traverse / Ol' Jasper / Fog Revision | User-Approved Sandbox Production Asset |
 
 ---
 
@@ -151,6 +152,10 @@ The [Page 2 production record](was-traverse-issue-01-page-02-finished-art.md) li
 ### Issue 01 Page 03 Finished Art
 
 The [Page 3 production record](was-traverse-issue-01-page-03-finished-art.md) links the [five-panel PNG](../../production/comics/was-traverse/issue-01/page-03-finished-art.png) and indexes the rear tractor's side-feed discovery, old yellow-white survey drone, ambiguous camera glitch, exact dialogue, and Rookie's silent recognition of the flag/GPS mismatch. It carries the Page 2 Saurasapien ear rule forward and hands the psychological reaction to Page 4.
+
+### Issue 01 Page 07 Finished Art
+
+The [Page 7 production record](was-traverse-issue-01-page-07-finished-art.md) links the [four-panel fog-revised PNG](../../production/comics/was-traverse/issue-01/page-07-finished-art.png). It records Ol' Jasper's first appearance in the lead headlights, his parallel run in the side mirror, a corrupted camera-frame mechanic silhouette, and the Rookie beginning to turn. The user-approved revision adds thick fog and mist to obscure most of Jasper in every panel where he appears while preserving the original layout, action, and lettering.
 
 ---
 
