@@ -28,6 +28,8 @@ docs/comics/was-traverse-issue-01-page-02-finished-art.md
 production/comics/was-traverse/issue-01/page-02-finished-art.png
 docs/comics/was-traverse-issue-01-page-03-finished-art.md
 production/comics/was-traverse/issue-01/page-03-finished-art.png
+docs/comics/was-traverse-issue-01-page-09-finished-art.md
+production/comics/was-traverse/issue-01/page-09-finished-art.png
 ```
 
 ---
@@ -64,6 +66,10 @@ The [corrected six-panel Page 2](../production/comics/was-traverse/issue-01/page
 
 The [five-panel Page 3](../production/comics/was-traverse/issue-01/page-03-finished-art.png) shows the rear tractor's side camera finding an old yellow-white survey drone by the flags. The [production record](comics/was-traverse-issue-01-page-03-finished-art.md) preserves the dialogue, uncertain glitch, exact reading order, continuity, and Rookie's silent discovery of the GPS/flag disagreement.
 
+### Issue 01 Page 09 Finished Art
+
+The [four-panel Page 9](../production/comics/was-traverse/issue-01/page-09-finished-art.png) reveals why Jasper blocked the Rookie's turn: black frost fractures into a deep hidden void. Its [production record](comics/was-traverse-issue-01-page-09-finished-art.md) preserves the exact sound effects and dialogue, tiny cat charm, continuity from the foggy Jasper reveal, and the Page 10 command handoff.
+
 ---
 
 ## Search Tags
@@ -99,6 +105,13 @@ The Old Survey Drone
 rear tractor side feed
 Flagstaff drone clue
 page-03-finished-art.png
+Issue 01 Page 09 finished art
+W.A.S. Traverse Page 9
+Jasper Was Herding Them
+black frost fracture
+Jasper cat charm
+Not chasing
+page-09-finished-art.png
 Traverse train
 lead tractor
 rear tractor

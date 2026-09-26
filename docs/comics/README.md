@@ -38,6 +38,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-page-02-finished-art.md` | W.A.S. Traverse Issue 01 Page 02 Finished Art Record | W.A.S. Traverse / Galley SITREP / Corrected Saurasapien Anatomy | User-Approved Sandbox Production Asset |
 | `was-traverse-issue-01-page-03-finished-art.md` | W.A.S. Traverse Issue 01 Page 03 Finished Art Record | W.A.S. Traverse / Old Survey Drone / Rear Feed Reveal | User-Approved Sandbox Production Asset |
 | `was-traverse-issue-01-page-07-finished-art.md` | W.A.S. Traverse Issue 01 Page 07 Finished Art Record | W.A.S. Traverse / Ol' Jasper / Fog Revision | User-Approved Sandbox Production Asset |
+| `was-traverse-issue-01-page-09-finished-art.md` | W.A.S. Traverse Issue 01 Page 09 Finished Art Record | W.A.S. Traverse / Jasper Warning / Frost Fracture Reveal | User-Approved Sandbox Production Asset |
 
 ---
 
@@ -157,6 +158,10 @@ The [Page 3 production record](was-traverse-issue-01-page-03-finished-art.md) li
 
 The [Page 7 production record](was-traverse-issue-01-page-07-finished-art.md) links the [four-panel fog-revised PNG](../../production/comics/was-traverse/issue-01/page-07-finished-art.png). It records Ol' Jasper's first appearance in the lead headlights, his parallel run in the side mirror, a corrupted camera-frame mechanic silhouette, and the Rookie beginning to turn. The user-approved revision adds thick fog and mist to obscure most of Jasper in every panel where he appears while preserving the original layout, action, and lettering.
 
+### Issue 01 Page 09 Finished Art
+
+The [Page 9 production record](was-traverse-issue-01-page-09-finished-art.md) links the [four-panel PNG](../../production/comics/was-traverse/issue-01/page-09-finished-art.png). It indexes Jasper striking the black frost to warn the Rookie, the hidden fracture opening beneath the crust, the tiny cat-shaped charm, the exact `Not chasing.` line, and the Page 10 command handoff.
+
 ---
 
 ## Search Aliases
@@ -215,6 +220,14 @@ Page 03 finished art
 Page 3 finished comic page
 Page 3 production record
 page-03-finished-art.png
+Page 09 finished art
+Page 9 finished comic page
+Page 9 production record
+Jasper Was Herding Them
+Jasper cat charm
+black frost fracture
+Not chasing
+page-09-finished-art.png
 The Old Survey Drone
 rear tractor side feed
 yellow-white survey drone
