@@ -42,3 +42,7 @@ This 1024 × 1536 PNG is a visual working master. Final lettering review and pri
 ## Search aliases
 
 `W.A.S. Traverse Page 10`, `WAS Traverse page ten`, `Issue 01 Page 10 finished art`, `The Traverse Lead Takes Command`, `Saurasapien all-channel command`, `Antisapien rear tractor driver`, `blue-skinned woman amber work glasses correction`, `Page 10 panel 3 corrected`, `Hold formation`, `No reversing No improvising Nobody exits`, `Stop ops in one mile`, `page-10-finished-art.png`.
+
+## Next page
+
+[Page 11 — Stop Ops, corrected finished art and GPS navigation rule](was-traverse-issue-01-page-11-finished-art.md).

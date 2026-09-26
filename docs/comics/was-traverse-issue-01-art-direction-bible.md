@@ -956,3 +956,7 @@ Approved as the issue-wide art-direction foundation derived from the Page 22 tes
 ```
 
 This is sandbox comic development material. It does not promote the W.A.S. Traverse, C.A.S.E. Traverse, Rookmask Jack infrastructure-body revision, or III-era Traverse crew composition into main canon without separate canon review.
+
+## Approved Page 11 GPS / Navigation Drawing Rule — 2026-09-26
+
+See the [Page 11 correction record](was-traverse-issue-01-page-11-finished-art.md) and [approved image](../../production/comics/was-traverse/issue-01/page-11-finished-art.png). GPS routes use straight segments with direction changes at marked waypoints. Flags follow that same approved route; never draw a separate divergent flag line. Show an off-route vehicle as one isolated triangle, without a plotted route, dotted trail, or connecting path. This user-approved drawing rule supersedes inconsistent earlier visual references for future artwork; historical script text remains unchanged.

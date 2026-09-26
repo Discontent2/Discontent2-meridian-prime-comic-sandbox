@@ -40,6 +40,7 @@ A Meridian Prime comic pitch should make the world feel bigger than the issue co
 | `was-traverse-issue-01-page-07-finished-art.md` | W.A.S. Traverse Issue 01 Page 07 Finished Art Record | W.A.S. Traverse / Ol' Jasper / Fog Revision | User-Approved Sandbox Production Asset |
 | `was-traverse-issue-01-page-09-finished-art.md` | W.A.S. Traverse Issue 01 Page 09 Finished Art Record | W.A.S. Traverse / Jasper Warning / Frost Fracture Reveal | User-Approved Sandbox Production Asset |
 | `was-traverse-issue-01-page-10-finished-art.md` | W.A.S. Traverse Issue 01 Page 10 Finished Art Record | W.A.S. Traverse / Traverse Lead Command / Antisapien Rear Tractor Correction | User-Approved Sandbox Production Asset |
+| `was-traverse-issue-01-page-11-finished-art.md` | W.A.S. Traverse Issue 01 Page 11 Finished Art Record | Stop Ops / GPS Waypoint and Flag Correction / Off-Route Triangle | User-Approved Sandbox Production Asset |
 
 ---
 
@@ -168,6 +169,10 @@ The [Page 9 production record](was-traverse-issue-01-page-09-finished-art.md) li
 The [Page 10 production record](was-traverse-issue-01-page-10-finished-art.md) links the [corrected five-panel PNG](../../production/comics/was-traverse/issue-01/page-10-finished-art.png). The Saurasapien Traverse Lead takes all-channel command from the galley while the Rookie holds the lead cab. The approved correction replaces the easily misread figure at the rear tractor controls in panel 3 with the blue-skinned Antisapien woman from Page 2. The page ends with `Stop ops in one mile.`
 
 ---
+
+### Issue 01 Page 11 Finished Art
+
+The [Page 11 production record](was-traverse-issue-01-page-11-finished-art.md) links the [corrected five-panel PNG](../../production/comics/was-traverse/issue-01/page-11-finished-art.png). **Stop Ops** shows the controlled halt, Rookie behind lowered goggles, the load/hitch/coupling radio order, and an unexplained windshield reflection. The approved GPS correction locks straight route segments turning at waypoints, flags on the approved route, and a lone off-route vehicle triangle with no invented path.
 
 ## Search Aliases
 

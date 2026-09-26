@@ -141,3 +141,7 @@ Sparky
 The Cairn Hound
 Core-returned cryptids
 ```
+
+## Issue 01 Page 11 — Stop Ops
+
+[Corrected Page 11 PNG](../production/comics/was-traverse/issue-01/page-11-finished-art.png) · [Production record and GPS correction](comics/was-traverse-issue-01-page-11-finished-art.md). Search: W.A.S. Traverse Page 11; Stop Ops; waypoint turns; flags follow approved route; isolated off-route triangle.
