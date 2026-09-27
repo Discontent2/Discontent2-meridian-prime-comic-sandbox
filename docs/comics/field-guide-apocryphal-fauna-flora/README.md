@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-9 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-10 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -37,6 +37,7 @@ Page 6 Script + Art Direction Lock
 Page 7 Script + Art Direction Lock
 Page 8 Script + Art Direction Lock
 Page 9 Script + Art Direction Lock
+Page 10 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -47,7 +48,7 @@ The project is not yet in full thumbnail or page-art production.
 
 Recommended next deliverables:
 
-1. Page 10 script and art direction
+1. Page 11 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -101,6 +102,8 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `page-08-art-direction-lock.md` | Page 8 production-facing art direction lock for Low Water Feed + Field Supply and Buckle's sale-tag reveal |
 | `page-09-script.md` | Page 9 comic script: `Buckley Refuses the Air`, Buckle's first travel problem and Lung Lichen warning |
 | `page-09-art-direction-lock.md` | Page 9 production-facing art direction lock for Buckle, the low-water culvert, and Lichen Green warning beat |
+| `page-10-script.md` | Page 10 comic script: `Projected Pack Utility: None`, Buckle hab chaos and Thor's revised field note |
+| `page-10-art-direction-lock.md` | Page 10 production-facing art direction lock for Mallow's cramped hab, Lung Lichen tin glow, and Buckle's stove-nest beat |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -189,6 +192,13 @@ Buckley Refuses the Air
 Buckle creates Thor's first practical travel problem by blocking Mallow's ramp and ruining the pack-stock fantasy, then detects bad air at a low-water culvert before Thor's instrument catches up.
 ```
 
+### Page 10
+
+```text
+Projected Pack Utility: None
+Inside Mallow's cramped rear hab at night, Buckle turns the expedition into domestic chaos while a Lung Lichen tin glows faintly green, forcing Thor to revise Buckle from failed pack utility to possible environmental warning animal.
+```
+
 ---
 
 ## Search Aliases
@@ -202,27 +212,32 @@ Buckley
 Mirecat
 Mallow
 The Tin Burrow
+Page 10
+Page 10 script
+Projected Pack Utility None
+Buckle hab chaos
+Buckle inside Mallow
+Buckle sleeps by stove
+Buckle chews sale tag
+GROWTH EXPECTED NO RETURNS
+Projected pack utility none
+Environmental warning behavior possible
+Lung Lichen tin glow
+Lichen Green hab interior
+Thor revises Buckle note
+Useful had begun to fail me
+Fine you're coming anyway
 Page 09
 Page 9
 Buckley Refuses the Air
 Buckle first travel problem
-Buckle blocks ramp
-Projected pack utility disputed
-Buckle chews tag
-Pale Burdenback warning instinct
-Buckle notices bad air
 Lung Lichen first warning
-Lichen Green page
-low-water culvert
-animal notices before instrument
-Buckle refuses route
 Page 08
 Page 8
 Growth Expected No Returns
 Buckle introduction
 Pygmy Pale Burdenback sale
 Low Water Feed and Field Supply
-Buckle not e-bike location
 Page 07
 Page 7
 A Flag Is Also a Beacon
