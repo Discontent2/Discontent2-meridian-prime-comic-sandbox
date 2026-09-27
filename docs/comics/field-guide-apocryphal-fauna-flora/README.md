@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-3 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-4 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -31,6 +31,7 @@ Ashcan Package Lock
 Page 1 Script + Art Direction Lock
 Page 2 False Field Plate Script + Art Direction Lock
 Page 3 Script + Art Direction Lock
+Page 4 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -41,7 +42,7 @@ The project is not yet in full script, thumbnail, or page-art production.
 
 Recommended next deliverables:
 
-1. Page 04 script and art direction
+1. Page 05 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -83,6 +84,8 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `page-02-false-field-plate-art-direction-lock.md` | Page 2 production-facing art direction lock |
 | `page-03-script.md` | Page 3 comic script: `Mallow Waits in the Rain`, crawler reveal and manuscript hook |
 | `page-03-art-direction-lock.md` | Page 3 production-facing art direction lock for Mallow, the mobile hab, and manuscript glimmer |
+| `page-04-script.md` | Page 4 comic script: `The Book Blooms Back`, first Index Orchid clue and manuscript reaction |
+| `page-04-art-direction-lock.md` | Page 4 production-facing art direction lock for the manuscript, hand level, and hidden Index Orchid clue |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -135,6 +138,13 @@ Mallow Waits in the Rain
 Thor returns to the Mirecat field crawler Mallow in a rainy Ledger Falls timber-margin yard, reveals the mobile hab interior, and unwraps the ancient Aeonolacertian manuscript as a faint Girasol Gold thread appears between the pages.
 ```
 
+### Page 4
+
+```text
+The Book Blooms Back
+Inside Mallow's cramped rear hab, Thor uses the Kuker-Rankin hand level as a sight glass over the ancient manuscript, causing hidden Girasol Gold lines to bloom around a partial black-glass orchid drawing and revealing the first Index Orchid clue without decoding the book.
+```
+
 ---
 
 ## Search Aliases
@@ -148,6 +158,19 @@ Buckley
 Mirecat
 Mallow
 The Tin Burrow
+Page 04
+Page 4
+The Book Blooms Back
+Index Orchid clue
+black-glass orchid
+first Index Orchid clue
+Kuker-Rankin sight glass
+hand level manuscript
+manuscript reaction
+Aeonolacertian manuscript reaction
+hidden manuscript lines
+Girasol Gold hidden lines
+First Objective Black-Glass Orchid
 Page 03
 Page 3
 Mallow Waits in the Rain
