@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-4 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-5 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -32,6 +32,7 @@ Page 1 Script + Art Direction Lock
 Page 2 False Field Plate Script + Art Direction Lock
 Page 3 Script + Art Direction Lock
 Page 4 Script + Art Direction Lock
+Page 5 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -42,7 +43,7 @@ The project is not yet in full script, thumbnail, or page-art production.
 
 Recommended next deliverables:
 
-1. Page 05 script and art direction
+1. Page 06 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -86,6 +87,8 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `page-03-art-direction-lock.md` | Page 3 production-facing art direction lock for Mallow, the mobile hab, and manuscript glimmer |
 | `page-04-script.md` | Page 4 comic script: `The Book Blooms Back`, first Index Orchid clue and manuscript reaction |
 | `page-04-art-direction-lock.md` | Page 4 production-facing art direction lock for the manuscript, hand level, and hidden Index Orchid clue |
+| `page-05-script.md` | Page 5 comic script: `The First Objective`, Index Orchid objective and Ledger Falls departure |
+| `page-05-art-direction-lock.md` | Page 5 production-facing art direction lock for Mallow prep, ignition, and departure |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -145,6 +148,13 @@ The Book Blooms Back
 Inside Mallow's cramped rear hab, Thor uses the Kuker-Rankin hand level as a sight glass over the ancient manuscript, causing hidden Girasol Gold lines to bloom around a partial black-glass orchid drawing and revealing the first Index Orchid clue without decoding the book.
 ```
 
+### Page 5
+
+```text
+The First Objective
+Thor turns the manuscript's first black-glass orchid clue into a field objective, loads Mallow in the rain, starts the crawler, and leaves Ledger Falls believing he is only chasing a plant.
+```
+
 ---
 
 ## Search Aliases
@@ -158,6 +168,20 @@ Buckley
 Mirecat
 Mallow
 The Tin Burrow
+Page 05
+Page 5
+The First Objective
+Index Orchid objective
+black-glass orchid clue
+Mallow departure
+Tin Burrow departure
+Thor leaves Ledger Falls
+Ledger Falls departure
+Mallow ignition
+Be ugly and brave
+first lie caption
+Mallow road scene
+field crawler departure
 Page 04
 Page 4
 The Book Blooms Back
