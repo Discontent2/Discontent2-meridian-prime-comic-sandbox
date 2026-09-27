@@ -36,6 +36,8 @@ Page 8 current direction lock: **Growth Expected, No Returns**, with Thor reachi
 
 Page 9 current direction lock: **Buckley Refuses the Air**, with Buckle creating Thor's first practical travel problem by blocking Mallow's ramp and ruining the pack-stock fantasy, then detecting bad air at a low-water culvert before Thor's instrument catches up.
 
+Page 10 current direction lock: **Projected Pack Utility: None**, with Buckle turning Mallow's rear hab into domestic chaos while a Lung Lichen tin glows faintly green, forcing Thor to revise Buckle from failed pack utility to possible environmental warning animal.
+
 The first production artifact is locked as:
 
 ```text
@@ -99,6 +101,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-08-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-08-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-09-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-09-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-10-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-10-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -117,39 +121,31 @@ Pygmy Pale Burdenback
 Mirecat
 Mallow
 The Tin Burrow
+Page 10
+Projected Pack Utility None
+Buckle hab chaos
+Buckle sleeps by stove
+Lung Lichen tin glow
+Lichen Green hab interior
+Thor revises Buckle note
+Individual name Buckle
 Page 09
-Page 9
 Buckley Refuses the Air
 Buckle first travel problem
-Buckle blocks ramp
-Projected pack utility disputed
-Buckle chews tag
-Pale Burdenback warning instinct
-Buckle notices bad air
 Lung Lichen first warning
-Lichen Green page
-low-water culvert
-animal notices before instrument
-Buckle refuses route
 Page 08
-Page 8
 Growth Expected No Returns
 Buckle introduction
 Low Water Feed and Field Supply
 Page 07
-Page 7
 A Flag Is Also a Beacon
 Page 06
-Page 6
 The Road Takes Notes
 Page 05
-Page 5
 The First Objective
 Page 04
-Page 4
 The Book Blooms Back
 Page 03
-Page 3
 Mallow Waits in the Rain
 False Field Plate
 The Forest Becomes Cargo
@@ -175,6 +171,7 @@ Page 6 script and art-direction lock saved.
 Page 7 script and art-direction lock saved.
 Page 8 script and art-direction lock saved.
 Page 9 script and art-direction lock saved.
+Page 10 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
