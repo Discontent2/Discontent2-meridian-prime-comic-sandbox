@@ -50,22 +50,24 @@ The Girasol Pages
 | `page-01-art-direction-lock.md` | Page 1 production-facing visual lock | Page 1 art direction, permit-stamp machine, hidden antler fog |
 | `page-02-false-field-plate-script.md` | Page 2 false field plate script | Page 2, False Field Plate, Apocryphal Plate I |
 | `page-02-false-field-plate-art-direction-lock.md` | Page 2 production-facing visual lock | Page 2 art direction, creature silhouettes, field plate |
-| `page-03-script.md` | Page 3 comic script, crawler reveal and manuscript hook | Page 3, Page 03, Mallow Waits in the Rain, Mallow reveal, ancient manuscript hook |
+| `page-03-script.md` | Page 3 comic script, crawler reveal and manuscript hook | Page 3, Mallow Waits in the Rain, Mallow reveal, ancient manuscript hook |
 | `page-03-art-direction-lock.md` | Page 3 production-facing visual lock | Page 3 art direction, Tin Burrow reveal, mobile hab reveal, Girasol Gold glimmer |
-| `page-04-script.md` | Page 4 comic script, manuscript reaction and first Index Orchid clue | Page 4, Page 04, The Book Blooms Back, Index Orchid clue, black-glass orchid |
+| `page-04-script.md` | Page 4 comic script, manuscript reaction and first Index Orchid clue | Page 4, The Book Blooms Back, Index Orchid clue, black-glass orchid |
 | `page-04-art-direction-lock.md` | Page 4 production-facing visual lock | Page 4 art direction, hand level manuscript, hidden manuscript lines, Girasol Gold hidden lines |
-| `page-05-script.md` | Page 5 comic script, Index Orchid objective and departure | Page 5, Page 05, The First Objective, Mallow departure, Thor leaves Ledger Falls |
+| `page-05-script.md` | Page 5 comic script, Index Orchid objective and departure | Page 5, The First Objective, Mallow departure, Thor leaves Ledger Falls |
 | `page-05-art-direction-lock.md` | Page 5 production-facing visual lock | Page 5 art direction, Mallow ignition, field crawler departure, first lie caption |
-| `page-06-script.md` | Page 6 comic script, first road omen and roadside orchid specimen | Page 6, Page 06, The Road Takes Notes, first road omen, Index Orchid roadside specimen |
+| `page-06-script.md` | Page 6 comic script, first road omen and roadside orchid specimen | Page 6, The Road Takes Notes, first road omen, Index Orchid roadside specimen |
 | `page-06-art-direction-lock.md` | Page 6 production-facing visual lock | Page 6 art direction, road takes notes back, Marker 17, black-glass orchid roadside visual |
-| `page-07-script.md` | Page 7 comic script, first consequence of documentation | Page 7, Page 07, A Flag Is Also a Beacon, field flag beacon, copied field note |
+| `page-07-script.md` | Page 7 comic script, first consequence of documentation | Page 7, A Flag Is Also a Beacon, field flag beacon, copied field note |
 | `page-07-art-direction-lock.md` | Page 7 production-facing visual lock | Page 7 art direction, Do Not Collect tag, anonymous gloved hand, field note becomes bait |
-| `page-08-script.md` | Page 8 comic script, first fringe stop and Buckle introduction | Page 8, Page 08, Growth Expected No Returns, Buckle introduction, Pygmy Pale Burdenback sale |
+| `page-08-script.md` | Page 8 comic script, first fringe stop and Buckle introduction | Page 8, Growth Expected No Returns, Buckle introduction, Pygmy Pale Burdenback sale |
 | `page-08-art-direction-lock.md` | Page 8 production-facing visual lock | Page 8 art direction, Low Water Feed and Field Supply, Buckle sale-tag reveal, no returns tag |
-| `page-09-script.md` | Page 9 comic script, Buckle's first travel problem and Lung Lichen warning | Page 9, Page 09, Buckley Refuses the Air, Buckle blocks ramp, Lung Lichen first warning |
+| `page-09-script.md` | Page 9 comic script, Buckle's first travel problem and Lung Lichen warning | Page 9, Buckley Refuses the Air, Buckle blocks ramp, Lung Lichen first warning |
 | `page-09-art-direction-lock.md` | Page 9 production-facing visual lock | Page 9 art direction, Lichen Green page, low-water culvert, animal notices before instrument |
-| `page-10-script.md` | Page 10 comic script, Buckle hab chaos and field-note revision | Page 10, Page 10 script, Projected Pack Utility None, Buckle hab chaos, Thor revises Buckle note |
+| `page-10-script.md` | Page 10 comic script, Buckle hab chaos and field-note revision | Page 10, Projected Pack Utility None, Buckle hab chaos, Thor revises Buckle note |
 | `page-10-art-direction-lock.md` | Page 10 production-facing visual lock | Page 10 art direction, Buckle sleeps by stove, Lung Lichen tin glow, Lichen Green hab interior |
+| `page-11-script.md` | Page 11 comic script, missing orchid consequence and moral correction | Page 11, The Flag Found Someone, missing black-glass orchid, Location withheld setup |
+| `page-11-art-direction-lock.md` | Page 11 production-facing visual lock | Page 11 art direction, bent field flag, copied field note, Rust Red copied note, field note redaction |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -214,6 +216,23 @@ Thor revises Buckle note
 Useful had begun to fail me
 Fine you're coming anyway
 Individual name Buckle
+Page 11
+Page 11 script
+The Flag Found Someone
+missing black-glass orchid
+Index Orchid gone
+field flag consequence
+protective marker becomes beacon
+Thor removes marker
+copied field note consequence
+M17 + 1.7 LOW RUT
+Location withheld setup
+first moral correction
+Observed Do Not Collect failure
+Buckle presses forehead
+Thor redacts location
+field note redaction
+ethical wound page
 ```
 
 ---
@@ -245,6 +264,7 @@ Buckle chews tag
 Buckle sleeps by stove
 Buckle hab chaos
 Buckle notices bad air
+Buckle presses forehead
 Buckle character sheet
 Buckley character sheet
 Pygmy Pale Burdenback
@@ -323,6 +343,7 @@ Mallow road omen
 field crawler road omen
 low-water culvert
 cramped hab interior
+Marker 17 return
 ```
 
 ---
@@ -335,6 +356,8 @@ black-glass orchid
 black-glass orchid roadside
 Index Orchid roadside specimen
 black-glass orchid copied note
+missing black-glass orchid
+Index Orchid gone
 Pygmy Pale Burdenback
 Pale Burdenback juvenile
 Pale Burdenback sale
@@ -378,6 +401,8 @@ Low Road gets the machines
 not here Low Road gets the machines
 low-water culvert
 roadside culvert
+Marker 17
+M17 + 1.7 LOW RUT
 ```
 
 ---
@@ -440,6 +465,13 @@ Buckle hab chaos art
 Buckle sleeps by stove visual
 Projected pack utility none visual
 Individual name Buckle visual
+missing orchid visual
+bent field flag visual
+Rust Red copied note
+Thor compares notes
+Thor removes marker
+Location withheld redaction
+field note redaction art
 ```
 
 ---
@@ -458,6 +490,7 @@ Page 7 script and art-direction lock saved.
 Page 8 script and art-direction lock saved.
 Page 9 script and art-direction lock saved.
 Page 10 script and art-direction lock saved.
+Page 11 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -466,7 +499,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 11 script and art direction
+1. Page 12 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
