@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan concept lock / pre-pitch visual development  
+**Current Stage:** Ashcan package lock / Page 1 script and art-direction development  
 
 ---
 
@@ -29,21 +29,20 @@ This project is currently in:
 
 ```text
 Modern Ashcan Proof-of-Concept Development
-Ashcan Concept Lock / Pre-Pitch Visual Development
+Ashcan Package Lock
+Page 1 Script + Art Direction Lock
 ```
 
 The project is not yet in full script, thumbnail, or page-art production.
 
 The next recommended deliverables are:
 
-1. 12-page ashcan beat sheet
-2. Thor Fortner character sheet
-3. Buckle character sheet
-4. Field crawler vehicle sheet
-5. Creature silhouette plate
-6. Cover direction sheet
-7. Page 1 script
-8. Page 1 art direction
+1. Thor Fortner character sheet
+2. Buckle character sheet
+3. Field crawler vehicle sheet
+4. Creature silhouette plate
+5. Cover direction sheet
+6. Page 2 false field plate script and art direction
 
 ---
 
@@ -96,10 +95,14 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 
 | File | Purpose |
 |---|---|
+| `ashcan-package-lock.md` | Locks the ashcan format, title, visual approach, spot-color system, and production package target |
 | `concept-lock.md` | Main concept, protagonist, vehicle, emotional spine, synopsis, and hero's journey shape |
 | `creature-biome-roster.md` | The nine motif organisms, major biomes, and narrative functions |
 | `ashcan-art-direction-sheet.md` | Visual language, spot color system, ink rules, cover direction, page style |
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
+| `page-01-script.md` | Page 1 comic script: Ledger Falls cold open and Thor's first field-note beat |
+| `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
+| `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 
 ---
 
@@ -124,6 +127,26 @@ Other title options:
 - The Girasol Pages
 - Creatures That Maps Refuse
 - Field Guide: Things the Map Refused
+
+---
+
+## Locked Ashcan Package
+
+```text
+Observed, Not Owned
+A 12-page modern ashcan explorer comic
+Mostly black and white
+Heavy black inks
+Spot color system: A/B/C/D variants
+Primary interior spot color: Girasol Gold
+```
+
+Page 1 production direction:
+
+```text
+The Forest Becomes Cargo
+Thor Fortner crouches in Ledger Falls rain, sketching a tiny strange organism growing out of a permit-stamp machine while workers tag trees behind him and black branches form a hidden antler shape in the fog.
+```
 
 ---
 
@@ -152,6 +175,7 @@ Meridian Prime fauna
 Meridian Prime flora
 Apocryphal fauna
 Creature field guide
+The Forest Becomes Cargo
 ```
 
 ---
