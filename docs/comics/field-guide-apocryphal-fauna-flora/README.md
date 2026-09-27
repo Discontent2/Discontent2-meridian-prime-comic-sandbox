@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-12 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet / Creature silhouette plate rough layout  
+**Current Stage:** Ashcan package lock / Pages 1-12 production locks / Page 2 rough thumbnail grid / Thor + Buckle + field crawler sheets / Cover direction sheet / Creature silhouette plate rough layout  
 
 ---
 
@@ -29,6 +29,7 @@ It is about Meridian Prime teaching Thor how not to become another kind of preda
 Modern Ashcan Proof-of-Concept Development
 Ashcan Package Lock
 Pages 1-12 Script + Art Direction Locks
+Page 2 Rough Thumbnail Grid
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -36,15 +37,15 @@ Cover Direction Sheet
 Creature Silhouette Plate Rough Layout
 ```
 
-The 12-page ashcan script and production art-direction lock are complete. The project is not yet in thumbnail or final page-art production.
+The 12-page ashcan script and production art-direction locks are complete. Page 2 now also has a rough thumbnail grid for the false field plate.
 
 Recommended next deliverables:
 
-1. Page 2 rough thumbnail grid
-2. Creature silhouette drawing sheet
+1. Creature silhouette drawing sheet
+2. Buckle pose / expression sheet
 3. Thor visual pose sheet
-4. Buckle pose / expression sheet
-5. Field crawler cutaway / design sheet
+4. Field crawler cutaway / design sheet
+5. Cover thumbnail roughs
 6. Full ashcan production packet / print assembly checklist
 
 ---
@@ -71,6 +72,7 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `concept-lock.md` | Main concept, protagonist, vehicle, emotional spine, synopsis, and hero's journey shape |
 | `creature-biome-roster.md` | Nine motif organisms, major biomes, and narrative functions |
 | `creature-silhouette-plate-rough-layout.md` | Production rough layout for Apocryphal Plate I / Page 2 creature silhouette grid |
+| `page-02-rough-thumbnail-grid.md` | Rough thumbnail grid for Page 2 / Apocryphal Plate I, translating the silhouette plate into a page composition |
 | `ashcan-art-direction-sheet.md` | Visual language, spot color system, ink rules, cover direction, page style |
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
@@ -132,6 +134,12 @@ Mirecat Field Crawler "Mallow", nicknamed The Tin Burrow: a compact Tucker Sno-C
 Creature silhouette plate rough layout: a damaged 3x3 false field-guide plate for Index Orchid, Buckle / Pygmy Pale Burdenback, partial Girasol, Crimson Glass Salamander, Gift-Pod, Nightwake, Lung Lichen, Dwarf Craton Sauropod, and Snow-Dire Leafcat, ending with OBSERVED. NOT OWNED. LOCATION WITHHELD.
 ```
 
+### Page 2 Rough Thumbnail Grid
+
+```text
+The Page 2 rough thumbnail grid translates Apocryphal Plate I into an artist-facing damaged 3x3 page composition, with visual hierarchy, cell weighting, required text fragments, and Girasol Gold spot-color placement.
+```
+
 ---
 
 ## Page Lock Summary
@@ -160,7 +168,11 @@ Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
 creature silhouette plate
 creature silhouette plate rough layout
-Apocryphal Plate I
+Page 02 rough thumbnail grid
+Page 2 rough thumbnail grid
+Apocryphal Plate I rough layout
+False Field Plate thumbnail
+3 x 3 field plate
 Observed Not Owned plate
 Page 2 plate layout
 false field plate layout
