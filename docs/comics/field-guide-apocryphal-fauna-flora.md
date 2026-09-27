@@ -34,6 +34,8 @@ Page 7 current direction lock: **A Flag Is Also a Beacon**, with Thor leaving a 
 
 Page 8 current direction lock: **Growth Expected, No Returns**, with Thor reaching a fringe feed-and-supply stop looking for practical expedition supplies and leaving with Buckle, an undergrown pale Pale Burdenback sold as future pack stock under a tag that reads GROWTH EXPECTED / NO RETURNS.
 
+Page 9 current direction lock: **Buckley Refuses the Air**, with Buckle creating Thor's first practical travel problem by blocking Mallow's ramp and ruining the pack-stock fantasy, then detecting bad air at a low-water culvert before Thor's instrument catches up.
+
 The first production artifact is locked as:
 
 ```text
@@ -95,6 +97,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-07-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-07-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-08-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-08-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-09-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-09-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -106,159 +110,54 @@ docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
-Observed Not Owned cover
-cover direction sheet
-The Tin Burrow at the Forest Edge
-Girasol Gold cover
-Acid Magenta variant
-Rust Red variant
-Lichen Green variant
-Manuscript Variant
-Ledger Falls Variant
-The Cave That Breathed Variant
-hidden antler cover
 Thor Fortner
-Thor character sheet
-Ledger Falls field-naturalist
-Percy Fawcett influence
-machine-age explorer
-flat cap
-driving cap
-early motoring goggles
-Kuker-Rankin hand level
-hand level sight glass
 Buckle
 Buckley
-Buckle character sheet
-Buckle introduction
-first Buckle page
 Pygmy Pale Burdenback
-Pale Burdenback
-Pale Burdenback juvenile
-White Elephant creature
-failed pack animal
-undergrown pack animal
-pack stock growth expected
-no returns tag
-pygmy hippo tapir rhino
-hippo rhino tapir creature
-compact wetland tank
-Thor's pet
-environmental warning animal
-field crawler
-field crawler vehicle sheet
 Mirecat
-Mirecat Field Crawler
 Mallow
 The Tin Burrow
-Tin Burrow
-Thor vehicle
-Thor crawler
-Tucker Sno-Cat inspired vehicle
-front blade crawler
-rear hab module
-mobile hab
-Thor mobile lab
-Ledger Falls timber-margin utility cat
-Buzz-Mule dock
+Page 09
+Page 9
+Buckley Refuses the Air
+Buckle first travel problem
+Buckle blocks ramp
+Projected pack utility disputed
+Buckle chews tag
+Pale Burdenback warning instinct
+Buckle notices bad air
+Lung Lichen first warning
+Lichen Green page
+low-water culvert
+animal notices before instrument
+Buckle refuses route
 Page 08
 Page 8
 Growth Expected No Returns
+Buckle introduction
 Low Water Feed and Field Supply
-fringe feed stop
-animal feed stop
-not here Low Road gets the machines
-Buckle not e-bike location
-Thor buys Buckle
-Projected pack utility delayed
-Temperament expensive
-White Elephant companion enters
 Page 07
 Page 7
 A Flag Is Also a Beacon
-field flag beacon
-first consequence
-careless documentation consequence
-Thor marker mistake
-Do Not Collect tag
-Observed Do Not Collect
-M17 + 1.7 Low Rut
-warning is still a sign
-signs are made to be followed
-copied field note
-black-glass orchid copied note
-someone reads Thor's field note
-anonymous gloved hand
-field note becomes bait
 Page 06
 Page 6
 The Road Takes Notes
-first road omen
-road omen
-Index Orchid roadside specimen
-black-glass orchid roadside
-Marker 17
-Low Water Takes What It Is Owed
-Mallow road omen
-field crawler road omen
-Thor documents the orchid
-first careless field note
-Observed not taken
-who else can read a field note
 Page 05
 Page 5
 The First Objective
-Index Orchid objective
-black-glass orchid clue
-Mallow departure
-Tin Burrow departure
-Thor leaves Ledger Falls
-Ledger Falls departure
-Mallow ignition
-Be ugly and brave
-first lie caption
-Mallow road scene
-field crawler departure
 Page 04
 Page 4
 The Book Blooms Back
-Index Orchid clue
-black-glass orchid
-first Index Orchid clue
-Kuker-Rankin sight glass
-hand level manuscript
-manuscript reaction
-Aeonolacertian manuscript reaction
-hidden manuscript lines
-Girasol Gold hidden lines
-First Objective Black-Glass Orchid
 Page 03
 Page 3
 Mallow Waits in the Rain
-Mallow reveal
-Tin Burrow reveal
-field crawler reveal
-mobile hab reveal
-ancient manuscript hook
-Aeonolacertian manuscript
-Girasol Gold glimmer
-Ledger Falls timber-margin yard
-Girasol
-Index Orchid
-Gift-Pod
-Nightwake
-Lung Lichen
-Crimson Glass Salamander
-Snow-Dire Leafcat
-Dwarf Craton Sauropod
 False Field Plate
-Apocryphal Plate I
 The Forest Becomes Cargo
 Explorer comic
 Modern ashcan
 Heavy black inks
 Girasol Gold
-Field Guide ashcan
+Lichen Green
 ```
 
 ---
@@ -275,6 +174,7 @@ Page 5 script and art-direction lock saved.
 Page 6 script and art-direction lock saved.
 Page 7 script and art-direction lock saved.
 Page 8 script and art-direction lock saved.
+Page 9 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
