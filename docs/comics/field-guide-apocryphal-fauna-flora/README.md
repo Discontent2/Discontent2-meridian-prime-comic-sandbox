@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-7 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-8 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -35,6 +35,7 @@ Page 4 Script + Art Direction Lock
 Page 5 Script + Art Direction Lock
 Page 6 Script + Art Direction Lock
 Page 7 Script + Art Direction Lock
+Page 8 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -45,7 +46,7 @@ The project is not yet in full script, thumbnail, or page-art production.
 
 Recommended next deliverables:
 
-1. Page 08 script and art direction
+1. Page 09 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -95,6 +96,8 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `page-06-art-direction-lock.md` | Page 6 production-facing art direction lock for the road omen, Marker 17 signs, and black-glass orchid rut |
 | `page-07-script.md` | Page 7 comic script: `A Flag Is Also a Beacon`, first consequence of Thor's careless documentation |
 | `page-07-art-direction-lock.md` | Page 7 production-facing art direction lock for the field flag, copied note, and information-as-bait beat |
+| `page-08-script.md` | Page 8 comic script: `Growth Expected, No Returns`, first fringe stop and Buckle introduction |
+| `page-08-art-direction-lock.md` | Page 8 production-facing art direction lock for Low Water Feed + Field Supply and Buckle's sale-tag reveal |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -175,6 +178,13 @@ A Flag Is Also a Beacon
 Thor leaves a protective field flag beside the roadside black-glass orchid, but the marker makes the hidden organism easier to find, and an unseen hand copies his careful note into a more dangerous ledger.
 ```
 
+### Page 8
+
+```text
+Growth Expected, No Returns
+Thor reaches a fringe feed-and-supply stop looking for practical expedition supplies and leaves with Buckle, an undergrown pale Pale Burdenback sold as future pack stock under a tag that reads GROWTH EXPECTED / NO RETURNS. The e-bike / Buzz-Mule is explicitly not purchased here.
+```
+
 ---
 
 ## Search Aliases
@@ -188,6 +198,25 @@ Buckley
 Mirecat
 Mallow
 The Tin Burrow
+Page 08
+Page 8
+Growth Expected No Returns
+Buckle introduction
+Buckley introduction
+first Buckle page
+Pygmy Pale Burdenback sale
+Pale Burdenback juvenile
+pack stock growth expected
+no returns tag
+Low Water Feed and Field Supply
+fringe feed stop
+animal feed stop
+not here Low Road gets the machines
+Buckle not e-bike location
+Thor buys Buckle
+Projected pack utility delayed
+Temperament expensive
+White Elephant companion enters
 Page 07
 Page 7
 A Flag Is Also a Beacon
