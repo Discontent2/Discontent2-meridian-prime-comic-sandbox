@@ -24,6 +24,8 @@ Cover current direction lock: **The Tin Burrow at the Forest Edge**, with Thor, 
 
 Creature silhouette plate rough layout: **Apocryphal Plate I**, a damaged 3x3 false field-guide grid for Index Orchid, Buckle / Pygmy Pale Burdenback, partial Girasol, Crimson Glass Salamander, Gift-Pod, Nightwake, Lung Lichen, Dwarf Craton Sauropod, and Snow-Dire Leafcat, ending with `OBSERVED. NOT OWNED. LOCATION WITHHELD.`
 
+Page 2 rough thumbnail grid: artist-facing composition map for Apocryphal Plate I, translating the silhouette plate into a damaged 3x3 page layout with cell weighting, required text, page texture, and Girasol Gold spot-color placement.
+
 The first production artifact is locked as:
 
 ```text
@@ -64,6 +66,7 @@ docs/comics/field-guide-apocryphal-fauna-flora/ashcan-package-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/concept-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/creature-biome-roster.md
 docs/comics/field-guide-apocryphal-fauna-flora/creature-silhouette-plate-rough-layout.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-02-rough-thumbnail-grid.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-art-direction-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-12-page-beat-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/thor-fortner-character-sheet.md
@@ -107,10 +110,15 @@ Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
 creature silhouette plate
 creature silhouette plate rough layout
+Page 02 rough thumbnail grid
+Page 2 rough thumbnail grid
+Apocryphal Plate I rough layout
+False Field Plate thumbnail
 Apocryphal Plate I
 Observed Not Owned plate
 Page 2 plate layout
 false field plate layout
+3 x 3 field plate
 Index Orchid silhouette
 Pygmy Pale Burdenback silhouette
 Buckle silhouette
@@ -157,6 +165,7 @@ Rust Red
 Ashcan package locked.
 Pages 1-12 script and art-direction locks saved.
 Creature silhouette plate rough layout saved.
+Page 2 rough thumbnail grid saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
