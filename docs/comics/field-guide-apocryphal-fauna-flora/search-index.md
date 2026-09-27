@@ -15,6 +15,7 @@ Use any of these search terms to find this project:
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
+Observed Not Owned cover
 Thor Fortner
 Buckle
 Buckley
@@ -46,6 +47,7 @@ The Girasol Pages
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock | Thor character sheet, flat cap, motoring goggles, Kuker-Rankin hand level |
 | `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock | Buckle character sheet, Buckley, Pygmy Pale Burdenback, failed pack animal |
 | `field-crawler-vehicle-sheet.md` | Mirecat Field Crawler `Mallow` / The Tin Burrow vehicle, hab, lab, Buckle zone, e-bike dock, and story-function lock | field crawler vehicle sheet, Mirecat, Mallow, Tin Burrow, Tucker Sno-Cat inspired vehicle |
+| `cover-direction-sheet.md` | Main cover, back cover, variant cover system, typography, print texture, and cover prompt | cover direction sheet, Observed Not Owned cover, Girasol Gold cover, hidden antler cover |
 | `page-01-script.md` | Page 1 comic script, Ledger Falls cold open | Page 1, The Forest Becomes Cargo, Ledger Falls |
 | `page-01-art-direction-lock.md` | Page 1 production-facing visual lock | Page 1 art direction, permit-stamp machine, hidden antler fog |
 | `page-02-false-field-plate-script.md` | Page 2 false field plate script, nine-organism visual roster | Page 2, False Field Plate, Apocryphal Plate I |
@@ -142,6 +144,36 @@ crawler moral test
 
 ---
 
+## Cover Search Terms
+
+```text
+cover direction sheet
+Observed Not Owned cover
+Field Guide cover
+The Tin Burrow at the Forest Edge
+main cover concept
+Girasol Gold cover
+Acid Magenta variant
+Rust Red variant
+Lichen Green variant
+Girasol Gold variant
+Manuscript Variant
+Ledger Falls Variant
+The Cave That Breathed Variant
+Mallow cover
+Buckle cover
+Thor cover
+hidden antler cover
+field guide back cover
+ashcan cover direction
+variant cover system
+back cover copy
+inside front cover inventory
+inside back cover checklist
+```
+
+---
+
 ## Creature / Plant Search Terms
 
 ```text
@@ -217,6 +249,10 @@ rear hab silhouette
 tracked vehicle silhouette
 Buckle in rear door
 black ink crawler
+hidden Girasol antlers
+negative-space antlers
+misregistered spot color
+rough paper texture
 ```
 
 ---
@@ -232,16 +268,17 @@ Page 2 false field plate script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
+Cover direction sheet saved.
 ```
 
 Recommended next deliverables:
 
-1. Cover direction sheet
-2. Page 03 script and art direction
-3. Creature silhouette plate rough layout
-4. Thor visual pose sheet
-5. Buckle pose / expression sheet
-6. Field crawler cutaway / design sheet
+1. Page 03 script and art direction
+2. Creature silhouette plate rough layout
+3. Thor visual pose sheet
+4. Buckle pose / expression sheet
+5. Field crawler cutaway / design sheet
+6. Cover thumbnail roughs
 
 ---
 
