@@ -54,6 +54,8 @@ The Girasol Pages
 | `page-03-art-direction-lock.md` | Page 3 production-facing visual lock | Page 3 art direction, Tin Burrow reveal, mobile hab reveal, Girasol Gold glimmer |
 | `page-04-script.md` | Page 4 comic script, manuscript reaction and first Index Orchid clue | Page 4, Page 04, The Book Blooms Back, Index Orchid clue, black-glass orchid |
 | `page-04-art-direction-lock.md` | Page 4 production-facing visual lock | Page 4 art direction, hand level manuscript, hidden manuscript lines, Girasol Gold hidden lines |
+| `page-05-script.md` | Page 5 comic script, Index Orchid objective and departure | Page 5, Page 05, The First Objective, Mallow departure, Thor leaves Ledger Falls |
+| `page-05-art-direction-lock.md` | Page 5 production-facing visual lock | Page 5 art direction, Mallow ignition, field crawler departure, first lie caption |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -103,6 +105,20 @@ First Objective Black-Glass Orchid
 Do Not Map The Bloom
 Observed Not Located
 Black Root Glass Vein Low Water
+Page 05
+Page 5
+The First Objective
+Index Orchid objective
+black-glass orchid clue
+Mallow departure
+Tin Burrow departure
+Thor leaves Ledger Falls
+Ledger Falls departure
+Mallow ignition
+Be ugly and brave
+first lie caption
+Mallow road scene
+field crawler departure
 ```
 
 ---
@@ -301,6 +317,8 @@ rough paper texture
 manuscript gold thread
 black-glass flower drawing
 rainy hab interior
+Mallow road silhouette
+first expedition departure
 ```
 
 ---
@@ -313,6 +331,7 @@ Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Page 3 script and art-direction lock saved.
 Page 4 script and art-direction lock saved.
+Page 5 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -321,7 +340,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 05 script and art direction
+1. Page 06 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
