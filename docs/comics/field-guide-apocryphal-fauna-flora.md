@@ -20,6 +20,8 @@ Buckle's current character lock: a pygmy Pale Burdenback sold as a future pack a
 
 Field crawler current vehicle lock: **Mirecat Field Crawler `Mallow`**, nicknamed **The Tin Burrow**, a compact Tucker Sno-Cat-like tracked utility vehicle rebuilt from Ledger Falls timber-margin surplus, with a scarred front blade, rounded cab, rear hab module, stove pipe, roof rack, cramped field-lab interior, Buckle's nest by the stove, and enough patched machinery to feel like a rolling shelter, research den, and moral test in heavy black ink.
 
+Cover current direction lock: **The Tin Burrow at the Forest Edge**, with Thor, Buckle, and Mallow at the edge of a black Ledger Falls cloud forest, hidden Girasol antlers in the branches, and restrained Girasol Gold spot color.
+
 The first production artifact is locked as:
 
 ```text
@@ -64,6 +66,7 @@ docs/comics/field-guide-apocryphal-fauna-flora/ashcan-12-page-beat-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/thor-fortner-character-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/buckle-character-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/field-crawler-vehicle-sheet.md
+docs/comics/field-guide-apocryphal-fauna-flora/cover-direction-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-script.md
@@ -79,6 +82,17 @@ docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
+Observed Not Owned cover
+cover direction sheet
+The Tin Burrow at the Forest Edge
+Girasol Gold cover
+Acid Magenta variant
+Rust Red variant
+Lichen Green variant
+Manuscript Variant
+Ledger Falls Variant
+The Cave That Breathed Variant
+hidden antler cover
 Thor Fortner
 Thor character sheet
 Ledger Falls field-naturalist
@@ -148,6 +162,7 @@ Page 2 false field plate script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
+Cover direction sheet saved.
 Search index updated.
 ```
 
