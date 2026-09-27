@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Page 1 and Page 2 production locks  
+**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor Fortner character sheet  
 
 ---
 
@@ -32,18 +32,19 @@ Modern Ashcan Proof-of-Concept Development
 Ashcan Package Lock
 Page 1 Script + Art Direction Lock
 Page 2 False Field Plate Script + Art Direction Lock
+Thor Fortner Character Sheet
 ```
 
 The project is not yet in full script, thumbnail, or page-art production.
 
 The next recommended deliverables are:
 
-1. Thor Fortner character sheet
-2. Buckle character sheet
-3. Field crawler vehicle sheet
-4. Cover direction sheet
-5. Page 03 script and art direction
-6. Creature silhouette plate rough layout
+1. Buckle character sheet
+2. Field crawler vehicle sheet
+3. Cover direction sheet
+4. Page 03 script and art direction
+5. Creature silhouette plate rough layout
+6. Thor visual pose sheet
 
 ---
 
@@ -101,6 +102,7 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 | `creature-biome-roster.md` | The nine motif organisms, major biomes, and narrative functions |
 | `ashcan-art-direction-sheet.md` | Visual language, spot color system, ink rules, cover direction, page style |
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
+| `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
 | `page-01-script.md` | Page 1 comic script: Ledger Falls cold open and Thor's first field-note beat |
 | `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
 | `page-02-false-field-plate-script.md` | Page 2 comic script: false field plate and nine-organism roster |
@@ -145,6 +147,12 @@ Spot color system: A/B/C/D variants
 Primary interior spot color: Girasol Gold
 ```
 
+Thor Fortner production direction:
+
+```text
+Young Ledger Falls field-naturalist, machine-age explorer-romantic, dark flat cap / driving cap with early motoring goggles on top, weathered field jacket, scarf, boots, cross-body satchel, and beloved Kuker-Rankin hand level used as a sight glass.
+```
+
 Page 1 production direction:
 
 ```text
@@ -169,6 +177,15 @@ Useful names and search phrases:
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
 Thor Fortner
+Thor character sheet
+Ledger Falls field-naturalist
+Percy Fawcett influence
+machine-age explorer
+flat cap
+driving cap
+early motoring goggles
+Kuker-Rankin hand level
+hand level sight glass
 Buckle
 Pygmy Pale Burdenback
 Girasol
