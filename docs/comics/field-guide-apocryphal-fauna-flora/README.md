@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-8 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-9 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -36,17 +36,18 @@ Page 5 Script + Art Direction Lock
 Page 6 Script + Art Direction Lock
 Page 7 Script + Art Direction Lock
 Page 8 Script + Art Direction Lock
+Page 9 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
 Cover Direction Sheet
 ```
 
-The project is not yet in full script, thumbnail, or page-art production.
+The project is not yet in full thumbnail or page-art production.
 
 Recommended next deliverables:
 
-1. Page 09 script and art direction
+1. Page 10 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -98,6 +99,8 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `page-07-art-direction-lock.md` | Page 7 production-facing art direction lock for the field flag, copied note, and information-as-bait beat |
 | `page-08-script.md` | Page 8 comic script: `Growth Expected, No Returns`, first fringe stop and Buckle introduction |
 | `page-08-art-direction-lock.md` | Page 8 production-facing art direction lock for Low Water Feed + Field Supply and Buckle's sale-tag reveal |
+| `page-09-script.md` | Page 9 comic script: `Buckley Refuses the Air`, Buckle's first travel problem and Lung Lichen warning |
+| `page-09-art-direction-lock.md` | Page 9 production-facing art direction lock for Buckle, the low-water culvert, and Lichen Green warning beat |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -121,12 +124,6 @@ Buckle / Buckley is a pygmy Pale Burdenback sold as a future pack animal but kep
 
 ```text
 Mirecat Field Crawler "Mallow", nicknamed The Tin Burrow: a compact Tucker Sno-Cat-like tracked utility vehicle rebuilt from Ledger Falls timber-margin surplus, with a scarred front blade, rounded cab, rear hab module, stove pipe, roof rack, cramped field-lab interior, Buckle's nest by the stove, and enough patched machinery to feel like a rolling shelter, research den, and moral test in heavy black ink.
-```
-
-### Cover
-
-```text
-Observed, Not Owned cover: Thor, Buckle, and Mallow at the edge of a black Ledger Falls cloud forest, with hidden Girasol antlers suggested in the branches using restrained Girasol Gold spot color.
 ```
 
 ### Page 1
@@ -185,6 +182,13 @@ Growth Expected, No Returns
 Thor reaches a fringe feed-and-supply stop looking for practical expedition supplies and leaves with Buckle, an undergrown pale Pale Burdenback sold as future pack stock under a tag that reads GROWTH EXPECTED / NO RETURNS. The e-bike / Buzz-Mule is explicitly not purchased here.
 ```
 
+### Page 9
+
+```text
+Buckley Refuses the Air
+Buckle creates Thor's first practical travel problem by blocking Mallow's ramp and ruining the pack-stock fantasy, then detects bad air at a low-water culvert before Thor's instrument catches up.
+```
+
 ---
 
 ## Search Aliases
@@ -198,99 +202,45 @@ Buckley
 Mirecat
 Mallow
 The Tin Burrow
+Page 09
+Page 9
+Buckley Refuses the Air
+Buckle first travel problem
+Buckle blocks ramp
+Projected pack utility disputed
+Buckle chews tag
+Pale Burdenback warning instinct
+Buckle notices bad air
+Lung Lichen first warning
+Lichen Green page
+low-water culvert
+animal notices before instrument
+Buckle refuses route
 Page 08
 Page 8
 Growth Expected No Returns
 Buckle introduction
-Buckley introduction
-first Buckle page
 Pygmy Pale Burdenback sale
-Pale Burdenback juvenile
-pack stock growth expected
-no returns tag
 Low Water Feed and Field Supply
-fringe feed stop
-animal feed stop
-not here Low Road gets the machines
 Buckle not e-bike location
-Thor buys Buckle
-Projected pack utility delayed
-Temperament expensive
-White Elephant companion enters
 Page 07
 Page 7
 A Flag Is Also a Beacon
 field flag beacon
-first consequence
-careless documentation consequence
-Thor marker mistake
-Do Not Collect tag
-Observed Do Not Collect
-M17 + 1.7 Low Rut
-warning is still a sign
-signs are made to be followed
 copied field note
-black-glass orchid copied note
-someone reads Thor's field note
 Page 06
 Page 6
 The Road Takes Notes
 first road omen
-road omen
-Index Orchid roadside specimen
-black-glass orchid roadside
-Marker 17
-Low Water Takes What It Is Owed
-Mallow road omen
-field crawler road omen
-Thor documents the orchid
-first careless field note
-Observed not taken
-who else can read a field note
 Page 05
 Page 5
 The First Objective
-Index Orchid objective
-black-glass orchid clue
-Mallow departure
-Tin Burrow departure
-Thor leaves Ledger Falls
-Ledger Falls departure
-Mallow ignition
-Be ugly and brave
-first lie caption
-Mallow road scene
-field crawler departure
 Page 04
 Page 4
 The Book Blooms Back
-Index Orchid clue
-black-glass orchid
-first Index Orchid clue
-Kuker-Rankin sight glass
-hand level manuscript
-manuscript reaction
-Aeonolacertian manuscript reaction
-hidden manuscript lines
-Girasol Gold hidden lines
-First Objective Black-Glass Orchid
 Page 03
 Page 3
 Mallow Waits in the Rain
-Mallow reveal
-Tin Burrow reveal
-field crawler reveal
-mobile hab reveal
-ancient manuscript hook
-Aeonolacertian manuscript
-Girasol Gold glimmer
-Ledger Falls timber-margin yard
-Observed Not Owned cover
-The Tin Burrow at the Forest Edge
-Girasol Gold cover
-Acid Magenta variant
-Rust Red variant
-Lichen Green variant
 The Forest Becomes Cargo
 False Field Plate
 Apocryphal Plate I
@@ -298,6 +248,7 @@ Explorer comic
 Modern ashcan
 Heavy black inks
 Girasol Gold
+Lichen Green
 ```
 
 ---
