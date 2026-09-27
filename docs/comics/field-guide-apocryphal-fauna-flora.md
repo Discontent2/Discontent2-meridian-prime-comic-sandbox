@@ -22,12 +22,17 @@ Field crawler current vehicle lock: **Mirecat Field Crawler `Mallow`**, nickname
 
 Cover current direction lock: **The Tin Burrow at the Forest Edge**, with Thor, Buckle, and Mallow at the edge of a black Ledger Falls cloud forest, hidden Girasol antlers in the branches, and restrained Girasol Gold spot color.
 
-Pages 1-12 now have paired script and production-facing art-direction locks. The ashcan closes with **Observed, Not Owned**, where Thor redacts locations, accepts Buckle as companion rather than cargo, and stamps the guide:
+Creature silhouette plate rough layout: **Apocryphal Plate I**, a damaged 3x3 false field-guide grid for Index Orchid, Buckle / Pygmy Pale Burdenback, partial Girasol, Crimson Glass Salamander, Gift-Pod, Nightwake, Lung Lichen, Dwarf Craton Sauropod, and Snow-Dire Leafcat, ending with `OBSERVED. NOT OWNED. LOCATION WITHHELD.`
+
+The first production artifact is locked as:
 
 ```text
-OBSERVED.
-NOT OWNED.
-LOCATION WITHHELD.
+Observed, Not Owned
+A 12-page modern ashcan explorer comic
+Mostly black and white
+Heavy black inks
+Spot color system: A/B/C/D variants
+Primary interior spot color: Girasol Gold
 ```
 
 ---
@@ -58,6 +63,7 @@ docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-package-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/concept-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/creature-biome-roster.md
+docs/comics/field-guide-apocryphal-fauna-flora/creature-silhouette-plate-rough-layout.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-art-direction-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-12-page-beat-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/thor-fortner-character-sheet.md
@@ -99,50 +105,42 @@ docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
-Observed Not Owned final page
-Location Withheld ending
-Ashcan final page
+creature silhouette plate
+creature silhouette plate rough layout
+Apocryphal Plate I
+Observed Not Owned plate
+Page 2 plate layout
+false field plate layout
+Index Orchid silhouette
+Pygmy Pale Burdenback silhouette
+Buckle silhouette
+Girasol silhouette
+Crimson Glass Salamander silhouette
+Gift-Pod silhouette
+Nightwake silhouette
+Lung Lichen silhouette
+Dwarf Craton Sauropod silhouette
+Snow-Dire Leafcat silhouette
 Thor Fortner
 Buckle
 Buckley
-Buckle actual use friend
 Pygmy Pale Burdenback
 Mirecat
 Mallow
 The Tin Burrow
-Page 12
-Observed Not Owned page
-Thor redacts location
-Do Not Map The Bloom
-A guide is not a key
-Actual use friend
-Girasol hint ending
-final field guide stamp
-Page 11
-The Flag Found Someone
-missing black-glass orchid
-Location withheld setup
-Page 10
-Projected Pack Utility None
-Buckle hab chaos
-Page 09
-Buckley Refuses the Air
-Lung Lichen first warning
-Page 08
-Growth Expected No Returns
-Buckle introduction
-Page 07
-A Flag Is Also a Beacon
-Page 06
-The Road Takes Notes
-Page 05
-The First Objective
-Page 04
-The Book Blooms Back
-Page 03
-Mallow Waits in the Rain
-False Field Plate
+Pages 1-12
 The Forest Becomes Cargo
+False Field Plate
+Mallow Waits in the Rain
+The Book Blooms Back
+The First Objective
+The Road Takes Notes
+A Flag Is Also a Beacon
+Growth Expected No Returns
+Buckley Refuses the Air
+Projected Pack Utility None
+The Flag Found Someone
+Observed Not Owned final page
 Explorer comic
 Modern ashcan
 Heavy black inks
@@ -157,18 +155,8 @@ Rust Red
 
 ```text
 Ashcan package locked.
-Page 1 script and art-direction lock saved.
-Page 2 false field plate script and art-direction lock saved.
-Page 3 script and art-direction lock saved.
-Page 4 script and art-direction lock saved.
-Page 5 script and art-direction lock saved.
-Page 6 script and art-direction lock saved.
-Page 7 script and art-direction lock saved.
-Page 8 script and art-direction lock saved.
-Page 9 script and art-direction lock saved.
-Page 10 script and art-direction lock saved.
-Page 11 script and art-direction lock saved.
-Page 12 script and art-direction lock saved.
+Pages 1-12 script and art-direction locks saved.
+Creature silhouette plate rough layout saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
