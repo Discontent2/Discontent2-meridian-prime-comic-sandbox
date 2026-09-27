@@ -30,7 +30,7 @@ The Beast Ledger
 The Girasol Pages
 Apocryphal Plate I
 Creature Silhouette Plate
-Page 2 rough thumbnail grid
+Buckle Pose Expression Sheet
 ```
 
 ---
@@ -44,7 +44,8 @@ Page 2 rough thumbnail grid
 | `concept-lock.md` | Main synopsis and story spine | concept lock, Thor Fortner, Buckle, solo crawler, Girasol |
 | `creature-biome-roster.md` | Nine motif organisms and biomes | creature roster, Index Orchid, Gift-Pod, Nightwake, Lung Lichen, Buckle |
 | `creature-silhouette-plate-rough-layout.md` | Page 2 / Apocryphal Plate I rough silhouette layout | creature silhouette plate, Apocryphal Plate I, false field plate layout, 3x3 organism grid |
-| `page-02-rough-thumbnail-grid.md` | Artist-facing Page 2 rough thumbnail grid for Apocryphal Plate I | Page 2 rough thumbnail grid, False Field Plate thumbnail, 3 x 3 field plate, Girasol Gold spot color plate |
+| `page-02-rough-thumbnail-grid.md` | Rough thumbnail grid for Page 2 / Apocryphal Plate I | Page 2 rough thumbnail grid, false field plate thumbnail, 3x3 field plate |
+| `buckle-pose-expression-sheet.md` | Buckle / Buckley production pose and expression sheet | Buckle pose sheet, Buckle expression sheet, Pygmy Pale Burdenback acting reference |
 | `ashcan-art-direction-sheet.md` | Heavy black ink art direction | art direction, heavy black inks, Acid Magenta, Rust Red, Lichen Green, Girasol Gold |
 | `ashcan-12-page-beat-sheet.md` | Full 12-page ashcan beat structure | beat sheet, ashcan pages, page breakdown |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and arc | Thor character sheet, flat cap, motoring goggles, Kuker-Rankin hand level |
@@ -80,20 +81,54 @@ Page 2 rough thumbnail grid
 
 ---
 
+## Buckle Pose / Expression Search Terms
+
+```text
+Buckle pose expression sheet
+Buckle pose sheet
+Buckle expression sheet
+Buckley pose sheet
+Pygmy Pale Burdenback pose sheet
+Buckle acting reference
+little wetland tank with feelings
+Buckle neutral standing
+Buckle curious sniff
+Buckle refusal pose
+Buckle braced stubbornness
+Buckle environmental warning pose
+Buckle alarm pose
+Buckle signal animal posture
+Buckle startled pivot
+Buckle food crime
+Buckle chewing contraband
+Buckle sleep curl
+Buckle stove nest
+Buckle comfort lean
+Buckle leaning on Thor
+Buckle doorway block
+Buckle pack animal failure pose
+Buckle innocent guilt
+Buckle mild judgment
+Projected pack utility none
+Actual use friend
+failed pack animal
+White Elephant companion
+```
+
+---
+
 ## Creature Silhouette Plate Search Terms
 
 ```text
 creature silhouette plate
 creature silhouette plate rough layout
-Page 02 rough thumbnail grid
-Page 2 rough thumbnail grid
-Apocryphal Plate I rough layout
-False Field Plate thumbnail
+Apocryphal Plate I
 Observed Not Owned plate
 Page 2 plate layout
+Page 2 rough thumbnail grid
 false field plate layout
+false field plate thumbnail
 3x3 organism grid
-3 x 3 field plate
 damaged field-guide plate
 redacted coordinates
 location withheld stamp
@@ -119,11 +154,8 @@ Girasol Gold plate
 Page 01
 The Forest Becomes Cargo
 Page 02
-Page 2
 False Field Plate
 Apocryphal Plate I
-Page 2 rough thumbnail grid
-Page 02 rough thumbnail grid
 Page 03
 Mallow Waits in the Rain
 Page 04
@@ -218,6 +250,7 @@ Ashcan package locked.
 Pages 1-12 script and art-direction locks saved.
 Creature silhouette plate rough layout saved.
 Page 2 rough thumbnail grid saved.
+Buckle pose / expression sheet saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -227,11 +260,9 @@ Cover direction sheet saved.
 Recommended next deliverables:
 
 1. Creature silhouette drawing sheet
-2. Buckle pose / expression sheet
-3. Thor visual pose sheet
-4. Field crawler cutaway / design sheet
-5. Cover thumbnail roughs
-6. Full ashcan production packet / print assembly checklist
+2. Thor visual pose sheet
+3. Field crawler cutaway / design sheet
+4. Full ashcan production packet / print assembly checklist
 
 ---
 
