@@ -64,6 +64,8 @@ The Girasol Pages
 | `page-08-art-direction-lock.md` | Page 8 production-facing visual lock | Page 8 art direction, Low Water Feed and Field Supply, Buckle sale-tag reveal, no returns tag |
 | `page-09-script.md` | Page 9 comic script, Buckle's first travel problem and Lung Lichen warning | Page 9, Page 09, Buckley Refuses the Air, Buckle blocks ramp, Lung Lichen first warning |
 | `page-09-art-direction-lock.md` | Page 9 production-facing visual lock | Page 9 art direction, Lichen Green page, low-water culvert, animal notices before instrument |
+| `page-10-script.md` | Page 10 comic script, Buckle hab chaos and field-note revision | Page 10, Page 10 script, Projected Pack Utility None, Buckle hab chaos, Thor revises Buckle note |
+| `page-10-art-direction-lock.md` | Page 10 production-facing visual lock | Page 10 art direction, Buckle sleeps by stove, Lung Lichen tin glow, Lichen Green hab interior |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -196,6 +198,22 @@ Lichen Green page
 low-water culvert
 animal notices before instrument
 Buckle refuses route
+Page 10
+Page 10 script
+Projected Pack Utility None
+Buckle hab chaos
+Buckle inside Mallow
+Buckle sleeps by stove
+Buckle chews sale tag
+GROWTH EXPECTED NO RETURNS
+Projected pack utility none
+Environmental warning behavior possible
+Lung Lichen tin glow
+Lichen Green hab interior
+Thor revises Buckle note
+Useful had begun to fail me
+Fine you're coming anyway
+Individual name Buckle
 ```
 
 ---
@@ -224,6 +242,8 @@ Buckle introduction
 Buckle first travel problem
 Buckle blocks ramp
 Buckle chews tag
+Buckle sleeps by stove
+Buckle hab chaos
 Buckle notices bad air
 Buckle character sheet
 Buckley character sheet
@@ -237,6 +257,8 @@ undergrown pack animal
 future pack animal
 pack stock growth expected
 no returns tag
+Projected pack utility none
+Environmental warning behavior possible
 pygmy hippo tapir rhino
 hippo rhino tapir creature
 compact wetland tank
@@ -286,6 +308,7 @@ Buckle zone
 Buckle inside Mallow
 Buckle in rear hab
 Buckle blocks ramp
+Buckle sleeps by stove
 Buzz-Mule dock
 e-bike rack
 Mallow field crawler
@@ -299,36 +322,7 @@ crawler moral test
 Mallow road omen
 field crawler road omen
 low-water culvert
-```
-
----
-
-## Cover Search Terms
-
-```text
-cover direction sheet
-Observed Not Owned cover
-Field Guide cover
-The Tin Burrow at the Forest Edge
-main cover concept
-Girasol Gold cover
-Acid Magenta variant
-Rust Red variant
-Lichen Green variant
-Girasol Gold variant
-Manuscript Variant
-Ledger Falls Variant
-The Cave That Breathed Variant
-Mallow cover
-Buckle cover
-Thor cover
-hidden antler cover
-field guide back cover
-ashcan cover direction
-variant cover system
-back cover copy
-inside front cover inventory
-inside back cover checklist
+cramped hab interior
 ```
 
 ---
@@ -348,7 +342,9 @@ Buckle
 Buckley
 Lung Lichen
 Lung Lichen first warning
+Lung Lichen tin glow
 Lichen Green page
+Lichen Green hab interior
 animal notices before instrument
 Girasol
 Crimson Glass Salamander
@@ -382,23 +378,6 @@ Low Road gets the machines
 not here Low Road gets the machines
 low-water culvert
 roadside culvert
-```
-
----
-
-## Biome Search Terms
-
-```text
-Ledger Falls Cloud Forest
-Hydroglass Mangroves
-Crystal Caves outside the Craton
-Red Glass Sink Gardens
-Deep Craton Swamp Bowels
-Tropical Crystal Fjords
-Sky Islands
-Salt-Crust Floating Reefs
-Steam Canopy Vents
-Old Infrastructure Groves
 ```
 
 ---
@@ -457,6 +436,10 @@ Buckle chews tag visual
 Lung Lichen first warning art
 Lichen Green spot color
 animal notices before instrument visual
+Buckle hab chaos art
+Buckle sleeps by stove visual
+Projected pack utility none visual
+Individual name Buckle visual
 ```
 
 ---
@@ -474,6 +457,7 @@ Page 6 script and art-direction lock saved.
 Page 7 script and art-direction lock saved.
 Page 8 script and art-direction lock saved.
 Page 9 script and art-direction lock saved.
+Page 10 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -482,7 +466,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 10 script and art direction
+1. Page 11 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
