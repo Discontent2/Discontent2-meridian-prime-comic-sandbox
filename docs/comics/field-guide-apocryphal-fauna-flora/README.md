@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-12 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-12 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet / Creature silhouette plate rough layout  
 
 ---
 
@@ -28,33 +28,23 @@ It is about Meridian Prime teaching Thor how not to become another kind of preda
 ```text
 Modern Ashcan Proof-of-Concept Development
 Ashcan Package Lock
-Page 1 Script + Art Direction Lock
-Page 2 False Field Plate Script + Art Direction Lock
-Page 3 Script + Art Direction Lock
-Page 4 Script + Art Direction Lock
-Page 5 Script + Art Direction Lock
-Page 6 Script + Art Direction Lock
-Page 7 Script + Art Direction Lock
-Page 8 Script + Art Direction Lock
-Page 9 Script + Art Direction Lock
-Page 10 Script + Art Direction Lock
-Page 11 Script + Art Direction Lock
-Page 12 Script + Art Direction Lock
+Pages 1-12 Script + Art Direction Locks
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
 Cover Direction Sheet
+Creature Silhouette Plate Rough Layout
 ```
 
-The 12-page ashcan script and production art-direction lock are now complete. The project is not yet in thumbnail or final page-art production.
+The 12-page ashcan script and production art-direction lock are complete. The project is not yet in thumbnail or final page-art production.
 
 Recommended next deliverables:
 
-1. Creature silhouette plate rough layout
-2. Thor visual pose sheet
-3. Buckle pose / expression sheet
-4. Field crawler cutaway / design sheet
-5. Cover thumbnail roughs
+1. Page 2 rough thumbnail grid
+2. Creature silhouette drawing sheet
+3. Thor visual pose sheet
+4. Buckle pose / expression sheet
+5. Field crawler cutaway / design sheet
 6. Full ashcan production packet / print assembly checklist
 
 ---
@@ -80,36 +70,37 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `ashcan-package-lock.md` | Locks ashcan format, title, visual approach, spot-color system, and production package target |
 | `concept-lock.md` | Main concept, protagonist, vehicle, emotional spine, synopsis, and hero's journey shape |
 | `creature-biome-roster.md` | Nine motif organisms, major biomes, and narrative functions |
+| `creature-silhouette-plate-rough-layout.md` | Production rough layout for Apocryphal Plate I / Page 2 creature silhouette grid |
 | `ashcan-art-direction-sheet.md` | Visual language, spot color system, ink rules, cover direction, page style |
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
 | `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock |
 | `field-crawler-vehicle-sheet.md` | Mirecat Field Crawler `Mallow` / The Tin Burrow vehicle, hab, lab, and story-function lock |
 | `cover-direction-sheet.md` | Main cover, back cover, variant cover system, typography, print texture, and cover prompt |
-| `page-01-script.md` | Page 1 comic script: Ledger Falls cold open and Thor's first field-note beat |
+| `page-01-script.md` | Page 1 comic script: `The Forest Becomes Cargo` |
 | `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
 | `page-02-false-field-plate-script.md` | Page 2 comic script: false field plate and nine-organism roster |
 | `page-02-false-field-plate-art-direction-lock.md` | Page 2 production-facing art direction lock |
-| `page-03-script.md` | Page 3 comic script: `Mallow Waits in the Rain`, crawler reveal and manuscript hook |
+| `page-03-script.md` | Page 3 comic script: `Mallow Waits in the Rain` |
 | `page-03-art-direction-lock.md` | Page 3 production-facing art direction lock |
-| `page-04-script.md` | Page 4 comic script: `The Book Blooms Back`, first Index Orchid clue and manuscript reaction |
+| `page-04-script.md` | Page 4 comic script: `The Book Blooms Back` |
 | `page-04-art-direction-lock.md` | Page 4 production-facing art direction lock |
-| `page-05-script.md` | Page 5 comic script: `The First Objective`, Index Orchid objective and Ledger Falls departure |
+| `page-05-script.md` | Page 5 comic script: `The First Objective` |
 | `page-05-art-direction-lock.md` | Page 5 production-facing art direction lock |
-| `page-06-script.md` | Page 6 comic script: `The Road Takes Notes`, first road omen and roadside Index Orchid specimen |
+| `page-06-script.md` | Page 6 comic script: `The Road Takes Notes` |
 | `page-06-art-direction-lock.md` | Page 6 production-facing art direction lock |
-| `page-07-script.md` | Page 7 comic script: `A Flag Is Also a Beacon`, first consequence of Thor's careless documentation |
+| `page-07-script.md` | Page 7 comic script: `A Flag Is Also a Beacon` |
 | `page-07-art-direction-lock.md` | Page 7 production-facing art direction lock |
-| `page-08-script.md` | Page 8 comic script: `Growth Expected, No Returns`, first fringe stop and Buckle introduction |
+| `page-08-script.md` | Page 8 comic script: `Growth Expected, No Returns` |
 | `page-08-art-direction-lock.md` | Page 8 production-facing art direction lock |
-| `page-09-script.md` | Page 9 comic script: `Buckley Refuses the Air`, Buckle's first travel problem and Lung Lichen warning |
+| `page-09-script.md` | Page 9 comic script: `Buckley Refuses the Air` |
 | `page-09-art-direction-lock.md` | Page 9 production-facing art direction lock |
-| `page-10-script.md` | Page 10 comic script: `Projected Pack Utility: None`, Buckle hab chaos and Thor's revised field note |
+| `page-10-script.md` | Page 10 comic script: `Projected Pack Utility: None` |
 | `page-10-art-direction-lock.md` | Page 10 production-facing art direction lock |
-| `page-11-script.md` | Page 11 comic script: `The Flag Found Someone`, missing orchid consequence and Thor's first moral correction |
+| `page-11-script.md` | Page 11 comic script: `The Flag Found Someone` |
 | `page-11-art-direction-lock.md` | Page 11 production-facing art direction lock |
-| `page-12-script.md` | Page 12 comic script: `Observed, Not Owned`, location redaction, Buckle acceptance, and final stamp |
-| `page-12-art-direction-lock.md` | Page 12 production-facing art direction lock for the final ashcan page |
+| `page-12-script.md` | Page 12 comic script: `Observed, Not Owned` |
+| `page-12-art-direction-lock.md` | Page 12 production-facing art direction lock |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -133,6 +124,12 @@ Buckle / Buckley is a pygmy Pale Burdenback sold as a future pack animal but kep
 
 ```text
 Mirecat Field Crawler "Mallow", nicknamed The Tin Burrow: a compact Tucker Sno-Cat-like tracked utility vehicle rebuilt from Ledger Falls timber-margin surplus, with a scarred front blade, rounded cab, rear hab module, stove pipe, roof rack, cramped field-lab interior, Buckle's nest by the stove, and enough patched machinery to feel like a rolling shelter, research den, and moral test in heavy black ink.
+```
+
+### Apocryphal Plate I
+
+```text
+Creature silhouette plate rough layout: a damaged 3x3 false field-guide plate for Index Orchid, Buckle / Pygmy Pale Burdenback, partial Girasol, Crimson Glass Salamander, Gift-Pod, Nightwake, Lung Lichen, Dwarf Craton Sauropod, and Snow-Dire Leafcat, ending with OBSERVED. NOT OWNED. LOCATION WITHHELD.
 ```
 
 ---
@@ -161,51 +158,41 @@ Mirecat Field Crawler "Mallow", nicknamed The Tin Burrow: a compact Tucker Sno-C
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
-Observed Not Owned final page
-Location Withheld ending
-Ashcan final page
+creature silhouette plate
+creature silhouette plate rough layout
+Apocryphal Plate I
+Observed Not Owned plate
+Page 2 plate layout
+false field plate layout
+Index Orchid silhouette
+Pygmy Pale Burdenback silhouette
+Buckle silhouette
+Girasol silhouette
+Crimson Glass Salamander silhouette
+Gift-Pod silhouette
+Nightwake silhouette
+Lung Lichen silhouette
+Dwarf Craton Sauropod silhouette
+Snow-Dire Leafcat silhouette
 Thor Fortner
 Buckle
 Buckley
-Pygmy Pale Burdenback
 Mirecat
 Mallow
 The Tin Burrow
-Page 12
-Page 12 script
-Observed Not Owned page
-Thor redacts location
-Do Not Map The Bloom
-A guide is not a key
-Actual use friend
-Buckle actual use friend
-Girasol hint ending
-final field guide stamp
-Page 11
-The Flag Found Someone
-missing black-glass orchid
-Location withheld setup
-Page 10
-Projected Pack Utility None
-Buckle hab chaos
-Page 09
-Buckley Refuses the Air
-Lung Lichen first warning
-Page 08
-Growth Expected No Returns
-Buckle introduction
-Page 07
-A Flag Is Also a Beacon
-Page 06
-The Road Takes Notes
-Page 05
-The First Objective
-Page 04
-The Book Blooms Back
-Page 03
-Mallow Waits in the Rain
-False Field Plate
+Pages 1-12
 The Forest Becomes Cargo
+False Field Plate
+Mallow Waits in the Rain
+The Book Blooms Back
+The First Objective
+The Road Takes Notes
+A Flag Is Also a Beacon
+Growth Expected No Returns
+Buckley Refuses the Air
+Projected Pack Utility None
+The Flag Found Someone
+Observed Not Owned final page
 Explorer comic
 Modern ashcan
 Heavy black inks
