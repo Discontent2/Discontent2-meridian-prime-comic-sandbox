@@ -38,6 +38,7 @@ The Girasol Pages
 | `creature-biome-roster.md` | Nine motif-organisms, symbolic roles, biomes, creature functions | creature roster, Index Orchid, Gift-Pod, Nightwake, Lung Lichen |
 | `ashcan-art-direction-sheet.md` | Heavy black ink art direction, color system, cover direction, reference-feel translation | art direction, heavy black inks, Acid Magenta, Rust Red, Lichen Green, Girasol Gold |
 | `ashcan-12-page-beat-sheet.md` | Full 12-page ashcan beat structure | beat sheet, ashcan pages, page breakdown |
+| `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock | Thor character sheet, flat cap, motoring goggles, Kuker-Rankin hand level |
 | `page-01-script.md` | Page 1 comic script, Ledger Falls cold open | Page 1, The Forest Becomes Cargo, Ledger Falls |
 | `page-01-art-direction-lock.md` | Page 1 production-facing visual lock | Page 1 art direction, permit-stamp machine, hidden antler fog |
 | `page-02-false-field-plate-script.md` | Page 2 false field plate script, nine-organism visual roster | Page 2, False Field Plate, Apocryphal Plate I |
@@ -51,13 +52,26 @@ The Girasol Pages
 
 ```text
 Thor Fortner
+Thor character sheet
 Ledger Falls field-naturalist
+Percy Fawcett influence
+machine-age explorer
+explorer-romantic
+flat cap
+driving cap
+dark flat cap
+early motoring goggles
+motoring goggles on cap
+Kuker-Rankin hand level
+hand level sight glass
+field-naturalist costume
 Buckle
 Pygmy Pale Burdenback
 The Tin Burrow
 Mallow
 Thor's crawler
 solo field crawler
+Ledger Falls supply counter
 ```
 
 ---
@@ -120,6 +134,9 @@ false field plate
 field-guide annotations
 gothic explorer pulp
 black ink silhouette
+flat cap silhouette
+motoring goggles silhouette
+hand level prop
 ```
 
 ---
@@ -132,16 +149,17 @@ Current production milestone:
 Ashcan package locked.
 Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
+Thor Fortner character sheet saved.
 ```
 
 Recommended next deliverables:
 
-1. Thor Fortner character sheet
-2. Buckle character sheet
-3. Field crawler vehicle sheet
-4. Cover direction sheet
-5. Page 03 script and art direction
-6. Creature silhouette plate rough layout
+1. Buckle character sheet
+2. Field crawler vehicle sheet
+3. Cover direction sheet
+4. Page 03 script and art direction
+5. Creature silhouette plate rough layout
+6. Thor visual pose sheet
 
 ---
 
