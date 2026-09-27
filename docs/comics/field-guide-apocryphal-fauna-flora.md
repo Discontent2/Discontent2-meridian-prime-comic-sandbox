@@ -32,6 +32,8 @@ Page 6 current direction lock: **The Road Takes Notes**, with Mallow stopping in
 
 Page 7 current direction lock: **A Flag Is Also a Beacon**, with Thor leaving a protective field flag beside the roadside black-glass orchid, accidentally making the hidden organism easier to find as an unseen hand copies his careful note into a more dangerous ledger.
 
+Page 8 current direction lock: **Growth Expected, No Returns**, with Thor reaching a fringe feed-and-supply stop looking for practical expedition supplies and leaving with Buckle, an undergrown pale Pale Burdenback sold as future pack stock under a tag that reads GROWTH EXPECTED / NO RETURNS.
+
 The first production artifact is locked as:
 
 ```text
@@ -91,6 +93,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-06-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-06-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-07-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-07-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-08-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-08-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -126,11 +130,16 @@ hand level sight glass
 Buckle
 Buckley
 Buckle character sheet
+Buckle introduction
+first Buckle page
 Pygmy Pale Burdenback
 Pale Burdenback
+Pale Burdenback juvenile
 White Elephant creature
 failed pack animal
 undergrown pack animal
+pack stock growth expected
+no returns tag
 pygmy hippo tapir rhino
 hippo rhino tapir creature
 compact wetland tank
@@ -152,6 +161,18 @@ mobile hab
 Thor mobile lab
 Ledger Falls timber-margin utility cat
 Buzz-Mule dock
+Page 08
+Page 8
+Growth Expected No Returns
+Low Water Feed and Field Supply
+fringe feed stop
+animal feed stop
+not here Low Road gets the machines
+Buckle not e-bike location
+Thor buys Buckle
+Projected pack utility delayed
+Temperament expensive
+White Elephant companion enters
 Page 07
 Page 7
 A Flag Is Also a Beacon
@@ -253,6 +274,7 @@ Page 4 script and art-direction lock saved.
 Page 5 script and art-direction lock saved.
 Page 6 script and art-direction lock saved.
 Page 7 script and art-direction lock saved.
+Page 8 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
