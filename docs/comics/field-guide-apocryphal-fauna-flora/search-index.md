@@ -18,6 +18,9 @@ Observed, Not Owned
 Thor Fortner
 Buckle
 Buckley
+Mirecat
+Mallow
+The Tin Burrow
 Field Guide ashcan
 Explorer comic
 Modern ashcan
@@ -34,7 +37,7 @@ The Girasol Pages
 
 | File | Purpose | Search Terms |
 |---|---|---|
-| `README.md` | Project landing page, current stage, file index, search aliases | README, Field Guide, Observed Not Owned, Thor Fortner, Buckle |
+| `README.md` | Project landing page, current stage, file index, search aliases | README, Field Guide, Observed Not Owned, Thor Fortner, Buckle, Mirecat |
 | `ashcan-package-lock.md` | Official ashcan package lock: 12 pages, black and white, heavy black inks, A/B/C/D spot color system | package lock, 12-page ashcan, Girasol Gold, spot color |
 | `concept-lock.md` | Main synopsis, Thor Fortner, vehicle, manuscript, Buckle, Girasol, hero's journey, 12 percent Traverse rule | concept lock, Thor Fortner, Buckle, solo crawler, Girasol |
 | `creature-biome-roster.md` | Nine motif-organisms, symbolic roles, biomes, creature functions | creature roster, Index Orchid, Gift-Pod, Nightwake, Lung Lichen, Buckle |
@@ -42,6 +45,7 @@ The Girasol Pages
 | `ashcan-12-page-beat-sheet.md` | Full 12-page ashcan beat structure | beat sheet, ashcan pages, page breakdown |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock | Thor character sheet, flat cap, motoring goggles, Kuker-Rankin hand level |
 | `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock | Buckle character sheet, Buckley, Pygmy Pale Burdenback, failed pack animal |
+| `field-crawler-vehicle-sheet.md` | Mirecat Field Crawler `Mallow` / The Tin Burrow vehicle, hab, lab, Buckle zone, e-bike dock, and story-function lock | field crawler vehicle sheet, Mirecat, Mallow, Tin Burrow, Tucker Sno-Cat inspired vehicle |
 | `page-01-script.md` | Page 1 comic script, Ledger Falls cold open | Page 1, The Forest Becomes Cargo, Ledger Falls |
 | `page-01-art-direction-lock.md` | Page 1 production-facing visual lock | Page 1 art direction, permit-stamp machine, hidden antler fog |
 | `page-02-false-field-plate-script.md` | Page 2 false field plate script, nine-organism visual roster | Page 2, False Field Plate, Apocryphal Plate I |
@@ -86,11 +90,54 @@ compact wetland tank
 environmental warning animal
 Buckle and e-bike
 Buzz-Mule setup
-The Tin Burrow
+Mirecat
 Mallow
+The Tin Burrow
+Tin Burrow
 Thor's crawler
+Thor vehicle
+Thor mobile lab
 solo field crawler
 Ledger Falls supply counter
+```
+
+---
+
+## Vehicle Search Terms
+
+```text
+field crawler
+field crawler vehicle sheet
+Mirecat
+Mirecat Field Crawler
+Mallow
+The Tin Burrow
+Tin Burrow
+Thor vehicle
+Thor crawler
+Thor's crawler
+tracked field crawler
+Tucker Sno-Cat inspired vehicle
+snow-cat inspired crawler
+front blade crawler
+rear hab module
+mobile hab
+Thor mobile lab
+Ledger Falls crawler
+Ledger Falls timber-margin utility cat
+repurposed logging vehicle
+Buckle nest
+Buckle zone
+Buzz-Mule dock
+e-bike rack
+Mallow field crawler
+rolling shelter
+field lab crawler
+hab module crawler
+stove pipe crawler
+roof rack crawler
+crawler cutaway
+crawler moral test
 ```
 
 ---
@@ -164,6 +211,12 @@ pygmy hippo body
 tapir snout
 rhino calf stance
 undergrown burden ridge
+crawler silhouette
+front blade silhouette
+rear hab silhouette
+tracked vehicle silhouette
+Buckle in rear door
+black ink crawler
 ```
 
 ---
@@ -178,16 +231,17 @@ Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
+Field crawler vehicle sheet saved.
 ```
 
 Recommended next deliverables:
 
-1. Field crawler vehicle sheet
-2. Cover direction sheet
-3. Page 03 script and art direction
-4. Creature silhouette plate rough layout
-5. Thor visual pose sheet
-6. Buckle pose / expression sheet
+1. Cover direction sheet
+2. Page 03 script and art direction
+3. Creature silhouette plate rough layout
+4. Thor visual pose sheet
+5. Buckle pose / expression sheet
+6. Field crawler cutaway / design sheet
 
 ---
 
