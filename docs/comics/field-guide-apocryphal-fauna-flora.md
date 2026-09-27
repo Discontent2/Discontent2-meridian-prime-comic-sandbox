@@ -22,33 +22,12 @@ Field crawler current vehicle lock: **Mirecat Field Crawler `Mallow`**, nickname
 
 Cover current direction lock: **The Tin Burrow at the Forest Edge**, with Thor, Buckle, and Mallow at the edge of a black Ledger Falls cloud forest, hidden Girasol antlers in the branches, and restrained Girasol Gold spot color.
 
-Page 3 current direction lock: **Mallow Waits in the Rain**, with Thor returning to Mallow in a rainy Ledger Falls timber-margin yard, revealing the mobile hab interior, and unwrapping the ancient Aeonolacertian manuscript as a faint Girasol Gold thread appears between the pages.
-
-Page 4 current direction lock: **The Book Blooms Back**, with Thor using the Kuker-Rankin hand level as a sight glass over the manuscript, causing hidden Girasol Gold lines to bloom around a partial black-glass orchid drawing and revealing the first Index Orchid clue without decoding the book.
-
-Page 5 current direction lock: **The First Objective**, with Thor turning the manuscript's black-glass orchid clue into a field objective, loading Mallow in the rain, starting the crawler, and leaving Ledger Falls believing he is only chasing a plant.
-
-Page 6 current direction lock: **The Road Takes Notes**, with Mallow stopping inches before crushing a tiny black-glass orchid in a muddy roadside rut while Thor documents the location too carefully and the road behind him begins to resemble a living map taking notes back.
-
-Page 7 current direction lock: **A Flag Is Also a Beacon**, with Thor leaving a protective field flag beside the roadside black-glass orchid, accidentally making the hidden organism easier to find as an unseen hand copies his careful note into a more dangerous ledger.
-
-Page 8 current direction lock: **Growth Expected, No Returns**, with Thor reaching a fringe feed-and-supply stop looking for practical expedition supplies and leaving with Buckle, an undergrown pale Pale Burdenback sold as future pack stock under a tag that reads GROWTH EXPECTED / NO RETURNS.
-
-Page 9 current direction lock: **Buckley Refuses the Air**, with Buckle creating Thor's first practical travel problem by blocking Mallow's ramp and ruining the pack-stock fantasy, then detecting bad air at a low-water culvert before Thor's instrument catches up.
-
-Page 10 current direction lock: **Projected Pack Utility: None**, with Buckle turning Mallow's rear hab into domestic chaos while a Lung Lichen tin glows faintly green, forcing Thor to revise Buckle from failed pack utility to possible environmental warning animal.
-
-Page 11 current direction lock: **The Flag Found Someone**, with Thor returning to the roadside orchid site and finding the black-glass orchid gone, his protective field flag bent into a beacon, and his own location note copied onto a more dangerous scrap before he redacts the site from his field guide.
-
-The first production artifact is locked as:
+Pages 1-12 now have paired script and production-facing art-direction locks. The ashcan closes with **Observed, Not Owned**, where Thor redacts locations, accepts Buckle as companion rather than cargo, and stamps the guide:
 
 ```text
-Observed, Not Owned
-A 12-page modern ashcan explorer comic
-Mostly black and white
-Heavy black inks
-Spot color system: A/B/C/D variants
-Primary interior spot color: Girasol Gold
+OBSERVED.
+NOT OWNED.
+LOCATION WITHHELD.
 ```
 
 ---
@@ -107,6 +86,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-10-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-10-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-11-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-11-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-12-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-12-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -118,36 +99,38 @@ docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
+Observed Not Owned final page
+Location Withheld ending
+Ashcan final page
 Thor Fortner
 Buckle
 Buckley
+Buckle actual use friend
 Pygmy Pale Burdenback
 Mirecat
 Mallow
 The Tin Burrow
+Page 12
+Observed Not Owned page
+Thor redacts location
+Do Not Map The Bloom
+A guide is not a key
+Actual use friend
+Girasol hint ending
+final field guide stamp
 Page 11
 The Flag Found Someone
 missing black-glass orchid
-Index Orchid gone
-field flag consequence
-protective marker becomes beacon
-copied field note consequence
 Location withheld setup
-first moral correction
-field note redaction
 Page 10
 Projected Pack Utility None
 Buckle hab chaos
-Buckle sleeps by stove
-Lung Lichen tin glow
 Page 09
 Buckley Refuses the Air
-Buckle first travel problem
 Lung Lichen first warning
 Page 08
 Growth Expected No Returns
 Buckle introduction
-Low Water Feed and Field Supply
 Page 07
 A Flag Is Also a Beacon
 Page 06
@@ -185,6 +168,7 @@ Page 8 script and art-direction lock saved.
 Page 9 script and art-direction lock saved.
 Page 10 script and art-direction lock saved.
 Page 11 script and art-direction lock saved.
+Page 12 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
