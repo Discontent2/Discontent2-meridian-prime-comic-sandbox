@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor + Buckle character sheets  
+**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor + Buckle + field crawler sheets  
 
 ---
 
@@ -34,18 +34,19 @@ Page 1 Script + Art Direction Lock
 Page 2 False Field Plate Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
+Field Crawler Vehicle Sheet
 ```
 
 The project is not yet in full script, thumbnail, or page-art production.
 
 The next recommended deliverables are:
 
-1. Field crawler vehicle sheet
-2. Cover direction sheet
-3. Page 03 script and art direction
-4. Creature silhouette plate rough layout
-5. Thor visual pose sheet
-6. Buckle pose / expression sheet
+1. Cover direction sheet
+2. Page 03 script and art direction
+3. Creature silhouette plate rough layout
+4. Thor visual pose sheet
+5. Buckle pose / expression sheet
+6. Field crawler cutaway / design sheet
 
 ---
 
@@ -105,6 +106,7 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
 | `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock |
+| `field-crawler-vehicle-sheet.md` | Mirecat Field Crawler `Mallow` / The Tin Burrow vehicle, hab, lab, and story-function lock |
 | `page-01-script.md` | Page 1 comic script: Ledger Falls cold open and Thor's first field-note beat |
 | `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
 | `page-02-false-field-plate-script.md` | Page 2 comic script: false field plate and nine-organism roster |
@@ -161,6 +163,12 @@ Buckle production direction:
 Buckle / Buckley is a pygmy Pale Burdenback sold as a future pack animal but kept as a pet after he never grows into working stock: a small pale hippo-rhino-tapir-like wetland creature with a barrel body, flexible snout, thick hide, underdeveloped burden ridge, and environmental warning instincts.
 ```
 
+Field crawler production direction:
+
+```text
+Mirecat Field Crawler "Mallow", nicknamed The Tin Burrow: a compact Tucker Sno-Cat-like tracked utility vehicle rebuilt from Ledger Falls timber-margin surplus, with a scarred front blade, rounded cab, rear hab module, stove pipe, roof rack, cramped field-lab interior, Buckle's nest by the stove, and enough patched machinery to feel like a rolling shelter, research den, and moral test in heavy black ink.
+```
+
 Page 1 production direction:
 
 ```text
@@ -208,6 +216,22 @@ compact wetland tank
 Thor's pet
 environmental warning animal
 Buckle and e-bike
+field crawler
+field crawler vehicle sheet
+Mirecat
+Mirecat Field Crawler
+Mallow
+The Tin Burrow
+Tin Burrow
+Thor vehicle
+Thor crawler
+Tucker Sno-Cat inspired vehicle
+front blade crawler
+rear hab module
+mobile hab
+Thor mobile lab
+Ledger Falls timber-margin utility cat
+Buzz-Mule dock
 Girasol
 Index Orchid
 Gift-Pod
