@@ -30,6 +30,8 @@ Page 5 current direction lock: **The First Objective**, with Thor turning the ma
 
 Page 6 current direction lock: **The Road Takes Notes**, with Mallow stopping inches before crushing a tiny black-glass orchid in a muddy roadside rut while Thor documents the location too carefully and the road behind him begins to resemble a living map taking notes back.
 
+Page 7 current direction lock: **A Flag Is Also a Beacon**, with Thor leaving a protective field flag beside the roadside black-glass orchid, accidentally making the hidden organism easier to find as an unseen hand copies his careful note into a more dangerous ledger.
+
 The first production artifact is locked as:
 
 ```text
@@ -87,6 +89,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-05-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-05-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-06-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-06-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-07-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-07-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -148,6 +152,23 @@ mobile hab
 Thor mobile lab
 Ledger Falls timber-margin utility cat
 Buzz-Mule dock
+Page 07
+Page 7
+A Flag Is Also a Beacon
+field flag beacon
+first consequence
+careless documentation consequence
+Thor marker mistake
+Do Not Collect tag
+Observed Do Not Collect
+M17 + 1.7 Low Rut
+warning is still a sign
+signs are made to be followed
+copied field note
+black-glass orchid copied note
+someone reads Thor's field note
+anonymous gloved hand
+field note becomes bait
 Page 06
 Page 6
 The Road Takes Notes
@@ -231,6 +252,7 @@ Page 3 script and art-direction lock saved.
 Page 4 script and art-direction lock saved.
 Page 5 script and art-direction lock saved.
 Page 6 script and art-direction lock saved.
+Page 7 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
