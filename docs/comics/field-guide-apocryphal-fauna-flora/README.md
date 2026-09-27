@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-5 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-6 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -33,6 +33,7 @@ Page 2 False Field Plate Script + Art Direction Lock
 Page 3 Script + Art Direction Lock
 Page 4 Script + Art Direction Lock
 Page 5 Script + Art Direction Lock
+Page 6 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -43,7 +44,7 @@ The project is not yet in full script, thumbnail, or page-art production.
 
 Recommended next deliverables:
 
-1. Page 06 script and art direction
+1. Page 07 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -89,6 +90,8 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `page-04-art-direction-lock.md` | Page 4 production-facing art direction lock for the manuscript, hand level, and hidden Index Orchid clue |
 | `page-05-script.md` | Page 5 comic script: `The First Objective`, Index Orchid objective and Ledger Falls departure |
 | `page-05-art-direction-lock.md` | Page 5 production-facing art direction lock for Mallow prep, ignition, and departure |
+| `page-06-script.md` | Page 6 comic script: `The Road Takes Notes`, first road omen and roadside Index Orchid specimen |
+| `page-06-art-direction-lock.md` | Page 6 production-facing art direction lock for the road omen, Marker 17 signs, and black-glass orchid rut |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -155,6 +158,13 @@ The First Objective
 Thor turns the manuscript's first black-glass orchid clue into a field objective, loads Mallow in the rain, starts the crawler, and leaves Ledger Falls believing he is only chasing a plant.
 ```
 
+### Page 6
+
+```text
+The Road Takes Notes
+Mallow leaves Ledger Falls and stops inches before crushing a tiny black-glass orchid in a muddy roadside rut while Thor documents the location too carefully and the road behind him begins to resemble a living map taking notes back.
+```
+
 ---
 
 ## Search Aliases
@@ -168,6 +178,21 @@ Buckley
 Mirecat
 Mallow
 The Tin Burrow
+Page 06
+Page 6
+The Road Takes Notes
+first road omen
+road omen
+Index Orchid roadside specimen
+black-glass orchid roadside
+Marker 17
+Low Water Takes What It Is Owed
+Mallow road omen
+field crawler road omen
+Thor documents the orchid
+first careless field note
+Observed not taken
+who else can read a field note
 Page 05
 Page 5
 The First Objective
