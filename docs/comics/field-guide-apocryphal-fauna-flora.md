@@ -18,6 +18,8 @@ Thor's current character lock: a machine-age explorer-romantic with a dark flat 
 
 Buckle's current character lock: a pygmy Pale Burdenback sold as a future pack animal but kept as a pet after he never grows into working stock: a small pale hippo-rhino-tapir-like wetland animal with a barrel body, flexible snout, thick hide, underdeveloped burden ridge, and environmental warning instincts.
 
+Field crawler current vehicle lock: **Mirecat Field Crawler `Mallow`**, nicknamed **The Tin Burrow**, a compact Tucker Sno-Cat-like tracked utility vehicle rebuilt from Ledger Falls timber-margin surplus, with a scarred front blade, rounded cab, rear hab module, stove pipe, roof rack, cramped field-lab interior, Buckle's nest by the stove, and enough patched machinery to feel like a rolling shelter, research den, and moral test in heavy black ink.
+
 The first production artifact is locked as:
 
 ```text
@@ -61,6 +63,7 @@ docs/comics/field-guide-apocryphal-fauna-flora/ashcan-art-direction-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-12-page-beat-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/thor-fortner-character-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/buckle-character-sheet.md
+docs/comics/field-guide-apocryphal-fauna-flora/field-crawler-vehicle-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-script.md
@@ -100,6 +103,22 @@ compact wetland tank
 Thor's pet
 environmental warning animal
 Buckle and e-bike
+field crawler
+field crawler vehicle sheet
+Mirecat
+Mirecat Field Crawler
+Mallow
+The Tin Burrow
+Tin Burrow
+Thor vehicle
+Thor crawler
+Tucker Sno-Cat inspired vehicle
+front blade crawler
+rear hab module
+mobile hab
+Thor mobile lab
+Ledger Falls timber-margin utility cat
+Buzz-Mule dock
 Girasol
 Index Orchid
 Gift-Pod
@@ -128,6 +147,7 @@ Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
+Field crawler vehicle sheet saved.
 Search index updated.
 ```
 
