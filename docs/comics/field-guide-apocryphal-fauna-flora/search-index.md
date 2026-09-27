@@ -62,6 +62,8 @@ The Girasol Pages
 | `page-07-art-direction-lock.md` | Page 7 production-facing visual lock | Page 7 art direction, Do Not Collect tag, anonymous gloved hand, field note becomes bait |
 | `page-08-script.md` | Page 8 comic script, first fringe stop and Buckle introduction | Page 8, Page 08, Growth Expected No Returns, Buckle introduction, Pygmy Pale Burdenback sale |
 | `page-08-art-direction-lock.md` | Page 8 production-facing visual lock | Page 8 art direction, Low Water Feed and Field Supply, Buckle sale-tag reveal, no returns tag |
+| `page-09-script.md` | Page 9 comic script, Buckle's first travel problem and Lung Lichen warning | Page 9, Page 09, Buckley Refuses the Air, Buckle blocks ramp, Lung Lichen first warning |
+| `page-09-art-direction-lock.md` | Page 9 production-facing visual lock | Page 9 art direction, Lichen Green page, low-water culvert, animal notices before instrument |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -180,6 +182,20 @@ Temperament expensive
 White Elephant companion enters
 Buckle inside Mallow
 Buckle in rear hab
+Page 09
+Page 9
+Buckley Refuses the Air
+Buckle first travel problem
+Buckle blocks ramp
+Projected pack utility disputed
+Buckle chews tag
+Pale Burdenback warning instinct
+Buckle notices bad air
+Lung Lichen first warning
+Lichen Green page
+low-water culvert
+animal notices before instrument
+Buckle refuses route
 ```
 
 ---
@@ -203,7 +219,12 @@ hand level sight glass
 field-naturalist costume
 Buckle
 Buckley
+Buckley Refuses the Air
 Buckle introduction
+Buckle first travel problem
+Buckle blocks ramp
+Buckle chews tag
+Buckle notices bad air
 Buckle character sheet
 Buckley character sheet
 Pygmy Pale Burdenback
@@ -220,6 +241,7 @@ pygmy hippo tapir rhino
 hippo rhino tapir creature
 compact wetland tank
 environmental warning animal
+Pale Burdenback warning instinct
 Buckle and e-bike
 Buckle not e-bike location
 Buzz-Mule setup
@@ -263,6 +285,7 @@ Buckle nest
 Buckle zone
 Buckle inside Mallow
 Buckle in rear hab
+Buckle blocks ramp
 Buzz-Mule dock
 e-bike rack
 Mallow field crawler
@@ -275,6 +298,7 @@ crawler cutaway
 crawler moral test
 Mallow road omen
 field crawler road omen
+low-water culvert
 ```
 
 ---
@@ -322,11 +346,14 @@ Pale Burdenback juvenile
 Pale Burdenback sale
 Buckle
 Buckley
+Lung Lichen
+Lung Lichen first warning
+Lichen Green page
+animal notices before instrument
 Girasol
 Crimson Glass Salamander
 Gift-Pod
 Nightwake
-Lung Lichen
 Dwarf Craton Sauropod
 Snow-Dire Leafcat
 MacGuffin creature
@@ -353,6 +380,8 @@ NO MAP REFUNDS
 salt moss filters tack dry paper
 Low Road gets the machines
 not here Low Road gets the machines
+low-water culvert
+roadside culvert
 ```
 
 ---
@@ -422,6 +451,12 @@ fringe feed stop visual
 Buckle sale tag visual
 GROWTH EXPECTED NO RETURNS visual
 Buckle inside Mallow visual
+Buckle blocks ramp visual
+Projected pack utility disputed visual
+Buckle chews tag visual
+Lung Lichen first warning art
+Lichen Green spot color
+animal notices before instrument visual
 ```
 
 ---
@@ -438,6 +473,7 @@ Page 5 script and art-direction lock saved.
 Page 6 script and art-direction lock saved.
 Page 7 script and art-direction lock saved.
 Page 8 script and art-direction lock saved.
+Page 9 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -446,7 +482,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 09 script and art direction
+1. Page 10 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
