@@ -1,0 +1,111 @@
+# Field Guide to Apocryphal Meridian Prime Fauna and Flora
+
+**Status:** Sandbox Comic Development / Modern Ashcan Proof of Concept  
+**Canon Status:** Sandbox only unless promoted through explicit canon review  
+**Primary Folder:** `docs/comics/field-guide-apocryphal-fauna-flora/`  
+**Ashcan Title:** `Observed, Not Owned`  
+**Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure / heavy black inks  
+
+---
+
+## Finder Summary
+
+This is the top-level pointer file for the **Field Guide to Apocryphal Meridian Prime Fauna and Flora** ashcan line.
+
+The project follows **Thor Fortner**, a young field-naturalist from **Ledger Falls**, as he attempts to create a modern illustrated field guide to rumored, rare, misclassified, sacred, and officially disputed Meridian Prime fauna and flora.
+
+The first production artifact is locked as:
+
+```text
+Observed, Not Owned
+A 12-page modern ashcan explorer comic
+Mostly black and white
+Heavy black inks
+Spot color system: A/B/C/D variants
+Primary interior spot color: Girasol Gold
+```
+
+---
+
+## Main Folder
+
+```text
+docs/comics/field-guide-apocryphal-fauna-flora/
+```
+
+Primary landing file:
+
+```text
+docs/comics/field-guide-apocryphal-fauna-flora/README.md
+```
+
+Full search index:
+
+```text
+docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
+```
+
+---
+
+## Key Files
+
+```text
+docs/comics/field-guide-apocryphal-fauna-flora/ashcan-package-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/concept-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/creature-biome-roster.md
+docs/comics/field-guide-apocryphal-fauna-flora/ashcan-art-direction-sheet.md
+docs/comics/field-guide-apocryphal-fauna-flora/ashcan-12-page-beat-sheet.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-01-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-01-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
+docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
+```
+
+---
+
+## Search Aliases
+
+```text
+Field Guide to Apocryphal Meridian Prime Fauna and Flora
+Observed, Not Owned
+Thor Fortner
+Buckle
+Pygmy Pale Burdenback
+Girasol
+Index Orchid
+Gift-Pod
+Nightwake
+Lung Lichen
+Crimson Glass Salamander
+Snow-Dire Leafcat
+Dwarf Craton Sauropod
+False Field Plate
+Apocryphal Plate I
+The Forest Becomes Cargo
+Explorer comic
+Modern ashcan
+Heavy black inks
+Girasol Gold
+Field Guide ashcan
+```
+
+---
+
+## Current Production Status
+
+```text
+Ashcan package locked.
+Page 1 script and art-direction lock saved.
+Page 2 false field plate script and art-direction lock saved.
+Search index created.
+```
+
+---
+
+## Sandbox Rule
+
+This pointer file and all linked files are sandbox development materials.
+
+Nothing here becomes main canon unless explicitly reviewed and promoted through the Meridian Prime canon process.
