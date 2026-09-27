@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor + Buckle + field crawler sheets  
+**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -35,18 +35,19 @@ Page 2 False Field Plate Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
+Cover Direction Sheet
 ```
 
 The project is not yet in full script, thumbnail, or page-art production.
 
 The next recommended deliverables are:
 
-1. Cover direction sheet
-2. Page 03 script and art direction
-3. Creature silhouette plate rough layout
-4. Thor visual pose sheet
-5. Buckle pose / expression sheet
-6. Field crawler cutaway / design sheet
+1. Page 03 script and art direction
+2. Creature silhouette plate rough layout
+3. Thor visual pose sheet
+4. Buckle pose / expression sheet
+5. Field crawler cutaway / design sheet
+6. Cover thumbnail roughs
 
 ---
 
@@ -107,6 +108,7 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
 | `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock |
 | `field-crawler-vehicle-sheet.md` | Mirecat Field Crawler `Mallow` / The Tin Burrow vehicle, hab, lab, and story-function lock |
+| `cover-direction-sheet.md` | Main cover, back cover, variant cover system, typography, print texture, and cover prompt |
 | `page-01-script.md` | Page 1 comic script: Ledger Falls cold open and Thor's first field-note beat |
 | `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
 | `page-02-false-field-plate-script.md` | Page 2 comic script: false field plate and nine-organism roster |
@@ -167,6 +169,12 @@ Field crawler production direction:
 
 ```text
 Mirecat Field Crawler "Mallow", nicknamed The Tin Burrow: a compact Tucker Sno-Cat-like tracked utility vehicle rebuilt from Ledger Falls timber-margin surplus, with a scarred front blade, rounded cab, rear hab module, stove pipe, roof rack, cramped field-lab interior, Buckle's nest by the stove, and enough patched machinery to feel like a rolling shelter, research den, and moral test in heavy black ink.
+```
+
+Cover production direction:
+
+```text
+Observed, Not Owned cover: Thor, Buckle, and Mallow at the edge of a black Ledger Falls cloud forest, with hidden Girasol antlers suggested in the branches using restrained Girasol Gold spot color.
 ```
 
 Page 1 production direction:
@@ -232,6 +240,18 @@ mobile hab
 Thor mobile lab
 Ledger Falls timber-margin utility cat
 Buzz-Mule dock
+cover direction sheet
+Observed Not Owned cover
+The Tin Burrow at the Forest Edge
+Girasol Gold cover
+Acid Magenta variant
+Rust Red variant
+Lichen Green variant
+Manuscript Variant
+Ledger Falls Variant
+The Cave That Breathed Variant
+hidden antler cover
+field guide back cover
 Girasol
 Index Orchid
 Gift-Pod
