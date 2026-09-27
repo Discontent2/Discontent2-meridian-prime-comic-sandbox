@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor Fortner character sheet  
+**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor + Buckle character sheets  
 
 ---
 
@@ -33,18 +33,19 @@ Ashcan Package Lock
 Page 1 Script + Art Direction Lock
 Page 2 False Field Plate Script + Art Direction Lock
 Thor Fortner Character Sheet
+Buckle Character Sheet
 ```
 
 The project is not yet in full script, thumbnail, or page-art production.
 
 The next recommended deliverables are:
 
-1. Buckle character sheet
-2. Field crawler vehicle sheet
-3. Cover direction sheet
-4. Page 03 script and art direction
-5. Creature silhouette plate rough layout
-6. Thor visual pose sheet
+1. Field crawler vehicle sheet
+2. Cover direction sheet
+3. Page 03 script and art direction
+4. Creature silhouette plate rough layout
+5. Thor visual pose sheet
+6. Buckle pose / expression sheet
 
 ---
 
@@ -103,6 +104,7 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 | `ashcan-art-direction-sheet.md` | Visual language, spot color system, ink rules, cover direction, page style |
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
+| `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock |
 | `page-01-script.md` | Page 1 comic script: Ledger Falls cold open and Thor's first field-note beat |
 | `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
 | `page-02-false-field-plate-script.md` | Page 2 comic script: false field plate and nine-organism roster |
@@ -153,6 +155,12 @@ Thor Fortner production direction:
 Young Ledger Falls field-naturalist, machine-age explorer-romantic, dark flat cap / driving cap with early motoring goggles on top, weathered field jacket, scarf, boots, cross-body satchel, and beloved Kuker-Rankin hand level used as a sight glass.
 ```
 
+Buckle production direction:
+
+```text
+Buckle / Buckley is a pygmy Pale Burdenback sold as a future pack animal but kept as a pet after he never grows into working stock: a small pale hippo-rhino-tapir-like wetland creature with a barrel body, flexible snout, thick hide, underdeveloped burden ridge, and environmental warning instincts.
+```
+
 Page 1 production direction:
 
 ```text
@@ -187,7 +195,19 @@ early motoring goggles
 Kuker-Rankin hand level
 hand level sight glass
 Buckle
+Buckley
+Buckle character sheet
 Pygmy Pale Burdenback
+Pale Burdenback
+White Elephant creature
+failed pack animal
+undergrown pack animal
+pygmy hippo tapir rhino
+hippo rhino tapir creature
+compact wetland tank
+Thor's pet
+environmental warning animal
+Buckle and e-bike
 Girasol
 Index Orchid
 Gift-Pod
