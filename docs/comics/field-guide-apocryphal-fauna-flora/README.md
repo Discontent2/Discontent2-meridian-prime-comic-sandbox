@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-10 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-11 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -38,6 +38,7 @@ Page 7 Script + Art Direction Lock
 Page 8 Script + Art Direction Lock
 Page 9 Script + Art Direction Lock
 Page 10 Script + Art Direction Lock
+Page 11 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -48,7 +49,7 @@ The project is not yet in full thumbnail or page-art production.
 
 Recommended next deliverables:
 
-1. Page 11 script and art direction
+1. Page 12 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -104,6 +105,8 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `page-09-art-direction-lock.md` | Page 9 production-facing art direction lock for Buckle, the low-water culvert, and Lichen Green warning beat |
 | `page-10-script.md` | Page 10 comic script: `Projected Pack Utility: None`, Buckle hab chaos and Thor's revised field note |
 | `page-10-art-direction-lock.md` | Page 10 production-facing art direction lock for Mallow's cramped hab, Lung Lichen tin glow, and Buckle's stove-nest beat |
+| `page-11-script.md` | Page 11 comic script: `The Flag Found Someone`, missing orchid consequence and Thor's first moral correction |
+| `page-11-art-direction-lock.md` | Page 11 production-facing art direction lock for the bent field flag, copied note, and location redaction beat |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
@@ -199,6 +202,13 @@ Projected Pack Utility: None
 Inside Mallow's cramped rear hab at night, Buckle turns the expedition into domestic chaos while a Lung Lichen tin glows faintly green, forcing Thor to revise Buckle from failed pack utility to possible environmental warning animal.
 ```
 
+### Page 11
+
+```text
+The Flag Found Someone
+Thor returns to the roadside orchid site and finds the black-glass orchid gone, his protective field flag bent into a beacon, and his own location note copied onto a more dangerous scrap. He removes the marker and begins redacting location data from his field guide.
+```
+
 ---
 
 ## Search Aliases
@@ -212,49 +222,46 @@ Buckley
 Mirecat
 Mallow
 The Tin Burrow
+Page 11
+Page 11 script
+The Flag Found Someone
+missing black-glass orchid
+Index Orchid gone
+field flag consequence
+protective marker becomes beacon
+Thor removes marker
+copied field note consequence
+M17 + 1.7 LOW RUT
+Location withheld setup
+first moral correction
+field note redaction
 Page 10
-Page 10 script
 Projected Pack Utility None
 Buckle hab chaos
-Buckle inside Mallow
 Buckle sleeps by stove
-Buckle chews sale tag
-GROWTH EXPECTED NO RETURNS
-Projected pack utility none
-Environmental warning behavior possible
 Lung Lichen tin glow
 Lichen Green hab interior
 Thor revises Buckle note
-Useful had begun to fail me
-Fine you're coming anyway
 Page 09
-Page 9
 Buckley Refuses the Air
 Buckle first travel problem
 Lung Lichen first warning
 Page 08
-Page 8
 Growth Expected No Returns
 Buckle introduction
 Pygmy Pale Burdenback sale
-Low Water Feed and Field Supply
 Page 07
-Page 7
 A Flag Is Also a Beacon
 field flag beacon
 copied field note
 Page 06
-Page 6
 The Road Takes Notes
 first road omen
 Page 05
-Page 5
 The First Objective
 Page 04
-Page 4
 The Book Blooms Back
 Page 03
-Page 3
 Mallow Waits in the Rain
 The Forest Becomes Cargo
 False Field Plate
@@ -264,6 +271,7 @@ Modern ashcan
 Heavy black inks
 Girasol Gold
 Lichen Green
+Rust Red
 ```
 
 ---
