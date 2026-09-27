@@ -14,6 +14,8 @@ This is the top-level pointer file for the **Field Guide to Apocryphal Meridian 
 
 The project follows **Thor Fortner**, a young field-naturalist from **Ledger Falls**, as he attempts to create a modern illustrated field guide to rumored, rare, misclassified, sacred, and officially disputed Meridian Prime fauna and flora.
 
+Thor's current character lock: a machine-age explorer-romantic with a dark flat cap / driving cap, early motoring goggles on top, weathered field jacket, scarf, boots, cross-body satchel, and a beloved Kuker-Rankin hand level used as a sight glass.
+
 The first production artifact is locked as:
 
 ```text
@@ -55,6 +57,7 @@ docs/comics/field-guide-apocryphal-fauna-flora/concept-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/creature-biome-roster.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-art-direction-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-12-page-beat-sheet.md
+docs/comics/field-guide-apocryphal-fauna-flora/thor-fortner-character-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-script.md
@@ -71,6 +74,15 @@ docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
 Thor Fortner
+Thor character sheet
+Ledger Falls field-naturalist
+Percy Fawcett influence
+machine-age explorer
+flat cap
+driving cap
+early motoring goggles
+Kuker-Rankin hand level
+hand level sight glass
 Buckle
 Pygmy Pale Burdenback
 Girasol
@@ -99,7 +111,8 @@ Field Guide ashcan
 Ashcan package locked.
 Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
-Search index created.
+Thor Fortner character sheet saved.
+Search index updated.
 ```
 
 ---
