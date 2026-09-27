@@ -26,6 +26,8 @@ Page 3 current direction lock: **Mallow Waits in the Rain**, with Thor returning
 
 Page 4 current direction lock: **The Book Blooms Back**, with Thor using the Kuker-Rankin hand level as a sight glass over the manuscript, causing hidden Girasol Gold lines to bloom around a partial black-glass orchid drawing and revealing the first Index Orchid clue without decoding the book.
 
+Page 5 current direction lock: **The First Objective**, with Thor turning the manuscript's black-glass orchid clue into a field objective, loading Mallow in the rain, starting the crawler, and leaving Ledger Falls believing he is only chasing a plant.
+
 The first production artifact is locked as:
 
 ```text
@@ -79,6 +81,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-03-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-03-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-04-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-04-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-05-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-05-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -140,6 +144,20 @@ mobile hab
 Thor mobile lab
 Ledger Falls timber-margin utility cat
 Buzz-Mule dock
+Page 05
+Page 5
+The First Objective
+Index Orchid objective
+black-glass orchid clue
+Mallow departure
+Tin Burrow departure
+Thor leaves Ledger Falls
+Ledger Falls departure
+Mallow ignition
+Be ugly and brave
+first lie caption
+Mallow road scene
+field crawler departure
 Page 04
 Page 4
 The Book Blooms Back
@@ -192,6 +210,7 @@ Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Page 3 script and art-direction lock saved.
 Page 4 script and art-direction lock saved.
+Page 5 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
