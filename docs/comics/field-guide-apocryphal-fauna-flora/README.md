@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-2 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
+**Current Stage:** Ashcan package lock / Pages 1-3 production locks / Thor + Buckle + field crawler sheets / Cover direction sheet  
 
 ---
 
@@ -25,13 +25,12 @@ It is about Meridian Prime teaching Thor how not to become another kind of preda
 
 ## Publication-House Stage
 
-This project is currently in:
-
 ```text
 Modern Ashcan Proof-of-Concept Development
 Ashcan Package Lock
 Page 1 Script + Art Direction Lock
 Page 2 False Field Plate Script + Art Direction Lock
+Page 3 Script + Art Direction Lock
 Thor Fortner Character Sheet
 Buckle Character Sheet
 Field Crawler Vehicle Sheet
@@ -40,9 +39,9 @@ Cover Direction Sheet
 
 The project is not yet in full script, thumbnail, or page-art production.
 
-The next recommended deliverables are:
+Recommended next deliverables:
 
-1. Page 03 script and art direction
+1. Page 04 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
@@ -53,46 +52,15 @@ The next recommended deliverables are:
 
 ## Format Lock
 
-Preferred first artifact:
-
 ```text
-12-page modern ashcan
-```
-
-Purpose of the ashcan:
-
-- prove Thor Fortner as a compelling protagonist
-- prove Meridian Prime works outside the Traverse spine
-- prove the field-guide format visually
-- prove the heavy-black-ink explorer-comic lane
-- tease the full expedition without overexplaining it
-
-Potential expanded format:
-
-```text
-4-issue miniseries
-```
-
-Recommended issue structure if expanded:
-
-1. The Ledger in the Rain
-2. The Cave That Breathed
-3. Red Glass Roots
-4. Observed, Not Owned
-
----
-
-## Traverse Limitation
-
-The story may include Thor's solo field vehicle, supply travel, camps, meal scenes, repairs, and route transitions, but the Traverse-like material should remain background infrastructure and must not become the story spine.
-
-Target limit:
-
-```text
+Observed, Not Owned
+A 12-page modern ashcan explorer comic
+Mostly black and white
+Heavy black inks
+Spot color system: A/B/C/D variants
+Primary interior spot color: Girasol Gold
 Traverse / vehicle travel storyline: 12 percent maximum
 ```
-
-The vehicle is Thor's moving home, not a route-operation plot machine.
 
 ---
 
@@ -100,9 +68,9 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 
 | File | Purpose |
 |---|---|
-| `ashcan-package-lock.md` | Locks the ashcan format, title, visual approach, spot-color system, and production package target |
+| `ashcan-package-lock.md` | Locks ashcan format, title, visual approach, spot-color system, and production package target |
 | `concept-lock.md` | Main concept, protagonist, vehicle, emotional spine, synopsis, and hero's journey shape |
-| `creature-biome-roster.md` | The nine motif organisms, major biomes, and narrative functions |
+| `creature-biome-roster.md` | Nine motif organisms, major biomes, and narrative functions |
 | `ashcan-art-direction-sheet.md` | Visual language, spot color system, ink rules, cover direction, page style |
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
@@ -113,164 +81,96 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 | `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
 | `page-02-false-field-plate-script.md` | Page 2 comic script: false field plate and nine-organism roster |
 | `page-02-false-field-plate-art-direction-lock.md` | Page 2 production-facing art direction lock |
+| `page-03-script.md` | Page 3 comic script: `Mallow Waits in the Rain`, crawler reveal and manuscript hook |
+| `page-03-art-direction-lock.md` | Page 3 production-facing art direction lock for Mallow, the mobile hab, and manuscript glimmer |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
 | `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
 ---
 
-## Working Titles
+## Locked Production Directions
 
-Primary ashcan title:
-
-```text
-Observed, Not Owned
-```
-
-Series / full project title:
-
-```text
-Field Guide to Apocryphal Meridian Prime Fauna and Flora
-```
-
-Other title options:
-
-- The Beast Ledger
-- The Apocryphal Field Guide
-- The Girasol Pages
-- Creatures That Maps Refuse
-- Field Guide: Things the Map Refused
-
----
-
-## Locked Ashcan Package
-
-```text
-Observed, Not Owned
-A 12-page modern ashcan explorer comic
-Mostly black and white
-Heavy black inks
-Spot color system: A/B/C/D variants
-Primary interior spot color: Girasol Gold
-```
-
-Thor Fortner production direction:
+### Thor Fortner
 
 ```text
 Young Ledger Falls field-naturalist, machine-age explorer-romantic, dark flat cap / driving cap with early motoring goggles on top, weathered field jacket, scarf, boots, cross-body satchel, and beloved Kuker-Rankin hand level used as a sight glass.
 ```
 
-Buckle production direction:
+### Buckle / Buckley
 
 ```text
 Buckle / Buckley is a pygmy Pale Burdenback sold as a future pack animal but kept as a pet after he never grows into working stock: a small pale hippo-rhino-tapir-like wetland creature with a barrel body, flexible snout, thick hide, underdeveloped burden ridge, and environmental warning instincts.
 ```
 
-Field crawler production direction:
+### Mallow / The Tin Burrow
 
 ```text
 Mirecat Field Crawler "Mallow", nicknamed The Tin Burrow: a compact Tucker Sno-Cat-like tracked utility vehicle rebuilt from Ledger Falls timber-margin surplus, with a scarred front blade, rounded cab, rear hab module, stove pipe, roof rack, cramped field-lab interior, Buckle's nest by the stove, and enough patched machinery to feel like a rolling shelter, research den, and moral test in heavy black ink.
 ```
 
-Cover production direction:
+### Cover
 
 ```text
 Observed, Not Owned cover: Thor, Buckle, and Mallow at the edge of a black Ledger Falls cloud forest, with hidden Girasol antlers suggested in the branches using restrained Girasol Gold spot color.
 ```
 
-Page 1 production direction:
+### Page 1
 
 ```text
 The Forest Becomes Cargo
 Thor Fortner crouches in Ledger Falls rain, sketching a tiny strange organism growing out of a permit-stamp machine while workers tag trees behind him and black branches form a hidden antler shape in the fog.
 ```
 
-Page 2 production direction:
+### Page 2
 
 ```text
 False Field Plate
 A full-page damaged scientific plate showing nine apocryphal Meridian Prime organisms as black-and-white silhouettes, handwritten labels, field stamps, redacted coordinates, and selective Girasol Gold spot color.
 ```
 
+### Page 3
+
+```text
+Mallow Waits in the Rain
+Thor returns to the Mirecat field crawler Mallow in a rainy Ledger Falls timber-margin yard, reveals the mobile hab interior, and unwraps the ancient Aeonolacertian manuscript as a faint Girasol Gold thread appears between the pages.
+```
+
 ---
 
 ## Search Aliases
-
-Useful names and search phrases:
 
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
 Thor Fortner
-Thor character sheet
-Ledger Falls field-naturalist
-Percy Fawcett influence
-machine-age explorer
-flat cap
-driving cap
-early motoring goggles
-Kuker-Rankin hand level
-hand level sight glass
 Buckle
 Buckley
-Buckle character sheet
-Pygmy Pale Burdenback
-Pale Burdenback
-White Elephant creature
-failed pack animal
-undergrown pack animal
-pygmy hippo tapir rhino
-hippo rhino tapir creature
-compact wetland tank
-Thor's pet
-environmental warning animal
-Buckle and e-bike
-field crawler
-field crawler vehicle sheet
 Mirecat
-Mirecat Field Crawler
 Mallow
 The Tin Burrow
-Tin Burrow
-Thor vehicle
-Thor crawler
-Tucker Sno-Cat inspired vehicle
-front blade crawler
-rear hab module
-mobile hab
-Thor mobile lab
-Ledger Falls timber-margin utility cat
-Buzz-Mule dock
-cover direction sheet
+Page 03
+Page 3
+Mallow Waits in the Rain
+Mallow reveal
+Tin Burrow reveal
+field crawler reveal
+mobile hab reveal
+ancient manuscript hook
+Aeonolacertian manuscript
+Girasol Gold glimmer
+Ledger Falls timber-margin yard
 Observed Not Owned cover
 The Tin Burrow at the Forest Edge
 Girasol Gold cover
 Acid Magenta variant
 Rust Red variant
 Lichen Green variant
-Manuscript Variant
-Ledger Falls Variant
-The Cave That Breathed Variant
-hidden antler cover
-field guide back cover
-Girasol
-Index Orchid
-Gift-Pod
-Nightwake
-Lung Lichen
-Crimson Glass Salamander
-Snow-Dire Leafcat
-Dwarf Craton Sauropod
-Field Guide ashcan
-Explorer comic
-Modern ashcan
-Heavy black inks
-Meridian Prime fauna
-Meridian Prime flora
-Apocryphal fauna
-Creature field guide
 The Forest Becomes Cargo
 False Field Plate
 Apocryphal Plate I
+Explorer comic
+Modern ashcan
+Heavy black inks
 Girasol Gold
 ```
 
