@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Page 1 script and art-direction development  
+**Current Stage:** Ashcan package lock / Page 1 and Page 2 production locks  
 
 ---
 
@@ -31,6 +31,7 @@ This project is currently in:
 Modern Ashcan Proof-of-Concept Development
 Ashcan Package Lock
 Page 1 Script + Art Direction Lock
+Page 2 False Field Plate Script + Art Direction Lock
 ```
 
 The project is not yet in full script, thumbnail, or page-art production.
@@ -40,9 +41,9 @@ The next recommended deliverables are:
 1. Thor Fortner character sheet
 2. Buckle character sheet
 3. Field crawler vehicle sheet
-4. Creature silhouette plate
-5. Cover direction sheet
-6. Page 2 false field plate script and art direction
+4. Cover direction sheet
+5. Page 03 script and art direction
+6. Creature silhouette plate rough layout
 
 ---
 
@@ -102,7 +103,10 @@ The vehicle is Thor's moving home, not a route-operation plot machine.
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
 | `page-01-script.md` | Page 1 comic script: Ledger Falls cold open and Thor's first field-note beat |
 | `page-01-art-direction-lock.md` | Page 1 production-facing art direction lock |
+| `page-02-false-field-plate-script.md` | Page 2 comic script: false field plate and nine-organism roster |
+| `page-02-false-field-plate-art-direction-lock.md` | Page 2 production-facing art direction lock |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review |
+| `search-index.md` | Findability file for all saved Field Guide ashcan materials |
 
 ---
 
@@ -148,6 +152,13 @@ The Forest Becomes Cargo
 Thor Fortner crouches in Ledger Falls rain, sketching a tiny strange organism growing out of a permit-stamp machine while workers tag trees behind him and black branches form a hidden antler shape in the fog.
 ```
 
+Page 2 production direction:
+
+```text
+False Field Plate
+A full-page damaged scientific plate showing nine apocryphal Meridian Prime organisms as black-and-white silhouettes, handwritten labels, field stamps, redacted coordinates, and selective Girasol Gold spot color.
+```
+
 ---
 
 ## Search Aliases
@@ -167,6 +178,7 @@ Nightwake
 Lung Lichen
 Crimson Glass Salamander
 Snow-Dire Leafcat
+Dwarf Craton Sauropod
 Field Guide ashcan
 Explorer comic
 Modern ashcan
@@ -176,6 +188,25 @@ Meridian Prime flora
 Apocryphal fauna
 Creature field guide
 The Forest Becomes Cargo
+False Field Plate
+Apocryphal Plate I
+Girasol Gold
+```
+
+---
+
+## Finder File
+
+For a full path list and search-term index, see:
+
+```text
+search-index.md
+```
+
+Top-level pointer file:
+
+```text
+docs/comics/field-guide-apocryphal-fauna-flora.md
 ```
 
 ---
