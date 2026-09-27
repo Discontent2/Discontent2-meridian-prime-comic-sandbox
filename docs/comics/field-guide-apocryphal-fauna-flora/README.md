@@ -4,7 +4,7 @@
 **Canon Status:** Sandbox only unless promoted through explicit canon review  
 **Repository:** `Discontent2/Discontent2-meridian-prime-comic-sandbox`  
 **Project Lane:** Explorer comic / ecological weird fiction / field-guide adventure  
-**Current Stage:** Ashcan package lock / Pages 1-12 production locks / Page 2 rough thumbnail grid / Thor + Buckle + field crawler sheets / Cover direction sheet / Creature silhouette plate rough layout  
+**Current Stage:** Ashcan package lock / Pages 1-12 production locks / Page 2 rough thumbnail grid / Thor + Buckle + field crawler sheets / Buckle pose-expression sheet / Cover direction sheet / Creature silhouette plate rough layout  
 
 ---
 
@@ -32,21 +32,21 @@ Pages 1-12 Script + Art Direction Locks
 Page 2 Rough Thumbnail Grid
 Thor Fortner Character Sheet
 Buckle Character Sheet
+Buckle Pose / Expression Sheet
 Field Crawler Vehicle Sheet
 Cover Direction Sheet
 Creature Silhouette Plate Rough Layout
 ```
 
-The 12-page ashcan script and production art-direction locks are complete. Page 2 now also has a rough thumbnail grid for the false field plate.
+The 12-page ashcan script and production art-direction locks are complete. Page 2 has a rough thumbnail grid for the false field plate. Buckle now has both a character sheet and pose / expression sheet for production acting reference.
 
 Recommended next deliverables:
 
 1. Creature silhouette drawing sheet
-2. Buckle pose / expression sheet
-3. Thor visual pose sheet
-4. Field crawler cutaway / design sheet
-5. Cover thumbnail roughs
-6. Full ashcan production packet / print assembly checklist
+2. Thor visual pose sheet
+3. Field crawler cutaway / design sheet
+4. Cover thumbnail roughs
+5. Full ashcan production packet / print assembly checklist
 
 ---
 
@@ -77,6 +77,7 @@ Traverse / vehicle travel storyline: 12 percent maximum
 | `ashcan-12-page-beat-sheet.md` | Proposed 12-page ashcan structure and page-by-page proof-of-concept flow |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock |
 | `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock |
+| `buckle-pose-expression-sheet.md` | Buckle production pose and expression sheet for acting, silhouette, scale, and interaction reference |
 | `field-crawler-vehicle-sheet.md` | Mirecat Field Crawler `Mallow` / The Tin Burrow vehicle, hab, lab, and story-function lock |
 | `cover-direction-sheet.md` | Main cover, back cover, variant cover system, typography, print texture, and cover prompt |
 | `page-01-script.md` | Page 1 comic script: `The Forest Becomes Cargo` |
@@ -120,6 +121,12 @@ Young Ledger Falls field-naturalist, machine-age explorer-romantic, dark flat ca
 
 ```text
 Buckle / Buckley is a pygmy Pale Burdenback sold as a future pack animal but kept as a pet after he never grows into working stock: a small pale hippo-rhino-tapir-like wetland creature with a barrel body, flexible snout, thick hide, underdeveloped burden ridge, and environmental warning instincts.
+```
+
+### Buckle Pose / Expression Sheet
+
+```text
+Buckle's production pose sheet locks the acting language for neutral standing, curious sniff, refusal, environmental alarm, startled pivot, food crime, sleep curl, comfort lean, doorway block, and pack-animal failure, plus expression heads for curiosity, food interest, judgment, worry, refusal, alarm, sleepy safety, and innocent guilt.
 ```
 
 ### Mallow / The Tin Burrow
@@ -166,6 +173,22 @@ The Page 2 rough thumbnail grid translates Apocryphal Plate I into an artist-fac
 ```text
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
+Buckle pose expression sheet
+Buckle pose sheet
+Buckle expression sheet
+Buckley pose sheet
+Pygmy Pale Burdenback pose sheet
+little wetland tank with feelings
+Buckle refusal pose
+Buckle environmental warning pose
+Buckle food crime
+Buckle sleep curl
+Buckle stove nest
+Buckle comfort lean
+Buckle doorway block
+Buckle pack animal failure pose
+Projected pack utility none
+Actual use friend
 creature silhouette plate
 creature silhouette plate rough layout
 Page 02 rough thumbnail grid
