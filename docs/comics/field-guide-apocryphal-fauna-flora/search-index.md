@@ -56,6 +56,8 @@ The Girasol Pages
 | `page-04-art-direction-lock.md` | Page 4 production-facing visual lock | Page 4 art direction, hand level manuscript, hidden manuscript lines, Girasol Gold hidden lines |
 | `page-05-script.md` | Page 5 comic script, Index Orchid objective and departure | Page 5, Page 05, The First Objective, Mallow departure, Thor leaves Ledger Falls |
 | `page-05-art-direction-lock.md` | Page 5 production-facing visual lock | Page 5 art direction, Mallow ignition, field crawler departure, first lie caption |
+| `page-06-script.md` | Page 6 comic script, first road omen and roadside orchid specimen | Page 6, Page 06, The Road Takes Notes, first road omen, Index Orchid roadside specimen |
+| `page-06-art-direction-lock.md` | Page 6 production-facing visual lock | Page 6 art direction, road takes notes back, Marker 17, black-glass orchid roadside visual |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -119,6 +121,23 @@ Be ugly and brave
 first lie caption
 Mallow road scene
 field crawler departure
+Page 06
+Page 6
+The Road Takes Notes
+first road omen
+road omen
+Index Orchid roadside specimen
+black-glass orchid roadside
+Marker 17
+Low Water Takes What It Is Owed
+Mallow road omen
+field crawler road omen
+Thor documents the orchid
+first careless field note
+Observed not taken
+who else can read a field note
+road takes notes back
+road becomes a page
 ```
 
 ---
@@ -204,6 +223,8 @@ stove pipe crawler
 roof rack crawler
 crawler cutaway
 crawler moral test
+Mallow road omen
+field crawler road omen
 ```
 
 ---
@@ -243,6 +264,8 @@ inside back cover checklist
 ```text
 Index Orchid
 black-glass orchid
+black-glass orchid roadside
+Index Orchid roadside specimen
 Pygmy Pale Burdenback
 Buckle
 Buckley
@@ -319,6 +342,9 @@ black-glass flower drawing
 rainy hab interior
 Mallow road silhouette
 first expedition departure
+roadside rut orchid
+Marker 17 sign cluster
+road becomes a page
 ```
 
 ---
@@ -332,6 +358,7 @@ Page 2 false field plate script and art-direction lock saved.
 Page 3 script and art-direction lock saved.
 Page 4 script and art-direction lock saved.
 Page 5 script and art-direction lock saved.
+Page 6 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -340,7 +367,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 06 script and art direction
+1. Page 07 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
