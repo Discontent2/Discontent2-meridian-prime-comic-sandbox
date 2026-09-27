@@ -52,6 +52,8 @@ The Girasol Pages
 | `page-02-false-field-plate-art-direction-lock.md` | Page 2 production-facing visual lock | Page 2 art direction, creature silhouettes, field plate |
 | `page-03-script.md` | Page 3 comic script, crawler reveal and manuscript hook | Page 3, Page 03, Mallow Waits in the Rain, Mallow reveal, ancient manuscript hook |
 | `page-03-art-direction-lock.md` | Page 3 production-facing visual lock | Page 3 art direction, Tin Burrow reveal, mobile hab reveal, Girasol Gold glimmer |
+| `page-04-script.md` | Page 4 comic script, manuscript reaction and first Index Orchid clue | Page 4, Page 04, The Book Blooms Back, Index Orchid clue, black-glass orchid |
+| `page-04-art-direction-lock.md` | Page 4 production-facing visual lock | Page 4 art direction, hand level manuscript, hidden manuscript lines, Girasol Gold hidden lines |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -85,6 +87,22 @@ Aeonolacertian manuscript
 Girasol Gold glimmer
 Ledger Falls timber-margin yard
 MALLOW name detail
+Page 04
+Page 4
+The Book Blooms Back
+Index Orchid clue
+black-glass orchid
+first Index Orchid clue
+Kuker-Rankin sight glass
+hand level manuscript
+manuscript reaction
+Aeonolacertian manuscript reaction
+hidden manuscript lines
+Girasol Gold hidden lines
+First Objective Black-Glass Orchid
+Do Not Map The Bloom
+Observed Not Located
+Black Root Glass Vein Low Water
 ```
 
 ---
@@ -208,6 +226,7 @@ inside back cover checklist
 
 ```text
 Index Orchid
+black-glass orchid
 Pygmy Pale Burdenback
 Buckle
 Buckley
@@ -279,6 +298,9 @@ hidden Girasol antlers
 negative-space antlers
 misregistered spot color
 rough paper texture
+manuscript gold thread
+black-glass flower drawing
+rainy hab interior
 ```
 
 ---
@@ -290,6 +312,7 @@ Ashcan package locked.
 Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Page 3 script and art-direction lock saved.
+Page 4 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -298,7 +321,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 04 script and art direction
+1. Page 05 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
