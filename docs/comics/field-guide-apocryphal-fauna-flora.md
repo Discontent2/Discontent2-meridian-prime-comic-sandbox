@@ -24,6 +24,8 @@ Cover current direction lock: **The Tin Burrow at the Forest Edge**, with Thor, 
 
 Page 3 current direction lock: **Mallow Waits in the Rain**, with Thor returning to Mallow in a rainy Ledger Falls timber-margin yard, revealing the mobile hab interior, and unwrapping the ancient Aeonolacertian manuscript as a faint Girasol Gold thread appears between the pages.
 
+Page 4 current direction lock: **The Book Blooms Back**, with Thor using the Kuker-Rankin hand level as a sight glass over the manuscript, causing hidden Girasol Gold lines to bloom around a partial black-glass orchid drawing and revealing the first Index Orchid clue without decoding the book.
+
 The first production artifact is locked as:
 
 ```text
@@ -75,6 +77,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-script.
 docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-03-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-03-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-04-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-04-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -136,6 +140,19 @@ mobile hab
 Thor mobile lab
 Ledger Falls timber-margin utility cat
 Buzz-Mule dock
+Page 04
+Page 4
+The Book Blooms Back
+Index Orchid clue
+black-glass orchid
+first Index Orchid clue
+Kuker-Rankin sight glass
+hand level manuscript
+manuscript reaction
+Aeonolacertian manuscript reaction
+hidden manuscript lines
+Girasol Gold hidden lines
+First Objective Black-Glass Orchid
 Page 03
 Page 3
 Mallow Waits in the Rain
@@ -174,6 +191,7 @@ Ashcan package locked.
 Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Page 3 script and art-direction lock saved.
+Page 4 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
