@@ -28,6 +28,8 @@ Page 4 current direction lock: **The Book Blooms Back**, with Thor using the Kuk
 
 Page 5 current direction lock: **The First Objective**, with Thor turning the manuscript's black-glass orchid clue into a field objective, loading Mallow in the rain, starting the crawler, and leaving Ledger Falls believing he is only chasing a plant.
 
+Page 6 current direction lock: **The Road Takes Notes**, with Mallow stopping inches before crushing a tiny black-glass orchid in a muddy roadside rut while Thor documents the location too carefully and the road behind him begins to resemble a living map taking notes back.
+
 The first production artifact is locked as:
 
 ```text
@@ -83,6 +85,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-04-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-04-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-05-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-05-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-06-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-06-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -144,6 +148,21 @@ mobile hab
 Thor mobile lab
 Ledger Falls timber-margin utility cat
 Buzz-Mule dock
+Page 06
+Page 6
+The Road Takes Notes
+first road omen
+road omen
+Index Orchid roadside specimen
+black-glass orchid roadside
+Marker 17
+Low Water Takes What It Is Owed
+Mallow road omen
+field crawler road omen
+Thor documents the orchid
+first careless field note
+Observed not taken
+who else can read a field note
 Page 05
 Page 5
 The First Objective
@@ -211,6 +230,7 @@ Page 2 false field plate script and art-direction lock saved.
 Page 3 script and art-direction lock saved.
 Page 4 script and art-direction lock saved.
 Page 5 script and art-direction lock saved.
+Page 6 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
