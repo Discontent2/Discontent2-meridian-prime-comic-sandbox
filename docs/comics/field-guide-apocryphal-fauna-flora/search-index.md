@@ -58,6 +58,8 @@ The Girasol Pages
 | `page-05-art-direction-lock.md` | Page 5 production-facing visual lock | Page 5 art direction, Mallow ignition, field crawler departure, first lie caption |
 | `page-06-script.md` | Page 6 comic script, first road omen and roadside orchid specimen | Page 6, Page 06, The Road Takes Notes, first road omen, Index Orchid roadside specimen |
 | `page-06-art-direction-lock.md` | Page 6 production-facing visual lock | Page 6 art direction, road takes notes back, Marker 17, black-glass orchid roadside visual |
+| `page-07-script.md` | Page 7 comic script, first consequence of documentation | Page 7, Page 07, A Flag Is Also a Beacon, field flag beacon, copied field note |
+| `page-07-art-direction-lock.md` | Page 7 production-facing visual lock | Page 7 art direction, Do Not Collect tag, anonymous gloved hand, field note becomes bait |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -138,6 +140,23 @@ Observed not taken
 who else can read a field note
 road takes notes back
 road becomes a page
+Page 07
+Page 7
+A Flag Is Also a Beacon
+field flag beacon
+first consequence
+careless documentation consequence
+Thor marker mistake
+Do Not Collect tag
+Observed Do Not Collect
+M17 + 1.7 Low Rut
+warning is still a sign
+signs are made to be followed
+copied field note
+black-glass orchid copied note
+someone reads Thor's field note
+anonymous gloved hand
+field note becomes bait
 ```
 
 ---
@@ -266,6 +285,7 @@ Index Orchid
 black-glass orchid
 black-glass orchid roadside
 Index Orchid roadside specimen
+black-glass orchid copied note
 Pygmy Pale Burdenback
 Buckle
 Buckley
@@ -345,6 +365,11 @@ first expedition departure
 roadside rut orchid
 Marker 17 sign cluster
 road becomes a page
+wet field flag
+Do Not Collect tag visual
+anonymous boot and glove
+copied note visual
+field note becomes bait
 ```
 
 ---
@@ -359,6 +384,7 @@ Page 3 script and art-direction lock saved.
 Page 4 script and art-direction lock saved.
 Page 5 script and art-direction lock saved.
 Page 6 script and art-direction lock saved.
+Page 7 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -367,7 +393,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 07 script and art direction
+1. Page 08 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
