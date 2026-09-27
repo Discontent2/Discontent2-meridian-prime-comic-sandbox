@@ -16,6 +16,8 @@ Use any of these search terms to find this project:
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
 Thor Fortner
+Buckle
+Buckley
 Field Guide ashcan
 Explorer comic
 Modern ashcan
@@ -32,13 +34,14 @@ The Girasol Pages
 
 | File | Purpose | Search Terms |
 |---|---|---|
-| `README.md` | Project landing page, current stage, file index, search aliases | README, Field Guide, Observed Not Owned, Thor Fortner |
+| `README.md` | Project landing page, current stage, file index, search aliases | README, Field Guide, Observed Not Owned, Thor Fortner, Buckle |
 | `ashcan-package-lock.md` | Official ashcan package lock: 12 pages, black and white, heavy black inks, A/B/C/D spot color system | package lock, 12-page ashcan, Girasol Gold, spot color |
 | `concept-lock.md` | Main synopsis, Thor Fortner, vehicle, manuscript, Buckle, Girasol, hero's journey, 12 percent Traverse rule | concept lock, Thor Fortner, Buckle, solo crawler, Girasol |
-| `creature-biome-roster.md` | Nine motif-organisms, symbolic roles, biomes, creature functions | creature roster, Index Orchid, Gift-Pod, Nightwake, Lung Lichen |
+| `creature-biome-roster.md` | Nine motif-organisms, symbolic roles, biomes, creature functions | creature roster, Index Orchid, Gift-Pod, Nightwake, Lung Lichen, Buckle |
 | `ashcan-art-direction-sheet.md` | Heavy black ink art direction, color system, cover direction, reference-feel translation | art direction, heavy black inks, Acid Magenta, Rust Red, Lichen Green, Girasol Gold |
 | `ashcan-12-page-beat-sheet.md` | Full 12-page ashcan beat structure | beat sheet, ashcan pages, page breakdown |
 | `thor-fortner-character-sheet.md` | Thor Fortner visual, costume, gear, voice, flaw, and character-arc lock | Thor character sheet, flat cap, motoring goggles, Kuker-Rankin hand level |
+| `buckle-character-sheet.md` | Buckle / Buckley visual, species, behavior, White Elephant function, and Thor relationship lock | Buckle character sheet, Buckley, Pygmy Pale Burdenback, failed pack animal |
 | `page-01-script.md` | Page 1 comic script, Ledger Falls cold open | Page 1, The Forest Becomes Cargo, Ledger Falls |
 | `page-01-art-direction-lock.md` | Page 1 production-facing visual lock | Page 1 art direction, permit-stamp machine, hidden antler fog |
 | `page-02-false-field-plate-script.md` | Page 2 false field plate script, nine-organism visual roster | Page 2, False Field Plate, Apocryphal Plate I |
@@ -66,7 +69,23 @@ Kuker-Rankin hand level
 hand level sight glass
 field-naturalist costume
 Buckle
+Buckley
+Buckle character sheet
+Buckley character sheet
 Pygmy Pale Burdenback
+Pale Burdenback
+Thor's pet
+Thor Fortner animal companion
+White Elephant creature
+failed pack animal
+undergrown pack animal
+future pack animal
+pygmy hippo tapir rhino
+hippo rhino tapir creature
+compact wetland tank
+environmental warning animal
+Buckle and e-bike
+Buzz-Mule setup
 The Tin Burrow
 Mallow
 Thor's crawler
@@ -81,6 +100,8 @@ Ledger Falls supply counter
 ```text
 Index Orchid
 Pygmy Pale Burdenback
+Buckle
+Buckley
 Girasol
 Crimson Glass Salamander
 Gift-Pod
@@ -137,6 +158,12 @@ black ink silhouette
 flat cap silhouette
 motoring goggles silhouette
 hand level prop
+Buckle silhouette
+pale animal in black ink
+pygmy hippo body
+tapir snout
+rhino calf stance
+undergrown burden ridge
 ```
 
 ---
@@ -150,16 +177,17 @@ Ashcan package locked.
 Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Thor Fortner character sheet saved.
+Buckle character sheet saved.
 ```
 
 Recommended next deliverables:
 
-1. Buckle character sheet
-2. Field crawler vehicle sheet
-3. Cover direction sheet
-4. Page 03 script and art direction
-5. Creature silhouette plate rough layout
-6. Thor visual pose sheet
+1. Field crawler vehicle sheet
+2. Cover direction sheet
+3. Page 03 script and art direction
+4. Creature silhouette plate rough layout
+5. Thor visual pose sheet
+6. Buckle pose / expression sheet
 
 ---
 
