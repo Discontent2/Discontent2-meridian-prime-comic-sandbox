@@ -16,6 +16,8 @@ The project follows **Thor Fortner**, a young field-naturalist from **Ledger Fal
 
 Thor's current character lock: a machine-age explorer-romantic with a dark flat cap / driving cap, early motoring goggles on top, weathered field jacket, scarf, boots, cross-body satchel, and a beloved Kuker-Rankin hand level used as a sight glass.
 
+Buckle's current character lock: a pygmy Pale Burdenback sold as a future pack animal but kept as a pet after he never grows into working stock: a small pale hippo-rhino-tapir-like wetland animal with a barrel body, flexible snout, thick hide, underdeveloped burden ridge, and environmental warning instincts.
+
 The first production artifact is locked as:
 
 ```text
@@ -58,6 +60,7 @@ docs/comics/field-guide-apocryphal-fauna-flora/creature-biome-roster.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-art-direction-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/ashcan-12-page-beat-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/thor-fortner-character-sheet.md
+docs/comics/field-guide-apocryphal-fauna-flora/buckle-character-sheet.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-01-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-02-false-field-plate-script.md
@@ -84,7 +87,19 @@ early motoring goggles
 Kuker-Rankin hand level
 hand level sight glass
 Buckle
+Buckley
+Buckle character sheet
 Pygmy Pale Burdenback
+Pale Burdenback
+White Elephant creature
+failed pack animal
+undergrown pack animal
+pygmy hippo tapir rhino
+hippo rhino tapir creature
+compact wetland tank
+Thor's pet
+environmental warning animal
+Buckle and e-bike
 Girasol
 Index Orchid
 Gift-Pod
@@ -112,6 +127,7 @@ Ashcan package locked.
 Page 1 script and art-direction lock saved.
 Page 2 false field plate script and art-direction lock saved.
 Thor Fortner character sheet saved.
+Buckle character sheet saved.
 Search index updated.
 ```
 
