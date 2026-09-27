@@ -14,6 +14,7 @@
 Field Guide to Apocryphal Meridian Prime Fauna and Flora
 Observed, Not Owned
 Observed Not Owned cover
+Observed Not Owned final page
 Thor Fortner
 Buckle
 Buckley
@@ -68,6 +69,8 @@ The Girasol Pages
 | `page-10-art-direction-lock.md` | Page 10 production-facing visual lock | Page 10 art direction, Buckle sleeps by stove, Lung Lichen tin glow, Lichen Green hab interior |
 | `page-11-script.md` | Page 11 comic script, missing orchid consequence and moral correction | Page 11, The Flag Found Someone, missing black-glass orchid, Location withheld setup |
 | `page-11-art-direction-lock.md` | Page 11 production-facing visual lock | Page 11 art direction, bent field flag, copied field note, Rust Red copied note, field note redaction |
+| `page-12-script.md` | Page 12 comic script, final ethical vow and location redaction | Page 12, Observed Not Owned page, Location Withheld ending, Actual use friend |
+| `page-12-art-direction-lock.md` | Page 12 production-facing visual lock | Page 12 art direction, final field guide stamp, Girasol hint ending, Do Not Map The Bloom |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -233,6 +236,20 @@ Buckle presses forehead
 Thor redacts location
 field note redaction
 ethical wound page
+Page 12
+Page 12 script
+Observed Not Owned page
+Location Withheld ending
+Ashcan final page
+Thor redacts location
+Do Not Map The Bloom
+A guide is not a key
+Actual use friend
+Buckle actual use friend
+Girasol hint ending
+final field guide stamp
+OBSERVED NOT OWNED LOCATION WITHHELD
+The Cave That Breathed waits beyond the erased road
 ```
 
 ---
@@ -265,6 +282,8 @@ Buckle sleeps by stove
 Buckle hab chaos
 Buckle notices bad air
 Buckle presses forehead
+Buckle actual use friend
+Buckle final page
 Buckle character sheet
 Buckley character sheet
 Pygmy Pale Burdenback
@@ -344,6 +363,7 @@ field crawler road omen
 low-water culvert
 cramped hab interior
 Marker 17 return
+Mallow under the unmapped world
 ```
 
 ---
@@ -370,6 +390,8 @@ Lichen Green page
 Lichen Green hab interior
 animal notices before instrument
 Girasol
+Girasol hint ending
+hidden Girasol antlers
 Crimson Glass Salamander
 Gift-Pod
 Nightwake
@@ -403,6 +425,8 @@ low-water culvert
 roadside culvert
 Marker 17
 M17 + 1.7 LOW RUT
+Location Withheld
+Do Not Map The Bloom
 ```
 
 ---
@@ -472,6 +496,10 @@ Thor compares notes
 Thor removes marker
 Location withheld redaction
 field note redaction art
+final field guide stamp art
+Observed Not Owned final art
+Actual use friend art
+Girasol hint ending art
 ```
 
 ---
@@ -491,6 +519,7 @@ Page 8 script and art-direction lock saved.
 Page 9 script and art-direction lock saved.
 Page 10 script and art-direction lock saved.
 Page 11 script and art-direction lock saved.
+Page 12 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -499,12 +528,12 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 12 script and art direction
-2. Creature silhouette plate rough layout
-3. Thor visual pose sheet
-4. Buckle pose / expression sheet
-5. Field crawler cutaway / design sheet
-6. Cover thumbnail roughs
+1. Creature silhouette plate rough layout
+2. Thor visual pose sheet
+3. Buckle pose / expression sheet
+4. Field crawler cutaway / design sheet
+5. Cover thumbnail roughs
+6. Full ashcan production packet / print assembly checklist
 
 ---
 
