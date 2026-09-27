@@ -60,6 +60,8 @@ The Girasol Pages
 | `page-06-art-direction-lock.md` | Page 6 production-facing visual lock | Page 6 art direction, road takes notes back, Marker 17, black-glass orchid roadside visual |
 | `page-07-script.md` | Page 7 comic script, first consequence of documentation | Page 7, Page 07, A Flag Is Also a Beacon, field flag beacon, copied field note |
 | `page-07-art-direction-lock.md` | Page 7 production-facing visual lock | Page 7 art direction, Do Not Collect tag, anonymous gloved hand, field note becomes bait |
+| `page-08-script.md` | Page 8 comic script, first fringe stop and Buckle introduction | Page 8, Page 08, Growth Expected No Returns, Buckle introduction, Pygmy Pale Burdenback sale |
+| `page-08-art-direction-lock.md` | Page 8 production-facing visual lock | Page 8 art direction, Low Water Feed and Field Supply, Buckle sale-tag reveal, no returns tag |
 | `candidate-canon-parking-lot.md` | Sandbox inventions that may later deserve canon review | candidate canon, sandbox parking lot |
 | `search-index.md` | This file | search index, findability |
 
@@ -157,6 +159,27 @@ black-glass orchid copied note
 someone reads Thor's field note
 anonymous gloved hand
 field note becomes bait
+Page 08
+Page 8
+Growth Expected No Returns
+Buckle introduction
+Buckley introduction
+first Buckle page
+Pygmy Pale Burdenback sale
+Pale Burdenback juvenile
+pack stock growth expected
+no returns tag
+Low Water Feed and Field Supply
+fringe feed stop
+animal feed stop
+not here Low Road gets the machines
+Buckle not e-bike location
+Thor buys Buckle
+Projected pack utility delayed
+Temperament expensive
+White Elephant companion enters
+Buckle inside Mallow
+Buckle in rear hab
 ```
 
 ---
@@ -180,20 +203,25 @@ hand level sight glass
 field-naturalist costume
 Buckle
 Buckley
+Buckle introduction
 Buckle character sheet
 Buckley character sheet
 Pygmy Pale Burdenback
 Pale Burdenback
 Thor's pet
 White Elephant creature
+White Elephant companion enters
 failed pack animal
 undergrown pack animal
 future pack animal
+pack stock growth expected
+no returns tag
 pygmy hippo tapir rhino
 hippo rhino tapir creature
 compact wetland tank
 environmental warning animal
 Buckle and e-bike
+Buckle not e-bike location
 Buzz-Mule setup
 Mirecat
 Mallow
@@ -204,6 +232,7 @@ Thor vehicle
 Thor mobile lab
 solo field crawler
 Ledger Falls supply counter
+Low Water Feed and Field Supply
 ```
 
 ---
@@ -232,6 +261,8 @@ Ledger Falls timber-margin utility cat
 repurposed logging vehicle
 Buckle nest
 Buckle zone
+Buckle inside Mallow
+Buckle in rear hab
 Buzz-Mule dock
 e-bike rack
 Mallow field crawler
@@ -287,6 +318,8 @@ black-glass orchid roadside
 Index Orchid roadside specimen
 black-glass orchid copied note
 Pygmy Pale Burdenback
+Pale Burdenback juvenile
+Pale Burdenback sale
 Buckle
 Buckley
 Girasol
@@ -305,6 +338,21 @@ Black Swan creature
 Canary in the Coal Mine organism
 Sacred Cow creature
 Paper Tiger creature
+```
+
+---
+
+## Location / Stop Search Terms
+
+```text
+Low Water Feed and Field Supply
+fringe feed stop
+animal feed stop
+field supply stop
+NO MAP REFUNDS
+salt moss filters tack dry paper
+Low Road gets the machines
+not here Low Road gets the machines
 ```
 
 ---
@@ -370,6 +418,10 @@ Do Not Collect tag visual
 anonymous boot and glove
 copied note visual
 field note becomes bait
+fringe feed stop visual
+Buckle sale tag visual
+GROWTH EXPECTED NO RETURNS visual
+Buckle inside Mallow visual
 ```
 
 ---
@@ -385,6 +437,7 @@ Page 4 script and art-direction lock saved.
 Page 5 script and art-direction lock saved.
 Page 6 script and art-direction lock saved.
 Page 7 script and art-direction lock saved.
+Page 8 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
@@ -393,7 +446,7 @@ Cover direction sheet saved.
 
 Recommended next deliverables:
 
-1. Page 08 script and art direction
+1. Page 09 script and art direction
 2. Creature silhouette plate rough layout
 3. Thor visual pose sheet
 4. Buckle pose / expression sheet
