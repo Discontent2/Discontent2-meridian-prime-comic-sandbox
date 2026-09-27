@@ -38,6 +38,8 @@ Page 9 current direction lock: **Buckley Refuses the Air**, with Buckle creating
 
 Page 10 current direction lock: **Projected Pack Utility: None**, with Buckle turning Mallow's rear hab into domestic chaos while a Lung Lichen tin glows faintly green, forcing Thor to revise Buckle from failed pack utility to possible environmental warning animal.
 
+Page 11 current direction lock: **The Flag Found Someone**, with Thor returning to the roadside orchid site and finding the black-glass orchid gone, his protective field flag bent into a beacon, and his own location note copied onto a more dangerous scrap before he redacts the site from his field guide.
+
 The first production artifact is locked as:
 
 ```text
@@ -103,6 +105,8 @@ docs/comics/field-guide-apocryphal-fauna-flora/page-09-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-09-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-10-script.md
 docs/comics/field-guide-apocryphal-fauna-flora/page-10-art-direction-lock.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-11-script.md
+docs/comics/field-guide-apocryphal-fauna-flora/page-11-art-direction-lock.md
 docs/comics/field-guide-apocryphal-fauna-flora/candidate-canon-parking-lot.md
 docs/comics/field-guide-apocryphal-fauna-flora/search-index.md
 ```
@@ -121,14 +125,21 @@ Pygmy Pale Burdenback
 Mirecat
 Mallow
 The Tin Burrow
+Page 11
+The Flag Found Someone
+missing black-glass orchid
+Index Orchid gone
+field flag consequence
+protective marker becomes beacon
+copied field note consequence
+Location withheld setup
+first moral correction
+field note redaction
 Page 10
 Projected Pack Utility None
 Buckle hab chaos
 Buckle sleeps by stove
 Lung Lichen tin glow
-Lichen Green hab interior
-Thor revises Buckle note
-Individual name Buckle
 Page 09
 Buckley Refuses the Air
 Buckle first travel problem
@@ -154,6 +165,7 @@ Modern ashcan
 Heavy black inks
 Girasol Gold
 Lichen Green
+Rust Red
 ```
 
 ---
@@ -172,6 +184,7 @@ Page 7 script and art-direction lock saved.
 Page 8 script and art-direction lock saved.
 Page 9 script and art-direction lock saved.
 Page 10 script and art-direction lock saved.
+Page 11 script and art-direction lock saved.
 Thor Fortner character sheet saved.
 Buckle character sheet saved.
 Field crawler vehicle sheet saved.
