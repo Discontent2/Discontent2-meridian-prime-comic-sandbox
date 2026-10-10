@@ -101,6 +101,8 @@
 
 | Tag | Entry | File | Notes |
 |---|---|---|---|
+| `kprm-tv-channel-13` | KPRM-TV Channel 13 | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Proposed nostalgic television broadcaster for special; fictional production packaging, not canonized infrastructure |
+| `kprm-channel-13` | KPRM-TV Channel 13 | `docs/media/README.md` | Station identification and Halloween programming link |
 | `the-thirteenth-gust` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Original Halloween stop-motion short; in-universe Meridian Prime broadcast concept |
 | `meridian-prime-halloween-special` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Seasonal special / television programming lookup |
 | `in-universe-broadcast` | Meridian Prime Media | `docs/media/README.md` | Index for fictional programming viewed within Meridian Prime |
