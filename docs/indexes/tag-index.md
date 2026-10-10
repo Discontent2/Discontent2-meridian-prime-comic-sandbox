@@ -96,3 +96,23 @@
 | `dry-gate-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define Dry Gate truth |
 | `core-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define the Core |
 | `book-one-guardrail` | Dragulies, Craton Geodeums, Mech Geodeums, Stonejaw's Lift Rig, Craton Mech Culture | Does not define Book One answers |
+
+## Broadcast and Media Tags
+
+| Tag | Entry | File | Notes |
+|---|---|---|---|
+| `the-thirteenth-gust` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Original Halloween stop-motion short; in-universe Meridian Prime broadcast concept |
+| `meridian-prime-halloween-special` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Seasonal special / television programming lookup |
+| `in-universe-broadcast` | Meridian Prime Media | `docs/media/README.md` | Index for fictional programming viewed within Meridian Prime |
+| `halloween-broadcast` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Late-night seasonal television special |
+| `stop-motion-halloween` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Handmade puppet animation format |
+| `thren` | Thren, the Hollow Gale | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Original fictional wind guardian inside televised fairy tale |
+| `hollow-gale` | Thren | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Original wind spirit's epithet |
+| `skritches` | The Skritches | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Original grotesque little woodland terrors |
+| `grum-vell` | Grum Vell | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Skritch chief and bottle plot antagonist |
+| `twick` | Twick | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Young Skritch protagonist |
+| `the-hush` | The Hush | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Supernatural cessation of sound and motion in the show |
+| `thirteen-gusts` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Seasonal wind rite within the fictional story |
+| `midjourney-flow-capcut-suno` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Stills, eight-second video, editing, original score workflow |
+
+**Media lookup:** [Meridian Prime media index](../media/README.md) · [The Thirteenth Gust treatment](../media/halloween/the-thirteenth-gust-broadcast-special.md).
