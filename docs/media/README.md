@@ -8,7 +8,7 @@
 
 | Title | File | Format / Audience | Status | Lookup |
 |---|---|---|---|---|
-| **The Thirteenth Gust** | [Halloween Broadcast Special](halloween/the-thirteenth-gust-broadcast-special.md) | Original gothic stop-motion Halloween television special, potentially broadcast to a Meridian Prime audience | Story treatment and 30-shot production map; adaptation-only, non-canon in-world fiction | Thren, Hollow Gale, Skritches, Grum Vell, Twick, The Hush, thirteen gusts, Midjourney, Flow, CapCut, Suno |
+| **The Thirteenth Gust** | [Halloween Broadcast Special](halloween/the-thirteenth-gust-broadcast-special.md) | Original gothic stop-motion Halloween special, packaged as **KPRM-TV Channel 13** late-night programming | Story treatment, 30-shot production map, and station identity; adaptation-only in-world fiction | Thren, Hollow Gale, Skritches, Grum Vell, Twick, The Hush, thirteen gusts, Midjourney, Flow, CapCut, Suno |
 
 ## Other Media Development
 
@@ -17,13 +17,20 @@
 - **Television anthology episode pitches:** [../development/tv-episode-pitches.md](../development/tv-episode-pitches.md).
 - **Short-film treatments:** [../development/short-film-treatments.md](../development/short-film-treatments.md).
 
+## KPRM-TV Channel 13 — Production Branding
+
+**Station ID:** KPRM-TV Channel 13  
+**Slogan:** *Yesterday's Magic. Tonight.*  
+**Seasonal banner:** *KPRM Channel 13 Presents: The Thirteenth Gust.*  
+**Continuity:** Proposed television extension of the previously discussed KPRM oldies identity. Locked for this special's production packaging, not yet established as canon transmission infrastructure.
+
 ## The Thirteenth Gust in One Sentence
 
 A quarrelsome clan of tiny monsters captures the wind that ends Halloween, only to unleash a silence that threatens to freeze their entire world, forcing their smallest member to restore the stolen gust.
 
 ## Search Aliases
 
-Meridian Prime media, Meridian Prime Halloween, Halloween broadcast, Halloween television special, October special, The Thirteenth Gust, Thirteenth Gust, seasonal television, in-universe television, in-world fiction, stop motion short, stop-motion Halloween, Halloween puppet special, Thren, the Hollow Gale, Skritches, Grum Vell, Twick, The Hush, gothic fairy tale, vintage puppet animation, Midjourney stills, Flow video, CapCut editor, Suno soundtrack.
+Meridian Prime media, KPRM-TV, KPRM Channel 13, KPRM-TV 13, Yesterday's Magic Tonight, Meridian Prime Halloween, Halloween broadcast, Halloween television special, October special, The Thirteenth Gust, Thirteenth Gust, seasonal television, in-universe television, in-world fiction, stop motion short, stop-motion Halloween, Halloween puppet special, Thren, the Hollow Gale, Skritches, Grum Vell, Twick, The Hush, gothic fairy tale, vintage puppet animation, Midjourney stills, Flow video, CapCut editor, Suno soundtrack.
 
 ## Media / Canon Rule
 
