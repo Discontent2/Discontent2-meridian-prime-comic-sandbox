@@ -13,19 +13,39 @@
 
 ## Find / Search Terms
 
-The Thirteenth Gust; Thirteenth Gust; Meridian Prime Halloween special; Meridian Prime Halloween broadcast; in-universe television; in-world entertainment; stop-motion Halloween; holiday TV special; seasonal broadcast; Autumn programming; Thren; Hollow Gale; Skritches; Grum Vell; Twick; The Hush; thirteen gusts; Midjourney; Flow; CapCut; Suno; vintage puppet animation; dark fairy tale; animation production; Halloween anthology.
+The Thirteenth Gust; Thirteenth Gust; KPRM-TV; KPRM Channel 13; KPRM-TV 13; Yesterday's Magic Tonight; Meridian Prime Halloween special; Meridian Prime Halloween broadcast; in-universe television; in-world entertainment; stop-motion Halloween; holiday TV special; seasonal broadcast; Autumn programming; Thren; Hollow Gale; Skritches; Grum Vell; Twick; The Hush; thirteen gusts; Midjourney; Flow; CapCut; Suno; vintage puppet animation; dark fairy tale; animation production; Halloween anthology.
 
 ## Meridian Prime Broadcast Wrapper
 
 **Premise:** A strange, much-loved and slightly alarming four-minute Halloween puppet special, the kind of rerun a station might transmit during late-night seasonal programming. It could be watched by Prime Ops residents, on a common-room screen, or by a winter-over traverse crew from a local recording. The audience is inside Meridian Prime, while the story itself takes place in a *fictional illustrated fairy-tale world*, not a confirmed location on Meridian Prime.
 
 - **Delivery:** In-universe broadcast or rebroadcast / locally saved program reel.
-- **Station / network:** To be decided. Do **not** assign an existing broadcaster without a continuity check.
+- **Production station choice:** **KPRM-TV Channel 13**, a proposed nostalgic television counterpart to the already-discussed KPRM oldies radio identity. **Locked for this short's broadcast packaging, not yet asserted as main-world canonical station infrastructure.**
 - **In-universe transmission date or imported holiday calendar:** To be decided. Do not establish planetary calendars through this pitch.
-- **Potential opening packaging:** A slightly warped station ident, tube-TV flicker, hand-lettered title card, then the special. Packaging may be added later and must not silently increase the locked four-minute story runtime.
-- **Potential closing packaging:** A short scratchy announcer sign-off, a test-pattern/late-night weather transition, or the next program starting abruptly. Optional, pending the format decision.
+- **Opening packaging:** Vintage KPRM-TV 13 station ident with a gold rotating numeral **13**, cobalt starfield, gentle analog interference, brass-and-celesta fanfare, warm elderly announcer, then a dissolve into the miniature graveyard. Ident duration is separate from the four-minute story unless an edit budget is deliberately revised.
+- **Closing packaging:** Optional KPRM Channel 13 sign-off over slight CRT static, worn station chimes, or the next scheduled late-night program. Station presentation should remain modest and convincingly local.
 - **Canon boundary:** Thren, Skritches, and The Hush are characters within a televised fantasy. Their magical rules do not imply an actual planetary wind system or ancient supernatural species on Meridian Prime.
-- **Character/cross-over boundary:** Do not use Tenet Nocsid, the Corp, known stations, or a real-world holiday origin as plot explanations without separate review.
+- **Character/cross-over boundary:** Do not use Tenet Nocsid, the Corp, or a real-world holiday origin as plot explanations without separate review. KPRM-TV is a *proposed entertainment branding extension* of a previously discussed KPRM oldies identity; any implications about a real network, licensing, station history, transmitter or broadcast territory require separate continuity review.
+
+## Station Identity — KPRM-TV Channel 13 (Production Lock)
+
+**On-screen identity:** KPRM-TV Channel 13  
+**Spoken identity:** KPRM, Channel Thirteen  
+**Station slogan:** *Yesterday's Magic. Tonight.*  
+**Optional supporting line:** *Bringing a little wonder to the long Meridian night.*  
+**Halloween programming banner:** *KPRM Channel 13 Presents: The Thirteenth Gust.*
+
+**Brand personality:** A modest, nostalgic, slightly eccentric oldies-and-seasonal-specials broadcaster serving in-world viewers. Its late-night programming might include forgotten puppet specials, old cartoons, monster movies, local announcements, and station weather updates. These are *proposed programming flavor*, not an approved canonical schedule.
+
+**Visual ident:** Gold beveled number 13 rotating slowly over a cobalt blue painted starfield; lightly misregistered analog graphics and harmless CRT horizontal distortion; brass-and-celesta station chime. Visuals should evoke independently created local broadcast package design, not reproduce a known network ident.
+
+**Opening announcer draft:**
+
+> "From the heart of Meridian Prime, you're watching KPRM, Channel Thirteen. And now, a Halloween story for those who haven't gone to bed."
+
+**Delivery to the movie:** The numeral 13 fades and the stars dissolve into the title's violet miniature cemetery under a moon. Keep the station ident as optional pre-roll so the 30 x 8-second film remains a four-minute story.
+
+**Continuity status:** Production decision for this *fictional broadcast artifact*. KPRM-TV should not be treated as an established canon station outside this short until the main Meridian Prime media/broadcast references are reconciled.
 
 ## Creative References and Research Conclusions
 
@@ -238,4 +258,5 @@ The public-domain 1902 Baum source may inform general folklore study in the Unit
 - **Central conflict:** Skritches steal the final wind of Halloween; total silence spreads; Twick gives back the wind.
 - **Final line:** 'Next year, we use a bigger bottle.'
 - **Production apps:** ChatGPT, Midjourney, Flow, CapCut, Suno.
+- **Fictional broadcaster (production decision):** KPRM-TV Channel 13, *Yesterday's Magic. Tonight.*
 - **Status:** Story treatment and shot map complete; assets / soundtrack / footage not yet made.
