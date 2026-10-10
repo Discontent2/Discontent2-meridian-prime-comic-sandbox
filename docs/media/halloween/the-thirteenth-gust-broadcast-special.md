@@ -22,7 +22,7 @@ The Thirteenth Gust; Thirteenth Gust; KPRM-TV; KPRM Channel 13; KPRM-TV 13; Yest
 - **Delivery:** In-universe broadcast or rebroadcast / locally saved program reel.
 - **Production station choice:** **KPRM-TV Channel 13**, a proposed nostalgic television counterpart to the already-discussed KPRM oldies radio identity. **Locked for this short's broadcast packaging, not yet asserted as main-world canonical station infrastructure.**
 - **In-universe transmission date or imported holiday calendar:** To be decided. Do not establish planetary calendars through this pitch.
-- **Opening packaging:** Vintage KPRM-TV 13 station ident with a gold rotating numeral **13**, cobalt starfield, gentle analog interference, brass-and-celesta fanfare, warm elderly announcer, then a dissolve into the miniature graveyard. Ident duration is separate from the four-minute story unless an edit budget is deliberately revised.
+- **Opening packaging (COMPLETED 2026-10-10):** [KPRM-TV 13 Halloween Ident V1, approved](kprm-tv-13-halloween-ident-v1-approved.md). Final composite: approximately **21.94 seconds**, vertical **9:16**, **720 x 1280**, **30 fps**. The blue-violet star forms a gold orbital Meridian Beacon, unfolds into a neon triangular transmission corridor with KPRM-TV 13 lettering, then transforms into a foggy miniature cemetery beneath a violet moon. This **approved 21.94-second station ident is separate from the four-minute story runtime**. The file is documented in the repo; MP4 binary has not been uploaded to GitHub.
 - **Closing packaging:** Optional KPRM Channel 13 sign-off over slight CRT static, worn station chimes, or the next scheduled late-night program. Station presentation should remain modest and convincingly local.
 - **Canon boundary:** Thren, Skritches, and The Hush are characters within a televised fantasy. Their magical rules do not imply an actual planetary wind system or ancient supernatural species on Meridian Prime.
 - **Character/cross-over boundary:** Do not use Tenet Nocsid, the Corp, or a real-world holiday origin as plot explanations without separate review. KPRM-TV is a *proposed entertainment branding extension* of a previously discussed KPRM oldies identity; any implications about a real network, licensing, station history, transmitter or broadcast territory require separate continuity review.
@@ -37,15 +37,26 @@ The Thirteenth Gust; Thirteenth Gust; KPRM-TV; KPRM Channel 13; KPRM-TV 13; Yest
 
 **Brand personality:** A modest, nostalgic, slightly eccentric oldies-and-seasonal-specials broadcaster serving in-world viewers. Its late-night programming might include forgotten puppet specials, old cartoons, monster movies, local announcements, and station weather updates. These are *proposed programming flavor*, not an approved canonical schedule.
 
-**Visual ident:** Gold beveled number 13 rotating slowly over a cobalt blue painted starfield; lightly misregistered analog graphics and harmless CRT horizontal distortion; brass-and-celesta station chime. Visuals should evoke independently created local broadcast package design, not reproduce a known network ident.
+**Visual ident (final approved):** A blue-violet eight-point star draws a copper-gold orbital Meridian Beacon around a pointed vertical spire, which unfolds into a luminous triangular transmission corridor, with readable KPRM-TV 13 lettering. The final Halloween takeover replaces electronic lines with crooked graveyard trees under a giant violet moon. Analog optical effects and nostalgic television texture, not a reproduction of an existing network ident. See [approved V1 production record](kprm-tv-13-halloween-ident-v1-approved.md).
 
-**Opening announcer draft:**
+**Approved station ident announcer line:**
 
-> "From the heart of Meridian Prime, you're watching KPRM, Channel Thirteen. And now, a Halloween story for those who haven't gone to bed."
+> "You are now tuned in to KPRM-TV 13."
 
-**Delivery to the movie:** The numeral 13 fades and the stars dissolve into the title's violet miniature cemetery under a moon. Keep the station ident as optional pre-roll so the 30 x 8-second film remains a four-minute story.
+Voice direction: reassuring, measured, weather-channel-style male broadcast presenter. This replaces the earlier longer station announcement in the approved V1 production plan.
+
+**Delivery to the movie:** The colorful electronic triangle distorts and becomes crooked trees and violet-moon miniature cemetery. Approved V1 ends there. Keep the station ident as optional pre-roll so the 30 x 8-second film remains a four-minute story. The Halloween short itself has **not** yet been produced.
 
 **Continuity status:** Production decision for this *fictional broadcast artifact*. KPRM-TV should not be treated as an established canon station outside this short until the main Meridian Prime media/broadcast references are reconciled.
+
+## Completed Broadcast Opening / Production Handoff
+
+- **Delivered / user-approved:** [KPRM-TV 13 Halloween Ident V1](kprm-tv-13-halloween-ident-v1-approved.md), completed 2026-10-10.
+- **Final master name:** `KPRM-TV13_Halloween_Ident_V1.mp4` (in conversation attachment; the binary has not been committed to this repository).
+- **Recorded specs:** 21.942993 seconds, 720 x 1280 vertical, 30 fps, H.264 with AAC audio.
+- **Station ID:** `You are now tuned in to KPRM-TV 13.`
+- **Creative lock:** The ident is complete. Do not reopen based on earlier 24-second planning notes or optional edit suggestions.
+- **Next work:** Begin *The Thirteenth Gust* scene 1 and integrate it after the approved graveyard transition.
 
 ## Creative References and Research Conclusions
 
@@ -242,7 +253,8 @@ Original handmade miniature gothic-fairy-tale set, sculpted latex-and-clay stop-
 - [ ] Compose / test the recurring musical motifs in Suno.
 - [ ] Create stills and motion clips for the remaining 24 shots.
 - [ ] Assemble, mix, add titles, and export in CapCut.
-- [ ] Design optional Meridian Prime broadcast ident and station-specific interstitial *after* checking media continuity.
+- [x] Design, animate, assemble and approve the **KPRM-TV 13 Halloween broadcast ident V1** ([finished production record](kprm-tv-13-halloween-ident-v1-approved.md), 2026-10-10).
+- [ ] Optionally archive the approved MP4 binary to GitHub through a binary-capable upload workflow (not part of this documentation commit).
 
 ## Rights and Continuity Guardrails
 
@@ -259,4 +271,4 @@ The public-domain 1902 Baum source may inform general folklore study in the Unit
 - **Final line:** 'Next year, we use a bigger bottle.'
 - **Production apps:** ChatGPT, Midjourney, Flow, CapCut, Suno.
 - **Fictional broadcaster (production decision):** KPRM-TV Channel 13, *Yesterday's Magic. Tonight.*
-- **Status:** Story treatment and shot map complete; assets / soundtrack / footage not yet made.
+- **Status:** **KPRM-TV 13 Halloween ident is completed and user approved (2026-10-10)**; the four-minute Halloween **story film** remains in development (story and shot map complete, film footage/soundtrack not yet produced).
