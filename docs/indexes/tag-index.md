@@ -103,6 +103,16 @@
 |---|---|---|---|
 | `kprm-tv-channel-13` | KPRM-TV Channel 13 | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Proposed nostalgic television broadcaster for special; fictional production packaging, not canonized infrastructure |
 | `kprm-channel-13` | KPRM-TV Channel 13 | `docs/media/README.md` | Station identification and Halloween programming link |
+| `kprm-tv13-halloween-ident-v1` | KPRM-TV 13 Halloween Station Ident V1 | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | **COMPLETED / APPROVED** on 2026-10-10; 21.94s 9:16 broadcast bumper |
+| `kprm-tv13-halloween-ident-approved` | KPRM-TV 13 Halloween Station Ident V1 | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | Final production approval / file provenance |
+| `kprm-tv-13-ident-final` | KPRM-TV 13 Halloween Station Ident V1 | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | Approved vertical final master, not a proposed future edit |
+| `kprm-tv13-halloween-ident-v1.mp4` | Final Halloween ident MP4 | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | Exact filename and SHA-256 checksum; binary not uploaded to GitHub |
+| `meridian-beacon` | KPRM-TV 13 Station Symbol | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | Copper-gold orbital spire ident used in approved bumper |
+| `weather-channel-announcer` | KPRM-TV 13 Station ID | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | Reassuring classic-TV voice direction |
+| `you-are-now-tuned-in` | KPRM-TV 13 Station ID | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | Approved spoken station identification |
+| `completed-broadcast-asset` | KPRM-TV 13 Halloween Station Ident V1 | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | User-signed-off broadcast packaging; film story still in development |
+| `vertical-9-16` | KPRM-TV 13 Halloween Station Ident V1 | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | 720 x 1280, 30fps final vertical export |
+| `halloween-broadcast-opening` | KPRM-TV 13 Halloween Station Ident V1 | `docs/media/halloween/kprm-tv-13-halloween-ident-v1-approved.md` | Finished electronic logo to haunted forest transition |
 | `the-thirteenth-gust` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Original Halloween stop-motion short; in-universe Meridian Prime broadcast concept |
 | `meridian-prime-halloween-special` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Seasonal special / television programming lookup |
 | `in-universe-broadcast` | Meridian Prime Media | `docs/media/README.md` | Index for fictional programming viewed within Meridian Prime |
@@ -117,4 +127,4 @@
 | `thirteen-gusts` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Seasonal wind rite within the fictional story |
 | `midjourney-flow-capcut-suno` | The Thirteenth Gust | `docs/media/halloween/the-thirteenth-gust-broadcast-special.md` | Stills, eight-second video, editing, original score workflow |
 
-**Media lookup:** [Meridian Prime media index](../media/README.md) · [The Thirteenth Gust treatment](../media/halloween/the-thirteenth-gust-broadcast-special.md).
+**Media lookup:** [Meridian Prime media index](../media/README.md) · [The Thirteenth Gust treatment](../media/halloween/the-thirteenth-gust-broadcast-special.md) · [KPRM-TV 13 Halloween Ident V1 — approved](../media/halloween/kprm-tv-13-halloween-ident-v1-approved.md).
